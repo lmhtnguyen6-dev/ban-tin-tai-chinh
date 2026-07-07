@@ -1,96 +1,15 @@
 {
-  "cap_nhat_luc": "2026-07-07 08:38:55",
+  "cap_nhat_luc": "2026-07-07 10:10:27",
   "so_tin": 30,
   "tin": [
     {
-      "tieu_de": "Tỷ giá USD hôm nay 6/7: Ghi nhận mức giảm tuần lớn nhất kể từ tháng 4",
+      "tieu_de": "Sáng 7/7: Giá vàng nhẫn trơn, vàng miếng SJC đồng loạt giảm",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
+      "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-07 08:38",
-      "link": "https://vietnambiz.vn/ty-gia-usd-hom-nay-67-ghi-nhan-muc-giam-tuan-lon-nhat-ke-tu-thang-4-20267295919812.htm",
-      "diem": 54.0
-    },
-    {
-      "tieu_de": "FDI vào Việt Nam nửa đầu năm vượt mốc 34 tỷ USD, tăng 61%",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-07 08:38",
-      "link": "https://vietnambiz.vn/fdi-vao-viet-nam-nua-dau-nam-vuot-moc-34-ty-usd-tang-61-20267392954398.htm",
-      "diem": 52.0
-    },
-    {
-      "tieu_de": "Chuyên gia VinaCapital: Nhiều quỹ quốc tế hàng trăm tỷ USD đang theo dõi rất sát để chờ đầu tư vào thị trường Việt Nam",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-07 08:38",
-      "link": "https://vietnambiz.vn/chuyen-gia-vinacapital-nhieu-quy-quoc-te-hang-tram-ty-usd-dang-theo-doi-rat-sat-de-cho-dau-tu-vao-thi-truong-viet-nam-2026630111658357.htm",
-      "diem": 46.0
-    },
-    {
-      "tieu_de": "NHNN tiếp tục bơm ròng hơn 9.500 tỷ đồng trong tuần qua, mở kênh hoán đổi ngoại tệ 1 tỷ USD",
-      "chu_de": "Chính sách",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-07 08:38",
-      "link": "https://vietnambiz.vn/nhnn-tiep-tuc-bom-rong-hon-9500-ty-dong-trong-tuan-qua-mo-kenh-hoan-doi-ngoai-te-1-ty-usd-2026767391189.htm",
-      "diem": 45.9
-    },
-    {
-      "tieu_de": "Lãi suất trái phiếu ngân hàng lên gần 10%",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-07 08:38",
-      "link": "https://vietnambiz.vn/lai-suat-trai-phieu-ngan-hang-len-gan-10-20267364326998.htm",
-      "diem": 44.0
-    },
-    {
-      "tieu_de": "MBS: Đà tăng của lãi suất huy động dần hạ nhiệt, chủ yếu xuất hiện ở nhóm ngân hàng quy mô vừa",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-07 08:38",
-      "link": "https://vietnambiz.vn/mbs-da-tang-cua-lai-suat-huy-dong-dan-ha-nhiet-chu-yeu-xuat-hien-o-nhom-ngan-hang-quy-mo-vua-202676113411552.htm",
-      "diem": 42.0
-    },
-    {
-      "tieu_de": "Chuyên gia tài chính bị cáo buộc điều hành ATM Online cho vay lãi suất 13.500%",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-07 08:38",
-      "link": "https://vietnambiz.vn/chuyen-gia-tai-chinh-bi-cao-buoc-dieu-hanh-atm-online-cho-vay-lai-suat-13500-2026751523467.htm",
-      "diem": 42.0
-    },
-    {
-      "tieu_de": "Thống đốc: Ngân hàng sẽ duy trì mặt bằng lãi suất hợp lý để hỗ trợ doanh nghiệp, 1,4 triệu tỷ đã được bơm thêm trong nửa đầu năm",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-07 08:38",
-      "link": "https://vietnambiz.vn/thong-doc-ngan-hang-se-duy-tri-mat-bang-lai-suat-hop-ly-de-ho-tro-doanh-nghiep-14-trieu-ty-da-duoc-bom-them-trong-nua-dau-nam-2026731652675.htm",
-      "diem": 42.0
-    },
-    {
-      "tieu_de": "Lãi suất huy động vẫn chưa hạ nhiệt: Mức 9% với kỳ hạn 6 tháng xuất hiện tại nhiều ngân hàng, có nơi tổng ưu đãi lên tới 12%",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-07 08:38",
-      "link": "https://vietnambiz.vn/lai-suat-huy-dong-van-chua-ha-nhiet-muc-9-voi-ky-han-6-thang-xuat-hien-tai-nhieu-ngan-hang-co-noi-tong-uu-dai-len-toi-12-202671164011744.htm",
-      "diem": 42.0
-    },
-    {
-      "tieu_de": "Dư nợ cho vay nhà ở xã hội vượt 10.000 tỷ, lãi suất giảm 1,7 điểm %",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-07 08:38",
-      "link": "https://vietnambiz.vn/du-no-cho-vay-nha-o-xa-hoi-vuot-10000-ty-lai-suat-giam-17-diem--20267210557700.htm",
-      "diem": 42.0
+      "thoi_gian": "2026-07-07 08:46",
+      "link": "https://cafef.vn/sang-7-7-gia-vang-nhan-tron-vang-mieng-sjc-dong-loat-giam-188260707084634575.chn",
+      "diem": 48.8
     },
     {
       "tieu_de": "Lý do các ngân hàng trung ương tăng tích trữ vàng",
@@ -99,7 +18,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-07 03:15",
       "link": "https://vnexpress.net/ly-do-cac-ngan-hang-trung-uong-tang-tich-tru-vang-5094037.html",
-      "diem": 41.6
+      "diem": 44.2
     },
     {
       "tieu_de": "Không cần soán ngôi hoàn toàn đồng USD, đòn \"phi đô la hóa\" âm thầm của Trung Quốc sắp bẻ gãy đặc quyền của đồng bạc xanh",
@@ -108,106 +27,52 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-07 06:40",
       "link": "https://cafef.vn/khong-can-soan-ngoi-hoan-toan-dong-usd-don-phi-do-la-hoa-am-tham-cua-trung-quoc-sap-be-gay-dac-quyen-cua-dong-bac-xanh-188260707063340803.chn",
-      "diem": 41.0
+      "diem": 35.4
     },
     {
-      "tieu_de": "Bộ Tài chính: Chưa thu thuế đối với hoạt động chuyển nhượng vàng miếng từ ngày 1/7",
-      "chu_de": "Chính sách",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-07 08:38",
-      "link": "https://vietnambiz.vn/bo-tai-chinh-chua-thu-thue-doi-voi-hoat-dong-chuyen-nhuong-vang-mieng-tu-ngay-17-2026630115825340.htm",
-      "diem": 39.1
-    },
-    {
-      "tieu_de": "Bộ Công Thương: Không thể lấy lý do giá xăng dầu tăng để giữ giá hàng hóa",
+      "tieu_de": "Quốc gia xuất khẩu dầu lớn nhất thế giới vừa báo tin vui chưa từng có cho châu Á",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
+      "nguon": "CafeF Tài chính quốc tế",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-07 08:38",
-      "link": "https://vietnambiz.vn/bo-cong-thuong-khong-the-lay-ly-do-gia-xang-dau-tang-de-giu-gia-hang-hoa-20267413411603.htm",
-      "diem": 36.0
+      "thoi_gian": "2026-07-07 09:00",
+      "link": "https://cafef.vn/quoc-gia-xuat-khau-dau-lon-nhat-the-gioi-vua-bao-tin-vui-chua-tung-co-cho-chau-a-188260707071705129.chn",
+      "diem": 35.0
     },
     {
-      "tieu_de": "[Infographic] Bức tranh kinh tế vĩ mô nửa đầu năm 2026: Tăng trưởng GDP 8,18%, lạm phát 4,38%",
+      "tieu_de": "Giá vàng nhẫn trơn, vàng miếng chiều ngày 6/7",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
+      "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-07 08:38",
-      "link": "https://vietnambiz.vn/infographic-buc-tranh-kinh-te-vi-mo-nua-dau-nam-2026-tang-truong-gdp-818-lam-phat-438-202673144720494.htm",
-      "diem": 36.0
+      "thoi_gian": "2026-07-06 15:08",
+      "link": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-ngay-6-7-188260706070920145.chn",
+      "diem": 34.2
     },
     {
-      "tieu_de": "NHNN: Loại dư nợ của Vingroup, Sun Group, Masterise khỏi room tín dụng để ưu tiên dự án trọng điểm",
-      "chu_de": "Chính sách",
-      "nguon": "VietnamBiz Tài chính",
+      "tieu_de": "Vàng thế giới giảm nhẹ sau khi chạm đỉnh hai tuần, chờ biên bản họp Fed",
+      "chu_de": "Fed",
+      "nguon": "Vietstock Thế giới",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-07 08:38",
-      "link": "https://vietnambiz.vn/nhnn-loai-du-no-cua-vingroup-sun-group-masterise-khoi-room-tin-dung-de-uu-tien-du-an-trong-diem-20267211522651.htm",
-      "diem": 35.7
+      "thoi_gian": "2026-07-07 08:14",
+      "link": "http://vietstock.vn/2026/07/vang-the-gioi-giam-nhe-sau-khi-cham-dinh-hai-tuan-cho-bien-ban-hop-fed-759-1463155.htm",
+      "diem": 34.1
     },
     {
-      "tieu_de": "Đại diện NHNN nói gì về tình trạng mất cân đối vốn của hệ thống, khi tăng trưởng tín dụng vượt xa huy động?",
-      "chu_de": "Chính sách",
-      "nguon": "VietnamBiz Tài chính",
+      "tieu_de": "Vì sao loạt ngân hàng Trung Quốc dừng dịch vụ môi giới vàng trên sàn giao dịch?",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-07 08:38",
-      "link": "https://vietnambiz.vn/dai-dien-nhnn-noi-gi-ve-tinh-trang-mat-can-doi-von-cua-he-thong-khi-tang-truong-tin-dung-vuot-xa-huy-dong-20267211927681.htm",
-      "diem": 35.7
+      "thoi_gian": "2026-07-06 10:37",
+      "link": "https://cafef.vn/vi-sao-loat-ngan-hang-trung-quoc-dung-dich-vu-moi-gioi-vang-tren-san-giao-dich-188260706103809069.chn",
+      "diem": 32.6
     },
     {
-      "tieu_de": "Phó Thống đốc NHNN: Tăng trưởng tín dụng đến 26/6 đạt 7,41%",
-      "chu_de": "Chính sách",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-07 08:38",
-      "link": "https://vietnambiz.vn/pho-thong-doc-nhnn-tang-truong-tin-dung-den-266-dat-741-20267294215674.htm",
-      "diem": 35.7
-    },
-    {
-      "tieu_de": "Đầu tư nhà máy sản xuất đế mạch bán dẫn 1 tỷ USD ở Hải Phòng",
+      "tieu_de": "Giá vàng đứng im, cả tuần người mua 'bỏ túi' bao nhiêu?",
       "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Vĩ mô",
+      "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-06 18:48",
-      "link": "https://cafef.vn/dau-tu-nha-may-san-xuat-de-mach-ban-dan-1-ty-usd-o-hai-phong-188260706184235576.chn",
-      "diem": 34.4
-    },
-    {
-      "tieu_de": "Tỷ giá euro ngày 6/7: Thị trường tự do điều chỉnh",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-07 08:38",
-      "link": "https://vietnambiz.vn/ty-gia-euro-ngay-67-thi-truong-tu-do-dieu-chinh-2026769204122.htm",
-      "diem": 34.0
-    },
-    {
-      "tieu_de": "Tỷ giá euro ngày 4/7: Thị trường chợ đen tiếp tục bật tăng",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-07 08:38",
-      "link": "https://vietnambiz.vn/ty-gia-euro-ngay-47-thi-truong-cho-den-tiep-tuc-bat-tang-20267492538111.htm",
-      "diem": 34.0
-    },
-    {
-      "tieu_de": "Thẻ NCB Visa Tự Hào được ABF Retail Banking Awards vinh danh 'Sáng kiến thẻ tín dụng của năm'",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-07 08:38",
-      "link": "https://vietnambiz.vn/the-ncb-visa-tu-hao-duoc-abf-retail-banking-awards-vinh-danh-sang-kien-the-tin-dung-cua-nam-202673101219281.htm",
-      "diem": 34.0
-    },
-    {
-      "tieu_de": "Tỷ giá euro ngày 3/7: Nhiều nơi bật tăng hơn 100 đồng",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-07 08:38",
-      "link": "https://vietnambiz.vn/ty-gia-euro-ngay-37-nhieu-noi-bat-tang-hon-100-dong-20267391756796.htm",
-      "diem": 34.0
+      "thoi_gian": "2026-07-06 10:49",
+      "link": "https://cafef.vn/gia-vang-dung-im-ca-tuan-nguoi-mua-bo-tui-bao-nhieu-188260706100722624.chn",
+      "diem": 30.6
     },
     {
       "tieu_de": "Con bài tất tay 60 tỷ USD của Masayoshi Son: Biến SoftBank thành 'ngỗng đẻ trứng vàng', cược toàn bộ gia sản vào AI",
@@ -216,61 +81,196 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-06 19:28",
       "link": "https://cafef.vn/con-bai-tat-tay-60-ty-usd-cua-masayoshi-son-bien-softbank-thanh-ngong-de-trung-vang-cuoc-toan-bo-gia-san-vao-ai-188260706162553615.chn",
-      "diem": 33.0
+      "diem": 29.9
     },
     {
-      "tieu_de": "MB ký kết hợp tác với Khánh Hòa, đồng hành thúc đẩy chuyển đổi số địa phương",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính, VietnamBiz Tài chính",
-      "so_nguon": 2,
-      "thoi_gian": "2026-07-07 08:38",
-      "link": "https://vietnambiz.vn/mb-ky-ket-hop-tac-voi-khanh-hoa-dong-hanh-thuc-day-chuyen-doi-so-dia-phuong-20267610408234.htm",
-      "diem": 32.0
-    },
-    {
-      "tieu_de": "Techcombank đồng tổ chức Diễn đàn tài chính cấp quốc gia VFF 2026: Dẫn dắt dòng vốn, kiến tạo tăng trưởng",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính, VietnamBiz Tài chính",
-      "so_nguon": 2,
-      "thoi_gian": "2026-07-07 08:38",
-      "link": "https://vietnambiz.vn/techcombank-dong-to-chuc-dien-dan-tai-chinh-cap-quoc-gia-vff-2026-dan-dat-dong-von-kien-tao-tang-truong-202673141432587.htm",
-      "diem": 32.0
-    },
-    {
-      "tieu_de": "TP HCM thu hồi gần 108.000 tỷ đồng nợ thuế",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Vĩ mô, VietnamBiz Vĩ mô",
-      "so_nguon": 2,
-      "thoi_gian": "2026-07-07 08:38",
-      "link": "https://vietnambiz.vn/tp-hcm-thu-hoi-gan-108000-ty-dong-no-thue-202675143238700.htm",
-      "diem": 32.0
-    },
-    {
-      "tieu_de": "Giải bài toán tăng trưởng GDP đạt 11,7% nửa cuối năm: Động lực từ đâu?",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
+      "tieu_de": "Trung Quốc liên tục mang tin vui tới một quốc gia châu Phi: \"Món quà\" bao trùm từ trên trời tới dưới biển",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-07 08:38",
-      "link": "https://vietnambiz.vn/giai-bai-toan-tang-truong-gdp-dat-117-nua-cuoi-nam-dong-luc-tu-dau-20267611305357.htm",
-      "diem": 32.0
+      "thoi_gian": "2026-07-07 07:32",
+      "link": "https://cafef.vn/trung-quoc-lien-tuc-mang-tin-vui-toi-mot-quoc-gia-chau-phi-mon-qua-bao-trum-tu-tren-troi-toi-duoi-bien-188260707071522558.chn",
+      "diem": 28.7
     },
     {
-      "tieu_de": "Tăng trưởng GDP quý II đạt 8,39%, nửa đầu năm đạt 8,18%",
+      "tieu_de": "'Miếng bánh' thị phần môi giới chứng khoán ngày càng chia nhỏ",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
+      "nguon": "VnExpress Kinh doanh",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-07 08:38",
-      "link": "https://vietnambiz.vn/tang-truong-gdp-quy-ii-dat-839-nua-dau-nam-dat-818-20267393638167.htm",
-      "diem": 32.0
+      "thoi_gian": "2026-07-07 07:23",
+      "link": "https://vnexpress.net/mieng-banh-thi-phan-moi-gioi-chung-khoan-ngay-cang-chia-nho-5094229.html",
+      "diem": 25.6
     },
     {
-      "tieu_de": "Tổng Bí thư, Chủ tịch nước: Tạo điều kiện, khuyến khích DN FDI mở rộng, giữ lại lợi nhuận tái đầu tư thay vì chuyển về nước",
+      "tieu_de": "Đầu tư nhà máy sản xuất đế mạch bán dẫn 1 tỷ USD ở Hải Phòng",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
+      "nguon": "CafeF Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-07 08:38",
-      "link": "https://vietnambiz.vn/tong-bi-thu-chu-tich-nuoc-tao-dieu-kien-khuyen-khich-dn-fdi-mo-rong-giu-lai-loi-nhuan-tai-dau-tu-thay-vi-chuyen-ve-nuoc-2026630113637455.htm",
-      "diem": 32.0
+      "thoi_gian": "2026-07-06 18:48",
+      "link": "https://cafef.vn/dau-tu-nha-may-san-xuat-de-mach-ban-dan-1-ty-usd-o-hai-phong-188260706184235576.chn",
+      "diem": 25.2
+    },
+    {
+      "tieu_de": "Vì sao Đà Nẵng chưa đạt tăng trưởng kinh tế 2 con số?",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-07 09:00",
+      "link": "https://cafef.vn/vi-sao-da-nang-chua-dat-tang-truong-kinh-te-2-con-so-18826070708355389.chn",
+      "diem": 25.0
+    },
+    {
+      "tieu_de": "Saigon Co.op giới thiệu đặc sản 34 tỉnh, thành tại 'Lễ hội Việt'",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-07 09:00",
+      "link": "https://vnexpress.net/saigon-co-op-gioi-thieu-dac-san-34-tinh-thanh-tai-le-hoi-viet-5094298.html",
+      "diem": 25.0
+    },
+    {
+      "tieu_de": "Tất cả người dân có tài khoản ngân hàng chú ý quy định mới nhất về cung cấp số dư, giao dịch",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-07 08:37",
+      "link": "https://cafef.vn/tat-ca-nguoi-dan-co-tai-khoan-ngan-hang-chu-y-quy-dinh-moi-nhat-ve-cung-cap-so-du-giao-dich-188260706154017974.chn",
+      "diem": 24.8
+    },
+    {
+      "tieu_de": "Đại sứ Mỹ trình quốc thư, bắt đầu nhiệm kỳ tại Việt Nam",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Thế giới",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-07 08:50",
+      "link": "https://vnexpress.net/dai-su-my-trinh-quoc-thu-bat-dau-nhiem-ky-tai-viet-nam-5094292.html",
+      "diem": 24.8
+    },
+    {
+      "tieu_de": "Dự báo giá vàng 2026 bất ngờ bị điều chỉnh giảm",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-06 23:21",
+      "link": "https://cafef.vn/du-bao-gia-vang-2026-bat-ngo-bi-dieu-chinh-giam-188260706230951516.chn",
+      "diem": 24.6
+    },
+    {
+      "tieu_de": "Tạm dừng khai thác cao tốc Cam Lộ - La Sơn vào ban đêm từ 10/7",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-07 08:00",
+      "link": "https://cafef.vn/tam-dung-khai-thac-cao-toc-cam-lo-la-son-vao-ban-dem-tu-10-7-188260706194311449.chn",
+      "diem": 24.2
+    },
+    {
+      "tieu_de": "Tăng trưởng 2 con số: TPHCM cần giảm 'thuế thời gian', thay vì tạo 'ốc đảo ưu đãi'",
+      "chu_de": "Kinh tế VN",
+      "nguon": "Vietstock Kinh tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-07 08:07",
+      "link": "http://vietstock.vn/2026/07/tang-truong-2-con-so-tphcm-can-giam-thue-thoi-gian-thay-vi-tao-oc-dao-uu-dai-761-1463156.htm",
+      "diem": 24.2
+    },
+    {
+      "tieu_de": "Liệu Trung Quốc đã sở hữu 'cỗ máy quan trọng nhất thế giới'? Mỹ nêu nghi ngờ, Hà Lan liền lên tiếng",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-06 21:50",
+      "link": "https://cafef.vn/lieu-trung-quoc-da-so-huu-co-may-quan-trong-nhat-the-gioi-my-neu-nghi-ngo-ha-lan-lien-len-tieng-188260706202756071.chn",
+      "diem": 23.9
+    },
+    {
+      "tieu_de": "VIB Up: Đăng ký một lần, giảm lãi trọn đời khoản vay",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-07 07:30",
+      "link": "https://cafef.vn/vib-up-dang-ky-mot-lan-giam-lai-tron-doi-khoan-vay-188260706145531796.chn",
+      "diem": 23.8
+    },
+    {
+      "tieu_de": "Robot Trung Quốc vừa giúp các bác sĩ thực hiện ca vi phẫu chưa từng có: Khi máy móc không thay thế mà mở rộng giới hạn của đôi tay con người",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-06 21:30",
+      "link": "https://cafef.vn/robot-trung-quoc-vua-giup-cac-bac-si-thuc-hien-ca-vi-phau-chua-tung-co-khi-may-moc-khong-thay-the-ma-mo-rong-gioi-han-cua-doi-tay-con-nguoi-188260706160759876.chn",
+      "diem": 23.6
+    },
+    {
+      "tieu_de": "Trung Quốc công bố hình ảnh hiếm về công nghệ phóng UAV tương lai",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-06 21:01",
+      "link": "https://cafef.vn/trung-quoc-cong-bo-hinh-anh-hiem-ve-cong-nghe-phong-uav-tuong-lai-188260706164258607.chn",
+      "diem": 23.4
+    },
+    {
+      "tieu_de": "Hứa đầu tư sinh lời cao, người phụ nữ bị truy tìm vì nghi chiếm đoạt 26,3 tỷ đồng",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-07 06:43",
+      "link": "https://cafef.vn/hua-dau-tu-sinh-loi-cao-nguoi-phu-nu-bi-truy-tim-vi-nghi-chiem-doat-263-ty-dong-188260707064313533.chn",
+      "diem": 23.2
+    },
+    {
+      "tieu_de": "Đột kích cửa hàng quần áo, tịch thu vàng bất chính trị giá tới 5 tỷ VNĐ gói trong bọc kín",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-06 20:31",
+      "link": "https://cafef.vn/dot-kich-cua-hang-quan-ao-tich-thu-vang-bat-chinh-tri-gia-toi-5-ty-vnd-goi-trong-boc-kin-188260706190716413.chn",
+      "diem": 23.2
+    },
+    {
+      "tieu_de": "Khởi tố nhóm đối tượng thu thập, mua bán trái phép 117 tài khoản ngân hàng của học sinh",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-07 06:38",
+      "link": "https://cafef.vn/khoi-to-nhom-doi-tuong-thu-thap-mua-ban-trai-phep-117-tai-khoan-ngan-hang-cua-hoc-sinh-188260707063830516.chn",
+      "diem": 23.0
+    },
+    {
+      "tieu_de": "Vỡ đập ở Trung Quốc, nhiều hồ chứa khác báo động đỏ",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-06 19:40",
+      "link": "https://cafef.vn/vo-dap-o-trung-quoc-nhieu-ho-chua-khac-bao-dong-do-188260706193548685.chn",
+      "diem": 22.8
+    },
+    {
+      "tieu_de": "Fan bóng đá Trung Quốc bị nhắc nhở vì mặc áo đấu của tuyển Nhật Bản",
+      "chu_de": "Thế giới",
+      "nguon": "VnExpress Thế giới",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-06 18:38",
+      "link": "https://vnexpress.net/fan-bong-da-trung-quoc-bi-nhac-nho-vi-mac-ao-dau-cua-tuyen-nhat-ban-5094142.html",
+      "diem": 22.2
+    },
+    {
+      "tieu_de": "Thủ tướng yêu cầu cụ thể hóa phong trào thi đua về tăng trưởng '2 con số'",
+      "chu_de": "Chính sách",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-07 09:45",
+      "link": "https://cafef.vn/thu-tuong-yeu-cau-cu-the-hoa-phong-trao-thi-dua-ve-tang-truong-2-con-so-188260707084258506.chn",
+      "diem": 21.8
+    },
+    {
+      "tieu_de": "Giải ngân vốn Chương trình Mục tiêu quốc gia chỉ 18,9%, Phó Thủ tướng yêu cầu chấm điểm KPI",
+      "chu_de": "Chính sách",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-07 09:30",
+      "link": "https://cafef.vn/giai-ngan-von-chuong-trinh-muc-tieu-quoc-gia-chi-189-pho-thu-tuong-yeu-cau-cham-diem-kpi-188260707084213451.chn",
+      "diem": 21.6
     }
   ]
 }
