@@ -59,18 +59,117 @@ RSS_SOURCES = [
 
 
 # ---------------------------------------------------------------------------
-# 2. BỘ TỪ KHÓA NÓNG (TIẾNG VIỆT)
+# 2. BỘ TỪ KHÓA NÓNG CÓ TRỌNG SỐ (TIẾNG VIỆT)
 # ---------------------------------------------------------------------------
-# Mỗi lần từ khóa xuất hiện sẽ được cộng điểm (xem phần chấm điểm).
-TU_KHOA_NONG = [
-    "vn-index", "vnindex", "ngân hàng nhà nước", "nhnn", "tỷ giá", "lãi suất",
-    "fdi", "lạm phát", "chứng khoán", "cổ phiếu", "trái phiếu", "tín dụng",
-    "fed", "trump", "trung quốc", "xuất khẩu", "nhập khẩu", "gdp", "vàng",
-    "usd", "dầu", "bất động sản", "thuế quan", "opec", "chính phủ", "xuất siêu",
-]
+# Mỗi từ khóa có một TRỌNG SỐ: từ khóa càng quan trọng với thị trường chứng khoán
+# thì điểm cộng càng lớn. (Trước đây mọi từ khóa cộng như nhau nên tin giá vàng,
+# tỷ giá... dễ áp đảo. Nay ƯU TIÊN tin CHỨNG KHOÁN - TÀI CHÍNH - DOANH NGHIỆP.)
+# Muốn tăng/giảm mức ưu tiên của một chủ điểm, chỉ cần sửa con số ở đây.
+TRONG_SO_TU_KHOA = {
+    # --- Chứng khoán & thị trường (ưu tiên cao nhất) ---
+    "vn-index": 6, "vnindex": 6, "vn30": 5, "chứng khoán": 5, "cổ phiếu": 5,
+    "hose": 4, "hnx": 3, "upcom": 3, "niêm yết": 4, "cổ tức": 3,
+    "trái phiếu": 3, "phát hành cổ phiếu": 4, "khối ngoại": 4, "thanh khoản": 3,
+    # --- Doanh nghiệp niêm yết ---
+    "lợi nhuận": 3, "doanh thu": 2, "báo cáo tài chính": 3, "kết quả kinh doanh": 3,
+    "thâu tóm": 3, "sáp nhập": 3, "ipo": 4, "vốn hóa": 3,
+    # --- Tài chính - ngân hàng - chính sách tiền tệ ---
+    "ngân hàng nhà nước": 4, "nhnn": 4, "lãi suất": 4, "tín dụng": 3,
+    "tỷ giá": 2, "lạm phát": 3,
+    # --- Fed & quốc tế tác động mạnh ---
+    "fed": 5, "fomc": 5, "powell": 4, "lãi suất mỹ": 5, "thuế quan": 3,
+    # --- Vĩ mô Việt Nam ---
+    "fdi": 3, "gdp": 3, "tăng trưởng": 2, "xuất khẩu": 2, "nhập khẩu": 2,
+    "đầu tư công": 3, "giải ngân": 2,
+    # --- Hàng hóa / khác (trọng số thấp, KHÔNG cho áp đảo) ---
+    "dầu": 1, "opec": 1, "usd": 1, "bất động sản": 2, "trung quốc": 1, "trump": 2,
+    # GHI CHÚ: ĐÃ BỎ "vàng" khỏi từ khóa nóng (không đẩy điểm tin giá vàng nữa).
+}
 
 # Token ASCII đánh dấu tin Việt Nam (dùng cho bộ lọc tiếng Việt bên dưới).
 VN_MARKERS = ["vn-index", "vnindex", "hose", "hnx", "upcom", "vn30", "fdi", "nhnn", "vnd"]
+
+
+# ---------------------------------------------------------------------------
+# 2b. LỌC TIN "NHIỄU" (không ảnh hưởng thị trường -> loại khỏi bảng)
+# ---------------------------------------------------------------------------
+# Mỗi nhóm là danh sách cụm từ; tiêu đề chứa BẤT KỲ cụm nào -> tin bị loại (có log).
+# Bật/tắt từng nhóm bằng cách thêm/bớt tên nhóm trong LOC_NHOM_NHIEU bên dưới.
+NHOM_TIN_NHIEU = {
+    # Quảng cáo / khuyến mãi sản phẩm ngân hàng (vd "VIB Up: đăng ký một lần...").
+    "quang_cao": [
+        "trọn đời", "đăng ký một lần", "hoàn tiền", "mở thẻ", "trả góp",
+        "quà tặng", "tri ân", "cashback", "khuyến mãi", "ưu đãi lãi suất",
+        "ra mắt gói", "hoàn phí", "tặng ngay", "voucher", "quay số trúng thưởng",
+    ],
+    # Vụ án / hình sự / pháp luật (vd "người phụ nữ bị truy tìm vì nghi chiếm đoạt").
+    # LƯU Ý: "cáo buộc" KHÔNG để ở đây vì nó hai nghĩa (xem la_cao_buoc_hinh_su).
+    "hinh_su": [
+        "truy tìm", "truy nã", "bị bắt", "khởi tố", "lừa đảo", "chiếm đoạt",
+        "lãnh án", "tuyên án", "bắt giam", "hầu tòa", "cáo trạng", "vòng lao lý",
+        "trốn nã", "trộm", "cướp", "đánh bạc",
+    ],
+    # Mẹo chi tiêu / tài chính cá nhân / đời sống (không tác động thị trường).
+    "doi_song": [
+        "nghiện mua", "nên chi tiêu", "chi tiêu thế nào", "chi tiêu ra sao",
+        "quản lý chi tiêu", "quản lý tài chính cá nhân",
+    ],
+    # Lễ hội / đặc sản / sự kiện (vd "Saigon Co.op ... tại Lễ hội Việt").
+    "le_hoi": [
+        "lễ hội", "đặc sản", "hoa hậu", "giải chạy", "cuộc thi", "khai mạc lễ",
+        "ẩm thực", "du lịch hè", "check-in", "sống ảo",
+    ],
+    # Hạ tầng giao thông hằng ngày (vd "Tạm dừng khai thác cao tốc ... ban đêm").
+    "giao_thong": [
+        "tạm dừng khai thác", "phân luồng", "cấm xe", "cấm đường", "kẹt xe",
+        "ùn tắc", "tai nạn giao thông", "khai thác cao tốc",
+    ],
+}
+
+# Các nhóm ĐANG BẬT (theo lựa chọn của chủ dự án). Bỏ bớt tên trong list này để tắt.
+LOC_NHOM_NHIEU = ["quang_cao", "hinh_su", "le_hoi", "giao_thong", "doi_song"]
+
+# Tin CẬP NHẬT GIÁ VÀNG hằng ngày (giá vàng sáng/chiều, vàng miếng/nhẫn/SJC) -> loại.
+# Vẫn GIỮ tin vàng vĩ mô (vd "ngân hàng trung ương tăng tích trữ vàng") vì tiêu đề
+# dạng đó KHÔNG khớp các cụm dưới đây.
+CUM_GIA_VANG_HANG_NGAY = ["giá vàng", "vàng miếng", "vàng nhẫn", "vàng sjc"]
+
+# "cáo buộc" là từ HAI NGHĨA: có thể là tin hình sự ("bị cáo buộc lừa đảo, đã khởi
+# tố") NHƯNG cũng có thể là tin doanh nghiệp/thị trường ("công ty X bị cáo buộc gian
+# lận kế toán") — loại tin sau CÓ THỂ ảnh hưởng giá cổ phiếu nên PHẢI GIỮ. Vì vậy chỉ
+# coi "cáo buộc" là nhiễu khi nó ĐI KÈM ngữ cảnh hình sự rõ ràng dưới đây.
+# (Dùng "tòa án"/"hầu tòa" thay vì "tòa" trơn để khỏi dính "tòa nhà", "tòa soạn".)
+# LƯU Ý: KHÔNG đưa "bị cáo" vào đây — nó là substring của chính "bị CÁO buộc" nên sẽ
+# khớp mọi tiêu đề "bị cáo buộc", vô hiệu hóa bộ lọc ngữ cảnh. Dùng "bị can" là đủ.
+NGU_CANH_HINH_SU = [
+    "bị bắt", "khởi tố", "truy tố", "công an", "tòa án", "hầu tòa", "lừa đảo",
+    "chiếm đoạt", "bắt giam", "truy nã", "truy tìm", "cáo trạng", "bị can",
+]
+
+
+def la_cao_buoc_hinh_su(t: str) -> bool:
+    """True nếu tiêu đề chứa 'cáo buộc' ĐI KÈM ngữ cảnh hình sự -> coi là nhiễu.
+    'cáo buộc' đứng một mình hoặc gắn ngữ cảnh doanh nghiệp/thị trường -> GIỮ lại."""
+    return "cáo buộc" in t and any(cum in t for cum in NGU_CANH_HINH_SU)
+
+
+def la_tin_nhieu(tieu_de: str):
+    """
+    Trả về (True, tên_nhóm) nếu tiêu đề là tin 'nhiễu' cần loại, ngược lại (False, "").
+      - Là tin cập nhật giá vàng hằng ngày, HOẶC
+      - "cáo buộc" đi kèm ngữ cảnh hình sự (xem la_cao_buoc_hinh_su), HOẶC
+      - Khớp cụm từ trong các nhóm ĐANG BẬT (LOC_NHOM_NHIEU).
+    """
+    t = tieu_de.lower()
+    if any(cum in t for cum in CUM_GIA_VANG_HANG_NGAY):
+        return True, "gia_vang_hang_ngay"
+    if "hinh_su" in LOC_NHOM_NHIEU and la_cao_buoc_hinh_su(t):
+        return True, "hinh_su"
+    for ten_nhom in LOC_NHOM_NHIEU:
+        for cum in NHOM_TIN_NHIEU.get(ten_nhom, []):
+            if cum in t:
+                return True, ten_nhom
+    return False, ""
 
 
 # ---------------------------------------------------------------------------
@@ -80,13 +179,16 @@ VN_MARKERS = ["vn-index", "vnindex", "hose", "hnx", "upcom", "vn30", "fdi", "nhn
 # (Chủ đề đặc thù đặt trước.)
 CHU_DE_RULES = [
     ("Fed", ["fed", "fomc", "powell", "cục dự trữ liên bang", "lãi suất mỹ",
-             "ngân hàng trung ương mỹ"]),
+             "ngân hàng trung ương mỹ", "chủ tịch fed", "biên bản fomc"]),
     ("Chính sách", ["chính phủ", "thủ tướng", "quốc hội", "nghị định", "nghị quyết",
                     "bộ tài chính", "ngân hàng nhà nước", "nhnn", "chính sách",
                     "thông tư", "đầu tư công", "giải ngân", "quy hoạch", "luật"]),
-    ("Kinh tế VN", ["vn-index", "vnindex", "hose", "hnx", "upcom", "tỷ giá", "vnd",
-                    "fdi", "xuất khẩu", "nhập khẩu", "chứng khoán", "cổ phiếu",
-                    "tín dụng", "lãi suất", "việt nam", "bất động sản"]),
+    ("Kinh tế VN", ["vn-index", "vnindex", "vn30", "hose", "hnx", "upcom",
+                    "chứng khoán", "cổ phiếu", "niêm yết", "cổ tức", "trái phiếu",
+                    "khối ngoại", "thanh khoản", "lợi nhuận", "doanh thu",
+                    "kết quả kinh doanh", "ipo", "vốn hóa", "tỷ giá", "vnd",
+                    "fdi", "tín dụng", "lãi suất", "xuất khẩu", "nhập khẩu",
+                    "bất động sản"]),
     ("Địa chính trị", ["chiến tranh", "xung đột", "trump", "opec", "cấm vận",
                        "biển đông", "đài loan", "iran", "israel", "ukraine",
                        "nga", "hạt nhân", "quân sự", "căng thẳng"]),
@@ -94,17 +196,22 @@ CHU_DE_RULES = [
                   "phố wall", "dow jones", "nasdaq", "s&p", "toàn cầu", "thế giới"]),
 ]
 
-# Hệ số ưu tiên: nhân vào ĐIỂM GỐC để đẩy tin Việt Nam lên đầu.
+# Hệ số ưu tiên: nhân vào ĐIỂM GỐC để đẩy tin Việt Nam & Fed lên đầu.
 HE_SO_UU_TIEN = {
     "Kinh tế VN": 2.0,
     "Chính sách": 1.7,
-    "Fed": 1.3,
-    "Thế giới": 1.2,
+    "Fed": 1.7,        # nâng 1.3 -> 1.7: tập trung hơn vào động thái/chính sách Fed
+    "Thế giới": 1.1,   # hạ nhẹ 1.2 -> 1.1: tin thế giới lặt vặt không chen top
     "Địa chính trị": 1.0,
 }
 
-# Chủ đề nào được coi là "tin Việt Nam" (dùng cho hạn ngạch).
+# Chủ đề nào được coi là "tin Việt Nam" (dùng cho lưới an toàn mềm).
 CHU_DE_VN = {"Kinh tế VN", "Chính sách"}
+
+# Lưới an toàn MỀM: cố gắng có ít nhất bấy nhiêu tin VN trong 30 tin NẾU có sẵn.
+# Ưu tiên VN chủ yếu đã nằm trong ĐIỂM (HE_SO_UU_TIEN); đây chỉ là mức tối thiểu rất
+# nhẹ để bản tin không bao giờ vắng bóng tin VN. Đặt = 0 để tắt hẳn (chọn thuần điểm).
+SAN_TIN_VN_MEM = 3
 
 
 # ---------------------------------------------------------------------------
@@ -193,6 +300,11 @@ def gan_chu_de(tieu_de: str, khu_vuc: str) -> str:
     """
     t = tieu_de.lower()
     for chu_de, tu_khoas in CHU_DE_RULES:
+        # "Kinh tế VN" CHỈ áp cho tin từ nguồn trong nước (khu_vuc == "vn").
+        # Tránh gán nhầm tin quốc tế (khớp từ chung "xuất khẩu"/"nhập khẩu"/"tỷ giá"...)
+        # thành tin VN rồi được nhân hệ số ×2.0 và chen lên top.
+        if chu_de == "Kinh tế VN" and khu_vuc != "vn":
+            continue
         if any(tk in t for tk in tu_khoas):
             return chu_de
     return "Kinh tế VN" if khu_vuc == "vn" else "Thế giới"
@@ -207,6 +319,7 @@ def lay_tat_ca_tin():
     gioi_han = bay_gio - timedelta(hours=24)
     tin_tho = []
     bo_vi_tieng_anh = 0
+    bo_vi_nhieu = {}   # đếm số tin bị loại theo từng nhóm nhiễu (để log)
 
     for nguon in RSS_SOURCES:
         print(f"-> Đang lấy: {nguon['ten']} ({nguon['url']})")
@@ -231,6 +344,13 @@ def lay_tat_ca_tin():
                 bo_vi_tieng_anh += 1
                 continue
 
+            # Loại tin "nhiễu" (quảng cáo, hình sự, lễ hội, giao thông, giá vàng ngày)
+            nhieu, nhom_nhieu = la_tin_nhieu(tieu_de)
+            if nhieu:
+                bo_vi_nhieu[nhom_nhieu] = bo_vi_nhieu.get(nhom_nhieu, 0) + 1
+                print(f"   [loại-{nhom_nhieu}] {tieu_de}")
+                continue
+
             gio_dang = lay_thoi_gian(entry)
             if gio_dang < gioi_han:   # chỉ giữ tin trong 24h
                 continue
@@ -243,8 +363,13 @@ def lay_tat_ca_tin():
                 "gio_dang": gio_dang,
             })
 
+    tong_nhieu = sum(bo_vi_nhieu.values())
     print(f"=> Tổng tin thô trong 24h (tiếng Việt): {len(tin_tho)} "
-          f"(đã loại {bo_vi_tieng_anh} tin không phải tiếng Việt)")
+          f"(đã loại {bo_vi_tieng_anh} tin không phải tiếng Việt, "
+          f"{tong_nhieu} tin nhiễu)")
+    if bo_vi_nhieu:
+        chi_tiet = ", ".join(f"{k}={v}" for k, v in sorted(bo_vi_nhieu.items()))
+        print(f"   Chi tiết tin nhiễu bị loại: {chi_tiet}")
     return tin_tho
 
 
@@ -351,25 +476,20 @@ def gop_bai_dinh_ky(nhom_list, nguong=0.85):
 def cham_diem(nhom_list):
     """
     điểm_gốc = (số nguồn đăng trùng) * 3
-             + (số lần lặp từ khóa nóng trong ngày)
+             + (tổng TRỌNG SỐ các từ khóa nóng xuất hiện trong tiêu đề)
              + (điểm mới)
     điểm     = điểm_gốc * HỆ SỐ ƯU TIÊN theo chủ đề
+    (Trước đây cộng theo tần suất từ khóa toàn ngày; nay cộng theo TRỌNG SỐ cố định
+     để tin chứng khoán - tài chính - doanh nghiệp được ưu tiên rõ ràng.)
     """
     bay_gio = datetime.now(timezone.utc)
-
-    # Đếm tần suất mỗi từ khóa nóng trên TOÀN BỘ tin trong ngày.
-    tan_suat_tu_khoa = {tu: 0 for tu in TU_KHOA_NONG}
-    for nhom in nhom_list:
-        t = nhom["tieu_de"].lower()
-        for tu in TU_KHOA_NONG:
-            tan_suat_tu_khoa[tu] += t.count(tu)
 
     ket_qua = []
     for nhom in nhom_list:
         so_nguon = len(nhom["nguon_set"])
         t = nhom["tieu_de"].lower()
 
-        diem_tu_khoa = sum(tan_suat_tu_khoa[tu] for tu in TU_KHOA_NONG if tu in t)
+        diem_tu_khoa = sum(ts for tu, ts in TRONG_SO_TU_KHOA.items() if tu in t)
         diem_mo = diem_moi(nhom["gio_dang"], bay_gio)
 
         diem_goc = so_nguon * 3 + diem_tu_khoa + diem_mo
@@ -394,58 +514,37 @@ def cham_diem(nhom_list):
 
 
 # ---------------------------------------------------------------------------
-# 8. CHỌN 30 TIN THEO HẠN NGẠCH (tin quốc tế không tràn top)
+# 8. CHỌN 30 TIN THEO ĐIỂM (ưu tiên VN MỀM, không ép sàn/trần cứng)
 # ---------------------------------------------------------------------------
 def chon_tin_uu_tien(danh_sach, tong=30):
     """
-    Chọn tối đa `tong` tin, sắp theo điểm giảm dần, nhưng áp hạn ngạch:
-      - Tối đa 10 tin KHÔNG-phải-VN nằm trong 15 vị trí CUỐI (16..30).
-      - Ưu tiên đủ ít nhất 6 tin chủ đề Việt Nam (Kinh tế VN / Chính sách)
-        nếu nguồn có đủ.
+    Chọn tối đa `tong` tin THUẦN theo điểm giảm dần. Ưu tiên tin VN đã nằm sẵn trong
+    điểm nhờ HE_SO_UU_TIEN, nên tin Fed/thế giới điểm cao được lên top TỰ NHIÊN.
+    KHÔNG còn ép sàn cứng 6 tin VN, cũng KHÔNG còn trần cứng tin quốc tế.
+
+    Lưới an toàn MỀM (SAN_TIN_VN_MEM): nếu 30 tin chọn ra có ít tin VN hơn mức sàn mà
+    vẫn còn tin VN chưa dùng, thay dần tin KHÔNG-VN điểm thấp nhất bằng tin VN điểm cao
+    kế tiếp cho đủ sàn. Đặt SAN_TIN_VN_MEM = 0 để tắt hẳn (chọn hoàn toàn theo điểm).
     """
-    # Tách 2 nhóm, mỗi nhóm sắp theo điểm giảm dần.
-    vn = sorted([t for t in danh_sach if t["_la_vn"]], key=lambda x: x["diem"], reverse=True)
-    intl = sorted([t for t in danh_sach if not t["_la_vn"]], key=lambda x: x["diem"], reverse=True)
+    xep = sorted(danh_sach, key=lambda x: x["diem"], reverse=True)
+    final = xep[:tong]
 
-    final = []
-    i_vn = i_intl = 0
-    intl_o_duoi = 0   # số tin quốc tế đã nằm trong vùng 15 vị trí cuối
-
-    while len(final) < tong and (i_vn < len(vn) or i_intl < len(intl)):
-        trong_vung_cuoi = len(final) >= (tong - 15)  # vị trí 16..30
-
-        con_vn = i_vn < len(vn)
-        con_intl = i_intl < len(intl)
-
-        # Mặc định: lấy tin có điểm cao hơn giữa 2 nhóm.
-        if con_vn and con_intl:
-            lay_vn = vn[i_vn]["diem"] >= intl[i_intl]["diem"]
-        else:
-            lay_vn = con_vn  # hết nhóm nào thì lấy nhóm còn lại
-
-        # Áp hạn ngạch: ở vùng cuối, nếu đã đủ 10 tin quốc tế thì buộc lấy VN.
-        if trong_vung_cuoi and not lay_vn and intl_o_duoi >= 10 and con_vn:
-            lay_vn = True
-
-        if lay_vn:
-            final.append(vn[i_vn]); i_vn += 1
-        else:
-            final.append(intl[i_intl]); i_intl += 1
-            if trong_vung_cuoi:
-                intl_o_duoi += 1
-
-    # Đảm bảo tối thiểu 6 tin Việt Nam (nếu còn tin VN chưa dùng).
-    so_vn = sum(1 for t in final if t["_la_vn"])
-    while so_vn < 6 and i_vn < len(vn):
-        # Thay tin quốc tế điểm thấp nhất trong final bằng tin VN kế tiếp.
-        for j in range(len(final) - 1, -1, -1):
-            if not final[j]["_la_vn"]:
-                final[j] = vn[i_vn]
-                i_vn += 1
-                so_vn += 1
-                break
-        else:
-            break  # không còn tin quốc tế để thay
+    # ----- Lưới an toàn mềm cho tin VN -----
+    if SAN_TIN_VN_MEM > 0:
+        so_vn = sum(1 for t in final if t["_la_vn"])
+        # Các tin VN nằm NGOÀI top (điểm cao trước) để bù vào nếu thiếu sàn.
+        vn_du_bi = [t for t in xep[tong:] if t["_la_vn"]]
+        i_bu = 0
+        while so_vn < SAN_TIN_VN_MEM and i_bu < len(vn_du_bi):
+            tin_vn = vn_du_bi[i_bu]; i_bu += 1
+            # Thay tin KHÔNG-VN điểm thấp nhất trong final bằng tin VN dự bị.
+            for j in range(len(final) - 1, -1, -1):
+                if not final[j]["_la_vn"]:
+                    final[j] = tin_vn
+                    so_vn += 1
+                    break
+            else:
+                break  # final đã toàn tin VN, không còn gì để thay
 
     # Sắp lại toàn bộ theo điểm giảm dần cho gọn.
     final.sort(key=lambda x: x["diem"], reverse=True)
