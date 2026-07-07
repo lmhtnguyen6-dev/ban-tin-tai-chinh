@@ -1,0 +1,6 @@
+# Python
+__pycache__/
+*.pyc
+
+# Cấu hình cục bộ của Claude Code (không cần lên repo)
+.claude/settings.local.json
