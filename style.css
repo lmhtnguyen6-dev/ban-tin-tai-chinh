@@ -1,0 +1,127 @@
+/* ------------------------------------------------------------------
+   style.css - giao diện thuần, không framework
+------------------------------------------------------------------ */
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: system-ui, "Segoe UI", Roboto, Arial, sans-serif;
+  background: #f4f6f9;
+  color: #1a1d24;
+  line-height: 1.5;
+}
+
+header {
+  background: #0f2b46;
+  color: #fff;
+  padding: 24px 20px;
+  text-align: center;
+}
+header h1 { margin: 0 0 6px; font-size: 1.5rem; }
+.cap-nhat { margin: 0; opacity: 0.85; font-size: 0.9rem; }
+
+/* ----- Điểm nóng hôm nay ----- */
+.diem-nong {
+  max-width: 960px;
+  margin: 20px auto 0;
+  padding: 18px 22px;
+  background: linear-gradient(135deg, #ff6b35, #d7263d);
+  color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(215, 38, 61, 0.25);
+}
+.diem-nong .nhan { font-weight: 700; font-size: 0.8rem; letter-spacing: 1px; opacity: 0.9; }
+.diem-nong a {
+  display: block;
+  color: #fff;
+  font-size: 1.25rem;
+  font-weight: 700;
+  text-decoration: none;
+  margin: 6px 0;
+}
+.diem-nong a:hover { text-decoration: underline; }
+.diem-nong .meta { font-size: 0.85rem; opacity: 0.9; }
+
+/* ----- Bộ lọc chủ đề ----- */
+.bo-loc {
+  max-width: 960px;
+  margin: 20px auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 0 20px;
+}
+.bo-loc button {
+  border: 1px solid #cfd6e0;
+  background: #fff;
+  color: #33405a;
+  padding: 6px 14px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  transition: all 0.15s;
+}
+.bo-loc button:hover { border-color: #0f2b46; }
+.bo-loc button.active {
+  background: #0f2b46;
+  color: #fff;
+  border-color: #0f2b46;
+}
+
+/* ----- Bảng tin ----- */
+main { max-width: 960px; margin: 0 auto 40px; padding: 0 20px; }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+thead { background: #eef2f7; }
+th, td {
+  text-align: left;
+  padding: 10px 12px;
+  border-bottom: 1px solid #eef0f3;
+  font-size: 0.9rem;
+  vertical-align: top;
+}
+th { font-size: 0.78rem; text-transform: uppercase; color: #6b7688; letter-spacing: 0.5px; }
+tbody tr:hover { background: #f9fbfd; }
+tbody tr:first-child td { background: #fff7ed; } /* tin điểm cao nhất nổi bật nhẹ */
+
+td a { color: #0f5bb5; text-decoration: none; }
+td a:hover { text-decoration: underline; }
+
+/* Nhãn chủ đề */
+.the-chu-de {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  background: #e5edf7;
+  color: #274b73;
+  white-space: nowrap;
+}
+
+/* Điểm */
+.diem {
+  font-weight: 700;
+  color: #d7263d;
+}
+
+.trong { text-align: center; color: #6b7688; padding: 20px; }
+
+footer {
+  text-align: center;
+  padding: 20px;
+  color: #8a93a3;
+  font-size: 0.8rem;
+}
+
+/* Responsive: ẩn bớt cột trên màn hình nhỏ */
+@media (max-width: 640px) {
+  th:nth-child(1), td:nth-child(1),
+  th:nth-child(4), td:nth-child(4) { display: none; }
+}

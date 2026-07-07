@@ -1,0 +1,49 @@
+name: Thu thap tin tuc
+
+# Khi nào chạy?
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # mỗi 15 phút (giờ UTC). Lưu ý: cron của GitHub
+                             # thường trễ vài phút, và có thể bỏ nhịp khi hệ
+                             # thống bận - đây là điều bình thường.
+  workflow_dispatch:          # cho phép bấm chạy tay trong tab Actions
+
+# Cấp quyền để job được phép commit ngược lại repo
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Lấy code về máy ảo
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # 2. Cài Python
+      - name: Cai Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # 3. Cài thư viện
+      - name: Cai thu vien
+        run: pip install -r requirements.txt
+
+      # 4. Chạy scraper -> tạo/cập nhật data.json
+      - name: Chay scraper
+        run: python scraper.py
+
+      # 5. Commit data.json NẾU có thay đổi
+      - name: Commit data.json neu thay doi
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          # git diff --cached trả về khác 0 nếu có thay đổi đã stage
+          if git diff --cached --quiet; then
+            echo "Khong co thay doi - bo qua commit."
+          else
+            git commit -m "Cap nhat tin tuc $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

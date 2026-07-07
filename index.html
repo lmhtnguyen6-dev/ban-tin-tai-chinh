@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bản tin Tài chính - Địa chính trị</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>📰 Bản tin Tài chính - Địa chính trị</h1>
+    <p id="cap-nhat" class="cap-nhat">Đang tải dữ liệu…</p>
+  </header>
+
+  <!-- Điểm nóng hôm nay: tin có điểm cao nhất -->
+  <section id="diem-nong" class="diem-nong" hidden>
+    <div class="nhan">🔥 ĐIỂM NÓNG HÔM NAY</div>
+    <a id="diem-nong-link" href="#" target="_blank" rel="noopener"></a>
+    <div id="diem-nong-meta" class="meta"></div>
+  </section>
+
+  <!-- Nút lọc theo chủ đề (được tạo bằng JS) -->
+  <nav id="bo-loc" class="bo-loc"></nav>
+
+  <!-- Bảng tin -->
+  <main>
+    <table id="bang-tin">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Tiêu đề</th>
+          <th>Chủ đề</th>
+          <th>Nguồn</th>
+          <th>Thời gian</th>
+          <th>Điểm</th>
+        </tr>
+      </thead>
+      <tbody id="tbody-tin"></tbody>
+    </table>
+    <p id="trong" class="trong" hidden>Không có tin cho chủ đề này.</p>
+  </main>
+
+  <footer>
+    <p>Cập nhật tự động mỗi 15 phút bằng GitHub Actions · Điểm hot tính bằng code thuần.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
