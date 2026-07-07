@@ -32,23 +32,34 @@ hiển thị bằng web tĩnh. Chạy tự động **miễn phí** trên GitHub 
   Fed ×1.7, Thế giới ×1.1, Địa chính trị ×1.0 (trong `HE_SO_UU_TIEN`).
 - **Từ khóa nóng CÓ TRỌNG SỐ** (`TRONG_SO_TU_KHOA`, dict): thay cho list cũ.
   Ưu tiên chứng khoán–tài chính–doanh nghiệp (vn-index 6, chứng khoán/cổ phiếu 5,
-  niêm yết/khối ngoại 4, lợi nhuận 3...), Fed cao (fed/fomc 5). **Đã bỏ "vàng"**
-  khỏi từ khóa nóng để không đẩy điểm tin giá vàng.
+  niêm yết 4, khối ngoại 5...), Fed cao (fed/fomc 5). **Đã bỏ "vàng"**. Đã **tăng
+  trọng số HOẠT ĐỘNG DOANH NGHIỆP trên sàn** để đẩy tin CK thực chất lên top: trả/chia
+  cổ tức 4, phát hành/chào bán cổ phiếu 5, cổ phiếu quỹ/mua lại CP 4, đhđcđ/đại hội cổ
+  đông/cổ đông lớn/thoái vốn 4, lợi nhuận/KQKD 4, thâu tóm/sáp nhập/m&a 4.
 - **Lọc tin nhiễu** (`la_tin_nhieu`, `NHOM_TIN_NHIEU`, `LOC_NHOM_NHIEU`): loại tin
-  quảng cáo vay, hình sự/pháp luật, lễ hội/đặc sản, hạ tầng giao thông hằng ngày,
-  **mẹo chi tiêu/tài chính cá nhân** (nhóm `doi_song`), và **tin cập nhật giá vàng
-  hằng ngày** (`CUM_GIA_VANG_HANG_NGAY`). Tin bị loại được in log `[loại-<nhóm>]`.
-  Bật/tắt nhóm bằng `LOC_NHOM_NHIEU`.
-- **"cáo buộc" xử lý theo ngữ cảnh** (`la_cao_buoc_hinh_su`, `NGU_CANH_HINH_SU`): từ
-  "cáo buộc" hai nghĩa nên KHÔNG để trong nhóm `hinh_su`. Chỉ coi là nhiễu khi đi
-  KÈM ngữ cảnh hình sự (bị bắt, khởi tố, truy tố, công an, tòa án, lừa đảo...); tin
-  doanh nghiệp bị "cáo buộc gian lận/sai phạm" (có thể ảnh hưởng giá CP) được GIỮ.
-  Lưu ý: KHÔNG thêm "bị cáo" vào `NGU_CANH_HINH_SU` (nó là substring của "bị cáo
-  buộc" → vô hiệu hóa bộ lọc).
-- **Gán chủ đề theo khu vực** (`gan_chu_de`): chủ đề "Kinh tế VN" CHỈ áp cho tin từ
-  nguồn trong nước (`khu_vuc == "vn"`). Tin nguồn quốc tế dù khớp từ chung (xuất/nhập
-  khẩu, tỷ giá...) sẽ về "Thế giới"/"Địa chính trị", tránh bị nhân ×2.0 sai và chen
-  lên top.
+  quảng cáo vay, hình sự/pháp luật (gồm tội phạm ngành NH nghĩa rõ: rửa tiền, lỗ hổng
+  tài khoản), lễ hội/đặc sản, hạ tầng giao thông (gồm "phạt nguội"),
+  **mẹo chi tiêu/tài chính cá nhân** (`doi_song`), **PR doanh nghiệp** (`pr_doanh_nghiep`:
+  vinh danh/giải thưởng/xếp hạng, ký kết-MOU, ra mắt sản phẩm-hệ thống, tài trợ),
+  **nhân sự lãnh đạo thường lệ** (`nhan_su`: bổ nhiệm/miễn nhiệm/từ nhiệm — KHÔNG dùng
+  "bầu" để giữ tin ĐHĐCĐ), **bình luận vĩ mô địa phương** (`vi_mo_dia_phuong`: tăng
+  trưởng 2 con số của tỉnh/thành...), và **tin giá vàng hằng ngày** (`CUM_GIA_VANG_HANG_NGAY`).
+  Tin bị loại in log `[loại-<nhóm>]`. Bật/tắt nhóm bằng `LOC_NHOM_NHIEU`.
+- **Từ HAI NGHĨA xử lý theo ngữ cảnh** (`TU_HAI_NGHIA`, `la_tu_hai_nghia_hinh_su`,
+  `NGU_CANH_HINH_SU`): "cáo buộc" và "gian lận" đều hai nghĩa nên KHÔNG để trong nhóm
+  `hinh_su`. Chỉ coi là nhiễu khi đi KÈM ngữ cảnh hình sự (bị bắt, khởi tố, truy tố,
+  công an, tòa án, lừa đảo, chiếm đoạt, rửa tiền...); tin doanh nghiệp bị "cáo buộc/nghi
+  gian lận sổ sách, thao túng" (có thể ảnh hưởng giá CP) được GIỮ. Thêm từ hai nghĩa
+  mới vào `TU_HAI_NGHIA`. Lưu ý: KHÔNG thêm "bị cáo" vào `NGU_CANH_HINH_SU` (nó là
+  substring của "bị cáo buộc" → vô hiệu hóa bộ lọc).
+- **Gán chủ đề theo khu vực** (`gan_chu_de`): "Kinh tế VN" và "Chính sách" CHỈ áp cho
+  tin từ nguồn trong nước (`khu_vuc == "vn"`) — hai chủ đề này dùng từ CHUNG (xuất/nhập
+  khẩu, tỷ giá, "chính sách", "chính phủ"...) nên dễ khớp nhầm tin quốc tế rồi bị nhân
+  hệ số cao (×2.0 / ×1.7). Tin nguồn quốc tế sẽ về "Thế giới"/"Địa chính trị".
+  **KHÔNG chặn "Fed" theo khu vực** — từ khóa Fed đặc thù, tin Fed thật chủ yếu từ
+  nguồn quốc tế nên cần giữ ×1.7. Lưu ý: tin nội dung nước ngoài do nguồn VN đăng (vd
+  VnExpress Kinh doanh) vẫn có `khu_vuc="vn"` nên bộ chặn theo NGUỒN không bắt được —
+  hạn chế cố hữu, chấp nhận vì các tin đó thường điểm thấp.
 - **Chọn 30 tin — ưu tiên VN MỀM** (`chon_tin_uu_tien`, `SAN_TIN_VN_MEM`): chọn
   THUẦN theo điểm giảm dần. Ưu tiên VN nằm sẵn trong điểm (`HE_SO_UU_TIEN`) nên tin
   Fed/thế giới điểm cao lên top TỰ NHIÊN. ĐÃ BỎ sàn cứng ≥6 tin VN và trần cứng tin

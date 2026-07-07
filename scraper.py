@@ -68,11 +68,17 @@ RSS_SOURCES = [
 TRONG_SO_TU_KHOA = {
     # --- Chứng khoán & thị trường (ưu tiên cao nhất) ---
     "vn-index": 6, "vnindex": 6, "vn30": 5, "chứng khoán": 5, "cổ phiếu": 5,
-    "hose": 4, "hnx": 3, "upcom": 3, "niêm yết": 4, "cổ tức": 3,
-    "trái phiếu": 3, "phát hành cổ phiếu": 4, "khối ngoại": 4, "thanh khoản": 3,
+    "hose": 4, "hnx": 3, "upcom": 3, "niêm yết": 4,
+    "trái phiếu": 3, "khối ngoại": 5, "thanh khoản": 3,
+    # --- Hoạt động doanh nghiệp trên sàn (ƯU TIÊN TĂNG: cổ tức, phát hành, M&A,
+    #     ĐHĐCĐ, giao dịch cổ đông... = tin CK thực chất, cần đẩy lên top) ---
+    "cổ tức": 4, "trả cổ tức": 4, "chia cổ tức": 4,
+    "phát hành cổ phiếu": 5, "chào bán cổ phiếu": 5, "phát hành riêng lẻ": 4,
+    "cổ phiếu quỹ": 4, "mua lại cổ phiếu": 4,
+    "đhđcđ": 4, "đại hội cổ đông": 4, "cổ đông lớn": 4, "thoái vốn": 4,
     # --- Doanh nghiệp niêm yết ---
-    "lợi nhuận": 3, "doanh thu": 2, "báo cáo tài chính": 3, "kết quả kinh doanh": 3,
-    "thâu tóm": 3, "sáp nhập": 3, "ipo": 4, "vốn hóa": 3,
+    "lợi nhuận": 4, "doanh thu": 2, "báo cáo tài chính": 3, "kết quả kinh doanh": 4,
+    "thâu tóm": 4, "sáp nhập": 4, "m&a": 4, "ipo": 4, "vốn hóa": 3,
     # --- Tài chính - ngân hàng - chính sách tiền tệ ---
     "ngân hàng nhà nước": 4, "nhnn": 4, "lãi suất": 4, "tín dụng": 3,
     "tỷ giá": 2, "lạm phát": 3,
@@ -103,16 +109,19 @@ NHOM_TIN_NHIEU = {
         "ra mắt gói", "hoàn phí", "tặng ngay", "voucher", "quay số trúng thưởng",
     ],
     # Vụ án / hình sự / pháp luật (vd "người phụ nữ bị truy tìm vì nghi chiếm đoạt").
-    # LƯU Ý: "cáo buộc" KHÔNG để ở đây vì nó hai nghĩa (xem la_cao_buoc_hinh_su).
+    # LƯU Ý: "cáo buộc" và "gian lận" KHÔNG để ở đây vì chúng HAI NGHĨA — xử lý theo
+    # ngữ cảnh trong la_tu_hai_nghia_hinh_su. Có tội phạm-gian lận ngành NH đã có nghĩa
+    # rõ (rửa tiền, lỗ hổng tài khoản) — KHÁC tin CHÍNH SÁCH/quy định (room tín dụng,
+    # chế tài...) vẫn được giữ ở chủ đề Chính sách.
     "hinh_su": [
         "truy tìm", "truy nã", "bị bắt", "khởi tố", "lừa đảo", "chiếm đoạt",
         "lãnh án", "tuyên án", "bắt giam", "hầu tòa", "cáo trạng", "vòng lao lý",
-        "trốn nã", "trộm", "cướp", "đánh bạc",
+        "trốn nã", "trộm", "cướp", "đánh bạc", "rửa tiền", "lỗ hổng tài khoản",
     ],
     # Mẹo chi tiêu / tài chính cá nhân / đời sống (không tác động thị trường).
     "doi_song": [
         "nghiện mua", "nên chi tiêu", "chi tiêu thế nào", "chi tiêu ra sao",
-        "quản lý chi tiêu", "quản lý tài chính cá nhân",
+        "quản lý chi tiêu", "quản lý tài chính cá nhân", "chi tiền vào đâu",
     ],
     # Lễ hội / đặc sản / sự kiện (vd "Saigon Co.op ... tại Lễ hội Việt").
     "le_hoi": [
@@ -122,48 +131,75 @@ NHOM_TIN_NHIEU = {
     # Hạ tầng giao thông hằng ngày (vd "Tạm dừng khai thác cao tốc ... ban đêm").
     "giao_thong": [
         "tạm dừng khai thác", "phân luồng", "cấm xe", "cấm đường", "kẹt xe",
-        "ùn tắc", "tai nạn giao thông", "khai thác cao tốc",
+        "ùn tắc", "tai nạn giao thông", "khai thác cao tốc", "phạt nguội",
+    ],
+    # PR doanh nghiệp: vinh danh/giải thưởng/xếp hạng, ký kết hợp tác/MOU, ra mắt sản
+    # phẩm-hệ thống, tài trợ. Có tên NH niêm yết nhưng KHÔNG phải hoạt động thị trường.
+    # (Dùng cụm cụ thể như "ký kết"/"hợp tác chiến lược" thay vì "hợp tác" trơn, và
+    #  "bảng xếp hạng" thay vì "xếp hạng" trơn — tránh dính "xếp hạng tín nhiệm".)
+    "pr_doanh_nghiep": [
+        "vinh danh", "giải thưởng", "awards", "bảng xếp hạng", "fortune",
+        "được trao giải", "đạt giải", "top 500",
+        "ký kết", "ký hợp tác", "hợp tác chiến lược", "biên bản ghi nhớ", "mou",
+        "đồng hành", "tài trợ", "ra mắt", "core banking", "open banking",
+    ],
+    # Nhân sự lãnh đạo thường lệ (bổ nhiệm/tái bổ nhiệm/miễn nhiệm). KHÔNG dùng "bầu"
+    # để không loại nhầm tin ĐHĐCĐ (vd "họp ĐHĐCĐ bất thường, bầu bổ sung nhân sự").
+    "nhan_su": [
+        "bổ nhiệm", "miễn nhiệm", "từ nhiệm",
+    ],
+    # Bình luận vĩ mô địa phương chung chung (tăng trưởng 2 con số của tỉnh/thành...).
+    # Heuristic theo cụm đặc trưng — có thể cần tinh chỉnh nếu sót/nhầm.
+    "vi_mo_dia_phuong": [
+        "tăng trưởng kinh tế 2 con số", "tăng trưởng 2 con số",
+        "thuế thời gian", "ốc đảo ưu đãi",
     ],
 }
 
 # Các nhóm ĐANG BẬT (theo lựa chọn của chủ dự án). Bỏ bớt tên trong list này để tắt.
-LOC_NHOM_NHIEU = ["quang_cao", "hinh_su", "le_hoi", "giao_thong", "doi_song"]
+LOC_NHOM_NHIEU = ["quang_cao", "hinh_su", "le_hoi", "giao_thong", "doi_song",
+                  "pr_doanh_nghiep", "nhan_su", "vi_mo_dia_phuong"]
 
 # Tin CẬP NHẬT GIÁ VÀNG hằng ngày (giá vàng sáng/chiều, vàng miếng/nhẫn/SJC) -> loại.
 # Vẫn GIỮ tin vàng vĩ mô (vd "ngân hàng trung ương tăng tích trữ vàng") vì tiêu đề
 # dạng đó KHÔNG khớp các cụm dưới đây.
 CUM_GIA_VANG_HANG_NGAY = ["giá vàng", "vàng miếng", "vàng nhẫn", "vàng sjc"]
 
-# "cáo buộc" là từ HAI NGHĨA: có thể là tin hình sự ("bị cáo buộc lừa đảo, đã khởi
-# tố") NHƯNG cũng có thể là tin doanh nghiệp/thị trường ("công ty X bị cáo buộc gian
-# lận kế toán") — loại tin sau CÓ THỂ ảnh hưởng giá cổ phiếu nên PHẢI GIỮ. Vì vậy chỉ
-# coi "cáo buộc" là nhiễu khi nó ĐI KÈM ngữ cảnh hình sự rõ ràng dưới đây.
+# Các từ HAI NGHĨA: vừa có thể là tin hình sự ("bị cáo buộc lừa đảo, đã khởi tố"),
+# vừa có thể là tin doanh nghiệp/thị trường ("công ty X bị cáo buộc gian lận sổ sách",
+# "nghi thao túng") — loại tin sau CÓ THỂ ảnh hưởng giá cổ phiếu nên PHẢI GIỮ. Vì vậy
+# chỉ coi các từ này là nhiễu khi chúng ĐI KÈM ngữ cảnh hình sự rõ ràng dưới đây.
+TU_HAI_NGHIA = ["cáo buộc", "gian lận"]
+
 # (Dùng "tòa án"/"hầu tòa" thay vì "tòa" trơn để khỏi dính "tòa nhà", "tòa soạn".)
 # LƯU Ý: KHÔNG đưa "bị cáo" vào đây — nó là substring của chính "bị CÁO buộc" nên sẽ
 # khớp mọi tiêu đề "bị cáo buộc", vô hiệu hóa bộ lọc ngữ cảnh. Dùng "bị can" là đủ.
 NGU_CANH_HINH_SU = [
     "bị bắt", "khởi tố", "truy tố", "công an", "tòa án", "hầu tòa", "lừa đảo",
-    "chiếm đoạt", "bắt giam", "truy nã", "truy tìm", "cáo trạng", "bị can",
+    "chiếm đoạt", "bắt giam", "truy nã", "truy tìm", "cáo trạng", "bị can", "rửa tiền",
 ]
 
 
-def la_cao_buoc_hinh_su(t: str) -> bool:
-    """True nếu tiêu đề chứa 'cáo buộc' ĐI KÈM ngữ cảnh hình sự -> coi là nhiễu.
-    'cáo buộc' đứng một mình hoặc gắn ngữ cảnh doanh nghiệp/thị trường -> GIỮ lại."""
-    return "cáo buộc" in t and any(cum in t for cum in NGU_CANH_HINH_SU)
+def la_tu_hai_nghia_hinh_su(t: str) -> bool:
+    """True nếu tiêu đề chứa từ HAI NGHĨA ('cáo buộc'/'gian lận') ĐI KÈM ngữ cảnh hình
+    sự -> coi là nhiễu. Nếu đứng một mình hoặc gắn ngữ cảnh doanh nghiệp/thị trường
+    (cáo buộc/nghi gian lận sổ sách, thao túng...) -> GIỮ lại vì có thể ảnh hưởng CP."""
+    return (any(tu in t for tu in TU_HAI_NGHIA)
+            and any(cum in t for cum in NGU_CANH_HINH_SU))
 
 
 def la_tin_nhieu(tieu_de: str):
     """
     Trả về (True, tên_nhóm) nếu tiêu đề là tin 'nhiễu' cần loại, ngược lại (False, "").
       - Là tin cập nhật giá vàng hằng ngày, HOẶC
-      - "cáo buộc" đi kèm ngữ cảnh hình sự (xem la_cao_buoc_hinh_su), HOẶC
+      - Từ hai nghĩa ("cáo buộc"/"gian lận") đi kèm ngữ cảnh hình sự
+        (xem la_tu_hai_nghia_hinh_su), HOẶC
       - Khớp cụm từ trong các nhóm ĐANG BẬT (LOC_NHOM_NHIEU).
     """
     t = tieu_de.lower()
     if any(cum in t for cum in CUM_GIA_VANG_HANG_NGAY):
         return True, "gia_vang_hang_ngay"
-    if "hinh_su" in LOC_NHOM_NHIEU and la_cao_buoc_hinh_su(t):
+    if "hinh_su" in LOC_NHOM_NHIEU and la_tu_hai_nghia_hinh_su(t):
         return True, "hinh_su"
     for ten_nhom in LOC_NHOM_NHIEU:
         for cum in NHOM_TIN_NHIEU.get(ten_nhom, []):
@@ -300,10 +336,13 @@ def gan_chu_de(tieu_de: str, khu_vuc: str) -> str:
     """
     t = tieu_de.lower()
     for chu_de, tu_khoas in CHU_DE_RULES:
-        # "Kinh tế VN" CHỈ áp cho tin từ nguồn trong nước (khu_vuc == "vn").
-        # Tránh gán nhầm tin quốc tế (khớp từ chung "xuất khẩu"/"nhập khẩu"/"tỷ giá"...)
-        # thành tin VN rồi được nhân hệ số ×2.0 và chen lên top.
-        if chu_de == "Kinh tế VN" and khu_vuc != "vn":
+        # "Kinh tế VN" và "Chính sách" CHỈ áp cho tin từ nguồn trong nước
+        # (khu_vuc == "vn"). Hai chủ đề này dùng từ CHUNG ("xuất/nhập khẩu", "tỷ giá",
+        # "chính sách", "chính phủ"...) nên dễ khớp nhầm tin quốc tế rồi được nhân hệ
+        # số cao (×2.0 / ×1.7) và chen lên top -> chặn theo khu vực.
+        # LƯU Ý: KHÔNG chặn "Fed" theo khu vực — từ khóa Fed (fed, fomc, powell...) rất
+        # đặc thù, và tin Fed thật chủ yếu đến từ nguồn quốc tế nên cần giữ ×1.7.
+        if chu_de in ("Kinh tế VN", "Chính sách") and khu_vuc != "vn":
             continue
         if any(tk in t for tk in tu_khoas):
             return chu_de
