@@ -1,5 +1,5 @@
 {
-  "cap_nhat_luc": "2026-07-08 14:56:43",
+  "cap_nhat_luc": "2026-07-08 20:19:19",
   "so_tin": 30,
   "tin": [
     {
@@ -7,7 +7,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-08 14:56",
+      "thoi_gian": "2026-07-08 20:19",
       "link": "https://vietnambiz.vn/infographic-buc-tranh-kinh-te-vi-mo-nua-dau-nam-2026-tang-truong-gdp-818-lam-phat-438-202673144720494.htm",
       "diem": 42.0
     },
@@ -16,7 +16,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-08 14:56",
+      "thoi_gian": "2026-07-08 20:19",
       "link": "https://vietnambiz.vn/giai-bai-toan-tang-truong-gdp-dat-117-nua-cuoi-nam-dong-luc-tu-dau-20267611305357.htm",
       "diem": 36.0
     },
@@ -25,97 +25,79 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-08 14:56",
+      "thoi_gian": "2026-07-08 20:19",
       "link": "https://vietnambiz.vn/tang-truong-gdp-quy-ii-dat-839-nua-dau-nam-dat-818-20267393638167.htm",
       "diem": 36.0
+    },
+    {
+      "tieu_de": "VN-Index tăng hai phiên liên tiếp",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-08 15:34",
+      "link": "https://vnexpress.net/vn-index-tang-hai-phien-lien-tiep-5095057.html",
+      "diem": 34.0
+    },
+    {
+      "tieu_de": "Lãi suất cao 'bào mòn' động lực đầu tư của doanh nghiệp",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-08 20:19",
+      "link": "https://vietnambiz.vn/lai-suat-cao-bao-mon-dong-luc-dau-tu-cua-doanh-nghiep-202678195739704.htm",
+      "diem": 34.0
     },
     {
       "tieu_de": "FDI vào Việt Nam nửa đầu năm vượt mốc 34 tỷ USD, tăng 61%",
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-08 14:56",
+      "thoi_gian": "2026-07-08 20:19",
       "link": "https://vietnambiz.vn/fdi-vao-viet-nam-nua-dau-nam-vuot-moc-34-ty-usd-tang-61-20267392954398.htm",
       "diem": 34.0
     },
     {
-      "tieu_de": "Đủ cách nâng lãi suất huy động, kéo dòng tiền về ngân hàng",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-08 14:33",
-      "link": "https://cafef.vn/du-cach-nang-lai-suat-huy-dong-keo-dong-tien-ve-ngan-hang-188260708134431989.chn",
-      "diem": 33.6
-    },
-    {
-      "tieu_de": "Vì sao lãi suất ngân hàng khó giảm sâu?",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-08 13:14",
-      "link": "https://cafef.vn/vi-sao-lai-suat-ngan-hang-kho-giam-sau-188260708111652156.chn",
-      "diem": 32.6
-    },
-    {
-      "tieu_de": "Cổ phiếu PNJ thoát giá sàn",
+      "tieu_de": "Cổ phiếu PNJ lập kỷ lục thanh khoản",
       "chu_de": "Kinh tế VN",
       "nguon": "VnExpress Kinh doanh",
       "so_nguon": 1,
       "thoi_gian": "2026-07-08 10:30",
-      "link": "https://vnexpress.net/co-phieu-pnj-thoat-gia-san-5094884.html",
-      "diem": 32.2
-    },
-    {
-      "tieu_de": "Hơn 700 doanh nghiệp tại Cần Thơ nợ thuế 3.400 tỷ đồng",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô, VnExpress Kinh doanh",
-      "so_nguon": 2,
-      "thoi_gian": "2026-07-08 14:56",
-      "link": "https://vietnambiz.vn/hon-700-doanh-nghiep-tai-can-tho-no-thue-3400-ty-dong-20267865629579.htm",
-      "diem": 32.0
+      "link": "https://vnexpress.net/co-phieu-pnj-lap-ky-luc-thanh-khoan-5094884.html",
+      "diem": 33.8
     },
     {
       "tieu_de": "CPI quý II tăng 5,25% so với cùng kỳ 2025, kéo lạm phát nửa đầu năm lên 4,38%",
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-08 14:56",
+      "thoi_gian": "2026-07-08 20:19",
       "link": "https://vietnambiz.vn/cpi-quy-ii-tang-525-so-voi-cung-ky-2025-keo-lam-phat-nua-dau-nam-len-438-202673101142250.htm",
       "diem": 32.0
     },
     {
-      "tieu_de": "Các ngân hàng đánh giá thế nào về triển vọng lợi nhuận, tăng trưởng tín dụng và huy động thời gian tới",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-08 00:07",
-      "link": "https://cafef.vn/cac-ngan-hang-danh-gia-the-nao-ve-trien-vong-loi-nhuan-tang-truong-tin-dung-va-huy-dong-thoi-gian-toi-188260707210849101.chn",
-      "diem": 31.6
-    },
-    {
-      "tieu_de": "Lãi suất thỏa thuận chạm mốc 9% một năm",
+      "tieu_de": "DatVietVAC sắp IPO với định giá hơn 230 triệu USD",
       "chu_de": "Kinh tế VN",
       "nguon": "VnExpress Kinh doanh",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-08 11:30",
-      "link": "https://vnexpress.net/lai-suat-thoa-thuan-cham-moc-9-mot-nam-5094761.html",
-      "diem": 31.2
+      "thoi_gian": "2026-07-08 15:16",
+      "link": "https://vnexpress.net/datvietvac-sap-ipo-voi-dinh-gia-hon-230-trieu-usd-5094986.html",
+      "diem": 31.8
     },
     {
-      "tieu_de": "Tuần tới, một ngân hàng sẽ lên sàn HoSE",
+      "tieu_de": "Lãi suất ngân hàng 8/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...",
       "chu_de": "Kinh tế VN",
       "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-08 10:51",
-      "link": "https://cafef.vn/tuan-toi-mot-ngan-hang-se-len-san-hose-188260708105324111.chn",
-      "diem": 30.6
+      "thoi_gian": "2026-07-08 16:41",
+      "link": "https://cafef.vn/lai-suat-ngan-hang-8-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260708164423693.chn",
+      "diem": 31.0
     },
     {
       "tieu_de": "Vận hành thử hệ thống chấm điểm giải ngân đầu tư công trong tháng 7",
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-08 14:56",
+      "thoi_gian": "2026-07-08 20:19",
       "link": "https://vietnambiz.vn/van-hanh-thu-he-thong-cham-diem-giai-ngan-dau-tu-cong-trong-thang-7-2026741421526.htm",
       "diem": 30.6
     },
@@ -124,7 +106,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-08 14:56",
+      "thoi_gian": "2026-07-08 20:19",
       "link": "https://vietnambiz.vn/nhung-dong-luc-tang-truong-hai-con-so-cua-tp-hcm-20267765621232.htm",
       "diem": 30.0
     },
@@ -133,43 +115,43 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-08 14:56",
+      "thoi_gian": "2026-07-08 20:19",
       "link": "https://vietnambiz.vn/9-dia-phuong-tang-truong-grdp-tren-10-trong-nua-dau-nam-2026-ha-tinh-dan-dau-20267313410497.htm",
       "diem": 30.0
     },
     {
-      "tieu_de": "Đây chính là tỉnh có diện tích nhỏ nhất Việt Nam, tăng trưởng kinh tế thuộc nhóm dẫn đầu cả nước",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-08 14:08",
-      "link": "https://cafef.vn/day-chinh-la-tinh-co-dien-tich-nho-nhat-viet-nam-tang-truong-kinh-te-thuoc-nhom-dan-dau-ca-nuoc-188260708140809905.chn",
-      "diem": 29.4
-    },
-    {
-      "tieu_de": "Phó thủ tướng: Nghiên cứu sáp nhập xã phường chưa đạt chuẩn",
-      "chu_de": "Chính sách",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-08 14:56",
-      "link": "https://vietnambiz.vn/pho-thu-tuong-nghien-cuu-sap-nhap-xa-phuong-chua-dat-chuan-20267116211226.htm",
-      "diem": 28.9
-    },
-    {
-      "tieu_de": "Lãi suất ngân hàng HDBank mới nhất tháng 7/2026: Gửi kỳ hạn nào có lãi suất cao nhất?",
+      "tieu_de": "Đủ cách nâng lãi suất huy động, kéo dòng tiền về ngân hàng",
       "chu_de": "Kinh tế VN",
       "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-08 08:12",
-      "link": "https://cafef.vn/lai-suat-ngan-hang-hdbank-moi-nhat-thang-7-2026-gui-ky-han-nao-co-lai-suat-cao-nhat-18826070800141918.chn",
-      "diem": 28.4
+      "thoi_gian": "2026-07-08 14:33",
+      "link": "https://cafef.vn/du-cach-nang-lai-suat-huy-dong-keo-dong-tien-ve-ngan-hang-188260708134431989.chn",
+      "diem": 29.2
+    },
+    {
+      "tieu_de": "Vì sao lãi suất ngân hàng khó giảm sâu?",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-08 13:14",
+      "link": "https://cafef.vn/vi-sao-lai-suat-ngan-hang-kho-giam-sau-188260708111652156.chn",
+      "diem": 28.0
+    },
+    {
+      "tieu_de": "Trung Quốc nới hạn chế xuất khẩu nhiên liệu",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-08 15:25",
+      "link": "https://vnexpress.net/trung-quoc-noi-han-che-xuat-khau-nhien-lieu-5095009.html",
+      "diem": 28.0
     },
     {
       "tieu_de": "Bộ Công Thương nói gì về con số nhập siêu kỷ lục hơn 16 tỷ USD nửa đầu năm?",
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-08 14:56",
+      "thoi_gian": "2026-07-08 20:19",
       "link": "https://vietnambiz.vn/bo-cong-thuong-noi-gi-ve-con-so-nhap-sieu-ky-luc-hon-16-ty-usd-nua-dau-nam-202677172553537.htm",
       "diem": 28.0
     },
@@ -178,34 +160,88 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-08 14:56",
+      "thoi_gian": "2026-07-08 20:19",
       "link": "https://vietnambiz.vn/bo-cong-thuong-khong-the-lay-ly-do-gia-xang-dau-tang-de-giu-gia-hang-hoa-20267413411603.htm",
       "diem": 28.0
     },
     {
-      "tieu_de": "Ngân hàng lớn nhất Việt Nam chuẩn bị trả cổ tức",
+      "tieu_de": "Đẩy nhanh tháo gỡ vướng mắc trong giải quyết các vụ án tín dụng, ngân hàng tồn đọng",
       "chu_de": "Kinh tế VN",
       "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-07 20:55",
-      "link": "https://cafef.vn/ngan-hang-lon-nhat-viet-nam-chuan-bi-tra-co-tuc-188260707205605944.chn",
-      "diem": 27.0
+      "thoi_gian": "2026-07-08 15:15",
+      "link": "https://cafef.vn/day-nhanh-thao-go-vuong-mac-trong-giai-quyet-cac-vu-an-tin-dung-ngan-hang-ton-dong-188260708134928713.chn",
+      "diem": 27.8
     },
     {
-      "tieu_de": "Chuyên gia: Động thái mới của Ngân hàng Nhà nước có thể khiến các ngân hàng cạnh tranh mạnh hơn trong huy động tiền gửi",
-      "chu_de": "Chính sách",
+      "tieu_de": "Các ngân hàng đánh giá thế nào về triển vọng lợi nhuận, tăng trưởng tín dụng và huy động thời gian tới",
+      "chu_de": "Kinh tế VN",
       "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-08 12:09",
-      "link": "https://cafef.vn/chuyen-gia-dong-thai-moi-cua-ngan-hang-nha-nuoc-co-the-khien-cac-ngan-hang-canh-tranh-manh-hon-trong-huy-dong-tien-gui-188260708111050271.chn",
-      "diem": 26.9
+      "thoi_gian": "2026-07-08 00:07",
+      "link": "https://cafef.vn/cac-ngan-hang-danh-gia-the-nao-ve-trien-vong-loi-nhuan-tang-truong-tin-dung-va-huy-dong-thoi-gian-toi-188260707210849101.chn",
+      "diem": 27.2
+    },
+    {
+      "tieu_de": "Phó Thủ tướng đề nghị doanh nghiệp chủ động tham gia thị trường carbon",
+      "chu_de": "Chính sách",
+      "nguon": "VietnamBiz Vĩ mô, VnExpress Kinh doanh",
+      "so_nguon": 2,
+      "thoi_gian": "2026-07-08 20:19",
+      "link": "https://vietnambiz.vn/pho-thu-tuong-de-nghi-doanh-nghiep-chu-dong-tham-gia-thi-truong-carbon-202678162631818.htm",
+      "diem": 27.2
+    },
+    {
+      "tieu_de": "Lãi suất thỏa thuận chạm mốc 9% một năm",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-08 11:30",
+      "link": "https://vnexpress.net/lai-suat-thoa-thuan-cham-moc-9-mot-nam-5094761.html",
+      "diem": 26.6
+    },
+    {
+      "tieu_de": "Tuần tới, một ngân hàng sẽ lên sàn HoSE",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-08 10:51",
+      "link": "https://cafef.vn/tuan-toi-mot-ngan-hang-se-len-san-hose-188260708105324111.chn",
+      "diem": 26.2
+    },
+    {
+      "tieu_de": "Data Talk | Macro Insight: Dòng tiền cuối năm sẽ chảy vào đâu?",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-08 20:19",
+      "link": "https://vietnambiz.vn/data-talk-macro-insight-dong-tien-cuoi-nam-se-chay-vao-dau-202678145024214.htm",
+      "diem": 26.0
+    },
+    {
+      "tieu_de": "Tháng 6/2026: PMI Việt Nam đứng thứ mấy trong ASEAN?",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-08 20:19",
+      "link": "https://vietnambiz.vn/thang-62026-pmi-viet-nam-dung-thu-may-trong-asean-202678154626286.htm",
+      "diem": 26.0
+    },
+    {
+      "tieu_de": "Hơn 700 doanh nghiệp tại Cần Thơ nợ thuế 3.400 tỷ đồng",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-08 20:19",
+      "link": "https://vietnambiz.vn/hon-700-doanh-nghiep-tai-can-tho-no-thue-3400-ty-dong-20267865629579.htm",
+      "diem": 26.0
     },
     {
       "tieu_de": "Hơn 3,55 triệu người lĩnh lương hưu mới",
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-08 14:56",
+      "thoi_gian": "2026-07-08 20:19",
       "link": "https://vietnambiz.vn/hon-355-trieu-nguoi-linh-luong-huu-moi-20267514557559.htm",
       "diem": 26.0
     },
@@ -214,7 +250,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-08 14:56",
+      "thoi_gian": "2026-07-08 20:19",
       "link": "https://vietnambiz.vn/tp-hcm-thu-hoi-gan-108000-ty-dong-no-thue-202675143238700.htm",
       "diem": 26.0
     },
@@ -223,7 +259,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-08 14:56",
+      "thoi_gian": "2026-07-08 20:19",
       "link": "https://vietnambiz.vn/de-nghi-giam-sat-thuc-trang-no-dong-bhxh-tai-doanh-nghiep-202673194715622.htm",
       "diem": 26.0
     },
@@ -232,44 +268,8 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-08 14:56",
+      "thoi_gian": "2026-07-08 20:19",
       "link": "https://vietnambiz.vn/giu-quy-dinh-ve-nguong-cam-xuat-canh-voi-nguoi-no-thue-bo-dia-chi-kinh-doanh-202673195725184.htm",
-      "diem": 26.0
-    },
-    {
-      "tieu_de": "Ngành Thuế thu hơn 1,38 triệu tỷ đồng trong 6 tháng đầu năm",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-08 14:56",
-      "link": "https://vietnambiz.vn/nganh-thue-thu-hon-138-trieu-ty-dong-trong-6-thang-dau-nam-20267319432488.htm",
-      "diem": 26.0
-    },
-    {
-      "tieu_de": "Vốn đăng ký bình quân một doanh nghiệp thành lập mới trong tháng 6 đạt 17 tỷ đồng, hơn gấp đôi năm ngoái",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-08 14:56",
-      "link": "https://vietnambiz.vn/von-dang-ky-binh-quan-mot-doanh-nghiep-thanh-lap-moi-trong-thang-6-dat-17-ty-dong-hon-gap-doi-nam-ngoai-202673152930179.htm",
-      "diem": 26.0
-    },
-    {
-      "tieu_de": "Ngân sách Nhà nước bội thu 419.000 tỷ đồng trong 6 tháng đầu năm 2026",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-08 14:56",
-      "link": "https://vietnambiz.vn/ngan-sach-nha-nuoc-boi-thu-419000-ty-dong-trong-6-thang-dau-nam-2026-20267311127180.htm",
-      "diem": 26.0
-    },
-    {
-      "tieu_de": "Chỉ số sản xuất công nghiệp 6 tháng đầu năm 2026 tăng 10,8%, mức cao nhất trong 7 năm",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-08 14:56",
-      "link": "https://vietnambiz.vn/chi-so-san-xuat-cong-nghiep-6-thang-dau-nam-2026-tang-108-muc-cao-nhat-trong-7-nam-202673101833248.htm",
       "diem": 26.0
     }
   ]
