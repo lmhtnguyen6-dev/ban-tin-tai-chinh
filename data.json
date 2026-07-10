@@ -1,7 +1,16 @@
 {
-  "cap_nhat_luc": "2026-07-11 00:23:41",
+  "cap_nhat_luc": "2026-07-11 04:31:57",
   "so_tin": 30,
   "tin": [
+    {
+      "tieu_de": "Chứng khoán Việt Nam ra sao nửa cuối năm?",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-11 00:05",
+      "link": "https://vnexpress.net/chung-khoan-viet-nam-ra-sao-nua-cuoi-nam-5095207.html",
+      "diem": 32.2
+    },
     {
       "tieu_de": "Lộ diện nhóm đặc nhiệm tối cao của Fed, thị trường nín thở chờ kịch bản hạ lãi suất cứu vàng",
       "chu_de": "Fed",
@@ -9,7 +18,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-10 20:00",
       "link": "https://cafef.vn/lo-dien-nhom-dac-nhiem-toi-cao-cua-fed-thi-truong-nin-tho-cho-kich-ban-ha-lai-suat-cuu-vang-1882607101429188.chn",
-      "diem": 34.3
+      "diem": 31.3
     },
     {
       "tieu_de": "VinaCapital không còn là cổ đông lớn của PNJ",
@@ -18,7 +27,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-10 21:47",
       "link": "https://vnexpress.net/vinacapital-khong-con-la-co-dong-lon-cua-pnj-5096078.html",
-      "diem": 31.8
+      "diem": 28.4
     },
     {
       "tieu_de": "Cổ phiếu Gilimex nằm sàn sau khi thua kiện Amazon",
@@ -27,7 +36,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-10 16:10",
       "link": "https://vnexpress.net/co-phieu-gilimex-nam-san-sau-khi-thua-kien-amazon-5095954.html",
-      "diem": 29.2
+      "diem": 25.8
     },
     {
       "tieu_de": "Lãi suất ngân hàng 10/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...",
@@ -36,7 +45,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-10 16:55",
       "link": "https://cafef.vn/lai-suat-ngan-hang-10-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260710165641371.chn",
-      "diem": 27.8
+      "diem": 24.4
     },
     {
       "tieu_de": "Các ngân hàng đã chi hơn 48.000 tỷ đồng trả cổ tức tiền mặt",
@@ -45,7 +54,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-10 07:04",
       "link": "https://vnexpress.net/cac-ngan-hang-da-chi-hon-48-000-ty-dong-tra-co-tuc-tien-mat-5095499.html",
-      "diem": 27.6
+      "diem": 24.2
     },
     {
       "tieu_de": "Cập nhật KQKD ngân hàng ngày 10/7: Lợi nhuận một nhà băng ước giảm 50%, lãnh đạo nói đang ở tình thế rất nan giải và nợ xấu có thể tăng vọt",
@@ -54,7 +63,16 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-10 15:27",
       "link": "https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-10-7-loi-nhuan-mot-nha-bang-uoc-giam-50-lanh-dao-noi-dang-o-tinh-the-rat-nan-giai-va-no-xau-co-the-tang-vot-18826071015293335.chn",
-      "diem": 26.6
+      "diem": 23.0
+    },
+    {
+      "tieu_de": "Pháp sẽ cấm quảng cáo nhiên liệu hóa thạch",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-11 00:01",
+      "link": "https://vnexpress.net/phap-se-cam-quang-cao-nhien-lieu-hoa-thach-5096008.html",
+      "diem": 22.2
     },
     {
       "tieu_de": "HDBank - ngân hàng duy nhất 9 năm liên tiếp là 'Nơi làm việc tốt nhất châu Á'",
@@ -63,7 +81,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-10 22:36",
       "link": "https://cafef.vn/hdbank-ngan-hang-duy-nhat-9-nam-lien-tiep-la-noi-lam-viec-tot-nhat-chau-a-18826071022361346.chn",
-      "diem": 24.6
+      "diem": 21.0
     },
     {
       "tieu_de": "Agribank công bố lãi suất cho vay",
@@ -72,7 +90,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-10 12:47",
       "link": "https://cafef.vn/agribank-cong-bo-lai-suat-cho-vay-188260710124906214.chn",
-      "diem": 24.4
+      "diem": 20.8
     },
     {
       "tieu_de": "Sở Xây dựng Hà Nội nói gì về tình trạng vỉa hè hay ‘đào lên lấp xuống’?",
@@ -81,7 +99,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-10 21:45",
       "link": "https://cafef.vn/so-xay-dung-ha-noi-noi-gi-ve-tinh-trang-via-he-hay-dao-len-lap-xuong-188260710203847967.chn",
-      "diem": 23.8
+      "diem": 20.4
     },
     {
       "tieu_de": "HDBank tiếp tục hỗ trợ lãi suất cho doanh nghiệp",
@@ -90,7 +108,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-10 12:15",
       "link": "https://vnexpress.net/hdbank-tiep-tuc-ho-tro-lai-suat-cho-doanh-nghiep-5095853.html",
-      "diem": 23.8
+      "diem": 20.4
     },
     {
       "tieu_de": "Hạn chót hộ kinh doanh phải khai thông tin thuế quan trọng",
@@ -99,16 +117,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-10 14:00",
       "link": "https://cafef.vn/han-chot-ho-kinh-doanh-phai-khai-thong-tin-thue-quan-trong-188260710132127339.chn",
-      "diem": 23.4
-    },
-    {
-      "tieu_de": "Agribank chào bán 15.000 tỷ đồng trái phiếu ra công chúng 2026",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-10 13:30",
-      "link": "https://cafef.vn/agribank-chao-ban-15000-ty-dong-trai-phieu-ra-cong-chung-2026-188260710122656104.chn",
-      "diem": 23.0
+      "diem": 19.8
     },
     {
       "tieu_de": "Tăng trưởng chỉ đạt 6,7%, lãnh đạo TP. Cần Thơ yêu cầu toàn bộ hệ thống chính trị cùng chuyển động",
@@ -117,7 +126,16 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-10 16:00",
       "link": "https://cafef.vn/tang-truong-chi-dat-67-lanh-dao-tp-can-tho-yeu-cau-toan-bo-he-thong-chinh-tri-cung-chuyen-dong-18826071015124804.chn",
-      "diem": 23.0
+      "diem": 19.6
+    },
+    {
+      "tieu_de": "Agribank chào bán 15.000 tỷ đồng trái phiếu ra công chúng 2026",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-10 13:30",
+      "link": "https://cafef.vn/agribank-chao-ban-15000-ty-dong-trai-phieu-ra-cong-chung-2026-188260710122656104.chn",
+      "diem": 19.4
     },
     {
       "tieu_de": "Cơ quan Thuế vừa phát thông tin quan trọng",
@@ -126,7 +144,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-10 20:31",
       "link": "https://cafef.vn/co-quan-thue-vua-phat-thong-tin-quan-trong-188260710181538918.chn",
-      "diem": 22.8
+      "diem": 19.4
     },
     {
       "tieu_de": "Tài sản của ông Nguyễn Đăng Quang xuống dưới 1 tỷ USD",
@@ -135,7 +153,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-10 17:46",
       "link": "https://vnexpress.net/tai-san-cua-ong-nguyen-dang-quang-xuong-duoi-1-ty-usd-5095917.html",
-      "diem": 22.4
+      "diem": 19.0
     },
     {
       "tieu_de": "Xuất khẩu phân bón Việt tăng đột biến",
@@ -144,7 +162,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-10 15:07",
       "link": "https://vnexpress.net/xuat-khau-phan-bon-viet-tang-dot-bien-5095897.html",
-      "diem": 22.2
+      "diem": 18.8
     },
     {
       "tieu_de": "Chuyên gia: Phân bổ tài sản thiếu cân bằng là sai lầm lớn nhất trong đầu tư",
@@ -153,7 +171,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-10 19:29",
       "link": "https://vnexpress.net/chuyen-gia-phan-bo-tai-san-thieu-can-bang-la-sai-lam-lon-nhat-trong-dau-tu-5095928.html",
-      "diem": 22.0
+      "diem": 18.4
     },
     {
       "tieu_de": "Chuyên gia cảnh báo: Không điều chỉnh cách dùng điện, hóa đơn sẽ còn tăng",
@@ -162,7 +180,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-10 17:51",
       "link": "https://cafef.vn/chuyen-gia-canh-bao-khong-dieu-chinh-cach-dung-dien-hoa-don-se-con-tang-188260710175153312.chn",
-      "diem": 20.6
+      "diem": 17.0
     },
     {
       "tieu_de": "Vietjet 6 năm liền vào top 'Nơi làm việc tốt nhất châu Á'",
@@ -171,7 +189,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-10 17:00",
       "link": "https://vnexpress.net/vietjet-6-nam-lien-vao-top-noi-lam-viec-tot-nhat-chau-a-5095931.html",
-      "diem": 19.8
+      "diem": 16.4
     },
     {
       "tieu_de": "Ninh Bình cần tập trung xử lý, giải quyết dứt điểm các dự án tồn đọng",
@@ -180,7 +198,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-10 16:45",
       "link": "https://cafef.vn/ninh-binh-can-tap-trung-xu-ly-giai-quyet-dut-diem-cac-du-an-ton-dong-188260710162028695.chn",
-      "diem": 19.6
+      "diem": 16.2
     },
     {
       "tieu_de": "Suntory Pepsico đưa vào hoạt động nhà máy lớn nhất châu Á",
@@ -189,7 +207,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-10 16:21",
       "link": "https://vnexpress.net/suntory-pepsico-dua-vao-hoat-dong-nha-may-lon-nhat-chau-a-5095926.html",
-      "diem": 19.4
+      "diem": 15.8
     },
     {
       "tieu_de": "SHB SAHA bổ sung tính năng tự động sinh lời",
@@ -198,7 +216,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-10 16:00",
       "link": "https://vnexpress.net/shb-saha-bo-sung-tinh-nang-tu-dong-sinh-loi-5095934.html",
-      "diem": 19.0
+      "diem": 15.6
     },
     {
       "tieu_de": "Động lực nào để kinh tế Việt Nam bứt phá nửa cuối năm?",
@@ -207,7 +225,7 @@
       "so_nguon": 2,
       "thoi_gian": "2026-07-10 08:03",
       "link": "https://cafef.vn/dong-luc-nao-de-kinh-te-viet-nam-but-pha-nua-cuoi-nam-18826071007573132.chn",
-      "diem": 18.4
+      "diem": 15.0
     },
     {
       "tieu_de": "GRDP 6 tháng của TPHCM tăng trưởng 8.55%, cao nhất 10 năm",
@@ -216,7 +234,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-10 10:23",
       "link": "http://vietstock.vn/2026/07/grdp-6-thang-cua-tphcm-tang-truong-855-cao-nhat-10-nam-761-1464705.htm",
-      "diem": 18.4
+      "diem": 14.8
     },
     {
       "tieu_de": "Cơ quan Thuế có thông báo quan trọng, người nộp thuế thuộc các nhóm sau cần hoàn thành chậm nhất 31/7",
@@ -225,7 +243,16 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-10 14:52",
       "link": "https://cafef.vn/co-quan-thue-co-thong-bao-quan-trong-nguoi-nop-thue-thuoc-cac-nhom-sau-can-hoan-thanh-cham-nhat-31-7-188260710140554038.chn",
-      "diem": 18.0
+      "diem": 14.6
+    },
+    {
+      "tieu_de": "Trung Quốc bất ngờ ban lệnh cấm xuất khẩu heli",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-10 21:59",
+      "link": "https://cafef.vn/trung-quoc-bat-ngo-ban-lenh-cam-xuat-khau-heli-188260710205612758.chn",
+      "diem": 14.6
     },
     {
       "tieu_de": "Hà Nội sẽ chất vấn về úng ngập và thoát nước đô thị",
@@ -234,7 +261,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-10 14:28",
       "link": "https://cafef.vn/ha-noi-se-chat-van-ve-ung-ngap-va-thoat-nuoc-do-thi-188260710134932416.chn",
-      "diem": 17.8
+      "diem": 14.2
     },
     {
       "tieu_de": "Thông báo từ Bộ Công Thương về \"đơn quần áo bơi\" tại Na Uy khiến doanh nghiệp Việt \"đứng ngồi không yên\", cộng đồng mạng đồng loạt: \"Quá thiết thực!\"",
@@ -243,34 +270,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-10 13:43",
       "link": "https://cafef.vn/thong-bao-tu-bo-cong-thuong-ve-don-quan-ao-boi-tai-na-uy-khien-doanh-nghiep-viet-dung-ngoi-khong-yen-cong-dong-mang-dong-loat-qua-thiet-thuc-188260710112614879.chn",
-      "diem": 17.2
-    },
-    {
-      "tieu_de": "Khai trương trụ sở kinh doanh tại VIFC-HCMC: Bước chuyển sang thị trường phía Nam của MBV",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-10 13:30",
-      "link": "https://cafef.vn/khai-truong-tru-so-kinh-doanh-tai-vifc-hcmc-buoc-chuyen-sang-thi-truong-phia-nam-cua-mbv-188260710133116208.chn",
-      "diem": 17.0
-    },
-    {
-      "tieu_de": "Cận cảnh trụ sở chuyên biệt của ngân hàng ngước ngoài đầu tiên ở VIFC-HCMC",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-10 13:30",
-      "link": "https://cafef.vn/can-canh-tru-so-chuyen-biet-cua-ngan-hang-nguoc-ngoai-dau-tien-o-vifc-hcmc-188260710122828717.chn",
-      "diem": 17.0
-    },
-    {
-      "tieu_de": "Tất cả người dân có ô tô trên cả nước chú ý quy định mới nhất vừa áp dụng",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-10 13:20",
-      "link": "https://cafef.vn/tat-ca-nguoi-dan-co-o-to-tren-ca-nuoc-chu-y-quy-dinh-moi-nhat-vua-ap-dung-18826071011413375.chn",
-      "diem": 16.8
+      "diem": 13.6
     }
   ]
 }
