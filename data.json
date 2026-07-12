@@ -1,5 +1,5 @@
 {
-  "cap_nhat_luc": "2026-07-13 03:37:20",
+  "cap_nhat_luc": "2026-07-13 06:37:48",
   "so_tin": 30,
   "tin": [
     {
@@ -7,34 +7,43 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 03:37",
+      "thoi_gian": "2026-07-13 06:37",
       "link": "https://vietnambiz.vn/gan-2-ty-co-phieu-cua-hai-ngan-hang-sap-bo-sung-vao-san-hose-202679115929405.htm",
       "diem": 44.0
+    },
+    {
+      "tieu_de": "Chuyên gia cảnh báo: Fed có thể tăng lãi suất đến 3 lần trong năm nay, không chỉ 1 lần như thị trường vẫn đặt cược",
+      "chu_de": "Fed",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-13 06:08",
+      "link": "https://cafef.vn/chuyen-gia-canh-bao-fed-co-the-tang-lai-suat-den-3-lan-trong-nam-nay-khong-chi-1-lan-nhu-thi-truong-van-dat-cuoc-188260712220912426.chn",
+      "diem": 37.1
     },
     {
       "tieu_de": "Tỷ giá USD hôm nay 9/7: Đảo ngược sau biên bản họp ôn hòa của Fed",
       "chu_de": "Fed",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 03:37",
+      "thoi_gian": "2026-07-13 06:37",
       "link": "https://vietnambiz.vn/ty-gia-usd-hom-nay-97-dao-nguoc-sau-bien-ban-hop-on-hoa-cua-fed-202678101513369.htm",
       "diem": 35.7
     },
     {
-      "tieu_de": "Thống đốc Fed ‘dội gáo nước lạnh’ vào kêu gọi cắt giảm lãi suất của ông Trump: Bước đi tiếp theo sẽ là gì?",
-      "chu_de": "Fed",
-      "nguon": "CafeF Tài chính quốc tế",
+      "tieu_de": "Chứng khoán tuần này có thể giảm tiếp",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-12 19:48",
-      "link": "https://cafef.vn/thong-doc-fed-doi-gao-nuoc-lanh-vao-keu-goi-cat-giam-lai-suat-cua-ong-trump-buoc-di-tiep-theo-se-la-gi-188260712195004541.chn",
-      "diem": 35.2
+      "thoi_gian": "2026-07-13 05:48",
+      "link": "https://vnexpress.net/chung-khoan-tuan-nay-co-the-giam-tiep-5096550.html",
+      "diem": 35.4
     },
     {
       "tieu_de": "Lãi suất Ngân hàng Quốc dân (NCB) hạ lãi suất",
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 03:37",
+      "thoi_gian": "2026-07-13 06:37",
       "link": "https://vietnambiz.vn/lai-suat-ngan-hang-quoc-dan-ncb-ha-lai-suat-202671214714482.htm",
       "diem": 34.0
     },
@@ -43,7 +52,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 03:37",
+      "thoi_gian": "2026-07-13 06:37",
       "link": "https://vietnambiz.vn/cap-nhat-kqkd-ngan-hang-6-thang-dau-nam-nha-bang-dau-tien-ghi-nhan-loi-nhuan-tang-80-202679105240842.htm",
       "diem": 34.0
     },
@@ -52,7 +61,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 03:37",
+      "thoi_gian": "2026-07-13 06:37",
       "link": "https://vietnambiz.vn/goi-von-thoi-lai-suat-cao-va-cuoc-dua-ve-hieu-qua-su-dung-von-20267107332950.htm",
       "diem": 34.0
     },
@@ -61,7 +70,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 03:37",
+      "thoi_gian": "2026-07-13 06:37",
       "link": "https://vietnambiz.vn/ngan-hang-hut-nhieu-tien-gui-nhat-dang-tra-lai-suat-huy-dong-bao-nhieu-trong-thang-7-202679141739896.htm",
       "diem": 34.0
     },
@@ -70,7 +79,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 03:37",
+      "thoi_gian": "2026-07-13 06:37",
       "link": "https://vietnambiz.vn/ty-gia-usd-hom-nay-117-truot-gia-khi-dau-giam-202679112317311.htm",
       "diem": 34.0
     },
@@ -79,7 +88,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 03:37",
+      "thoi_gian": "2026-07-13 06:37",
       "link": "https://vietnambiz.vn/chiu-ap-luc-tu-nhieu-phia-lai-suat-huy-dong-neo-cao-va-kho-giam-manh-trong-nua-cuoi-2026-202678234719934.htm",
       "diem": 34.0
     },
@@ -88,7 +97,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 03:37",
+      "thoi_gian": "2026-07-13 06:37",
       "link": "https://vietnambiz.vn/lai-suat-tiet-kiem-ngan-hang-bac-a-bank-thang-62026-nhieu-ky-han-tren-7nam-202679141132391.htm",
       "diem": 34.0
     },
@@ -97,7 +106,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 03:37",
+      "thoi_gian": "2026-07-13 06:37",
       "link": "https://vietnambiz.vn/lai-suat-tiet-kiem-tai-4-ngan-hang-quoc-doanh-ai-dang-tra-hap-dan-hon-202679142936787.htm",
       "diem": 34.0
     },
@@ -106,7 +115,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 03:37",
+      "thoi_gian": "2026-07-13 06:37",
       "link": "https://vietnambiz.vn/chuyen-gia-mat-bang-lai-suat-gan-nhu-da-dong-dinh-o-muc-cao-du-bao-vnd-mat-gia-khoang-2-3-202679122610678.htm",
       "diem": 34.0
     },
@@ -115,16 +124,25 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 03:37",
+      "thoi_gian": "2026-07-13 06:37",
       "link": "https://vietnambiz.vn/abbank-loi-nhuan-truoc-thue-nua-dau-nam-dat-3016-ty-dong-vuot-67-ke-hoach-ca-nam-20267972445949.htm",
       "diem": 34.0
+    },
+    {
+      "tieu_de": "Thống đốc Fed ‘dội gáo nước lạnh’ vào kêu gọi cắt giảm lãi suất của ông Trump: Bước đi tiếp theo sẽ là gì?",
+      "chu_de": "Fed",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-12 19:48",
+      "link": "https://cafef.vn/thong-doc-fed-doi-gao-nuoc-lanh-vao-keu-goi-cat-giam-lai-suat-cua-ong-trump-buoc-di-tiep-theo-se-la-gi-188260712195004541.chn",
+      "diem": 33.1
     },
     {
       "tieu_de": "Tỷ giá euro ngày 9/7: Nhiều nơi bật tăng",
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 03:37",
+      "thoi_gian": "2026-07-13 06:37",
       "link": "https://vietnambiz.vn/ty-gia-euro-ngay-97-nhieu-noi-bat-tang-20267991731386.htm",
       "diem": 30.0
     },
@@ -133,7 +151,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 03:37",
+      "thoi_gian": "2026-07-13 06:37",
       "link": "https://vietnambiz.vn/techcombank-dong-to-chuc-dien-dan-tai-chinh-cap-quoc-gia-vff-2026-dinh-hinh-ha-tang-von-va-tai-chinh-so-cho-chu-ky-tang-truong-moi-20267917333415.htm",
       "diem": 30.0
     },
@@ -142,7 +160,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 03:37",
+      "thoi_gian": "2026-07-13 06:37",
       "link": "https://vietnambiz.vn/gia-tien-ao-pi-lan-dau-xuong-duoi-01-usd-20267919460535.htm",
       "diem": 28.0
     },
@@ -151,7 +169,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 03:37",
+      "thoi_gian": "2026-07-13 06:37",
       "link": "https://vietnambiz.vn/song-toi-gian-khi-co-con-nho-co-kha-thi-khong-20267916481161.htm",
       "diem": 26.0
     },
@@ -160,7 +178,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 03:37",
+      "thoi_gian": "2026-07-13 06:37",
       "link": "https://vietnambiz.vn/vietbank-cung-co-bo-may-dieu-hanh-nang-cao-nang-luc-tai-chinh-va-hieu-qua-hoat-dong-20267127433149.htm",
       "diem": 26.0
     },
@@ -169,7 +187,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 03:37",
+      "thoi_gian": "2026-07-13 06:37",
       "link": "https://vietnambiz.vn/tre-em-hoc-thoi-quen-tieu-tien-tu-cha-me-nhu-the-nao-2026710163930516.htm",
       "diem": 26.0
     },
@@ -178,7 +196,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 03:37",
+      "thoi_gian": "2026-07-13 06:37",
       "link": "https://vietnambiz.vn/luong-tang-mai-van-het-tien-vi-ba-kieu-mua-sam-nay-2026710163055203.htm",
       "diem": 26.0
     },
@@ -187,7 +205,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 03:37",
+      "thoi_gian": "2026-07-13 06:37",
       "link": "https://vietnambiz.vn/bi-quyet-chi-tieu-gia-dinh-chi-phi-nuoi-con-dang-thay-doi-nhu-the-nao-202671151713433.htm",
       "diem": 26.0
     },
@@ -196,7 +214,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 03:37",
+      "thoi_gian": "2026-07-13 06:37",
       "link": "https://vietnambiz.vn/ong-loic-faussier-tro-thanh-tong-giam-doc-sacombank-20267101535697.htm",
       "diem": 26.0
     },
@@ -205,7 +223,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 03:37",
+      "thoi_gian": "2026-07-13 06:37",
       "link": "https://vietnambiz.vn/gui-tiet-kiem-vuot-nhieu-kenh-dau-tu-nua-dau-nam-202671014143080.htm",
       "diem": 26.0
     },
@@ -214,7 +232,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 03:37",
+      "thoi_gian": "2026-07-13 06:37",
       "link": "https://vietnambiz.vn/mb-tro-thanh-ngan-hang-viet-dau-tien-so-huu-chung-nhan-soc-2-type-ii-202679222728963.htm",
       "diem": 26.0
     },
@@ -223,7 +241,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 03:37",
+      "thoi_gian": "2026-07-13 06:37",
       "link": "https://vietnambiz.vn/lam-sao-de-co-thu-nhap-thu-dong-tu-con-so-0-202679165548148.htm",
       "diem": 26.0
     },
@@ -232,7 +250,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 03:37",
+      "thoi_gian": "2026-07-13 06:37",
       "link": "https://vietnambiz.vn/agribank-duoc-cap-them-gan-30000-ty-de-tang-von-dieu-le-202679154826212.htm",
       "diem": 26.0
     },
@@ -241,7 +259,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 03:37",
+      "thoi_gian": "2026-07-13 06:37",
       "link": "https://vietnambiz.vn/ba-pham-thi-nhung-lam-pho-chu-tich-hdqt-vpbank-20267910151276.htm",
       "diem": 26.0
     },
@@ -252,25 +270,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-12 17:52",
       "link": "https://cafef.vn/lai-suat-ngan-hang-12-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260712175443842.chn",
-      "diem": 25.8
-    },
-    {
-      "tieu_de": "Phấn đấu giải ngân hết vốn 4 chương trình mục tiêu quốc gia",
-      "chu_de": "Chính sách",
-      "nguon": "Vietstock Kinh tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-12 23:02",
-      "link": "http://vietstock.vn/2026/07/phan-dau-giai-ngan-het-von-4-chuong-trinh-muc-tieu-quoc-gia-761-1465412.htm",
-      "diem": 22.3
-    },
-    {
-      "tieu_de": "Sáu doanh nghiệp bán hàng đa cấp bị phạt hơn 1,3 tỷ đồng",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-12 22:58",
-      "link": "https://vnexpress.net/sau-doanh-nghiep-ban-hang-da-cap-bi-phat-hon-1-3-ty-dong-5096567.html",
-      "diem": 22.2
+      "diem": 23.4
     }
   ]
 }
