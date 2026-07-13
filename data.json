@@ -1,15 +1,69 @@
 {
-  "cap_nhat_luc": "2026-07-13 06:37:48",
+  "cap_nhat_luc": "2026-07-13 17:45:41",
   "so_tin": 30,
   "tin": [
     {
-      "tieu_de": "Gần 2 tỷ cổ phiếu của hai ngân hàng sắp bổ sung vào sàn HOSE",
+      "tieu_de": "Một cổ phiếu ngân hàng sẽ chính thức giao dịch trên HoSE từ 21/7",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
+      "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 06:37",
-      "link": "https://vietnambiz.vn/gan-2-ty-co-phieu-cua-hai-ngan-hang-sap-bo-sung-vao-san-hose-202679115929405.htm",
-      "diem": 44.0
+      "thoi_gian": "2026-07-13 16:57",
+      "link": "https://cafef.vn/mot-co-phieu-ngan-hang-se-chinh-thuc-giao-dich-tren-hose-tu-21-7-188260713165719551.chn",
+      "diem": 43.4
+    },
+    {
+      "tieu_de": "Trước thềm niêm yết HOSE, BVBank được NHNN chấp thuận tăng vốn điều lệ thêm hơn 3.500 tỷ đồng",
+      "chu_de": "Chính sách",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-13 13:12",
+      "link": "https://cafef.vn/truoc-them-niem-yet-hose-bvbank-duoc-nhnn-chap-thuan-tang-von-dieu-le-them-hon-3500-ty-dong-188260713121321689.chn",
+      "diem": 39.3
+    },
+    {
+      "tieu_de": "VN-Index giảm gần 30 điểm",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-13 15:41",
+      "link": "https://vnexpress.net/vn-index-giam-gan-30-diem-5096916.html",
+      "diem": 36.2
+    },
+    {
+      "tieu_de": "WB: Chất lượng tăng trưởng sẽ quyết định con đường Việt Nam trở thành quốc gia thu nhập cao",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô, Vietstock Kinh tế",
+      "so_nguon": 2,
+      "thoi_gian": "2026-07-13 16:00",
+      "link": "https://cafef.vn/wb-chat-luong-tang-truong-se-quyet-dinh-con-duong-viet-nam-tro-thanh-quoc-gia-thu-nhap-cao-188260713143700226.chn",
+      "diem": 34.6
+    },
+    {
+      "tieu_de": "Không phải vàng hay chứng khoán, chuyên gia khuyên ưu tiên gửi tiền ngân hàng lúc này: Lý do phía sau gây bất ngờ",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-13 14:41",
+      "link": "https://cafef.vn/khong-phai-vang-hay-chung-khoan-chuyen-gia-khuyen-uu-tien-gui-tien-ngan-hang-luc-nay-ly-do-phia-sau-gay-bat-ngo-188260713121230627.chn",
+      "diem": 33.4
+    },
+    {
+      "tieu_de": "Lãi suất tiết kiệm lên 9%/năm, người gửi tiền nhấp nhổm đáo hạn ngân hàng này để gửi ngân hàng khác",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-13 15:43",
+      "link": "https://cafef.vn/lai-suat-tiet-kiem-len-9-nam-nguoi-gui-tien-nhap-nhom-dao-han-ngan-hang-nay-de-gui-ngan-hang-khac-188260713154352972.chn",
+      "diem": 32.2
+    },
+    {
+      "tieu_de": "Chuẩn bị chào sàn HoSE và kế hoạch tăng vốn: Vietbank khởi động cho giai đoạn tăng trưởng mới",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-13 07:45",
+      "link": "https://cafef.vn/chuan-bi-chao-san-hose-va-ke-hoach-tang-von-vietbank-khoi-dong-cho-giai-doan-tang-truong-moi-18826071222194671.chn",
+      "diem": 29.6
     },
     {
       "tieu_de": "Chuyên gia cảnh báo: Fed có thể tăng lãi suất đến 3 lần trong năm nay, không chỉ 1 lần như thị trường vẫn đặt cược",
@@ -18,16 +72,34 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-13 06:08",
       "link": "https://cafef.vn/chuyen-gia-canh-bao-fed-co-the-tang-lai-suat-den-3-lan-trong-nam-nay-khong-chi-1-lan-nhu-thi-truong-van-dat-cuoc-188260712220912426.chn",
-      "diem": 37.1
+      "diem": 29.2
     },
     {
-      "tieu_de": "Tỷ giá USD hôm nay 9/7: Đảo ngược sau biên bản họp ôn hòa của Fed",
-      "chu_de": "Fed",
-      "nguon": "VietnamBiz Tài chính",
+      "tieu_de": "Cơ quan thuế gửi thông báo đến người đang cho thuê nhà, cho thuê bất động sản",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 06:37",
-      "link": "https://vietnambiz.vn/ty-gia-usd-hom-nay-97-dao-nguoc-sau-bien-ban-hop-on-hoa-cua-fed-202678101513369.htm",
-      "diem": 35.7
+      "thoi_gian": "2026-07-13 15:33",
+      "link": "https://cafef.vn/co-quan-thue-gui-thong-bao-den-nguoi-dang-cho-thue-nha-cho-thue-bat-dong-san-188260713145614459.chn",
+      "diem": 28.2
+    },
+    {
+      "tieu_de": "Ba ngân hàng chuẩn bị lên sàn HoSE: VietBank chốt ngày giao dịch, BVBank và ABBank tăng tốc",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-13 10:23",
+      "link": "https://cafef.vn/ba-ngan-hang-chuan-bi-len-san-hose-vietbank-chot-ngay-giao-dich-bvbank-va-abbank-tang-toc-188260713102526417.chn",
+      "diem": 27.8
+    },
+    {
+      "tieu_de": "Doanh nghiệp “khát” vốn: Bài toán lãi suất vẫn chưa có lời giải",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-13 08:25",
+      "link": "https://cafef.vn/doanh-nghiep-khat-von-bai-toan-lai-suat-van-chua-co-loi-giai-18826071308255323.chn",
+      "diem": 26.2
     },
     {
       "tieu_de": "Chứng khoán tuần này có thể giảm tiếp",
@@ -36,97 +108,25 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-13 05:48",
       "link": "https://vnexpress.net/chung-khoan-tuan-nay-co-the-giam-tiep-5096550.html",
-      "diem": 35.4
+      "diem": 26.0
     },
     {
-      "tieu_de": "Lãi suất Ngân hàng Quốc dân (NCB) hạ lãi suất",
+      "tieu_de": "Vì sao Thư Lâm, Phúc Thịnh được TP Hà Nội chọn thí điểm mô hình xã, phường XHCN?",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
+      "nguon": "CafeF Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 06:37",
-      "link": "https://vietnambiz.vn/lai-suat-ngan-hang-quoc-dan-ncb-ha-lai-suat-202671214714482.htm",
-      "diem": 34.0
+      "thoi_gian": "2026-07-13 17:30",
+      "link": "https://cafef.vn/vi-sao-thu-lam-phuc-thinh-duoc-tp-ha-noi-chon-thi-diem-mo-hinh-xa-phuong-xhcn-188260713164027101.chn",
+      "diem": 25.8
     },
     {
-      "tieu_de": "[Cập nhật] KQKD ngân hàng 6 tháng đầu năm: Vietcombank hé lộ con số, hai nhà băng có lợi nhuận tăng 79 - 80%",
+      "tieu_de": "Phản ánh về xăng E10 giảm dần sau hơn một tháng triển khai",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
+      "nguon": "CafeF Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 06:37",
-      "link": "https://vietnambiz.vn/cap-nhat-kqkd-ngan-hang-6-thang-dau-nam-nha-bang-dau-tien-ghi-nhan-loi-nhuan-tang-80-202679105240842.htm",
-      "diem": 34.0
-    },
-    {
-      "tieu_de": "‘Gọi’ vốn thời lãi suất cao và cuộc đua về hiệu quả sử dụng vốn",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-13 06:37",
-      "link": "https://vietnambiz.vn/goi-von-thoi-lai-suat-cao-va-cuoc-dua-ve-hieu-qua-su-dung-von-20267107332950.htm",
-      "diem": 34.0
-    },
-    {
-      "tieu_de": "Ngân hàng hút nhiều tiền gửi nhất đang trả lãi suất huy động bao nhiêu trong tháng 7?",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-13 06:37",
-      "link": "https://vietnambiz.vn/ngan-hang-hut-nhieu-tien-gui-nhat-dang-tra-lai-suat-huy-dong-bao-nhieu-trong-thang-7-202679141739896.htm",
-      "diem": 34.0
-    },
-    {
-      "tieu_de": "Tỷ giá USD hôm nay 10/7: Trượt giá khi dầu giảm",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-13 06:37",
-      "link": "https://vietnambiz.vn/ty-gia-usd-hom-nay-117-truot-gia-khi-dau-giam-202679112317311.htm",
-      "diem": 34.0
-    },
-    {
-      "tieu_de": "Chịu áp lực từ nhiều phía, lãi suất huy động neo cao và khó giảm mạnh trong nửa cuối 2026",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-13 06:37",
-      "link": "https://vietnambiz.vn/chiu-ap-luc-tu-nhieu-phia-lai-suat-huy-dong-neo-cao-va-kho-giam-manh-trong-nua-cuoi-2026-202678234719934.htm",
-      "diem": 34.0
-    },
-    {
-      "tieu_de": "Lãi suất tiết kiệm ngân hàng Bac A Bank tháng 6/2026: Nhiều kỳ hạn trên 7%/năm",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-13 06:37",
-      "link": "https://vietnambiz.vn/lai-suat-tiet-kiem-ngan-hang-bac-a-bank-thang-62026-nhieu-ky-han-tren-7nam-202679141132391.htm",
-      "diem": 34.0
-    },
-    {
-      "tieu_de": "Lãi suất tiết kiệm tại 4 ngân hàng quốc doanh: Ai đang trả hấp dẫn hơn?",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-13 06:37",
-      "link": "https://vietnambiz.vn/lai-suat-tiet-kiem-tai-4-ngan-hang-quoc-doanh-ai-dang-tra-hap-dan-hon-202679142936787.htm",
-      "diem": 34.0
-    },
-    {
-      "tieu_de": "Chuyên gia: Mặt bằng lãi suất gần như đã 'đóng đinh' ở mức cao, dự báo VND mất giá khoảng 2 - 3%",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-13 06:37",
-      "link": "https://vietnambiz.vn/chuyen-gia-mat-bang-lai-suat-gan-nhu-da-dong-dinh-o-muc-cao-du-bao-vnd-mat-gia-khoang-2-3-202679122610678.htm",
-      "diem": 34.0
-    },
-    {
-      "tieu_de": "ABBank: Lợi nhuận trước thuế nửa đầu năm đạt 3.016 tỷ đồng, vượt 67% kế hoạch cả năm",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-13 06:37",
-      "link": "https://vietnambiz.vn/abbank-loi-nhuan-truoc-thue-nua-dau-nam-dat-3016-ty-dong-vuot-67-ke-hoach-ca-nam-20267972445949.htm",
-      "diem": 34.0
+      "thoi_gian": "2026-07-13 17:10",
+      "link": "https://cafef.vn/phan-anh-ve-xang-e10-giam-dan-sau-hon-mot-thang-trien-khai-188260713163735713.chn",
+      "diem": 25.6
     },
     {
       "tieu_de": "Thống đốc Fed ‘dội gáo nước lạnh’ vào kêu gọi cắt giảm lãi suất của ông Trump: Bước đi tiếp theo sẽ là gì?",
@@ -135,142 +135,142 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-12 19:48",
       "link": "https://cafef.vn/thong-doc-fed-doi-gao-nuoc-lanh-vao-keu-goi-cat-giam-lai-suat-cua-ong-trump-buoc-di-tiep-theo-se-la-gi-188260712195004541.chn",
-      "diem": 33.1
+      "diem": 25.2
     },
     {
-      "tieu_de": "Tỷ giá euro ngày 9/7: Nhiều nơi bật tăng",
+      "tieu_de": "Việt Nam phát hiện một khu vực có 2/3 diện tích nằm trên kho báu siêu quý",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
+      "nguon": "CafeF Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 06:37",
-      "link": "https://vietnambiz.vn/ty-gia-euro-ngay-97-nhieu-noi-bat-tang-20267991731386.htm",
-      "diem": 30.0
+      "thoi_gian": "2026-07-13 16:38",
+      "link": "https://cafef.vn/viet-nam-phat-hien-mot-khu-vuc-co-2-3-dien-tich-nam-tren-kho-bau-sieu-quy-188260713163849816.chn",
+      "diem": 25.0
     },
     {
-      "tieu_de": "Techcombank đồng tổ chức Diễn đàn Tài chính cấp Quốc gia - VFF 2026: Định hình hạ tầng vốn và tài chính số cho chu kỳ tăng trưởng mới",
+      "tieu_de": "Bộ Xây dựng yêu cầu đẩy nhanh tiến độ giải ngân dự án giao thông",
+      "chu_de": "Chính sách",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-13 16:27",
+      "link": "https://cafef.vn/bo-xay-dung-yeu-cau-day-nhanh-tien-do-giai-ngan-du-an-giao-thong-188260713143307385.chn",
+      "diem": 24.6
+    },
+    {
+      "tieu_de": "Trong tháng sau, tuyến cao tốc hơn 43.700 tỷ đồng, rút ngắn thời gian di chuyển Quy Nhơn - Pleiku còn 1,5 giờ phải hoàn thành hạng mục này",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
+      "nguon": "CafeF Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 06:37",
-      "link": "https://vietnambiz.vn/techcombank-dong-to-chuc-dien-dan-tai-chinh-cap-quoc-gia-vff-2026-dinh-hinh-ha-tang-von-va-tai-chinh-so-cho-chu-ky-tang-truong-moi-20267917333415.htm",
-      "diem": 30.0
+      "thoi_gian": "2026-07-13 15:40",
+      "link": "https://cafef.vn/trong-thang-sau-tuyen-cao-toc-hon-43700-ty-dong-rut-ngan-thoi-gian-di-chuyen-quy-nhon-pleiku-con-15-gio-phai-hoan-thanh-hang-muc-nay-188260713153937046.chn",
+      "diem": 24.2
     },
     {
-      "tieu_de": "Giá tiền ảo Pi lần đầu xuống dưới 0,1 USD",
+      "tieu_de": "VinFast Việt Nam tăng vốn gần gấp đôi",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
+      "nguon": "VnExpress Kinh doanh",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-13 06:37",
-      "link": "https://vietnambiz.vn/gia-tien-ao-pi-lan-dau-xuong-duoi-01-usd-20267919460535.htm",
-      "diem": 28.0
+      "thoi_gian": "2026-07-13 15:07",
+      "link": "https://vnexpress.net/vinfast-viet-nam-tang-von-gan-gap-doi-5096872.html",
+      "diem": 23.8
     },
     {
-      "tieu_de": "Sống tối giản khi có con nhỏ: Có khả thi không?",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-13 06:37",
-      "link": "https://vietnambiz.vn/song-toi-gian-khi-co-con-nho-co-kha-thi-khong-20267916481161.htm",
-      "diem": 26.0
-    },
-    {
-      "tieu_de": "Vietbank củng cố bộ máy điều hành, nâng cao năng lực tài chính và hiệu quả hoạt động",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-13 06:37",
-      "link": "https://vietnambiz.vn/vietbank-cung-co-bo-may-dieu-hanh-nang-cao-nang-luc-tai-chinh-va-hieu-qua-hoat-dong-20267127433149.htm",
-      "diem": 26.0
-    },
-    {
-      "tieu_de": "Trẻ em học thói quen tiêu tiền từ cha mẹ như thế nào?",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-13 06:37",
-      "link": "https://vietnambiz.vn/tre-em-hoc-thoi-quen-tieu-tien-tu-cha-me-nhu-the-nao-2026710163930516.htm",
-      "diem": 26.0
-    },
-    {
-      "tieu_de": "Lương tăng mãi vẫn hết tiền vì ba kiểu mua sắm này",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-13 06:37",
-      "link": "https://vietnambiz.vn/luong-tang-mai-van-het-tien-vi-ba-kieu-mua-sam-nay-2026710163055203.htm",
-      "diem": 26.0
-    },
-    {
-      "tieu_de": "Bí quyết chi tiêu gia đình: Chi phí nuôi con đang thay đổi như thế nào?",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-13 06:37",
-      "link": "https://vietnambiz.vn/bi-quyet-chi-tieu-gia-dinh-chi-phi-nuoi-con-dang-thay-doi-nhu-the-nao-202671151713433.htm",
-      "diem": 26.0
-    },
-    {
-      "tieu_de": "Ông Loic Faussier trở thành Tổng giám đốc Sacombank",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-13 06:37",
-      "link": "https://vietnambiz.vn/ong-loic-faussier-tro-thanh-tong-giam-doc-sacombank-20267101535697.htm",
-      "diem": 26.0
-    },
-    {
-      "tieu_de": "Gửi tiết kiệm vượt nhiều kênh đầu tư nửa đầu năm",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-13 06:37",
-      "link": "https://vietnambiz.vn/gui-tiet-kiem-vuot-nhieu-kenh-dau-tu-nua-dau-nam-202671014143080.htm",
-      "diem": 26.0
-    },
-    {
-      "tieu_de": "MB trở thành ngân hàng Việt đầu tiên sở hữu chứng nhận SOC 2 Type II",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-13 06:37",
-      "link": "https://vietnambiz.vn/mb-tro-thanh-ngan-hang-viet-dau-tien-so-huu-chung-nhan-soc-2-type-ii-202679222728963.htm",
-      "diem": 26.0
-    },
-    {
-      "tieu_de": "Làm sao để có thu nhập thụ động từ con số 0?",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-13 06:37",
-      "link": "https://vietnambiz.vn/lam-sao-de-co-thu-nhap-thu-dong-tu-con-so-0-202679165548148.htm",
-      "diem": 26.0
-    },
-    {
-      "tieu_de": "Agribank được cấp thêm gần 30.000 tỷ để tăng vốn điều lệ",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-13 06:37",
-      "link": "https://vietnambiz.vn/agribank-duoc-cap-them-gan-30000-ty-de-tang-von-dieu-le-202679154826212.htm",
-      "diem": 26.0
-    },
-    {
-      "tieu_de": "Bà Phạm Thị Nhung làm Phó Chủ tịch HĐQT VPBank",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-13 06:37",
-      "link": "https://vietnambiz.vn/ba-pham-thi-nhung-lam-pho-chu-tich-hdqt-vpbank-20267910151276.htm",
-      "diem": 26.0
-    },
-    {
-      "tieu_de": "Lãi suất ngân hàng 12/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...",
+      "tieu_de": "Khơi thông thanh khoản tài sản bảo đảm",
       "chu_de": "Kinh tế VN",
       "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-12 17:52",
-      "link": "https://cafef.vn/lai-suat-ngan-hang-12-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260712175443842.chn",
+      "thoi_gian": "2026-07-13 07:28",
+      "link": "https://cafef.vn/khoi-thong-thanh-khoan-tai-san-bao-dam-188260713072826972.chn",
       "diem": 23.4
+    },
+    {
+      "tieu_de": "UNDP: Thành tựu phát triển của Việt Nam là ‘phi thường’",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-13 14:33",
+      "link": "https://cafef.vn/undp-thanh-tuu-phat-trien-cua-viet-nam-la-phi-thuong-188260713140930097.chn",
+      "diem": 23.4
+    },
+    {
+      "tieu_de": "Kiến tạo các tập đoàn kinh tế Việt Nam: Cần một hệ sinh thái phát triển mới",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-13 13:42",
+      "link": "https://cafef.vn/kien-tao-cac-tap-doan-kinh-te-viet-nam-can-mot-he-sinh-thai-phat-trien-moi-188260713133834197.chn",
+      "diem": 22.6
+    },
+    {
+      "tieu_de": "Động lực giúp ABBank tăng trưởng kỷ lục",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-13 08:00",
+      "link": "https://vnexpress.net/dong-luc-giup-abbank-tang-truong-ky-luc-5094893.html",
+      "diem": 21.8
+    },
+    {
+      "tieu_de": "Bắc Ninh tiến thêm bước quan trọng lên thành phố trực thuộc Trung ương",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-13 11:24",
+      "link": "https://cafef.vn/bac-ninh-tien-them-buoc-quan-trong-len-thanh-pho-truc-thuoc-trung-uong-188260713103256642.chn",
+      "diem": 20.6
+    },
+    {
+      "tieu_de": "Chính thức từ tháng 7, những trường hợp sau sẽ phải kê khai tài sản, thu nhập, gồm cả tài khoản ngân hàng, sổ tiết kiệm, sổ đỏ...",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-13 11:16",
+      "link": "https://cafef.vn/chinh-thuc-tu-thang-7-nhung-truong-hop-sau-se-phai-ke-khai-tai-san-thu-nhap-gom-ca-tai-khoan-ngan-hang-so-tiet-kiem-so-do-188260713111654129.chn",
+      "diem": 20.6
+    },
+    {
+      "tieu_de": "Bất ngờ diễn biến nợ xấu mới nhất tại Vietcombank, Agribank, Sacombank, ABBank, ...",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-13 11:03",
+      "link": "https://cafef.vn/bat-ngo-dien-bien-no-xau-moi-nhat-tai-vietcombank-agribank-sacombank-abbank-188260713103215498.chn",
+      "diem": 20.4
+    },
+    {
+      "tieu_de": "Tổng Bí thư, Chủ tịch nước: Thông tin đã có trong cơ sở dữ liệu thì không yêu cầu người dân, doanh nghiệp kê khai",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-13 11:04",
+      "link": "https://cafef.vn/tong-bi-thu-chu-tich-nuoc-thong-tin-da-co-trong-co-so-du-lieu-thi-khong-yeu-cau-nguoi-dan-doanh-nghiep-ke-khai-188260713102647969.chn",
+      "diem": 20.4
+    },
+    {
+      "tieu_de": "Bảo hiểm xã hội Việt Nam thông báo quy định mới vừa chính thức được áp dụng",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-13 11:03",
+      "link": "https://cafef.vn/bao-hiem-xa-hoi-viet-nam-thong-bao-quy-dinh-moi-vua-chinh-thuc-duoc-ap-dung-188260713103047572.chn",
+      "diem": 20.4
+    },
+    {
+      "tieu_de": "Công ty ông Lê Phước Vũ lãi bình quân mỗi ngày hơn 2 tỷ đồng",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-13 10:21",
+      "link": "https://vnexpress.net/cong-ty-ong-le-phuoc-vu-lai-binh-quan-moi-ngay-hon-2-ty-dong-5096688.html",
+      "diem": 19.8
+    },
+    {
+      "tieu_de": "Sớm hoàn thành dự án mở rộng Quốc lộ 3 tại xã Sóc Sơn",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-13 10:12",
+      "link": "https://cafef.vn/som-hoan-thanh-du-an-mo-rong-quoc-lo-3-tai-xa-soc-son-188260713092323985.chn",
+      "diem": 19.6
     }
   ]
 }
