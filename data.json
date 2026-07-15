@@ -1,16 +1,7 @@
 {
-  "cap_nhat_luc": "2026-07-15 14:26:16",
+  "cap_nhat_luc": "2026-07-15 19:07:20",
   "so_tin": 30,
   "tin": [
-    {
-      "tieu_de": "TS. Võ Trí Thành: 'Dư địa giảm lãi suất không còn nhiều, nên ưu tiên tín dụng có mục tiêu để hỗ trợ tăng trưởng'",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-15 14:26",
-      "link": "https://vietnambiz.vn/ts-vo-tri-thanh-du-dia-giam-lai-suat-khong-con-nhieu-nen-uu-tien-tin-dung-co-muc-tieu-de-ho-tro-tang-truong-2026714171333623.htm",
-      "diem": 44.0
-    },
     {
       "tieu_de": "Chủ tịch Fed tuyên bố NHTW bất khả xâm phạm, cảnh báo “đừng vội mừng” khi lạm phát bất ngờ hạ nhiệt, chưa vội cắt giảm lãi suất",
       "chu_de": "Fed",
@@ -18,7 +9,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-15 10:25",
       "link": "https://cafef.vn/chu-tich-fed-tuyen-bo-nhtw-bat-kha-xam-pham-canh-bao-dung-voi-mung-khi-lam-phat-bat-ngo-ha-nhiet-chua-voi-cat-giam-lai-suat-188260715102608959.chn",
-      "diem": 39.6
+      "diem": 36.4
     },
     {
       "tieu_de": "Các ngân hàng chi số tiền lớn kỷ lục trả cổ tức tiền mặt: Vẫn còn 5 ngân hàng chưa chốt quyền",
@@ -27,52 +18,25 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-15 11:22",
       "link": "https://cafef.vn/cac-ngan-hang-chi-so-tien-lon-ky-luc-tra-co-tuc-tien-mat-van-con-5-ngan-hang-chua-chot-quyen-188260715112359266.chn",
-      "diem": 39.4
+      "diem": 35.6
     },
     {
-      "tieu_de": "Tăng trưởng GDP Việt Nam năm 2026 có thể đạt 9,2%",
+      "tieu_de": "VN-Index xuống mức thấp nhất ba tháng",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
+      "nguon": "VnExpress Kinh doanh",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-15 14:26",
-      "link": "https://vietnambiz.vn/tang-truong-gdp-viet-nam-nam-2026-co-the-dat-92-202671411497431.htm",
-      "diem": 36.0
+      "thoi_gian": "2026-07-15 15:35",
+      "link": "https://vnexpress.net/vn-index-xuong-muc-thap-nhat-ba-thang-5097789.html",
+      "diem": 35.0
     },
     {
-      "tieu_de": "Dragon Capital chỉ ra 3 cú hích quan trọng cho thị trường chứng khoán nửa cuối năm",
+      "tieu_de": "Một ngân hàng chuẩn bị chia cổ phiếu thưởng tỷ lệ 10,5%",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
+      "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-15 14:26",
-      "link": "https://vietnambiz.vn/dragon-capital-chi-ra-3-cu-hich-quan-trong-cho-thi-truong-chung-khoan-nua-cuoi-nam-202679172539133.htm",
-      "diem": 36.0
-    },
-    {
-      "tieu_de": "UOB nâng dự báo tăng trưởng GDP của Việt Nam năm 2026 lên 8,5%",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-15 14:26",
-      "link": "https://vietnambiz.vn/uob-nang-du-bao-tang-truong-gdp-cua-viet-nam-nam-2026-len-85-202679163512939.htm",
-      "diem": 36.0
-    },
-    {
-      "tieu_de": "Nhập khẩu từ Trung Quốc đạt hơn 115 tỷ USD trong nửa đầu năm, bỏ xa các thị trường khác",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-15 14:26",
-      "link": "https://vietnambiz.vn/nhap-khau-tu-trung-quoc-dat-hon-115-ty-usd-trong-nua-dau-nam-bo-xa-cac-thi-truong-khac-2026711115916247.htm",
-      "diem": 34.0
-    },
-    {
-      "tieu_de": "Lãi suất cao 'bào mòn' động lực đầu tư của doanh nghiệp",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-15 14:26",
-      "link": "https://vietnambiz.vn/lai-suat-cao-bao-mon-dong-luc-dau-tu-cua-doanh-nghiep-202678195739704.htm",
-      "diem": 34.0
+      "thoi_gian": "2026-07-15 15:42",
+      "link": "https://cafef.vn/mot-ngan-hang-chuan-bi-chia-co-phieu-thuong-ty-le-105-188260715154250669.chn",
+      "diem": 33.2
     },
     {
       "tieu_de": "Chỉ trong 6 tháng, một địa phương ghi nhận tăng trưởng GRDP lọt TOP10, FDI tăng bằng lần, đặt mục tiêu thành \"thủ phủ\" công nghiệp công nghệ cao của Việt Nam",
@@ -81,25 +45,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-15 10:13",
       "link": "https://cafef.vn/chi-trong-6-thang-mot-dia-phuong-ghi-nhan-tang-truong-grdp-lot-top10-fdi-tang-bang-lan-dat-muc-tieu-thanh-thu-phu-cong-nghiep-cong-nghe-cao-cua-viet-nam-188260715101421513.chn",
-      "diem": 32.4
-    },
-    {
-      "tieu_de": "Chuyên gia lý giải tại sao GDP nửa đầu năm tăng nhanh nhưng doanh nghiệp, người dân vẫn cảm thấy khó khăn",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-15 14:26",
-      "link": "https://vietnambiz.vn/chuyen-gia-ly-giai-tai-sao-gdp-nua-dau-nam-tang-nhanh-nhung-doanh-nghiep-nguoi-dan-van-cam-thay-kho-khan-202679102640405.htm",
-      "diem": 32.0
-    },
-    {
-      "tieu_de": "TP HCM giải ngân đầu tư công đạt 35% trong 6 tháng",
-      "chu_de": "Chính sách",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-15 14:26",
-      "link": "https://vietnambiz.vn/tp-hcm-giai-ngan-dau-tu-cong-dat-35-trong-6-thang-202671065233311.htm",
-      "diem": 30.6
+      "diem": 28.6
     },
     {
       "tieu_de": "Lạm phát Mỹ bất ngờ giảm mạnh chưa từng có trong 6 năm: Fed sẽ không tăng lãi suất?",
@@ -108,70 +54,34 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-14 21:00",
       "link": "https://cafef.vn/lam-phat-my-bat-ngo-giam-manh-chua-tung-co-trong-6-nam-fed-se-khong-tang-lai-suat-188260714201905531.chn",
-      "diem": 30.1
+      "diem": 26.9
     },
     {
-      "tieu_de": "Chuyên gia: Dư địa nới lỏng tiền tệ, kích cầu tài khóa để hỗ trợ tăng trưởng đang dần thu hẹp",
+      "tieu_de": "Hà Nội kiên quyết không nghiệm thu dự án 'nợ' hạ tầng thoát nước",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
+      "nguon": "CafeF Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-15 14:26",
-      "link": "https://vietnambiz.vn/chuyen-gia-du-dia-noi-long-tien-te-kich-cau-tai-khoa-de-ho-tro-tang-truong-dang-dan-thu-hep-202671416332454.htm",
-      "diem": 30.0
+      "thoi_gian": "2026-07-15 18:28",
+      "link": "https://cafef.vn/ha-noi-kien-quyet-khong-nghiem-thu-du-an-no-ha-tang-thoat-nuoc-188260715160422245.chn",
+      "diem": 25.4
     },
     {
-      "tieu_de": "'Muốn tăng trưởng hai con số, Việt Nam phải khơi thông ba động lực'",
+      "tieu_de": "Sun Signature hút hơn 53.600 hội viên sau một tháng",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
+      "nguon": "VnExpress Kinh doanh",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-15 14:26",
-      "link": "https://vietnambiz.vn/muon-tang-truong-hai-con-so-viet-nam-phai-khoi-thong-ba-dong-luc-2026714143821714.htm",
-      "diem": 30.0
+      "thoi_gian": "2026-07-15 18:15",
+      "link": "https://vnexpress.net/sun-signature-hut-hon-53-600-hoi-vien-sau-mot-thang-5097868.html",
+      "diem": 25.2
     },
     {
-      "tieu_de": "10 địa phương tăng trưởng công nghiệp mạnh nhất cả nước nửa đầu năm: Hà Tĩnh bứt phá dẫn đầu",
+      "tieu_de": "Hơn 6.200 chuyến bay bị chậm trong tháng 6: Hãng nào nhiều nhất?",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
+      "nguon": "CafeF Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-15 14:26",
-      "link": "https://vietnambiz.vn/10-dia-phuong-tang-truong-cong-nghiep-manh-nhat-ca-nuoc-nua-dau-nam-ha-tinh-but-pha-dan-dau-2026712145831828.htm",
-      "diem": 30.0
-    },
-    {
-      "tieu_de": "30 địa phương được giao tăng trưởng GRDP trên 10%",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-15 14:26",
-      "link": "https://vietnambiz.vn/30-dia-phuong-duoc-giao-tang-truong-grdp-tren-10-202671074439237.htm",
-      "diem": 30.0
-    },
-    {
-      "tieu_de": "Thấy gì từ 11 địa phương có tăng trưởng GRDP dưới 8% thấp nhất cả nước?",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-15 14:26",
-      "link": "https://vietnambiz.vn/thay-gi-tu-11-dia-phuong-co-tang-truong-grdp-duoi-8-thap-nhat-ca-nuoc-2026710115331116.htm",
-      "diem": 30.0
-    },
-    {
-      "tieu_de": "Techcombank đồng tổ chức Diễn đàn Tài chính cấp Quốc gia - VFF 2026: Định hình hạ tầng vốn và tài chính số cho chu kỳ tăng trưởng mới",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-15 14:26",
-      "link": "https://vietnambiz.vn/techcombank-dong-to-chuc-dien-dan-tai-chinh-cap-quoc-gia-vff-2026-dinh-hinh-ha-tang-von-va-tai-chinh-so-cho-chu-ky-tang-truong-moi-20267917333415.htm",
-      "diem": 30.0
-    },
-    {
-      "tieu_de": "Muốn tăng trưởng hai con số, phải tạo sân chơi lớn hơn cho doanh nghiệp tư nhân",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-15 14:26",
-      "link": "https://vietnambiz.vn/muon-tang-truong-hai-con-so-phai-tao-san-choi-lon-hon-cho-doanh-nghiep-tu-nhan-202678173918188.htm",
-      "diem": 30.0
+      "thoi_gian": "2026-07-15 17:00",
+      "link": "https://cafef.vn/hon-6200-chuyen-bay-bi-cham-trong-thang-6-hang-nao-nhieu-nhat-188260715153141283.chn",
+      "diem": 24.2
     },
     {
       "tieu_de": "Chuyên gia: Muốn đạt được mục tiêu tăng trưởng hai con số, Việt Nam không thể chỉ dựa vào mở rộng vốn, lao động và khai thác lợi thế chi phí thấp",
@@ -180,7 +90,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-15 12:09",
       "link": "https://cafef.vn/chuyen-gia-muon-dat-duoc-muc-tieu-tang-truong-hai-con-so-viet-nam-khong-the-chi-dua-vao-mo-rong-von-lao-dong-va-khai-thac-loi-the-chi-phi-thap-188260715121013625.chn",
-      "diem": 28.0
+      "diem": 24.2
     },
     {
       "tieu_de": "Lọc dòng vốn, giữ 'chất xám': Khi Việt Nam không còn thu hút FDI bằng mọi giá",
@@ -189,34 +99,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-15 09:34",
       "link": "https://cafef.vn/loc-dong-von-giu-chat-xam-khi-viet-nam-khong-con-thu-hut-fdi-bang-moi-gia-188260715082835797.chn",
-      "diem": 28.0
-    },
-    {
-      "tieu_de": "Giá xăng dầu đã giảm gần 40% từ đỉnh, người dân 'mòn mỏi' chờ một đợt giảm giá hàng hoá",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-15 14:26",
-      "link": "https://vietnambiz.vn/gia-xang-dau-da-giam-gan-40-tu-dinh-nguoi-dan-mon-moi-cho-mot-dot-giam-gia-hang-hoa-2026711105133549.htm",
-      "diem": 28.0
-    },
-    {
-      "tieu_de": "Giám đốc điều hành WEF: Việt Nam sẽ sớm thành nền kinh tế 'nghìn tỷ USD'",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-15 14:26",
-      "link": "https://vietnambiz.vn/giam-doc-dieu-hanh-wef-viet-nam-se-som-thanh-nen-kinh-te-nghin-ty-usd-202679161018431.htm",
-      "diem": 28.0
-    },
-    {
-      "tieu_de": "Chủ tịch UBND TP Hà Nội Vũ Đại Thắng: Mục tiêu tăng trưởng 11% có cơ sở để hoàn thành",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-15 11:30",
-      "link": "https://cafef.vn/chu-tich-ubnd-tp-ha-noi-vu-dai-thang-muc-tieu-tang-truong-11-co-co-so-de-hoan-thanh-188260715110541553.chn",
-      "diem": 27.6
+      "diem": 24.0
     },
     {
       "tieu_de": "Giới đầu tư dự báo Fed chưa tăng lãi suất",
@@ -225,52 +108,169 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-15 00:03",
       "link": "https://vnexpress.net/gioi-dau-tu-du-bao-fed-chua-tang-lai-suat-5097493.html",
-      "diem": 27.2
+      "diem": 24.0
     },
     {
-      "tieu_de": "HSBC: Thị phần thương mại AI của Việt Nam tăng từ 1,2% lên 12,4% sau một thập kỷ",
+      "tieu_de": "Tất cả trẻ dưới 6 tuổi trên toàn quốc sẽ được hưởng một quyền lợi từ tháng 7/2026",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
+      "nguon": "CafeF Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-15 14:26",
-      "link": "https://vietnambiz.vn/hsbc-thi-phan-thuong-mai-ai-cua-viet-nam-tang-tu-12-len-124-sau-mot-thap-ky-2026715112849273.htm",
-      "diem": 26.0
+      "thoi_gian": "2026-07-15 16:35",
+      "link": "https://cafef.vn/tat-ca-tre-duoi-6-tuoi-tren-toan-quoc-se-duoc-huong-mot-quyen-loi-tu-thang-7-2026-188260715145528958.chn",
+      "diem": 23.8
     },
     {
-      "tieu_de": "TS. Cấn Văn Lực: Không nên quá lo lắng về câu chuyện nhập siêu của Việt Nam",
+      "tieu_de": "Tất cả người dân có bằng lái xe chú ý quy định thời gian cấp đổi giấy phép có hiệu lực từ tháng 7",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
+      "nguon": "CafeF Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-15 14:26",
-      "link": "https://vietnambiz.vn/ts-can-van-luc-khong-nen-qua-lo-lang-ve-cau-chuyen-nhap-sieu-cua-viet-nam-2026714145243418.htm",
-      "diem": 26.0
+      "thoi_gian": "2026-07-15 16:25",
+      "link": "https://cafef.vn/tat-ca-nguoi-dan-co-bang-lai-xe-chu-y-quy-dinh-thoi-gian-cap-doi-giay-phep-co-hieu-luc-tu-thang-7-188260715152915678.chn",
+      "diem": 23.8
     },
     {
-      "tieu_de": "Được nâng hạng lên nước thu nhập trung bình cao sau 17 năm, Việt Nam cần đi 'chặng đường' tiếp theo như thế nào?",
+      "tieu_de": "Chủ tịch UBND TP Hà Nội Vũ Đại Thắng: Mục tiêu tăng trưởng 11% có cơ sở để hoàn thành",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
+      "nguon": "CafeF Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-15 14:26",
-      "link": "https://vietnambiz.vn/duoc-nang-hang-len-nuoc-thu-nhap-trung-binh-cao-sau-17-nam-viet-nam-can-di-chang-duong-tiep-theo-nhu-the-nao-202671316474314.htm",
-      "diem": 26.0
+      "thoi_gian": "2026-07-15 11:30",
+      "link": "https://cafef.vn/chu-tich-ubnd-tp-ha-noi-vu-dai-thang-muc-tieu-tang-truong-11-co-co-so-de-hoan-thanh-188260715110541553.chn",
+      "diem": 23.6
     },
     {
-      "tieu_de": "Sân bay Long Thành dự kiến khai thác thương mại từ 1/12",
+      "tieu_de": "Giám đốc Sở Xây dựng Hà Nội: Mưa ngày 9/7 chỉ ‘dềnh nước’ vì ngập chưa quá 30cm",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
+      "nguon": "CafeF Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-15 14:26",
-      "link": "https://vietnambiz.vn/san-bay-long-thanh-du-kien-khai-thac-thuong-mai-tu-112-202671321233936.htm",
-      "diem": 26.0
+      "thoi_gian": "2026-07-15 16:00",
+      "link": "https://cafef.vn/giam-doc-so-xay-dung-ha-noi-mua-ngay-9-7-chi-denh-nuoc-vi-ngap-chua-qua-30cm-1882607151507377.chn",
+      "diem": 23.4
     },
     {
-      "tieu_de": "Hà Nội dự kiến chi hơn 75.000 tỷ đồng cải tạo sông Nhuệ",
+      "tieu_de": "Quy định về hoạt động bảo hiểm tiền gửi",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
+      "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-15 14:26",
-      "link": "https://vietnambiz.vn/ha-noi-du-kien-chi-hon-75000-ty-dong-cai-tao-song-nhue-20267136393259.htm",
-      "diem": 26.0
+      "thoi_gian": "2026-07-15 15:07",
+      "link": "https://cafef.vn/quy-dinh-ve-hoat-dong-bao-hiem-tien-gui-188260715145107085.chn",
+      "diem": 22.6
+    },
+    {
+      "tieu_de": "Công an phát thông báo nóng tới toàn bộ người dân đang bật mạng di động 4G/5G",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-15 15:05",
+      "link": "https://cafef.vn/cong-an-phat-thong-bao-nong-toi-toan-bo-nguoi-dan-dang-bat-mang-di-dong-4g-5g-188260715150524648.chn",
+      "diem": 22.6
+    },
+    {
+      "tieu_de": "Xây dựng hệ sinh thái Ethanol để phát triển bền vững xăng E10",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-15 15:00",
+      "link": "https://cafef.vn/xay-dung-he-sinh-thai-ethanol-de-phat-trien-ben-vung-xang-e10-188260715141440265.chn",
+      "diem": 22.6
+    },
+    {
+      "tieu_de": "Kỷ nguyên rác thải từ concert",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-15 15:04",
+      "link": "https://vnexpress.net/ky-nguyen-rac-thai-tu-concert-5097724.html",
+      "diem": 22.6
+    },
+    {
+      "tieu_de": "Sacombank chính thức chuyển trụ sở chính về tòa nhà ThaiSquare The Merit, khẳng định mọi hoạt động kinh doanh được vận hành thông suốt",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-15 14:48",
+      "link": "https://cafef.vn/sacombank-chinh-thuc-chuyen-tru-so-chinh-ve-toa-nha-thaisquare-the-merit-khang-dinh-moi-hoat-dong-kinh-doanh-duoc-van-hanh-thong-suot-188260715145606943.chn",
+      "diem": 22.4
+    },
+    {
+      "tieu_de": "Hà Nội dành hơn 8.000 ha đất để xây dựng hồ điều hòa, giải quyết úng ngập đô thị",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-15 14:30",
+      "link": "https://cafef.vn/ha-noi-danh-hon-8000-ha-dat-de-xay-dung-ho-dieu-hoa-giai-quyet-ung-ngap-do-thi-188260715133434764.chn",
+      "diem": 22.2
+    },
+    {
+      "tieu_de": "HĐND TP Hà Nội truy trách nhiệm cơ quan quản lý chợ Long Biên về trái cây không rõ nguồn gốc",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-15 14:10",
+      "link": "https://cafef.vn/hdnd-tp-ha-noi-truy-trach-nhiem-co-quan-quan-ly-cho-long-bien-ve-trai-cay-khong-ro-nguon-goc-188260715134113181.chn",
+      "diem": 21.8
+    },
+    {
+      "tieu_de": "Việt Nam thuộc nhóm 5 quốc gia dẫn dắt chu kỳ tăng trưởng kinh tế mới của ASEAN",
+      "chu_de": "Kinh tế VN",
+      "nguon": "Vietstock Kinh tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-15 08:39",
+      "link": "http://vietstock.vn/2026/07/viet-nam-thuoc-nhom-5-quoc-gia-dan-dat-chu-ky-tang-truong-kinh-te-moi-cua-asean-761-1466328.htm",
+      "diem": 21.2
+    },
+    {
+      "tieu_de": "Trình Quốc hội dự án Luật sửa đổi các luật về ngân hàng vào tháng 8 tới",
+      "chu_de": "Chính sách",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-15 17:31",
+      "link": "https://cafef.vn/trinh-quoc-hoi-du-an-luat-sua-doi-cac-luat-ve-ngan-hang-vao-thang-8-toi-188260715173143275.chn",
+      "diem": 20.9
+    },
+    {
+      "tieu_de": "Phó Thủ tướng kiểm tra tiến độ dự án trường nội trú liên cấp ở biên giới TP Huế",
+      "chu_de": "Chính sách",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-15 17:30",
+      "link": "https://cafef.vn/pho-thu-tuong-kiem-tra-tien-do-du-an-truong-noi-tru-lien-cap-o-bien-gioi-tp-hue-18826071515310597.chn",
+      "diem": 20.9
+    },
+    {
+      "tieu_de": "Công ty địa ốc của ông Trần Bá Dương lãi đột biến",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-15 12:12",
+      "link": "https://vnexpress.net/cong-ty-dia-oc-cua-ong-tran-ba-duong-lai-dot-bien-5097632.html",
+      "diem": 20.2
+    },
+    {
+      "tieu_de": "NHNN triển khai Kế hoạch hành động về trao đổi thông tin theo yêu cầu vì mục đích thuế",
+      "chu_de": "Chính sách",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-15 06:39",
+      "link": "https://cafef.vn/nhnn-trien-khai-ke-hoach-hanh-dong-ve-trao-doi-thong-tin-theo-yeu-cau-vi-muc-dich-thue-188260715063949982.chn",
+      "diem": 20.1
+    },
+    {
+      "tieu_de": "Kinh tế Trung Quốc tăng trưởng chậm nhất trong nhiều năm",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế, VnExpress Kinh doanh",
+      "so_nguon": 2,
+      "thoi_gian": "2026-07-15 16:48",
+      "link": "https://cafef.vn/kinh-te-trung-quoc-tang-truong-cham-nhat-trong-nhieu-nam-188260715145625819.chn",
+      "diem": 19.8
+    },
+    {
+      "tieu_de": "Nhiều lần ‘lỡ hẹn’, đường nối cảng nước sâu lớn nhất Việt Nam thi công ra sao?",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-15 11:14",
+      "link": "https://cafef.vn/nhieu-lan-lo-hen-duong-noi-cang-nuoc-sau-lon-nhat-viet-nam-thi-cong-ra-sao-188260715102046799.chn",
+      "diem": 19.4
     }
   ]
 }
