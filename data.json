@@ -1,42 +1,15 @@
 {
-  "cap_nhat_luc": "2026-07-16 14:37:07",
+  "cap_nhat_luc": "2026-07-16 20:05:31",
   "so_tin": 30,
   "tin": [
-    {
-      "tieu_de": "Vietbank: Tăng trưởng mạnh về lợi nhuận và những biến động trước thềm niêm yết",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-16 14:37",
-      "link": "https://vietnambiz.vn/vietbank-tang-truong-manh-ve-loi-nhuan-va-nhung-bien-dong-truoc-them-niem-yet-2026713172816981.htm",
-      "diem": 46.0
-    },
     {
       "tieu_de": "TS. Võ Trí Thành: 'Dư địa giảm lãi suất không còn nhiều, nên ưu tiên tín dụng có mục tiêu để hỗ trợ tăng trưởng'",
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-16 14:37",
+      "thoi_gian": "2026-07-16 20:05",
       "link": "https://vietnambiz.vn/ts-vo-tri-thanh-du-dia-giam-lai-suat-khong-con-nhieu-nen-uu-tien-tin-dung-co-muc-tieu-de-ho-tro-tang-truong-2026714171333623.htm",
       "diem": 44.0
-    },
-    {
-      "tieu_de": "900 triệu cổ phiếu PVcomBank chuẩn bị giao dịch trên UPCoM",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-16 14:37",
-      "link": "https://vietnambiz.vn/900-trieu-co-phieu-pvcombank-chuan-bi-giao-dich-tren-upcom-202671610454705.htm",
-      "diem": 42.0
-    },
-    {
-      "tieu_de": "Ba ông lớn ngân hàng đua trả cổ tức, hơn 10.500 tỷ đồng sắp về tay cổ đông",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-16 14:37",
-      "link": "https://vietnambiz.vn/ba-ong-lon-ngan-hang-dua-tra-co-tuc-hon-10500-ty-dong-sap-ve-tay-co-dong-2026714191153110.htm",
-      "diem": 42.0
     },
     {
       "tieu_de": "Cổ phiếu Masan Consumer, TCBS vào rổ VN30 từ đầu tháng 8",
@@ -45,41 +18,14 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-16 08:12",
       "link": "https://vnexpress.net/co-phieu-masan-consumer-tcbs-vao-ro-vn30-tu-dau-thang-8-5097858.html",
-      "diem": 40.6
-    },
-    {
-      "tieu_de": "Tỷ giá USD hôm nay 16/7: Giảm giá sau dữ liệu lạm phát yếu",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-16 14:37",
-      "link": "https://vietnambiz.vn/ty-gia-usd-hom-nay-167-giam-gia-sau-du-lieu-lam-phat-yeu-2026715112133252.htm",
-      "diem": 38.0
-    },
-    {
-      "tieu_de": "Tỷ giá USD hôm nay 15/7: Trượt giá khi lạm phát tiêu dùng hạ nhiệt",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-16 14:37",
-      "link": "https://vietnambiz.vn/ty-gia-usd-hom-nay-157-truot-gia-khi-lam-phat-tieu-dung-ha-nhiet-20267149563984.htm",
-      "diem": 38.0
-    },
-    {
-      "tieu_de": "Chuyên gia: Dư địa nới lỏng tiền tệ, kích cầu tài khóa để hỗ trợ tăng trưởng đang dần thu hẹp",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính, VietnamBiz Vĩ mô",
-      "so_nguon": 2,
-      "thoi_gian": "2026-07-16 14:37",
-      "link": "https://vietnambiz.vn/chuyen-gia-du-dia-noi-long-tien-te-kich-cau-tai-khoa-de-ho-tro-tang-truong-dang-dan-thu-hep-202671416332454.htm",
-      "diem": 36.0
+      "diem": 36.2
     },
     {
       "tieu_de": "Tăng trưởng GDP Việt Nam năm 2026 có thể đạt 9,2%",
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-16 14:37",
+      "thoi_gian": "2026-07-16 20:05",
       "link": "https://vietnambiz.vn/tang-truong-gdp-viet-nam-nam-2026-co-the-dat-92-202671411497431.htm",
       "diem": 36.0
     },
@@ -88,7 +34,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-16 14:37",
+      "thoi_gian": "2026-07-16 20:05",
       "link": "https://vietnambiz.vn/dragon-capital-chi-ra-3-cu-hich-quan-trong-cho-thi-truong-chung-khoan-nua-cuoi-nam-202679172539133.htm",
       "diem": 36.0
     },
@@ -97,79 +43,34 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-16 14:37",
+      "thoi_gian": "2026-07-16 20:05",
       "link": "https://vietnambiz.vn/uob-nang-du-bao-tang-truong-gdp-cua-viet-nam-nam-2026-len-85-202679163512939.htm",
       "diem": 36.0
-    },
-    {
-      "tieu_de": "NHNN quay đầu hút ròng 5 phiên liên tiếp, lãi suất liên ngân hàng hạ nhiệt",
-      "chu_de": "Chính sách",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-16 14:37",
-      "link": "https://vietnambiz.vn/nhnn-quay-dau-hut-rong-5-phien-lien-tiep-lai-suat-lien-ngan-hang-ha-nhiet-202671371541456.htm",
-      "diem": 35.7
     },
     {
       "tieu_de": "Đầu tư công mới chỉ giải ngân được hơn 35%, áp lực vốn hàng triệu tỷ đồng đè nặng lên tín dụng",
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-16 14:37",
+      "thoi_gian": "2026-07-16 20:05",
       "link": "https://vietnambiz.vn/dau-tu-cong-moi-chi-giai-ngan-duoc-hon-35-ap-luc-von-hang-trieu-ty-dong-de-nang-len-tin-dung-2026715122215853.htm",
       "diem": 35.7
     },
     {
-      "tieu_de": "Gửi tiết kiệm kỳ hạn 1 năm tại Techcombank hưởng lãi suất trên 6%/năm",
+      "tieu_de": "Cổ phiếu ngân hàng hồi phục ngoạn mục phiên 16/7: HDB, STB, ACB dẫn đầu tăng giá",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
+      "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-16 14:37",
-      "link": "https://vietnambiz.vn/gui-tiet-kiem-ky-han-1-nam-tai-techcombank-huong-lai-suat-tren-6nam-202671516936645.htm",
-      "diem": 34.0
-    },
-    {
-      "tieu_de": "Lãi suất ngân hàng HDBank tháng 7/2026: Cao nhất 7,6%/năm",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-16 14:37",
-      "link": "https://vietnambiz.vn/lai-suat-ngan-hang-hdbank-thang-72026-cao-nhat-76nam-202671516356283.htm",
-      "diem": 34.0
-    },
-    {
-      "tieu_de": "Ngân hàng đầu tiên tăng lãi suất trong tháng 7",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-16 14:37",
-      "link": "https://vietnambiz.vn/ngan-hang-dau-tien-tang-lai-suat-trong-thang-7-2026714101248525.htm",
-      "diem": 34.0
-    },
-    {
-      "tieu_de": "BVBank chốt giá chào sàn HOSE 13.100 đồng/cp, được duyệt tăng vốn thêm 3.500 tỷ đồng",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-16 14:37",
-      "link": "https://vietnambiz.vn/bvbank-chot-gia-tham-chieu-13100-dongcp-tren-hose-duoc-duyet-tang-von-them-3500-ty-dong-2026713163921948.htm",
-      "diem": 34.0
-    },
-    {
-      "tieu_de": "Lãi suất Ngân hàng Quốc dân (NCB) hạ lãi suất",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-16 14:37",
-      "link": "https://vietnambiz.vn/lai-suat-ngan-hang-quoc-dan-ncb-ha-lai-suat-202671214714482.htm",
-      "diem": 34.0
+      "thoi_gian": "2026-07-16 17:52",
+      "link": "https://cafef.vn/co-phieu-ngan-hang-hoi-phuc-ngoan-muc-phien-16-7-hdb-stb-acb-dan-dau-tang-gia-188260716175500362.chn",
+      "diem": 34.2
     },
     {
       "tieu_de": "Xuất khẩu nửa đầu năm 2026: Mỹ dẫn đầu với kim ngạch đạt trên 86 tỷ USD, gấp 2,2 lần kim ngạch xuất khẩu sang Trung Quốc",
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-16 14:37",
+      "thoi_gian": "2026-07-16 20:05",
       "link": "https://vietnambiz.vn/xuat-khau-nua-dau-nam-2026-my-dan-dau-voi-kim-ngach-dat-tren-86-ty-usd-gap-22-lan-kim-ngach-xuat-khau-sang-trung-quoc-2026716105038977.htm",
       "diem": 34.0
     },
@@ -178,7 +79,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-16 14:37",
+      "thoi_gian": "2026-07-16 20:05",
       "link": "https://vietnambiz.vn/nhap-khau-tu-trung-quoc-dat-hon-115-ty-usd-trong-nua-dau-nam-bo-xa-cac-thi-truong-khac-2026711115916247.htm",
       "diem": 34.0
     },
@@ -187,61 +88,25 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-16 14:37",
+      "thoi_gian": "2026-07-16 20:05",
       "link": "https://vietnambiz.vn/lai-suat-cao-bao-mon-dong-luc-dau-tu-cua-doanh-nghiep-202678195739704.htm",
       "diem": 34.0
     },
     {
-      "tieu_de": "Xuất hiện mã cổ phiếu ngân hàng hoàn toàn mới: PCB",
+      "tieu_de": "Lãi suất ngân hàng 16/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...",
       "chu_de": "Kinh tế VN",
       "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-16 11:20",
-      "link": "https://cafef.vn/xuat-hien-ma-co-phieu-ngan-hang-hoan-toan-moi-pcb-188260716112051859.chn",
-      "diem": 33.2
-    },
-    {
-      "tieu_de": "Bổ sung 5.000 tỷ đồng vốn điều lệ cho Ngân hàng Hợp tác xã Việt Nam",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính, VietnamBiz Tài chính",
-      "so_nguon": 2,
-      "thoi_gian": "2026-07-16 14:37",
-      "link": "https://vietnambiz.vn/bo-sung-5000-ty-dong-von-dieu-le-cho-ngan-hang-hop-tac-xa-viet-nam-202671672025212.htm",
-      "diem": 32.0
-    },
-    {
-      "tieu_de": "Tín dụng toàn ngành được dẫn dắt với nhóm Big4 và nhóm nhận chuyển giao bắt buộc",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-16 14:37",
-      "link": "https://vietnambiz.vn/tin-dung-toan-nganh-duoc-dan-dat-voi-nhom-big4-va-nhom-nhan-chuyen-giao-bat-buoc-202671417737962.htm",
-      "diem": 32.0
-    },
-    {
-      "tieu_de": "Tỷ giá USD hôm nay 14/7: Tăng cao hơn do căng thẳng Mỹ - Iran leo thang",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-16 14:37",
-      "link": "https://vietnambiz.vn/ty-gia-usd-hom-nay-147-tang-cao-hon-do-cang-thang-my-iran-leo-thang-20267138514499.htm",
-      "diem": 32.0
-    },
-    {
-      "tieu_de": "Tỷ giá USD hôm nay 13/7: Giảm nhẹ trước tâm lý thận trọng của thị trường",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-16 14:37",
-      "link": "https://vietnambiz.vn/ty-gia-usd-hom-nay-137-giam-nhe-truoc-tam-ly-than-trong-cua-thi-truong-202671010957556.htm",
-      "diem": 32.0
+      "thoi_gian": "2026-07-16 17:59",
+      "link": "https://cafef.vn/lai-suat-ngan-hang-16-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260716180139975.chn",
+      "diem": 32.2
     },
     {
       "tieu_de": "Chuyên gia lý giải tại sao GDP nửa đầu năm tăng nhanh nhưng doanh nghiệp, người dân vẫn cảm thấy khó khăn",
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-16 14:37",
+      "thoi_gian": "2026-07-16 20:05",
       "link": "https://vietnambiz.vn/chuyen-gia-ly-giai-tai-sao-gdp-nua-dau-nam-tang-nhanh-nhung-doanh-nghiep-nguoi-dan-van-cam-thay-kho-khan-202679102640405.htm",
       "diem": 32.0
     },
@@ -250,27 +115,162 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-16 14:37",
+      "thoi_gian": "2026-07-16 20:05",
       "link": "https://vietnambiz.vn/tp-hcm-giai-ngan-dau-tu-cong-dat-35-trong-6-thang-202671065233311.htm",
       "diem": 30.6
     },
     {
-      "tieu_de": "Nhiều cổ phiếu ngân hàng diễn biến tích cực dù thị trường chung ảm đạm",
+      "tieu_de": "Chuyên gia: Dư địa nới lỏng tiền tệ, kích cầu tài khóa để hỗ trợ tăng trưởng đang dần thu hẹp",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-16 20:05",
+      "link": "https://vietnambiz.vn/chuyen-gia-du-dia-noi-long-tien-te-kich-cau-tai-khoa-de-ho-tro-tang-truong-dang-dan-thu-hep-202671416332454.htm",
+      "diem": 30.0
+    },
+    {
+      "tieu_de": "'Muốn tăng trưởng hai con số, Việt Nam phải khơi thông ba động lực'",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-16 20:05",
+      "link": "https://vietnambiz.vn/muon-tang-truong-hai-con-so-viet-nam-phai-khoi-thong-ba-dong-luc-2026714143821714.htm",
+      "diem": 30.0
+    },
+    {
+      "tieu_de": "10 địa phương tăng trưởng công nghiệp mạnh nhất cả nước nửa đầu năm: Hà Tĩnh bứt phá dẫn đầu",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-16 20:05",
+      "link": "https://vietnambiz.vn/10-dia-phuong-tang-truong-cong-nghiep-manh-nhat-ca-nuoc-nua-dau-nam-ha-tinh-but-pha-dan-dau-2026712145831828.htm",
+      "diem": 30.0
+    },
+    {
+      "tieu_de": "30 địa phương được giao tăng trưởng GRDP trên 10%",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-16 20:05",
+      "link": "https://vietnambiz.vn/30-dia-phuong-duoc-giao-tang-truong-grdp-tren-10-202671074439237.htm",
+      "diem": 30.0
+    },
+    {
+      "tieu_de": "Thấy gì từ 11 địa phương có tăng trưởng GRDP dưới 8% thấp nhất cả nước?",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-16 20:05",
+      "link": "https://vietnambiz.vn/thay-gi-tu-11-dia-phuong-co-tang-truong-grdp-duoi-8-thap-nhat-ca-nuoc-2026710115331116.htm",
+      "diem": 30.0
+    },
+    {
+      "tieu_de": "Techcombank đồng tổ chức Diễn đàn Tài chính cấp Quốc gia - VFF 2026: Định hình hạ tầng vốn và tài chính số cho chu kỳ tăng trưởng mới",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-16 20:05",
+      "link": "https://vietnambiz.vn/techcombank-dong-to-chuc-dien-dan-tai-chinh-cap-quoc-gia-vff-2026-dinh-hinh-ha-tang-von-va-tai-chinh-so-cho-chu-ky-tang-truong-moi-20267917333415.htm",
+      "diem": 30.0
+    },
+    {
+      "tieu_de": "Muốn tăng trưởng hai con số, phải tạo sân chơi lớn hơn cho doanh nghiệp tư nhân",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-16 20:05",
+      "link": "https://vietnambiz.vn/muon-tang-truong-hai-con-so-phai-tao-san-choi-lon-hon-cho-doanh-nghiep-tu-nhan-202678173918188.htm",
+      "diem": 30.0
+    },
+    {
+      "tieu_de": "Xuất hiện mã cổ phiếu ngân hàng hoàn toàn mới: PCB",
       "chu_de": "Kinh tế VN",
       "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-16 07:44",
-      "link": "https://cafef.vn/nhieu-co-phieu-ngan-hang-dien-bien-tich-cuc-du-thi-truong-chung-am-dam-188260716074624331.chn",
-      "diem": 30.2
+      "thoi_gian": "2026-07-16 11:20",
+      "link": "https://cafef.vn/xuat-hien-ma-co-phieu-ngan-hang-hoan-toan-moi-pcb-188260716112051859.chn",
+      "diem": 28.8
     },
     {
-      "tieu_de": "Tỷ giá euro ngày 16/7: Thị trường chợ đen tăng mạnh",
+      "tieu_de": "Giá xăng dầu đã giảm gần 40% từ đỉnh, người dân 'mòn mỏi' chờ một đợt giảm giá hàng hoá",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
+      "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-16 14:37",
-      "link": "https://vietnambiz.vn/ty-gia-euro-ngay-167-thi-truong-cho-den-tang-manh-202671685122102.htm",
-      "diem": 30.0
+      "thoi_gian": "2026-07-16 20:05",
+      "link": "https://vietnambiz.vn/gia-xang-dau-da-giam-gan-40-tu-dinh-nguoi-dan-mon-moi-cho-mot-dot-giam-gia-hang-hoa-2026711105133549.htm",
+      "diem": 28.0
+    },
+    {
+      "tieu_de": "Giám đốc điều hành WEF: Việt Nam sẽ sớm thành nền kinh tế 'nghìn tỷ USD'",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-16 20:05",
+      "link": "https://vietnambiz.vn/giam-doc-dieu-hanh-wef-viet-nam-se-som-thanh-nen-kinh-te-nghin-ty-usd-202679161018431.htm",
+      "diem": 28.0
+    },
+    {
+      "tieu_de": "HSBC: Thị phần thương mại AI của Việt Nam tăng từ 1,2% lên 12,4% sau một thập kỷ",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-16 20:05",
+      "link": "https://vietnambiz.vn/hsbc-thi-phan-thuong-mai-ai-cua-viet-nam-tang-tu-12-len-124-sau-mot-thap-ky-2026715112849273.htm",
+      "diem": 26.0
+    },
+    {
+      "tieu_de": "TS. Cấn Văn Lực: Không nên quá lo lắng về câu chuyện nhập siêu của Việt Nam",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-16 20:05",
+      "link": "https://vietnambiz.vn/ts-can-van-luc-khong-nen-qua-lo-lang-ve-cau-chuyen-nhap-sieu-cua-viet-nam-2026714145243418.htm",
+      "diem": 26.0
+    },
+    {
+      "tieu_de": "Được nâng hạng lên nước thu nhập trung bình cao sau 17 năm, Việt Nam cần đi 'chặng đường' tiếp theo như thế nào?",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-16 20:05",
+      "link": "https://vietnambiz.vn/duoc-nang-hang-len-nuoc-thu-nhap-trung-binh-cao-sau-17-nam-viet-nam-can-di-chang-duong-tiep-theo-nhu-the-nao-202671316474314.htm",
+      "diem": 26.0
+    },
+    {
+      "tieu_de": "Sân bay Long Thành dự kiến khai thác thương mại từ 1/12",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-16 20:05",
+      "link": "https://vietnambiz.vn/san-bay-long-thanh-du-kien-khai-thac-thuong-mai-tu-112-202671321233936.htm",
+      "diem": 26.0
+    },
+    {
+      "tieu_de": "Hà Nội dự kiến chi hơn 75.000 tỷ đồng cải tạo sông Nhuệ",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-16 20:05",
+      "link": "https://vietnambiz.vn/ha-noi-du-kien-chi-hon-75000-ty-dong-cai-tao-song-nhue-20267136393259.htm",
+      "diem": 26.0
+    },
+    {
+      "tieu_de": "Chuyên gia: CPI bình quân cả năm 2026 sẽ dao động trong khoảng 4,3% - 4,5%",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-16 20:05",
+      "link": "https://vietnambiz.vn/chuyen-gia-cpi-binh-quan-ca-nam-2026-se-dao-dong-trong-khoang-43-45-202679111128977.htm",
+      "diem": 26.0
+    },
+    {
+      "tieu_de": "Data Talk | Macro Insight: Dòng tiền cuối năm sẽ chảy vào đâu?",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-16 20:05",
+      "link": "https://vietnambiz.vn/data-talk-macro-insight-dong-tien-cuoi-nam-se-chay-vao-dau-202678145024214.htm",
+      "diem": 26.0
     }
   ]
 }
