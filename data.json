@@ -1,5 +1,5 @@
 {
-  "cap_nhat_luc": "2026-07-18 03:14:48",
+  "cap_nhat_luc": "2026-07-18 06:12:42",
   "so_tin": 30,
   "tin": [
     {
@@ -7,7 +7,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-18 03:14",
+      "thoi_gian": "2026-07-18 06:12",
       "link": "https://vietnambiz.vn/ts-vo-tri-thanh-du-dia-giam-lai-suat-khong-con-nhieu-nen-uu-tien-tin-dung-co-muc-tieu-de-ho-tro-tang-truong-2026714171333623.htm",
       "diem": 44.0
     },
@@ -16,7 +16,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-18 03:14",
+      "thoi_gian": "2026-07-18 06:12",
       "link": "https://vietnambiz.vn/tang-truong-gdp-viet-nam-nam-2026-co-the-dat-92-202671411497431.htm",
       "diem": 36.0
     },
@@ -25,7 +25,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-18 03:14",
+      "thoi_gian": "2026-07-18 06:12",
       "link": "https://vietnambiz.vn/dragon-capital-chi-ra-3-cu-hich-quan-trong-cho-thi-truong-chung-khoan-nua-cuoi-nam-202679172539133.htm",
       "diem": 36.0
     },
@@ -34,7 +34,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-18 03:14",
+      "thoi_gian": "2026-07-18 06:12",
       "link": "https://vietnambiz.vn/uob-nang-du-bao-tang-truong-gdp-cua-viet-nam-nam-2026-len-85-202679163512939.htm",
       "diem": 36.0
     },
@@ -43,7 +43,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-18 03:14",
+      "thoi_gian": "2026-07-18 06:12",
       "link": "https://vietnambiz.vn/dau-tu-cong-moi-chi-giai-ngan-duoc-hon-35-ap-luc-von-hang-trieu-ty-dong-de-nang-len-tin-dung-2026715122215853.htm",
       "diem": 35.7
     },
@@ -52,7 +52,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-18 03:14",
+      "thoi_gian": "2026-07-18 06:12",
       "link": "https://vietnambiz.vn/xuat-khau-nua-dau-nam-2026-my-dan-dau-voi-kim-ngach-dat-tren-86-ty-usd-gap-22-lan-kim-ngach-xuat-khau-sang-trung-quoc-2026716105038977.htm",
       "diem": 34.0
     },
@@ -61,7 +61,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-18 03:14",
+      "thoi_gian": "2026-07-18 06:12",
       "link": "https://vietnambiz.vn/nhap-khau-tu-trung-quoc-dat-hon-115-ty-usd-trong-nua-dau-nam-bo-xa-cac-thi-truong-khac-2026711115916247.htm",
       "diem": 34.0
     },
@@ -70,9 +70,18 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-18 03:14",
+      "thoi_gian": "2026-07-18 06:12",
       "link": "https://vietnambiz.vn/lai-suat-cao-bao-mon-dong-luc-dau-tu-cua-doanh-nghiep-202678195739704.htm",
       "diem": 34.0
+    },
+    {
+      "tieu_de": "Chuyên gia lý giải tại sao GDP nửa đầu năm tăng nhanh nhưng doanh nghiệp, người dân vẫn cảm thấy khó khăn",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-18 06:12",
+      "link": "https://vietnambiz.vn/chuyen-gia-ly-giai-tai-sao-gdp-nua-dau-nam-tang-nhanh-nhung-doanh-nghiep-nguoi-dan-van-cam-thay-kho-khan-202679102640405.htm",
+      "diem": 32.0
     },
     {
       "tieu_de": "Thanh khoản chứng khoán thấp nhất một tháng",
@@ -81,33 +90,6 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-17 16:31",
       "link": "https://vnexpress.net/thanh-khoan-chung-khoan-thap-nhat-mot-thang-5098632.html",
-      "diem": 33.0
-    },
-    {
-      "tieu_de": "Chủ tịch Tập đoàn Hoa Lâm đăng ký mua 22 triệu cổ phiếu Vietbank",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính, VnExpress Kinh doanh",
-      "so_nguon": 2,
-      "thoi_gian": "2026-07-17 15:08",
-      "link": "https://vnexpress.net/chu-tich-tap-doan-hoa-lam-dang-ky-mua-22-trieu-co-phieu-vietbank-5098579.html",
-      "diem": 32.0
-    },
-    {
-      "tieu_de": "Chuyên gia lý giải tại sao GDP nửa đầu năm tăng nhanh nhưng doanh nghiệp, người dân vẫn cảm thấy khó khăn",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-18 03:14",
-      "link": "https://vietnambiz.vn/chuyen-gia-ly-giai-tai-sao-gdp-nua-dau-nam-tang-nhanh-nhung-doanh-nghiep-nguoi-dan-van-cam-thay-kho-khan-202679102640405.htm",
-      "diem": 32.0
-    },
-    {
-      "tieu_de": "Hàng loạt quan chức Fed nhất trí tăng lãi suất nếu cần, tiết lộ số đợt tối thiểu để kiểm soát lạm phát",
-      "chu_de": "Fed",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-17 10:21",
-      "link": "https://cafef.vn/hang-loat-quan-chuc-fed-nhat-tri-tang-lai-suat-neu-can-tiet-lo-so-dot-toi-thieu-de-kiem-soat-lam-phat-188260717102202513.chn",
       "diem": 30.6
     },
     {
@@ -115,7 +97,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-18 03:14",
+      "thoi_gian": "2026-07-18 06:12",
       "link": "https://vietnambiz.vn/giam-doc-adb-tai-viet-nam-tang-truong-gdp-6-thang-dau-nam-rat-an-tuong-song-chinh-sach-tien-te-nen-than-trong-hon-2026717142050917.htm",
       "diem": 30.6
     },
@@ -124,7 +106,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-18 03:14",
+      "thoi_gian": "2026-07-18 06:12",
       "link": "https://vietnambiz.vn/tp-hcm-giai-ngan-dau-tu-cong-dat-35-trong-6-thang-202671065233311.htm",
       "diem": 30.6
     },
@@ -133,7 +115,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-18 03:14",
+      "thoi_gian": "2026-07-18 06:12",
       "link": "https://vietnambiz.vn/chuyen-gia-du-dia-noi-long-tien-te-kich-cau-tai-khoa-de-ho-tro-tang-truong-dang-dan-thu-hep-202671416332454.htm",
       "diem": 30.0
     },
@@ -142,7 +124,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-18 03:14",
+      "thoi_gian": "2026-07-18 06:12",
       "link": "https://vietnambiz.vn/muon-tang-truong-hai-con-so-viet-nam-phai-khoi-thong-ba-dong-luc-2026714143821714.htm",
       "diem": 30.0
     },
@@ -151,7 +133,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-18 03:14",
+      "thoi_gian": "2026-07-18 06:12",
       "link": "https://vietnambiz.vn/10-dia-phuong-tang-truong-cong-nghiep-manh-nhat-ca-nuoc-nua-dau-nam-ha-tinh-but-pha-dan-dau-2026712145831828.htm",
       "diem": 30.0
     },
@@ -160,7 +142,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-18 03:14",
+      "thoi_gian": "2026-07-18 06:12",
       "link": "https://vietnambiz.vn/30-dia-phuong-duoc-giao-tang-truong-grdp-tren-10-202671074439237.htm",
       "diem": 30.0
     },
@@ -169,7 +151,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-18 03:14",
+      "thoi_gian": "2026-07-18 06:12",
       "link": "https://vietnambiz.vn/thay-gi-tu-11-dia-phuong-co-tang-truong-grdp-duoi-8-thap-nhat-ca-nuoc-2026710115331116.htm",
       "diem": 30.0
     },
@@ -178,7 +160,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-18 03:14",
+      "thoi_gian": "2026-07-18 06:12",
       "link": "https://vietnambiz.vn/techcombank-dong-to-chuc-dien-dan-tai-chinh-cap-quoc-gia-vff-2026-dinh-hinh-ha-tang-von-va-tai-chinh-so-cho-chu-ky-tang-truong-moi-20267917333415.htm",
       "diem": 30.0
     },
@@ -187,34 +169,34 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-18 03:14",
+      "thoi_gian": "2026-07-18 06:12",
       "link": "https://vietnambiz.vn/muon-tang-truong-hai-con-so-phai-tao-san-choi-lon-hon-cho-doanh-nghiep-tu-nhan-202678173918188.htm",
       "diem": 30.0
     },
     {
-      "tieu_de": "Chủ tịch Fed Kevin Warsh: Kiềm chế lạm phát vẫn là ưu tiên hàng đầu, chưa vội giảm lãi suất",
+      "tieu_de": "Chủ tịch Tập đoàn Hoa Lâm đăng ký mua 22 triệu cổ phiếu Vietbank",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính, VnExpress Kinh doanh",
+      "so_nguon": 2,
+      "thoi_gian": "2026-07-17 15:08",
+      "link": "https://vnexpress.net/chu-tich-tap-doan-hoa-lam-dang-ky-mua-22-trieu-co-phieu-vietbank-5098579.html",
+      "diem": 29.4
+    },
+    {
+      "tieu_de": "Hàng loạt quan chức Fed nhất trí tăng lãi suất nếu cần, tiết lộ số đợt tối thiểu để kiểm soát lạm phát",
       "chu_de": "Fed",
       "nguon": "CafeF Tài chính quốc tế",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-17 09:05",
-      "link": "https://cafef.vn/chu-tich-fed-kevin-warsh-kiem-che-lam-phat-van-la-uu-tien-hang-dau-chua-voi-giam-lai-suat-188260717080652383.chn",
-      "diem": 29.6
-    },
-    {
-      "tieu_de": "USD hướng tới tuần giảm giá khi Fed chưa sớm tăng lãi suất",
-      "chu_de": "Fed",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-17 11:59",
-      "link": "https://cafef.vn/usd-huong-toi-tuan-giam-gia-khi-fed-chua-som-tang-lai-suat-188260717110001263.chn",
-      "diem": 28.2
+      "thoi_gian": "2026-07-17 10:21",
+      "link": "https://cafef.vn/hang-loat-quan-chuc-fed-nhat-tri-tang-lai-suat-neu-can-tiet-lo-so-dot-toi-thieu-de-kiem-soat-lam-phat-188260717102202513.chn",
+      "diem": 28.4
     },
     {
       "tieu_de": "Giá xăng dầu đã giảm gần 40% từ đỉnh, người dân 'mòn mỏi' chờ một đợt giảm giá hàng hoá",
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-18 03:14",
+      "thoi_gian": "2026-07-18 06:12",
       "link": "https://vietnambiz.vn/gia-xang-dau-da-giam-gan-40-tu-dinh-nguoi-dan-mon-moi-cho-mot-dot-giam-gia-hang-hoa-2026711105133549.htm",
       "diem": 28.0
     },
@@ -223,34 +205,34 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-18 03:14",
+      "thoi_gian": "2026-07-18 06:12",
       "link": "https://vietnambiz.vn/giam-doc-dieu-hanh-wef-viet-nam-se-som-thanh-nen-kinh-te-nghin-ty-usd-202679161018431.htm",
       "diem": 28.0
     },
     {
-      "tieu_de": "Tỷ phú Mỹ tối ưu doanh thu từng m2 sân diễn ra trận tranh hạng ba World Cup",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
+      "tieu_de": "Chủ tịch Fed Kevin Warsh: Kiềm chế lạm phát vẫn là ưu tiên hàng đầu, chưa vội giảm lãi suất",
+      "chu_de": "Fed",
+      "nguon": "CafeF Tài chính quốc tế",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-18 00:10",
-      "link": "https://vnexpress.net/ty-phu-my-toi-uu-doanh-thu-tung-m2-san-dien-ra-tran-tranh-hang-ba-world-cup-5098455.html",
-      "diem": 27.4
+      "thoi_gian": "2026-07-17 09:05",
+      "link": "https://cafef.vn/chu-tich-fed-kevin-warsh-kiem-che-lam-phat-van-la-uu-tien-hang-dau-chua-voi-giam-lai-suat-188260717080652383.chn",
+      "diem": 27.5
     },
     {
-      "tieu_de": "Lãi suất ngân hàng 17/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...",
-      "chu_de": "Kinh tế VN",
+      "tieu_de": "USD hướng tới tuần giảm giá khi Fed chưa sớm tăng lãi suất",
+      "chu_de": "Fed",
       "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-17 18:51",
-      "link": "https://cafef.vn/lai-suat-ngan-hang-17-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260717185358828.chn",
-      "diem": 27.0
+      "thoi_gian": "2026-07-17 11:59",
+      "link": "https://cafef.vn/usd-huong-toi-tuan-giam-gia-khi-fed-chua-som-tang-lai-suat-188260717110001263.chn",
+      "diem": 26.2
     },
     {
       "tieu_de": "Đà Nẵng đặt mục tiêu kinh tế số chiếm 27% GRDP",
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-18 03:14",
+      "thoi_gian": "2026-07-18 06:12",
       "link": "https://vietnambiz.vn/da-nang-dat-muc-tieu-kinh-te-so-chiem-27-grdp-2026717194547319.htm",
       "diem": 26.0
     },
@@ -259,7 +241,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-18 03:14",
+      "thoi_gian": "2026-07-18 06:12",
       "link": "https://vietnambiz.vn/hang-khong-van-chuyen-gan-45-trieu-khach-6-thang-dau-nam-khach-quoc-te-gap-14-lan-noi-dia-20267171720516.htm",
       "diem": 26.0
     },
@@ -268,8 +250,26 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-18 03:14",
+      "thoi_gian": "2026-07-18 06:12",
       "link": "https://vietnambiz.vn/hsbc-thi-phan-thuong-mai-ai-cua-viet-nam-tang-tu-12-len-124-sau-mot-thap-ky-2026715112849273.htm",
+      "diem": 26.0
+    },
+    {
+      "tieu_de": "TS. Cấn Văn Lực: Không nên quá lo lắng về câu chuyện nhập siêu của Việt Nam",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-18 06:12",
+      "link": "https://vietnambiz.vn/ts-can-van-luc-khong-nen-qua-lo-lang-ve-cau-chuyen-nhap-sieu-cua-viet-nam-2026714145243418.htm",
+      "diem": 26.0
+    },
+    {
+      "tieu_de": "Được nâng hạng lên nước thu nhập trung bình cao sau 17 năm, Việt Nam cần đi 'chặng đường' tiếp theo như thế nào?",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-18 06:12",
+      "link": "https://vietnambiz.vn/duoc-nang-hang-len-nuoc-thu-nhap-trung-binh-cao-sau-17-nam-viet-nam-can-di-chang-duong-tiep-theo-nhu-the-nao-202671316474314.htm",
       "diem": 26.0
     }
   ]
