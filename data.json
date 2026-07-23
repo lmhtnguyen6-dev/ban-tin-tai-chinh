@@ -1,5 +1,5 @@
 {
-  "cap_nhat_luc": "2026-07-24 03:43:00",
+  "cap_nhat_luc": "2026-07-24 06:44:19",
   "so_tin": 30,
   "tin": [
     {
@@ -7,16 +7,25 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-24 03:42",
+      "thoi_gian": "2026-07-24 06:44",
       "link": "https://vietnambiz.vn/ts-vo-tri-thanh-du-dia-giam-lai-suat-khong-con-nhieu-nen-uu-tien-tin-dung-co-muc-tieu-de-ho-tro-tang-truong-2026714171333623.htm",
       "diem": 44.0
+    },
+    {
+      "tieu_de": "Thước đo lạm phát ưa thích của Fed sắp được điều chỉnh, đúng lúc đang cân nhắc tăng lãi suất: Ngân hàng trung ương sẽ làm gì?",
+      "chu_de": "Fed",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-24 06:21",
+      "link": "https://cafef.vn/thuoc-do-lam-phat-ua-thich-cua-fed-sap-duoc-dieu-chinh-dung-luc-dang-can-nhac-tang-lai-suat-ngan-hang-trung-uong-se-lam-gi-188260723211401936.chn",
+      "diem": 42.2
     },
     {
       "tieu_de": "TS. Cấn Văn Lực: Nền kinh tế chỉ dựa vào vốn tín dụng rất rủi ro, cần tăng vốn từ chứng khoán thêm 1,5 - 1,7 lần",
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-24 03:42",
+      "thoi_gian": "2026-07-24 06:44",
       "link": "https://vietnambiz.vn/ts-can-van-luc-nen-kinh-te-chi-dua-vao-von-tin-dung-rat-rui-ro-can-tang-von-tu-chung-khoan-them-15-17-lan-2026723105627344.htm",
       "diem": 42.0
     },
@@ -25,7 +34,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-24 03:42",
+      "thoi_gian": "2026-07-24 06:44",
       "link": "https://vietnambiz.vn/hsbc-kinh-te-viet-nam-tang-toc-nhung-nhap-sieu-lam-phat-va-ty-gia-dang-cung-tao-suc-ep-len-dieu-hanh-2026721134523104.htm",
       "diem": 36.0
     },
@@ -34,7 +43,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-24 03:42",
+      "thoi_gian": "2026-07-24 06:44",
       "link": "https://vietnambiz.vn/sau-so-lieu-quy-ii-loat-to-chuc-quoc-te-du-bao-tang-truong-gdp-viet-nam-2026-cao-nhat-asean-2026721952824.htm",
       "diem": 36.0
     },
@@ -43,7 +52,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-24 03:42",
+      "thoi_gian": "2026-07-24 06:44",
       "link": "https://vietnambiz.vn/standard-chartered-nang-du-bao-tang-truong-gdp-viet-nam-nam-2026-len-95-2027-dat-11-2026720111055365.htm",
       "diem": 36.0
     },
@@ -52,25 +61,16 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-24 03:42",
+      "thoi_gian": "2026-07-24 06:44",
       "link": "https://vietnambiz.vn/dau-tu-cong-moi-chi-giai-ngan-duoc-hon-35-ap-luc-von-hang-trieu-ty-dong-de-nang-len-tin-dung-2026715122215853.htm",
       "diem": 35.7
-    },
-    {
-      "tieu_de": "Nên 'bắt đáy' hay tranh thủ cắt lỗ chứng khoán?",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-24 02:31",
-      "link": "https://vnexpress.net/nen-bat-day-hay-tranh-thu-cat-lo-chung-khoan-5100979.html",
-      "diem": 35.0
     },
     {
       "tieu_de": "Kiều hối về TP HCM giảm xuống 4 tỷ USD",
       "chu_de": "Kinh tế VN",
       "nguon": "CafeF Tài chính, VietnamBiz Vĩ mô",
       "so_nguon": 2,
-      "thoi_gian": "2026-07-24 03:42",
+      "thoi_gian": "2026-07-24 06:44",
       "link": "https://vietnambiz.vn/kieu-hoi-ve-tp-hcm-giam-xuong-4-ty-usd-2026722201310842.htm",
       "diem": 34.0
     },
@@ -79,7 +79,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-24 03:42",
+      "thoi_gian": "2026-07-24 06:44",
       "link": "https://vietnambiz.vn/pho-chu-tich-ubcknn-cac-nha-dau-tu-nuoc-ngoai-dang-quan-tam-den-nhieu-dnnn-quy-mo-lon-von-hoa-hang-ty-usd-2026721144556246.htm",
       "diem": 34.0
     },
@@ -88,34 +88,34 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-24 03:42",
+      "thoi_gian": "2026-07-24 06:44",
       "link": "https://vietnambiz.vn/xuat-khau-nua-dau-nam-2026-my-dan-dau-voi-kim-ngach-dat-tren-86-ty-usd-gap-22-lan-kim-ngach-xuat-khau-sang-trung-quoc-2026716105038977.htm",
       "diem": 34.0
+    },
+    {
+      "tieu_de": "Nên 'bắt đáy' hay tranh thủ cắt lỗ chứng khoán?",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-24 02:31",
+      "link": "https://vnexpress.net/nen-bat-day-hay-tranh-thu-cat-lo-chung-khoan-5100979.html",
+      "diem": 32.4
     },
     {
       "tieu_de": "Giám đốc ADB tại Việt Nam: Tăng trưởng GDP 6 tháng đầu năm rất ấn tượng song chính sách tiền tệ nên thận trọng hơn",
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-24 03:42",
+      "thoi_gian": "2026-07-24 06:44",
       "link": "https://vietnambiz.vn/giam-doc-adb-tai-viet-nam-tang-truong-gdp-6-thang-dau-nam-rat-an-tuong-song-chinh-sach-tien-te-nen-than-trong-hon-2026717142050917.htm",
       "diem": 30.6
-    },
-    {
-      "tieu_de": "Lãi suất ngân hàng 23/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-23 20:35",
-      "link": "https://cafef.vn/lai-suat-ngan-hang-23-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260723163729659.chn",
-      "diem": 28.0
     },
     {
       "tieu_de": "'IFC có thể huy động 10 - 30 tỷ USD mỗi năm từ nhà đầu tư quốc tế'",
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-24 03:42",
+      "thoi_gian": "2026-07-24 06:44",
       "link": "https://vietnambiz.vn/ifc-co-the-huy-dong-10-30-ty-usd-moi-nam-tu-nha-dau-tu-quoc-te-2026723183220903.htm",
       "diem": 28.0
     },
@@ -124,7 +124,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-24 03:42",
+      "thoi_gian": "2026-07-24 06:44",
       "link": "https://vietnambiz.vn/pvoil-da-thu-xep-2-trieu-thung-dau-tho-tu-iraq-tu-nay-den-cuoi-nam-tiep-tuc-cung-ung-them-3-trieu-thung-2026722151250466.htm",
       "diem": 28.0
     },
@@ -133,61 +133,25 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-24 03:42",
+      "thoi_gian": "2026-07-24 06:44",
       "link": "https://vietnambiz.vn/tham-hut-thuong-mai-lan-dau-tien-vuot-moc-20-ty-usd-sau-30-nam-2026720143919627.htm",
       "diem": 28.0
-    },
-    {
-      "tieu_de": "Vùng Vịnh chạy đua bơm tiền xây ống dẫn dầu tránh eo biển Hormuz",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-24 03:04",
-      "link": "https://vnexpress.net/vung-vinh-chay-dua-bom-tien-xay-ong-dan-dau-tranh-eo-bien-hormuz-5100842.html",
-      "diem": 27.4
     },
     {
       "tieu_de": "Thủ tướng yêu cầu trình đề án cải cách tổng thể thị trường tài chính trong tháng 7",
       "chu_de": "Chính sách",
       "nguon": "CafeF Tài chính, VietnamBiz Vĩ mô",
       "so_nguon": 2,
-      "thoi_gian": "2026-07-24 03:42",
+      "thoi_gian": "2026-07-24 06:44",
       "link": "https://vietnambiz.vn/thu-tuong-yeu-cau-trinh-de-an-cai-cach-tong-the-thi-truong-tai-chinh-trong-thang-7-2026718151720870.htm",
       "diem": 27.2
-    },
-    {
-      "tieu_de": "Ông Nguyễn Quốc Anh: 81% người mua nhà sẵn sàng vay ngân hàng nếu lãi suất dưới 9%, còn trên 10% sẽ dè dặt xuống tiền",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-23 19:10",
-      "link": "https://cafef.vn/ong-nguyen-quoc-anh-81-nguoi-mua-nha-san-sang-vay-ngan-hang-neu-lai-suat-duoi-9-con-tren-10-se-de-dat-xuong-tien-188260723171037116.chn",
-      "diem": 26.8
-    },
-    {
-      "tieu_de": "Chứng khoán tiến sát mốc 1.700 điểm",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-23 16:05",
-      "link": "https://vnexpress.net/chung-khoan-tien-sat-moc-1-700-diem-5100613.html",
-      "diem": 26.4
-    },
-    {
-      "tieu_de": "TS. Cấn Văn Lực: Nhà đầu tư chứng khoán sử dụng đòn bẩy ngày càng lớn, tiềm ẩn rủi ro khi thị trường đảo chiều",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-23 15:41",
-      "link": "https://cafef.vn/ts-can-van-luc-nha-dau-tu-chung-khoan-su-dung-don-bay-ngay-cang-lon-tiem-an-rui-ro-khi-thi-truong-dao-chieu-188260723154324096.chn",
-      "diem": 26.0
     },
     {
       "tieu_de": "Đề xuất đầu tư 19 công trình tăng hiệu quả dự án chống ngập 10.000 tỷ đồng",
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-24 03:42",
+      "thoi_gian": "2026-07-24 06:44",
       "link": "https://vietnambiz.vn/de-xuat-dau-tu-19-cong-trinh-tang-hieu-qua-du-an-chong-ngap-10000-ty-dong-20267236545804.htm",
       "diem": 26.0
     },
@@ -196,7 +160,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-24 03:42",
+      "thoi_gian": "2026-07-24 06:44",
       "link": "https://vietnambiz.vn/ha-noi-nghien-cuu-mo-hinh-khu-dich-vu-giai-tri-dem-co-kiem-soat-2026723653445.htm",
       "diem": 26.0
     },
@@ -205,7 +169,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-24 03:42",
+      "thoi_gian": "2026-07-24 06:44",
       "link": "https://vietnambiz.vn/trung-uong-thao-luan-de-an-thanh-lap-thanh-pho-quang-ninh-bac-ninh-202672220748677.htm",
       "diem": 26.0
     },
@@ -214,7 +178,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-24 03:42",
+      "thoi_gian": "2026-07-24 06:44",
       "link": "https://vietnambiz.vn/gap-rut-chuyen-minh-bang-cac-du-an-ha-tang-viet-nam-se-giai-bai-toan-von-va-nguon-luc-the-nao-2026722115144634.htm",
       "diem": 26.0
     },
@@ -223,7 +187,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-24 03:42",
+      "thoi_gian": "2026-07-24 06:44",
       "link": "https://vietnambiz.vn/dong-nai-duoc-dinh-huong-thanh-trung-tam-hang-khong-cua-chau-a-thai-binh-duong-2026722153116867.htm",
       "diem": 26.0
     },
@@ -232,7 +196,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-24 03:42",
+      "thoi_gian": "2026-07-24 06:44",
       "link": "https://vietnambiz.vn/ts-nguyen-duc-hien-tranh-truong-hop-doanh-nghiep-nha-nuoc-lon-lam-het-viec-cua-doanh-nghiep-vua-va-nho-202672110556191.htm",
       "diem": 26.0
     },
@@ -241,7 +205,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-24 03:42",
+      "thoi_gian": "2026-07-24 06:44",
       "link": "https://vietnambiz.vn/tam-nhin-2045-viet-nam-dat-muc-tieu-tro-thanh-trung-tam-van-hoa-sang-tao-hang-dau-khu-vuc-20267218633637.htm",
       "diem": 26.0
     },
@@ -250,7 +214,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-24 03:42",
+      "thoi_gian": "2026-07-24 06:44",
       "link": "https://vietnambiz.vn/lam-sach-ma-so-thue-chan-ke-ho-cho-doanh-nghiep-ao-2026719155423579.htm",
       "diem": 26.0
     },
@@ -259,7 +223,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-24 03:42",
+      "thoi_gian": "2026-07-24 06:44",
       "link": "https://vietnambiz.vn/du-kien-mo-rong-dinh-danh-dien-tu-moi-thuc-the-202671973935524.htm",
       "diem": 26.0
     },
@@ -268,8 +232,44 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-24 03:42",
+      "thoi_gian": "2026-07-24 06:44",
       "link": "https://vietnambiz.vn/du-an-chong-ngap-lon-nhat-tp-hcm-phat-sinh-hon-2500-ty-dong-lai-vay-2026718194423986.htm",
+      "diem": 26.0
+    },
+    {
+      "tieu_de": "Xử lý doanh nghiệp 'ma', ngăn lợi dụng pháp nhân để trốn thuế",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-24 06:44",
+      "link": "https://vietnambiz.vn/xu-ly-doanh-nghiep-ma-ngan-loi-dung-phap-nhan-de-tron-thue-2026718152841488.htm",
+      "diem": 26.0
+    },
+    {
+      "tieu_de": "Đà Nẵng đặt mục tiêu kinh tế số chiếm 27% GRDP",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-24 06:44",
+      "link": "https://vietnambiz.vn/da-nang-dat-muc-tieu-kinh-te-so-chiem-27-grdp-2026717194547319.htm",
+      "diem": 26.0
+    },
+    {
+      "tieu_de": "Hàng không vận chuyển gần 45 triệu khách 6 tháng đầu năm, khách quốc tế gấp 1,4 lần nội địa",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-24 06:44",
+      "link": "https://vietnambiz.vn/hang-khong-van-chuyen-gan-45-trieu-khach-6-thang-dau-nam-khach-quoc-te-gap-14-lan-noi-dia-20267171720516.htm",
+      "diem": 26.0
+    },
+    {
+      "tieu_de": "HSBC: Thị phần thương mại AI của Việt Nam tăng từ 1,2% lên 12,4% sau một thập kỷ",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-24 06:44",
+      "link": "https://vietnambiz.vn/hsbc-thi-phan-thuong-mai-ai-cua-viet-nam-tang-tu-12-len-124-sau-mot-thap-ky-2026715112849273.htm",
       "diem": 26.0
     }
   ]
