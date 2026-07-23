@@ -1,33 +1,60 @@
 {
-  "cap_nhat_luc": "2026-07-23 13:43:51",
+  "cap_nhat_luc": "2026-07-23 19:14:02",
   "so_tin": 30,
   "tin": [
     {
-      "tieu_de": "TS. Cấn Văn Lực: Nền kinh tế chỉ dựa vào vốn tín dụng rất rủi ro, cần tăng vốn từ chứng khoán thêm 1,5 - 1,7 lần",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-23 13:43",
-      "link": "https://vietnambiz.vn/ts-can-van-luc-nen-kinh-te-chi-dua-vao-von-tin-dung-rat-rui-ro-can-tang-von-tu-chung-khoan-them-15-17-lan-2026723105627344.htm",
-      "diem": 42.0
-    },
-    {
-      "tieu_de": "Biến động lãi suất vay mua bất động sản trong giai đoạn mới",
+      "tieu_de": "Ông Nguyễn Quốc Anh: 81% người mua nhà sẵn sàng vay ngân hàng nếu lãi suất dưới 9%, còn trên 10% sẽ dè dặt xuống tiền",
       "chu_de": "Kinh tế VN",
       "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-23 09:09",
-      "link": "https://cafef.vn/lai-suat-vay-mua-bat-dong-san-tang-manh-188260723091025635.chn",
-      "diem": 34.2
-    },
-    {
-      "tieu_de": "Phó Chủ tịch Ủy ban Chứng khoán: Thị trường chứng khoán Việt Nam tiếp tục mở rộng mạnh mẽ và ngày càng khẳng định vai trò quan trọng trong nền kinh tế",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-23 11:24",
-      "link": "https://cafef.vn/pho-chu-tich-uy-ban-chung-khoan-thi-truong-chung-khoan-viet-nam-tiep-tuc-mo-rong-manh-me-va-ngay-cang-khang-dinh-vai-tro-quan-trong-trong-nen-kinh-te-188260723112638107.chn",
+      "thoi_gian": "2026-07-23 19:10",
+      "link": "https://cafef.vn/ong-nguyen-quoc-anh-81-nguoi-mua-nha-san-sang-vay-ngan-hang-neu-lai-suat-duoi-9-con-tren-10-se-de-dat-xuong-tien-188260723171037116.chn",
       "diem": 34.0
+    },
+    {
+      "tieu_de": "Chứng khoán tiến sát mốc 1.700 điểm",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-23 16:05",
+      "link": "https://vnexpress.net/chung-khoan-tien-sat-moc-1-700-diem-5100613.html",
+      "diem": 33.4
+    },
+    {
+      "tieu_de": "TS. Cấn Văn Lực: Nhà đầu tư chứng khoán sử dụng đòn bẩy ngày càng lớn, tiềm ẩn rủi ro khi thị trường đảo chiều",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-23 15:41",
+      "link": "https://cafef.vn/ts-can-van-luc-nha-dau-tu-chung-khoan-su-dung-don-bay-ngay-cang-lon-tiem-an-rui-ro-khi-thi-truong-dao-chieu-188260723154324096.chn",
+      "diem": 33.0
+    },
+    {
+      "tieu_de": "Một cổ phiếu ngân hàng bất ngờ tăng kịch trần phiên 23/7",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-23 14:01",
+      "link": "https://cafef.vn/mot-co-phieu-ngan-hang-bat-ngo-tang-kich-tran-phien-23-7-188260723135214003.chn",
+      "diem": 31.6
+    },
+    {
+      "tieu_de": "Elon Musk để ngỏ việc sáp nhập SpaceX và Tesla",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-23 16:07",
+      "link": "https://vnexpress.net/elon-musk-de-ngo-viec-sap-nhap-spacex-va-tesla-5100849.html",
+      "diem": 31.4
+    },
+    {
+      "tieu_de": "Lãi suất huy động có quay đầu giảm trong thời gian tới?: Sếp Techcombank đưa ra dự báo",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-23 15:57",
+      "link": "https://cafef.vn/lai-suat-huy-dong-co-quay-dau-giam-trong-thoi-gian-toi-sep-techcombank-dua-ra-du-bao-188260723155717007.chn",
+      "diem": 31.2
     },
     {
       "tieu_de": "Chỉ trong nửa năm, GDP Việt Nam tăng 8,18%, FDI giải ngân lập đỉnh 5 năm, đâu sẽ là 'ngôi sao hy vọng' cho nền kinh tế trong nửa cuối năm 2026?",
@@ -36,88 +63,25 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-23 11:16",
       "link": "https://cafef.vn/chi-trong-nua-nam-gdp-viet-nam-tang-818-fdi-giai-ngan-lap-dinh-5-nam-dau-se-la-ngoi-sao-hy-vong-cho-nen-kinh-te-trong-nua-cuoi-nam-2026-188260723111657833.chn",
-      "diem": 34.0
+      "diem": 30.1
     },
     {
-      "tieu_de": "[Cập nhật 23/7] KQKD ngân hàng 6 tháng đầu năm: Kienlongbank báo lãi nghìn tỷ, lợi nhuận 9 ngân hàng tăng hai chữ số",
+      "tieu_de": "Biến động lãi suất vay mua bất động sản trong giai đoạn mới",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
+      "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-23 13:43",
-      "link": "https://vietnambiz.vn/cap-nhat-237-kqkd-ngan-hang-6-thang-dau-nam-kienlongbank-bao-lai-nghin-ty-loi-nhuan-9-ngan-hang-tang-hai-chu-so-202672375836780.htm",
-      "diem": 34.0
+      "thoi_gian": "2026-07-23 09:09",
+      "link": "https://cafef.vn/lai-suat-vay-mua-bat-dong-san-tang-manh-188260723091025635.chn",
+      "diem": 29.6
     },
     {
-      "tieu_de": "[Cập nhật 22/7] KQKD ngân hàng 6 tháng đầu năm: Thêm ACB công bố, VPBank đang tạm dẫn đầu lợi nhuận nhóm tư nhân",
+      "tieu_de": "Phó Chủ tịch Ủy ban Chứng khoán: Thị trường chứng khoán Việt Nam tiếp tục mở rộng mạnh mẽ và ngày càng khẳng định vai trò quan trọng trong nền kinh tế",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
+      "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-23 13:43",
-      "link": "https://vietnambiz.vn/cap-nhat-227-kqkd-ngan-hang-6-thang-dau-nam-vpbank-dang-tam-dan-dau-loi-nhuan-nhom-tu-nhan-20267227140359.htm",
-      "diem": 34.0
-    },
-    {
-      "tieu_de": "Lãi suất cho vay bình quân lên 10,5% một năm",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-23 13:43",
-      "link": "https://vietnambiz.vn/lai-suat-cho-vay-binh-quan-len-105-mot-nam-202672263921874.htm",
-      "diem": 34.0
-    },
-    {
-      "tieu_de": "Hơn 4,3% vốn của LPBank đổi chủ, ngân hàng sẽ có thêm cổ đông lớn?",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-23 13:43",
-      "link": "https://vietnambiz.vn/hon-43-von-cua-lpbank-doi-chu-ngan-hang-se-co-them-co-dong-lon-202672116268595.htm",
-      "diem": 34.0
-    },
-    {
-      "tieu_de": "[Cập nhật 21/7] KQKD ngân hàng 6 tháng đầu năm: Techcombank báo lãi kỷ lục, 5 nhà băng có lợi nhuận tăng trên 60%, hai nơi báo giảm",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-23 13:43",
-      "link": "https://vietnambiz.vn/cap-nhat-217-kqkd-ngan-hang-6-thang-dau-nam-techcombank-bao-lai-ky-luc-5-nha-bang-co-loi-nhuan-tang-tren-60-hai-noi-bao-giam-202672185315715.htm",
-      "diem": 34.0
-    },
-    {
-      "tieu_de": "Ngân hàng nào đang trả lãi suất cao nhất kỳ hạn 6 tháng?",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-23 13:43",
-      "link": "https://vietnambiz.vn/ngan-hang-nao-dang-tra-lai-suat-cao-nhat-ky-han-6-thang-2026720205332911.htm",
-      "diem": 34.0
-    },
-    {
-      "tieu_de": "Lãi suất tiết kiệm tại Vikki Bank mới nhất tháng 7: Tiếp tục neo cao",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-23 13:43",
-      "link": "https://vietnambiz.vn/lai-suat-tiet-kiem-tai-vikki-bank-moi-nhat-thang-7-tiep-tuc-neo-cao-202671716141320.htm",
-      "diem": 34.0
-    },
-    {
-      "tieu_de": "Lợi nhuận một ngân hàng tăng 66% trong nửa đầu năm",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-23 13:43",
-      "link": "https://vietnambiz.vn/loi-nhuan-mot-ngan-hang-tang-66-trong-nua-dau-nam-202672110341897.htm",
-      "diem": 34.0
-    },
-    {
-      "tieu_de": "Nam A Bank dẫn đầu danh sách trả lãi suất tiết kiệm cao nhất kỳ hạn 2 năm",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-23 13:43",
-      "link": "https://vietnambiz.vn/nam-a-bank-dan-dau-danh-sach-tra-lai-suat-tiet-kiem-cao-nhat-ky-han-2-nam-2026720214459615.htm",
-      "diem": 34.0
+      "thoi_gian": "2026-07-23 11:24",
+      "link": "https://cafef.vn/pho-chu-tich-uy-ban-chung-khoan-thi-truong-chung-khoan-viet-nam-tiep-tuc-mo-rong-manh-me-va-ngay-cang-khang-dinh-vai-tro-quan-trong-trong-nen-kinh-te-188260723112638107.chn",
+      "diem": 29.4
     },
     {
       "tieu_de": "KienlongBank công bố BCTC quý II/2026: Quy mô tài sản bứt phá mạnh mẽ, lợi nhuận bứt tốc",
@@ -126,16 +90,16 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-23 13:30",
       "link": "https://cafef.vn/kienlongbank-cong-bo-bctc-quy-ii-2026-quy-mo-tai-san-but-pha-manh-me-loi-nhuan-but-toc-188260723110815949.chn",
-      "diem": 33.8
+      "diem": 29.2
     },
     {
-      "tieu_de": "Đại diện NHNN: Vốn bất động sản phải vào nhu cầu thực",
+      "tieu_de": "Một số bộ ngành, địa phương có tỷ lệ giải ngân vốn đầu tư công đạt thấp",
       "chu_de": "Chính sách",
-      "nguon": "VietnamBiz Tài chính",
+      "nguon": "CafeF Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-23 13:43",
-      "link": "https://vietnambiz.vn/dai-dien-nhnn-von-bat-dong-san-phai-vao-nhu-cau-thuc-2026722142915872.htm",
-      "diem": 32.3
+      "thoi_gian": "2026-07-23 16:24",
+      "link": "https://cafef.vn/mot-so-bo-nganh-dia-phuong-co-ty-le-giai-ngan-von-dau-tu-cong-dat-thap-188260723153949505.chn",
+      "diem": 28.6
     },
     {
       "tieu_de": "Sếp ABBank lý giải vì sao lãi suất chưa thể cố định trong 5 năm hay 10 năm",
@@ -144,61 +108,16 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-23 11:19",
       "link": "https://cafef.vn/sep-abbank-ly-giai-vi-sao-lai-suat-chua-the-co-dinh-trong-5-nam-hay-10-nam-188260723101759513.chn",
-      "diem": 32.0
+      "diem": 27.4
     },
     {
-      "tieu_de": "Tỷ giá USD hôm nay 23/7: Dừng đà tăng nhưng vẫn ở mức cao",
+      "tieu_de": "Đèo Cả dự kiến huy động 400 người, hơn 100 máy móc, tổ chức 12 mũi thi công cho dự án cao tốc 23.940 tỷ đồng giúp kết nối Việt Nam và Lào",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
+      "nguon": "CafeF Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-23 13:43",
-      "link": "https://vietnambiz.vn/ty-gia-usd-hom-nay-237-dung-da-tang-nhung-van-o-muc-cao-2026722942596.htm",
-      "diem": 32.0
-    },
-    {
-      "tieu_de": "Tỷ giá USD hôm nay 21/7: Tăng nhờ nhu cầu trú ẩn an toàn",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-23 13:43",
-      "link": "https://vietnambiz.vn/ty-gia-usd-hom-nay-217-tang-nho-nhu-cau-tru-an-an-toan-20267209109181.htm",
-      "diem": 32.0
-    },
-    {
-      "tieu_de": "Tỷ giá euro ngày 23/7: Tiếp tục nối dài đà tăng",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-23 13:43",
-      "link": "https://vietnambiz.vn/ty-gia-euro-ngay-237-tiep-tuc-noi-dai-da-tang-20267239655884.htm",
-      "diem": 30.0
-    },
-    {
-      "tieu_de": "Tỷ giá euro ngày 22/7: Thị trường nhích nhẹ",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-23 13:43",
-      "link": "https://vietnambiz.vn/ty-gia-euro-ngay-227-thi-truong-nhich-nhe-202672293242291.htm",
-      "diem": 30.0
-    },
-    {
-      "tieu_de": "Tỷ giá euro ngày 21/7: Giá mua bán tiếp tục giảm mạnh",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-23 13:43",
-      "link": "https://vietnambiz.vn/ty-gia-euro-ngay-217-gia-mua-ban-tiep-tuc-giam-manh-202672193861.htm",
-      "diem": 30.0
-    },
-    {
-      "tieu_de": "MSB được Ngân hàng Nhà nước chấp thuận tăng vốn điều lệ lên tối đa 37.440 tỷ đồng",
-      "chu_de": "Chính sách",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-23 13:43",
-      "link": "https://vietnambiz.vn/msb-duoc-ngan-hang-nha-nuoc-chap-thuan-tang-von-dieu-le-len-toi-da-37440-ty-dong-2026720201458922.htm",
-      "diem": 28.9
+      "thoi_gian": "2026-07-23 17:53",
+      "link": "https://cafef.vn/deo-ca-du-kien-huy-dong-400-nguoi-hon-100-may-moc-to-chuc-12-mui-thi-cong-cho-du-an-cao-toc-23940-ty-dong-giup-ket-noi-viet-nam-va-lao-188260723165528047.chn",
+      "diem": 24.8
     },
     {
       "tieu_de": "\"Việt Nam còn bao nhiêu nguồn dầu khí? Khả năng nhập khẩu dầu thô ra sao?\" - Có một câu hỏi khác còn quan trọng hơn!",
@@ -207,25 +126,52 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-23 09:57",
       "link": "https://cafef.vn/viet-nam-con-bao-nhieu-nguon-dau-khi-kha-nang-nhap-khau-dau-tho-ra-sao-co-mot-cau-hoi-khac-con-quan-trong-hon-188260723095748753.chn",
-      "diem": 28.8
+      "diem": 24.2
     },
     {
-      "tieu_de": "Đồng yen vượt mốc 163 yen/USD lần đầu tiên kể từ năm 1986",
+      "tieu_de": "Cảng hàng không Quảng Trị của Bầu Hiển có chuyển động mới",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
+      "nguon": "CafeF Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-23 13:43",
-      "link": "https://vietnambiz.vn/dong-yen-vuot-moc-163-yenusd-lan-dau-tien-ke-tu-nam-1986-202672214254438.htm",
-      "diem": 28.0
+      "thoi_gian": "2026-07-23 16:25",
+      "link": "https://cafef.vn/cang-hang-khong-quang-tri-cua-bau-hien-co-chuyen-dong-moi-188260723162554972.chn",
+      "diem": 23.6
     },
     {
-      "tieu_de": "Giá USD tự do lao dốc",
+      "tieu_de": "Tin vui: Một quốc gia đang được thúc đẩy mở đường bay thẳng với Việt Nam, trước đây chưa từng có",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
+      "nguon": "CafeF Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-23 13:43",
-      "link": "https://vietnambiz.vn/gia-usd-tu-do-lao-doc-2026721203236417.htm",
-      "diem": 28.0
+      "thoi_gian": "2026-07-23 16:21",
+      "link": "https://cafef.vn/tin-vui-mot-quoc-gia-dang-duoc-thuc-day-mo-duong-bay-thang-voi-viet-nam-truoc-day-chua-tung-co-188260723155140739.chn",
+      "diem": 23.6
+    },
+    {
+      "tieu_de": "Dự kiến kiểm tra 5 doanh nghiệp kinh doanh vàng bạc, kim cương, đá quý",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-23 16:18",
+      "link": "https://vnexpress.net/du-kien-kiem-tra-5-doanh-nghiep-kinh-doanh-vang-bac-kim-cuong-da-quy-5100839.html",
+      "diem": 23.6
+    },
+    {
+      "tieu_de": "Tăng tốc thi công, hoàn thành tuyến đường Vành đai 1 trước 2-9",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-23 15:46",
+      "link": "https://cafef.vn/tang-toc-thi-cong-hoan-thanh-tuyen-duong-vanh-dai-1-truoc-2-9-188260723154300421.chn",
+      "diem": 23.2
+    },
+    {
+      "tieu_de": "Gặp Tổng Thư ký ASEAN, DN Việt sắp phủ sóng 17.000 hòn đảo hé lộ đại kế sách, 700 triệu người sẽ hưởng lợi",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-23 15:40",
+      "link": "https://cafef.vn/gap-tong-thu-ky-asean-dn-viet-sap-phu-song-17000-hon-dao-he-lo-dai-ke-sach-700-trieu-nguoi-se-huong-loi-188260723151149958.chn",
+      "diem": 23.0
     },
     {
       "tieu_de": "Kinh tế Hàn Quốc tăng vượt dự báo nhờ xuất khẩu chip",
@@ -234,7 +180,34 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-23 10:51",
       "link": "https://vnexpress.net/kinh-te-han-quoc-tang-vuot-du-bao-nho-xuat-khau-chip-5100647.html",
-      "diem": 27.6
+      "diem": 23.0
+    },
+    {
+      "tieu_de": "Xếp hạng mới nhất của hộ chiếu Việt Nam",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-23 15:08",
+      "link": "https://cafef.vn/xep-hang-moi-nhat-cua-ho-chieu-viet-nam-188260723150259464.chn",
+      "diem": 22.6
+    },
+    {
+      "tieu_de": "Hướng dẫn mức hưởng bảo hiểm y tế theo lương cơ sở mới 01/7/2026",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-23 14:36",
+      "link": "https://cafef.vn/huong-dan-muc-huong-bao-hiem-y-te-theo-luong-co-so-moi-01-7-2026-188260723142224009.chn",
+      "diem": 22.2
+    },
+    {
+      "tieu_de": "Giá xăng E10 RON 95-III tăng gần 900 đồng một lít",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-23 14:47",
+      "link": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-23-7-5100801.html",
+      "diem": 22.2
     },
     {
       "tieu_de": "Khi con người trở thành thước đo của tăng trưởng",
@@ -243,7 +216,16 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-23 09:06",
       "link": "http://vietstock.vn/2026/07/khi-con-nguoi-tro-thanh-thuoc-do-cua-tang-truong-761-1469956.htm",
-      "diem": 26.2
+      "diem": 21.6
+    },
+    {
+      "tieu_de": "Tuần trước, sân bay Đà Nẵng ghi nhận 2 máy bay lạ của Vietjet trong cùng 1 ngày",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-23 13:47",
+      "link": "https://cafef.vn/tuan-truoc-san-bay-da-nang-ghi-nhan-2-may-bay-la-cua-vietjet-trong-cung-1-ngay-188260723090527444.chn",
+      "diem": 21.4
     },
     {
       "tieu_de": "Cà Mau chấp thuận chủ trương đầu tư dự án đường dây 500 kV LNG Bạc Liêu – Thốt Nốt",
@@ -252,25 +234,43 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-23 13:37",
       "link": "https://cafef.vn/ca-mau-chap-thuan-chu-truong-dau-tu-du-an-duong-day-500-kv-lng-bac-lieu-thot-not-188260723133244856.chn",
-      "diem": 26.0
+      "diem": 21.4
     },
     {
-      "tieu_de": "KienlongBank báo lãi 6 tháng hơn 1.176 tỷ đồng, hoàn thành 45% kế hoạch năm",
+      "tieu_de": "SJC trả tiền mua vàng trong ngày, kim cương trong 48 giờ",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
+      "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-23 13:43",
-      "link": "https://vietnambiz.vn/kienlongbank-bao-lai-6-thang-hon-1176-ty-dong-hoan-thanh-45-ke-hoach-nam-2026722174339440.htm",
-      "diem": 26.0
+      "thoi_gian": "2026-07-23 12:59",
+      "link": "https://cafef.vn/sjc-tra-tien-mua-vang-trong-ngay-kim-cuong-trong-48-gio-188260723121506764.chn",
+      "diem": 20.8
     },
     {
-      "tieu_de": "Ông Nguyễn Lê Quốc Anh, cựu CEO Techcombank, tái xuất tại Eximbank",
+      "tieu_de": "Sá xị Chương Dương chưa hết lỗ",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
+      "nguon": "VnExpress Kinh doanh",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-23 13:43",
-      "link": "https://vietnambiz.vn/ong-nguyen-le-quoc-anh-cuu-ceo-techcombank-tai-xuat-tai-eximbank-2026722163832331.htm",
-      "diem": 26.0
+      "thoi_gian": "2026-07-23 12:44",
+      "link": "https://vnexpress.net/sa-xi-chuong-duong-chua-het-lo-5100658.html",
+      "diem": 20.6
+    },
+    {
+      "tieu_de": "Chủ casino Royal Hạ Long báo lỗ vì World Cup",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-23 12:12",
+      "link": "https://vnexpress.net/chu-casino-royal-ha-long-bao-lo-vi-world-cup-5100670.html",
+      "diem": 20.2
+    },
+    {
+      "tieu_de": "Tuyệt đối không làm điều này nếu không muốn bị chiếm quyền điện thoại, mất tiền trong tài khoản",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-23 11:44",
+      "link": "https://cafef.vn/tuyet-doi-khong-lam-dieu-nay-neu-khong-muon-bi-chiem-quyen-dien-thoai-mat-tien-trong-tai-khoan-188260723074454306.chn",
+      "diem": 19.8
     }
   ]
 }
