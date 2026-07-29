@@ -1,15 +1,45 @@
 {
-  "cap_nhat_luc": "2026-07-29 17:16:05",
+  "cap_nhat_luc": "2026-07-29 23:04:50",
   "so_tin": 30,
   "tin": [
+    {
+      "tieu_de": "Lãi suất ngân hàng 29/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-29 20:37",
+      "link": "https://cafef.vn/lai-suat-ngan-hang-29-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260729203901269.chn",
+      "diem": 52.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Lãi suất liên ngân hàng xuống thấp nhất đầu năm",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính, VnExpress Kinh doanh",
+      "so_nguon": 2,
+      "thoi_gian": "2026-07-29 17:52",
+      "link": "https://vnexpress.net/lai-suat-lien-ngan-hang-xuong-thap-nhat-dau-nam-5103024.html",
+      "diem": 45.6,
+      "khan_cap": false
+    },
     {
       "tieu_de": "TS. Cấn Văn Lực: Nền kinh tế chỉ dựa vào vốn tín dụng rất rủi ro, cần tăng vốn từ chứng khoán thêm 1,5 - 1,7 lần",
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 17:16",
+      "thoi_gian": "2026-07-29 23:04",
       "link": "https://vietnambiz.vn/ts-can-van-luc-nen-kinh-te-chi-dua-vao-von-tin-dung-rat-rui-ro-can-tang-von-tu-chung-khoan-them-15-17-lan-2026723105627344.htm",
       "diem": 42.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Chứng khoán Mỹ chìm trong sắc đỏ, Dow Jones giảm hơn 770 điểm khi nhà đầu tư chờ quyết định của Fed",
+      "chu_de": "Fed",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-29 21:43",
+      "link": "https://cafef.vn/chung-khoan-my-chim-trong-sac-do-dow-jones-giam-hon-770-diem-khi-nha-dau-tu-cho-quyet-dinh-cua-fed-188260729214422687.chn",
+      "diem": 38.1,
       "khan_cap": false
     },
     {
@@ -17,29 +47,9 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 17:16",
+      "thoi_gian": "2026-07-29 23:04",
       "link": "https://vietnambiz.vn/hsbc-kinh-te-viet-nam-tang-toc-nhung-nhap-sieu-lam-phat-va-ty-gia-dang-cung-tao-suc-ep-len-dieu-hanh-2026721134523104.htm",
       "diem": 38.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "VN-Index tăng mạnh nhất một tháng",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-29 16:43",
-      "link": "https://vnexpress.net/vn-index-tang-manh-nhat-mot-thang-5103025.html",
-      "diem": 37.6,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Lãi suất ngân hàng 28/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-28 20:34",
-      "link": "https://cafef.vn/lai-suat-ngan-hang-28-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-18826072820364625.chn",
-      "diem": 36.8,
       "khan_cap": false
     },
     {
@@ -47,7 +57,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 17:16",
+      "thoi_gian": "2026-07-29 23:04",
       "link": "https://vietnambiz.vn/quang-ninh-duoc-thong-qua-ho-so-de-an-thanh-lap-thanh-pho-truc-thuoc-trung-uong-viet-nam-sap-co-thanh-pho-thu-8-202672873019600.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -57,7 +67,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 17:16",
+      "thoi_gian": "2026-07-29 23:04",
       "link": "https://vietnambiz.vn/trung-uong-thao-luan-de-an-thanh-lap-thanh-pho-quang-ninh-bac-ninh-202672220748677.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -67,49 +77,29 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 17:16",
+      "thoi_gian": "2026-07-29 23:04",
       "link": "https://vietnambiz.vn/pho-chu-tich-ubcknn-cac-nha-dau-tu-nuoc-ngoai-dang-quan-tam-den-nhieu-dnnn-quy-mo-lon-von-hoa-hang-ty-usd-2026721144556246.htm",
       "diem": 34.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "Lãi suất qua đêm liên ngân hàng giảm còn 2,2%/năm, thấp nhất từ đầu năm",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-29 15:59",
-      "link": "https://cafef.vn/lai-suat-qua-dem-lien-ngan-hang-giam-con-22-nam-thap-nhat-tu-dau-nam-188260729151655747.chn",
-      "diem": 33.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Xuất hiện một nhà đầu tư cá nhân nắm giữ lượng lớn cổ phiếu ngân hàng, giàu hơn nhiều doanh nhân kỳ cựu trên sàn chứng khoán",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-29 00:00",
-      "link": "https://cafef.vn/xuat-hien-mot-nha-dau-tu-ca-nhan-nam-giu-luong-lon-co-phieu-ngan-hang-giau-hon-nhieu-doanh-nhan-ky-cuu-tren-san-chung-khoan-188260728233536936.chn",
-      "diem": 31.6,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Ông Nguyễn Đức Tài muốn mua 1 triệu cổ phiếu Thế Giới Di Động",
+      "tieu_de": "VN-Index tăng mạnh nhất một tháng",
       "chu_de": "Kinh tế VN",
       "nguon": "VnExpress Kinh doanh",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 11:09",
-      "link": "https://vnexpress.net/ong-nguyen-duc-tai-muon-mua-1-trieu-co-phieu-the-gioi-di-dong-5102840.html",
-      "diem": 31.0,
+      "thoi_gian": "2026-07-29 16:43",
+      "link": "https://vnexpress.net/vn-index-tang-manh-nhat-mot-thang-5103025.html",
+      "diem": 32.6,
       "khan_cap": false
     },
     {
-      "tieu_de": "Được dự báo thuộc nhóm tăng trưởng nhanh nhất ASEAN trong 2026, GDP quý II của \"công xưởng bán dẫn ĐNA\" cao hay thấp so với Việt Nam?",
+      "tieu_de": "Dòng vốn trái phiếu chuyển dịch, áp lực dồn về cuối năm",
       "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Vĩ mô",
+      "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 10:07",
-      "link": "https://cafef.vn/duoc-du-bao-thuoc-nhom-tang-truong-nhanh-nhat-asean-trong-2026-gdp-quy-ii-cua-cong-xuong-ban-dan-dna-cao-hay-thap-so-voi-viet-nam-18826072910083436.chn",
-      "diem": 30.0,
+      "thoi_gian": "2026-07-29 21:33",
+      "link": "https://cafef.vn/dong-von-trai-phieu-chuyen-dich-ap-luc-don-ve-cuoi-nam-188260729213326618.chn",
+      "diem": 30.8,
       "khan_cap": false
     },
     {
@@ -117,7 +107,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 17:16",
+      "thoi_gian": "2026-07-29 23:04",
       "link": "https://vietnambiz.vn/ty-gia-tang-cao-ky-luc-do-dau-202672816363334.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -127,29 +117,9 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 17:16",
+      "thoi_gian": "2026-07-29 23:04",
       "link": "https://vietnambiz.vn/pvoil-da-thu-xep-2-trieu-thung-dau-tho-tu-iraq-tu-nay-den-cuoi-nam-tiep-tuc-cung-ung-them-3-trieu-thung-2026722151250466.htm",
       "diem": 30.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Chuyên gia: Fed có thể khiến thị trường bất ngờ khi tăng lãi suất ngay tại cuộc họp đêm nay",
-      "chu_de": "Fed",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-29 06:21",
-      "link": "https://cafef.vn/chuyen-gia-fed-co-the-khien-thi-truong-bat-ngo-khi-tang-lai-suat-ngay-tai-cuoc-hop-dem-nay-188260728212150576.chn",
-      "diem": 29.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Nghị quyết 21-NQ/TW: Đưa đất đai thực sự trở thành nguồn lực chiến lược, lợi thế cạnh tranh",
-      "chu_de": "Chính sách",
-      "nguon": "Vietstock Kinh tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-29 12:37",
-      "link": "http://vietstock.vn/2026/07/nghi-quyet-21-nqtw-dua-dat-dai-thuc-su-tro-thanh-nguon-luc-chien-luoc-loi-the-canh-tranh-761-1472701.htm",
-      "diem": 28.2,
       "khan_cap": false
     },
     {
@@ -157,7 +127,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 17:16",
+      "thoi_gian": "2026-07-29 23:04",
       "link": "https://vietnambiz.vn/ifc-co-the-huy-dong-10-30-ty-usd-moi-nam-tu-nha-dau-tu-quoc-te-2026723183220903.htm",
       "diem": 28.0,
       "khan_cap": false
@@ -167,9 +137,39 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 17:16",
+      "thoi_gian": "2026-07-29 23:04",
       "link": "https://vietnambiz.vn/tham-hut-thuong-mai-lan-dau-tien-vuot-moc-20-ty-usd-sau-30-nam-2026720143919627.htm",
       "diem": 28.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Ông Nguyễn Đức Tài muốn mua 1 triệu cổ phiếu Thế Giới Di Động",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-29 11:09",
+      "link": "https://vnexpress.net/ong-nguyen-duc-tai-muon-mua-1-trieu-co-phieu-the-gioi-di-dong-5102840.html",
+      "diem": 26.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Chuyên gia: Fed có thể khiến thị trường bất ngờ khi tăng lãi suất ngay tại cuộc họp đêm nay",
+      "chu_de": "Fed",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-29 06:21",
+      "link": "https://cafef.vn/chuyen-gia-fed-co-the-khien-thi-truong-bat-ngo-khi-tang-lai-suat-ngay-tai-cuoc-hop-dem-nay-188260728212150576.chn",
+      "diem": 25.5,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Được dự báo thuộc nhóm tăng trưởng nhanh nhất ASEAN trong 2026, GDP quý II của \"công xưởng bán dẫn ĐNA\" cao hay thấp so với Việt Nam?",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-29 10:07",
+      "link": "https://cafef.vn/duoc-du-bao-thuoc-nhom-tang-truong-nhanh-nhat-asean-trong-2026-gdp-quy-ii-cua-cong-xuong-ban-dan-dna-cao-hay-thap-so-voi-viet-nam-18826072910083436.chn",
+      "diem": 25.2,
       "khan_cap": false
     },
     {
@@ -179,7 +179,27 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-29 08:24",
       "link": "http://vietstock.vn/2026/07/vang-the-gioi-giam-hon-1-cho-quyet-dinh-cua-fed-759-1472552.htm",
-      "diem": 27.7,
+      "diem": 23.6,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Đề xuất đầu tư đô thị du lịch thế hệ mới 18 tỷ USD tại Vân Đồn",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-29 17:30",
+      "link": "https://cafef.vn/de-xuat-dau-tu-do-thi-du-lich-the-he-moi-18-ty-usd-tai-van-don-18826072916000788.chn",
+      "diem": 23.4,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Nghị quyết 21-NQ/TW: Đưa đất đai thực sự trở thành nguồn lực chiến lược, lợi thế cạnh tranh",
+      "chu_de": "Chính sách",
+      "nguon": "Vietstock Kinh tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-29 12:37",
+      "link": "http://vietstock.vn/2026/07/nghi-quyet-21-nqtw-dua-dat-dai-thuc-su-tro-thanh-nguon-luc-chien-luoc-loi-the-canh-tranh-761-1472701.htm",
+      "diem": 23.2,
       "khan_cap": false
     },
     {
@@ -189,7 +209,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-29 16:30",
       "link": "https://cafef.vn/thong-tin-moi-tu-bo-xay-dung-ve-tuyen-duong-sat-toc-do-cao-350km-h-von-67-ty-usd-188260729154948738.chn",
-      "diem": 27.4,
+      "diem": 22.6,
       "khan_cap": false
     },
     {
@@ -199,7 +219,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-29 08:38",
       "link": "https://vnexpress.net/von-hoa-apple-lan-dau-cham-5-000-ty-usd-5102777.html",
-      "diem": 26.8,
+      "diem": 22.0,
       "khan_cap": false
     },
     {
@@ -209,7 +229,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-29 11:16",
       "link": "https://cafef.vn/mot-ngan-hang-danh-rieng-5000-ty-dong-cho-vay-mua-bat-dong-san-vinhomes-188260729111752406.chn",
-      "diem": 25.0,
+      "diem": 20.2,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "ASML mất 61 tỷ USD vốn hóa vì 5 chiếc máy quang khắc công nghệ cũ: Thị trường đang hoảng loạn vì điều chưa xảy ra",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-29 22:51",
+      "link": "https://cafef.vn/asml-mat-61-ty-usd-von-hoa-vi-5-chiec-may-quang-khac-cong-nghe-cu-thi-truong-dang-hoang-loan-vi-dieu-chua-xay-ra-188260729215441392.chn",
+      "diem": 18.6,
       "khan_cap": false
     },
     {
@@ -219,17 +249,27 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-29 07:44",
       "link": "https://cafef.vn/tu-thang-8-nguoi-co-tai-khoan-acb-vietbank-chu-y-phi-dich-vu-thay-doi-chuyen-khoan-khong-thanh-cong-co-the-mat-phi-188260728150144479.chn",
-      "diem": 22.0,
+      "diem": 17.2,
       "khan_cap": false
     },
     {
-      "tieu_de": "Việt Nam cải cách toàn diện thị trường tài chính",
-      "chu_de": "Chính sách",
-      "nguon": "VnExpress Kinh doanh",
+      "tieu_de": "Tịch thu 2,6 kg vàng, hơn 1 tỷ đồng tiền mặt và 17 tấn mật ong tại nhà của một cựu kỹ sư trưởng lương tháng 15 triệu đồng",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-28 21:39",
-      "link": "https://vnexpress.net/viet-nam-cai-cach-toan-dien-thi-truong-tai-chinh-5102689.html",
-      "diem": 17.6,
+      "thoi_gian": "2026-07-29 20:26",
+      "link": "https://cafef.vn/tich-thu-26-kg-vang-hon-1-ty-dong-tien-mat-va-17-tan-mat-ong-tai-nha-cua-mot-cuu-ky-su-truong-luong-thang-15-trieu-dong-188260729165122803.chn",
+      "diem": 15.3,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Các doanh nghiệp dầu khí, xăng dầu của Việt Nam đã chuẩn bị gì khi xung đột Trung Đông leo thang trở lại?",
+      "chu_de": "Địa chính trị",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-29 23:04",
+      "link": "https://vietnambiz.vn/cac-doanh-nghiep-dau-khi-xang-dau-cua-viet-nam-da-chuan-bi-gi-khi-xung-dot-trung-dong-leo-thang-tro-lai-202672214475436.htm",
+      "diem": 15.0,
       "khan_cap": false
     },
     {
@@ -239,67 +279,27 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-29 11:30",
       "link": "http://vietstock.vn/2026/07/sk-hynix-lai-gap-6-lan-nho-ai-nhung-co-phieu-van-lao-doc-773-1472642.htm",
-      "diem": 17.2,
+      "diem": 14.5,
       "khan_cap": false
     },
     {
-      "tieu_de": "GDP bình quân từng xếp thứ 193/194 thế giới, Việt Nam dần trở thành nền kinh tế “như rồng bay lên” thế nào?",
-      "chu_de": "Thế giới",
-      "nguon": "CafeF Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-29 12:08",
-      "link": "https://cafef.vn/gdp-binh-quan-tung-xep-thu-193-194-the-gioi-viet-nam-dan-tro-thanh-nen-kinh-te-nhu-rong-bay-len-the-nao-188260729094918832.chn",
-      "diem": 15.3,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Ông Trump khoe được đặt tên cho cao tốc 1 tỷ USD ở Morocco",
+      "tieu_de": "Ông Trump dọa 'đánh Iran tơi bời'",
       "chu_de": "Địa chính trị",
       "nguon": "VnExpress Thế giới",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 14:56",
-      "link": "https://vnexpress.net/ong-trump-khoe-duoc-dat-ten-cho-cao-toc-1-ty-usd-o-morocco-5102853.html",
-      "diem": 15.0,
+      "thoi_gian": "2026-07-29 21:22",
+      "link": "https://vnexpress.net/ong-trump-doa-danh-iran-toi-boi-5103090.html",
+      "diem": 14.3,
       "khan_cap": false
     },
     {
-      "tieu_de": "Các doanh nghiệp dầu khí, xăng dầu của Việt Nam đã chuẩn bị gì khi xung đột Trung Đông leo thang trở lại?",
-      "chu_de": "Địa chính trị",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-29 17:16",
-      "link": "https://vietnambiz.vn/cac-doanh-nghiep-dau-khi-xang-dau-cua-viet-nam-da-chuan-bi-gi-khi-xung-dot-trung-dong-leo-thang-tro-lai-202672214475436.htm",
-      "diem": 15.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "BVBank: Lợi nhuận 6 tháng cao gấp gần 5 lần cùng kỳ, hoàn thành 80% kế hoạch cả năm",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-28 18:15",
-      "link": "https://cafef.vn/bvbank-loi-nhuan-6-thang-cao-gap-gan-5-lan-cung-ky-hoan-thanh-80-ke-hoach-ca-nam-188260728171846251.chn",
-      "diem": 14.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Có công dân Việt Nam thương vong trong động đất Nhật Bản",
-      "chu_de": "Thế giới",
-      "nguon": "CafeF Tài chính quốc tế, VnExpress Thế giới",
-      "so_nguon": 2,
-      "thoi_gian": "2026-07-29 13:33",
-      "link": "https://cafef.vn/co-cong-dan-viet-nam-thuong-vong-trong-dong-dat-nhat-ban-188260729133300949.chn",
-      "diem": 14.5,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Đào móng xây nhà, phát hiện 409 miếng vàng trị giá hơn 13 tỷ đồng",
+      "tieu_de": "Tình thế trái khoáy của Trung Quốc: Nhìn thấy kho báu trước mắt mà \"khao khát đến mấy\" cũng không lôi lên được",
       "chu_de": "Thế giới",
       "nguon": "CafeF Tài chính quốc tế",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 12:59",
-      "link": "https://cafef.vn/dao-mong-xay-nha-phat-hien-409-mieng-vang-tri-gia-hon-13-ty-dong-188260729130039126.chn",
-      "diem": 14.5,
+      "thoi_gian": "2026-07-29 20:00",
+      "link": "https://cafef.vn/tinh-the-trai-khoay-cua-trung-quoc-nhin-thay-kho-bau-truoc-mat-ma-khao-khat-den-may-cung-khong-loi-len-duoc-188260729194501972.chn",
+      "diem": 14.0,
       "khan_cap": false
     }
   ]
