@@ -12,6 +12,14 @@
     <p id="cap-nhat" class="cap-nhat">Đang tải dữ liệu…</p>
   </header>
 
+  <!-- Tin khẩn cấp: CHỈ hiện khi có sự kiện đủ lớn (vỡ nợ, khủng hoảng NH,
+       chiến tranh, sự cố hệ thống giao dịch...) - khác với "Điểm nóng hôm nay"
+       vốn luôn hiện tin điểm cao nhất dù ngày đó không có sự kiện gì lớn. -->
+  <section id="tin-khan-cap" class="tin-khan-cap" hidden>
+    <div class="nhan">🚨 TIN KHẨN CẤP</div>
+    <ul id="khan-cap-list"></ul>
+  </section>
+
   <!-- Điểm nóng hôm nay: tin có điểm cao nhất -->
   <section id="diem-nong" class="diem-nong" hidden>
     <div class="nhan">🔥 ĐIỂM NÓNG HÔM NAY</div>
