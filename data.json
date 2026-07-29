@@ -1,5 +1,5 @@
 {
-  "cap_nhat_luc": "2026-07-30 03:16:20",
+  "cap_nhat_luc": "2026-07-30 06:46:56",
   "so_tin": 30,
   "tin": [
     {
@@ -9,7 +9,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-29 20:37",
       "link": "https://cafef.vn/lai-suat-ngan-hang-29-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260729203901269.chn",
-      "diem": 48.4,
+      "diem": 45.6,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "TS. Cấn Văn Lực: Nền kinh tế chỉ dựa vào vốn tín dụng rất rủi ro, cần tăng vốn từ chứng khoán thêm 1,5 - 1,7 lần",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-30 06:46",
+      "link": "https://vietnambiz.vn/ts-can-van-luc-nen-kinh-te-chi-dua-vao-von-tin-dung-rat-rui-ro-can-tang-von-tu-chung-khoan-them-15-17-lan-2026723105627344.htm",
+      "diem": 42.0,
       "khan_cap": false
     },
     {
@@ -19,17 +29,7 @@
       "so_nguon": 2,
       "thoi_gian": "2026-07-29 17:52",
       "link": "https://vnexpress.net/lai-suat-lien-ngan-hang-xuong-thap-nhat-dau-nam-5103024.html",
-      "diem": 42.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "TS. Cấn Văn Lực: Nền kinh tế chỉ dựa vào vốn tín dụng rất rủi ro, cần tăng vốn từ chứng khoán thêm 1,5 - 1,7 lần",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-30 03:16",
-      "link": "https://vietnambiz.vn/ts-can-van-luc-nen-kinh-te-chi-dua-vao-von-tin-dung-rat-rui-ro-can-tang-von-tu-chung-khoan-them-15-17-lan-2026723105627344.htm",
-      "diem": 42.0,
+      "diem": 39.2,
       "khan_cap": false
     },
     {
@@ -37,39 +37,9 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-30 03:16",
+      "thoi_gian": "2026-07-30 06:46",
       "link": "https://vietnambiz.vn/hsbc-kinh-te-viet-nam-tang-toc-nhung-nhap-sieu-lam-phat-va-ty-gia-dang-cung-tao-suc-ep-len-dieu-hanh-2026721134523104.htm",
       "diem": 38.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Fed giữ nguyên lãi suất nhưng nội bộ chia rẽ hiếm thấy, 3 thành viên bỏ phiếu phản đối",
-      "chu_de": "Fed",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-30 01:25",
-      "link": "https://cafef.vn/fed-giu-nguyen-lai-suat-nhung-noi-bo-chia-re-hiem-thay-3-thanh-vien-bo-phieu-phan-doi-188260730012526677.chn",
-      "diem": 36.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Fed tiếp tục giữ nguyên lãi suất",
-      "chu_de": "Fed",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-30 01:08",
-      "link": "https://vnexpress.net/fed-tiep-tuc-giu-nguyen-lai-suat-5103125.html",
-      "diem": 35.9,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Chứng khoán Mỹ chìm trong sắc đỏ, Dow Jones giảm hơn 770 điểm khi nhà đầu tư chờ quyết định của Fed",
-      "chu_de": "Fed",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-29 21:43",
-      "link": "https://cafef.vn/chung-khoan-my-chim-trong-sac-do-dow-jones-giam-hon-770-diem-khi-nha-dau-tu-cho-quyet-dinh-cua-fed-188260729214422687.chn",
-      "diem": 35.2,
       "khan_cap": false
     },
     {
@@ -77,7 +47,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-30 03:16",
+      "thoi_gian": "2026-07-30 06:46",
       "link": "https://vietnambiz.vn/quang-ninh-duoc-thong-qua-ho-so-de-an-thanh-lap-thanh-pho-truc-thuoc-trung-uong-viet-nam-sap-co-thanh-pho-thu-8-202672873019600.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -87,7 +57,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-30 03:16",
+      "thoi_gian": "2026-07-30 06:46",
       "link": "https://vietnambiz.vn/trung-uong-thao-luan-de-an-thanh-lap-thanh-pho-quang-ninh-bac-ninh-202672220748677.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -97,9 +67,39 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-30 03:16",
+      "thoi_gian": "2026-07-30 06:46",
       "link": "https://vietnambiz.vn/pho-chu-tich-ubcknn-cac-nha-dau-tu-nuoc-ngoai-dang-quan-tam-den-nhieu-dnnn-quy-mo-lon-von-hoa-hang-ty-usd-2026721144556246.htm",
       "diem": 34.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Fed giữ nguyên lãi suất nhưng nội bộ chia rẽ hiếm thấy, 3 thành viên bỏ phiếu phản đối",
+      "chu_de": "Fed",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-30 01:25",
+      "link": "https://cafef.vn/fed-giu-nguyen-lai-suat-nhung-noi-bo-chia-re-hiem-thay-3-thanh-vien-bo-phieu-phan-doi-188260730012526677.chn",
+      "diem": 33.7,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Fed tiếp tục giữ nguyên lãi suất",
+      "chu_de": "Fed",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-30 01:08",
+      "link": "https://vnexpress.net/fed-tiep-tuc-giu-nguyen-lai-suat-5103125.html",
+      "diem": 33.3,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Chứng khoán Mỹ chìm trong sắc đỏ, Dow Jones giảm hơn 770 điểm khi nhà đầu tư chờ quyết định của Fed",
+      "chu_de": "Fed",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-29 21:43",
+      "link": "https://cafef.vn/chung-khoan-my-chim-trong-sac-do-dow-jones-giam-hon-770-diem-khi-nha-dau-tu-cho-quyet-dinh-cua-fed-188260729214422687.chn",
+      "diem": 32.6,
       "khan_cap": false
     },
     {
@@ -107,7 +107,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-30 03:16",
+      "thoi_gian": "2026-07-30 06:46",
       "link": "https://vietnambiz.vn/ty-gia-tang-cao-ky-luc-do-dau-202672816363334.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -117,19 +117,9 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-30 03:16",
+      "thoi_gian": "2026-07-30 06:46",
       "link": "https://vietnambiz.vn/pvoil-da-thu-xep-2-trieu-thung-dau-tho-tu-iraq-tu-nay-den-cuoi-nam-tiep-tuc-cung-ung-them-3-trieu-thung-2026722151250466.htm",
       "diem": 30.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "VN-Index tăng mạnh nhất một tháng",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-29 16:43",
-      "link": "https://vnexpress.net/vn-index-tang-manh-nhat-mot-thang-5103025.html",
-      "diem": 29.2,
       "khan_cap": false
     },
     {
@@ -137,7 +127,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-30 03:16",
+      "thoi_gian": "2026-07-30 06:46",
       "link": "https://vietnambiz.vn/ifc-co-the-huy-dong-10-30-ty-usd-moi-nam-tu-nha-dau-tu-quoc-te-2026723183220903.htm",
       "diem": 28.0,
       "khan_cap": false
@@ -147,19 +137,19 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-30 03:16",
+      "thoi_gian": "2026-07-30 06:46",
       "link": "https://vietnambiz.vn/tham-hut-thuong-mai-lan-dau-tien-vuot-moc-20-ty-usd-sau-30-nam-2026720143919627.htm",
       "diem": 28.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "Dragon Capital: Định giá nhiều doanh nghiệp hấp dẫn để đầu tư 2-3 năm",
+      "tieu_de": "VN-Index tăng mạnh nhất một tháng",
       "chu_de": "Kinh tế VN",
       "nguon": "VnExpress Kinh doanh",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-30 00:05",
-      "link": "https://vnexpress.net/dragon-capital-dinh-gia-nhieu-doanh-nghiep-hap-dan-de-dau-tu-2-3-nam-5103109.html",
-      "diem": 27.4,
+      "thoi_gian": "2026-07-29 16:43",
+      "link": "https://vnexpress.net/vn-index-tang-manh-nhat-mot-thang-5103025.html",
+      "diem": 26.2,
       "khan_cap": false
     },
     {
@@ -169,17 +159,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-29 21:33",
       "link": "https://cafef.vn/dong-von-trai-phieu-chuyen-dich-ap-luc-don-ve-cuoi-nam-188260729213326618.chn",
-      "diem": 27.2,
+      "diem": 24.4,
       "khan_cap": false
     },
     {
-      "tieu_de": "Chuyên gia: Fed có thể khiến thị trường bất ngờ khi tăng lãi suất ngay tại cuộc họp đêm nay",
-      "chu_de": "Fed",
-      "nguon": "CafeF Tài chính quốc tế",
+      "tieu_de": "Dragon Capital: Định giá nhiều doanh nghiệp hấp dẫn để đầu tư 2-3 năm",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 06:21",
-      "link": "https://cafef.vn/chuyen-gia-fed-co-the-khien-thi-truong-bat-ngo-khi-tang-lai-suat-ngay-tai-cuoc-hop-dem-nay-188260728212150576.chn",
-      "diem": 22.6,
+      "thoi_gian": "2026-07-30 00:05",
+      "link": "https://vnexpress.net/dragon-capital-dinh-gia-nhieu-doanh-nghiep-hap-dan-de-dau-tu-2-3-nam-5103109.html",
+      "diem": 24.4,
       "khan_cap": false
     },
     {
@@ -189,7 +179,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-29 11:09",
       "link": "https://vnexpress.net/ong-nguyen-duc-tai-muon-mua-1-trieu-co-phieu-the-gioi-di-dong-5102840.html",
-      "diem": 22.6,
+      "diem": 19.6,
       "khan_cap": false
     },
     {
@@ -199,7 +189,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-29 10:07",
       "link": "https://cafef.vn/duoc-du-bao-thuoc-nhom-tang-truong-nhanh-nhat-asean-trong-2026-gdp-quy-ii-cua-cong-xuong-ban-dan-dna-cao-hay-thap-so-voi-viet-nam-18826072910083436.chn",
-      "diem": 21.8,
+      "diem": 18.8,
       "khan_cap": false
     },
     {
@@ -209,7 +199,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-29 08:24",
       "link": "http://vietstock.vn/2026/07/vang-the-gioi-giam-hon-1-cho-quyet-dinh-cua-fed-759-1472552.htm",
-      "diem": 20.6,
+      "diem": 18.2,
       "khan_cap": false
     },
     {
@@ -219,7 +209,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-29 17:30",
       "link": "https://cafef.vn/de-xuat-dau-tu-do-thi-du-lich-the-he-moi-18-ty-usd-tai-van-don-18826072916000788.chn",
-      "diem": 19.8,
+      "diem": 17.0,
       "khan_cap": false
     },
     {
@@ -229,7 +219,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-29 12:37",
       "link": "http://vietstock.vn/2026/07/nghi-quyet-21-nqtw-dua-dat-dai-thuc-su-tro-thanh-nguon-luc-chien-luoc-loi-the-canh-tranh-761-1472701.htm",
-      "diem": 19.8,
+      "diem": 16.8,
       "khan_cap": false
     },
     {
@@ -239,7 +229,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-29 16:30",
       "link": "https://cafef.vn/thong-tin-moi-tu-bo-xay-dung-ve-tuyen-duong-sat-toc-do-cao-350km-h-von-67-ty-usd-188260729154948738.chn",
-      "diem": 19.0,
+      "diem": 16.0,
       "khan_cap": false
     },
     {
@@ -249,7 +239,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-29 08:38",
       "link": "https://vnexpress.net/von-hoa-apple-lan-dau-cham-5-000-ty-usd-5102777.html",
-      "diem": 18.4,
+      "diem": 15.6,
       "khan_cap": false
     },
     {
@@ -259,7 +249,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-29 22:51",
       "link": "https://cafef.vn/asml-mat-61-ty-usd-von-hoa-vi-5-chiec-may-quang-khac-cong-nghe-cu-thi-truong-dang-hoang-loan-vi-dieu-chua-xay-ra-188260729215441392.chn",
-      "diem": 16.7,
+      "diem": 15.1,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Các doanh nghiệp dầu khí, xăng dầu của Việt Nam đã chuẩn bị gì khi xung đột Trung Đông leo thang trở lại?",
+      "chu_de": "Địa chính trị",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-30 06:46",
+      "link": "https://vietnambiz.vn/cac-doanh-nghiep-dau-khi-xang-dau-cua-viet-nam-da-chuan-bi-gi-khi-xung-dot-trung-dong-leo-thang-tro-lai-202672214475436.htm",
+      "diem": 15.0,
       "khan_cap": false
     },
     {
@@ -269,37 +269,37 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-29 11:16",
       "link": "https://cafef.vn/mot-ngan-hang-danh-rieng-5000-ty-dong-cho-vay-mua-bat-dong-san-vinhomes-188260729111752406.chn",
-      "diem": 16.6,
+      "diem": 13.8,
       "khan_cap": false
     },
     {
-      "tieu_de": "Các doanh nghiệp dầu khí, xăng dầu của Việt Nam đã chuẩn bị gì khi xung đột Trung Đông leo thang trở lại?",
+      "tieu_de": "Đưa Việt Nam trở thành quốc gia phát triển, thu nhập cao vào năm 2045",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-30 06:46",
+      "link": "https://vietnambiz.vn/dua-viet-nam-tro-thanh-quoc-gia-phat-trien-thu-nhap-cao-vao-nam-2045-2026729143747488.htm",
+      "diem": 13.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Ông Nguyễn Thanh Nghị: Phát triển mạnh doanh nghiệp biển, nhất là các tập đoàn, tổng công ty quy mô lớn",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-30 06:46",
+      "link": "https://vietnambiz.vn/ong-nguyen-thanh-nghi-phat-trien-manh-doanh-nghiep-bien-nhat-la-cac-tap-doan-tong-cong-ty-quy-mo-lon-2026729121921851.htm",
+      "diem": 13.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Nghiên cứu khu kinh tế đặc biệt và mô hình xã hạt nhân",
       "chu_de": "Địa chính trị",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-30 03:16",
-      "link": "https://vietnambiz.vn/cac-doanh-nghiep-dau-khi-xang-dau-cua-viet-nam-da-chuan-bi-gi-khi-xung-dot-trung-dong-leo-thang-tro-lai-202672214475436.htm",
-      "diem": 15.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Xuất hiện xu hướng lạ tại Trung Quốc: Giới trẻ chia giường với người lạ để “tồn tại” giữa áp lực kinh tế",
-      "chu_de": "Thế giới",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-30 00:00",
-      "link": "https://cafef.vn/xuat-hien-xu-huong-la-tai-trung-quoc-gioi-tre-chia-giuong-voi-nguoi-la-de-ton-tai-giua-ap-luc-kinh-te-188260729211455445.chn",
-      "diem": 13.9,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Từ tháng 8, người có tài khoản ACB, VIETBANK chú ý: Phí dịch vụ thay đổi, chuyển khoản không thành công có thể mất phí",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-29 07:44",
-      "link": "https://cafef.vn/tu-thang-8-nguoi-co-tai-khoan-acb-vietbank-chu-y-phi-dich-vu-thay-doi-chuyen-khoan-khong-thanh-cong-co-the-mat-phi-188260728150144479.chn",
-      "diem": 13.8,
+      "thoi_gian": "2026-07-30 06:46",
+      "link": "https://vietnambiz.vn/nghien-cuu-khu-kinh-te-dac-biet-va-mo-hinh-xa-hat-nhan-2026729112426493.htm",
+      "diem": 13.0,
       "khan_cap": false
     }
   ]
