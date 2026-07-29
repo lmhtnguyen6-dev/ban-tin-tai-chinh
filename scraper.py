@@ -79,17 +79,28 @@ TRONG_SO_TU_KHOA = {
     # --- Doanh nghiệp niêm yết ---
     "lợi nhuận": 4, "doanh thu": 2, "báo cáo tài chính": 3, "kết quả kinh doanh": 4,
     "thâu tóm": 4, "sáp nhập": 4, "m&a": 4, "ipo": 4, "vốn hóa": 3,
+    # --- Chính sách / chủ trương / quyết định của Chính phủ (ƯU TIÊN CAO NHẤT
+    #     theo yêu cầu chủ dự án — đứng trên cả lãi suất/lạm phát/hàng hóa) ---
+    "đề án": 4, "phê duyệt": 3, "cải cách": 4, "cải cách tổng thể": 6,
+    "nghị quyết": 3, "nghị định": 3, "chiến lược phát triển": 3,
+    # --- Giao dịch cổ đông nội bộ / lãnh đạo mua bán cổ phiếu (tín hiệu quan
+    #     trọng với NĐT cá nhân, dễ bị bỏ sót nếu không có từ khóa riêng) ---
+    "đăng ký mua": 5, "đăng ký bán": 3, "cổ đông nội bộ": 5, "người nội bộ": 4,
     # --- Tài chính - ngân hàng - chính sách tiền tệ ---
-    "ngân hàng nhà nước": 4, "nhnn": 4, "lãi suất": 4, "tín dụng": 3,
-    "tỷ giá": 2, "lạm phát": 3,
+    "ngân hàng nhà nước": 4, "nhnn": 4, "lãi suất": 4, "lãi suất liên ngân hàng": 5,
+    "tín dụng": 3, "tỷ giá": 2, "lạm phát": 4,
     # --- Fed & quốc tế tác động mạnh ---
     "fed": 5, "fomc": 5, "powell": 4, "lãi suất mỹ": 5, "thuế quan": 3,
     # --- Vĩ mô Việt Nam ---
     "fdi": 3, "gdp": 3, "tăng trưởng": 2, "xuất khẩu": 2, "nhập khẩu": 2,
     "đầu tư công": 3, "giải ngân": 2,
-    # --- Hàng hóa / khác (trọng số thấp, KHÔNG cho áp đảo) ---
-    "dầu": 1, "opec": 1, "usd": 1, "bất động sản": 2, "trung quốc": 1, "trump": 2,
-    # GHI CHÚ: ĐÃ BỎ "vàng" khỏi từ khóa nóng (không đẩy điểm tin giá vàng nữa).
+    # --- Hàng hóa (dầu, vàng...): nâng nhẹ so với trước vì chủ dự án xếp nhóm
+    #     này vào ưu tiên cao (sau chính sách/lãi suất/lạm phát) ---
+    "dầu": 2, "opec": 2, "vàng": 2, "usd": 1, "bất động sản": 2,
+    "trung quốc": 1, "trump": 2,
+    # GHI CHÚ: "vàng" ở đây CHỈ cộng điểm cho tin vàng mang tính vĩ mô/sự kiện
+    # (vd "NHTW tăng mua vàng dự trữ") vì tin CẬP NHẬT GIÁ VÀNG HẰNG NGÀY đã bị
+    # loại ở bước lọc nhiễu (xem CUM_GIA_VANG_HANG_NGAY) trước khi tới bước này.
 }
 
 # Token ASCII đánh dấu tin Việt Nam (dùng cho bộ lọc tiếng Việt bên dưới).
@@ -142,6 +153,26 @@ NHOM_TIN_NHIEU = {
         "được trao giải", "đạt giải", "top 500",
         "ký kết", "ký hợp tác", "hợp tác chiến lược", "biên bản ghi nhớ", "mou",
         "đồng hành", "tài trợ", "ra mắt", "core banking", "open banking",
+        # Quảng cáo sản phẩm ngân hàng số / bài PR "câu chuyện thương hiệu"
+        "1 chạm", "một chạm", "chuyển đổi toàn diện", "giai đoạn tăng trưởng mới",
+        "hành trình chuyển đổi", "thấu hiểu", "hiểu đúng nhịp sống",
+    ],
+    # Dự báo/nhận định vĩ mô CHUNG CHUNG (tổ chức quốc tế nâng/hạ dự báo GDP,
+    # kịch bản tăng trưởng địa phương, bình luận trấn an kiểu "không ảnh hưởng
+    # lớn"...). KHÁC với tin CHÍNH SÁCH đã ban hành (nghị quyết, đề án, phê
+    # duyệt...) — những tin đó vẫn được GIỮ và tính điểm cao ở nhóm Chính sách.
+    "du_bao_vi_mo": [
+        "dự báo tăng trưởng gdp", "nâng dự báo tăng trưởng", "hạ dự báo tăng trưởng",
+        "tổ chức quốc tế dự báo", "kịch bản tăng trưởng",
+        "không ảnh hưởng lớn", "không ảnh hưởng đáng kể", "tác động không đáng kể",
+    ],
+    # Số liệu vụn vặt của một ngân hàng/doanh nghiệp riêng lẻ, ít tác động toàn
+    # thị trường (so sánh thu nhập nhân viên, tỷ lệ cho vay một mảng của 1 NH,
+    # kiều hối định kỳ...). KHÔNG lọc "cổ đông lớn"/"đăng ký mua" vì đó là tín
+    # hiệu giao dịch cổ phiếu quan trọng, khác hẳn nhóm này.
+    "so_lieu_le_te": [
+        "kiều hối", "trả thu nhập", "thu nhập khủng", "độ chịu chi",
+        "tỷ lệ cho vay bất động sản",
     ],
     # Nhân sự lãnh đạo thường lệ (bổ nhiệm/tái bổ nhiệm/miễn nhiệm). KHÔNG dùng "bầu"
     # để không loại nhầm tin ĐHĐCĐ (vd "họp ĐHĐCĐ bất thường, bầu bổ sung nhân sự").
@@ -158,12 +189,35 @@ NHOM_TIN_NHIEU = {
 
 # Các nhóm ĐANG BẬT (theo lựa chọn của chủ dự án). Bỏ bớt tên trong list này để tắt.
 LOC_NHOM_NHIEU = ["quang_cao", "hinh_su", "le_hoi", "giao_thong", "doi_song",
-                  "pr_doanh_nghiep", "nhan_su", "vi_mo_dia_phuong"]
+                  "pr_doanh_nghiep", "nhan_su", "vi_mo_dia_phuong",
+                  "du_bao_vi_mo", "so_lieu_le_te"]
 
 # Tin CẬP NHẬT GIÁ VÀNG hằng ngày (giá vàng sáng/chiều, vàng miếng/nhẫn/SJC) -> loại.
 # Vẫn GIỮ tin vàng vĩ mô (vd "ngân hàng trung ương tăng tích trữ vàng") vì tiêu đề
 # dạng đó KHÔNG khớp các cụm dưới đây.
 CUM_GIA_VANG_HANG_NGAY = ["giá vàng", "vàng miếng", "vàng nhẫn", "vàng sjc"]
+
+# Tin CẬP NHẬT TỶ GIÁ USD/EUR... hằng ngày (vd "Tỷ giá USD hôm nay 27/7: ...",
+# "Tỷ giá euro ngày 28/7: ...", "Đồng USD có tuần bứt phá..."). Đây là bài đăng
+# ĐỊNH KỲ, không phải sự kiện chính sách/thị trường thực sự -> loại. Dùng regex
+# vì cách viết đa dạng hơn giá vàng (nhiều đồng tiền, "hôm nay"/"ngày x/y"/"tuần").
+# VẪN GIỮ các mốc tỷ giá mang tính SỰ KIỆN (vd "Tỷ giá trung tâm lập kỷ lục") vì
+# không khớp các mẫu dưới đây.
+MAU_TY_GIA_HANG_NGAY = [
+    re.compile(r"tỷ giá (usd|đô la|đôla|euro|yên|nhân dân tệ|bảng anh)"
+               r".{0,20}(hôm nay|ngày\s*\d{1,2}[/-]\d{1,2})"),
+    re.compile(r"(giá|đồng) (usd|euro)\b.{0,25}(hôm nay|ngày\s*\d{1,2}[/-]\d{1,2}"
+               r"|có tuần|tuần này|tuần qua)"),
+    # Tiêu đề ngắn kiểu "Giá USD tăng vọt" / "Đồng euro lao dốc" không kèm bối
+    # cảnh chính sách/sự kiện gì khác -> vẫn là bản tin giá spot hằng ngày.
+    re.compile(r"^(giá|đồng)\s+(usd|euro)\b.{0,25}"
+               r"(tăng|giảm|vọt|lao dốc|bứt phá|trượt giá|đi lên|đi xuống)"),
+]
+
+
+def la_tin_ty_gia_hang_ngay(t: str) -> bool:
+    """True nếu tiêu đề khớp mẫu bản tin tỷ giá USD/EUR... cập nhật định kỳ."""
+    return any(mau.search(t) for mau in MAU_TY_GIA_HANG_NGAY)
 
 # Các từ HAI NGHĨA: vừa có thể là tin hình sự ("bị cáo buộc lừa đảo, đã khởi tố"),
 # vừa có thể là tin doanh nghiệp/thị trường ("công ty X bị cáo buộc gian lận sổ sách",
@@ -199,6 +253,8 @@ def la_tin_nhieu(tieu_de: str):
     t = tieu_de.lower()
     if any(cum in t for cum in CUM_GIA_VANG_HANG_NGAY):
         return True, "gia_vang_hang_ngay"
+    if la_tin_ty_gia_hang_ngay(t):
+        return True, "ty_gia_hang_ngay"
     if "hinh_su" in LOC_NHOM_NHIEU and la_tu_hai_nghia_hinh_su(t):
         return True, "hinh_su"
     for ten_nhom in LOC_NHOM_NHIEU:
@@ -218,7 +274,8 @@ CHU_DE_RULES = [
              "ngân hàng trung ương mỹ", "chủ tịch fed", "biên bản fomc"]),
     ("Chính sách", ["chính phủ", "thủ tướng", "quốc hội", "nghị định", "nghị quyết",
                     "bộ tài chính", "ngân hàng nhà nước", "nhnn", "chính sách",
-                    "thông tư", "đầu tư công", "giải ngân", "quy hoạch", "luật"]),
+                    "thông tư", "đầu tư công", "giải ngân", "quy hoạch", "luật",
+                    "đề án", "phê duyệt", "cải cách"]),
     ("Kinh tế VN", ["vn-index", "vnindex", "vn30", "hose", "hnx", "upcom",
                     "chứng khoán", "cổ phiếu", "niêm yết", "cổ tức", "trái phiếu",
                     "khối ngoại", "thanh khoản", "lợi nhuận", "doanh thu",
@@ -235,7 +292,8 @@ CHU_DE_RULES = [
 # Hệ số ưu tiên: nhân vào ĐIỂM GỐC để đẩy tin Việt Nam & Fed lên đầu.
 HE_SO_UU_TIEN = {
     "Kinh tế VN": 2.0,
-    "Chính sách": 1.7,
+    "Chính sách": 2.0,  # nâng 1.7 -> 2.0: chủ dự án xếp chính sách/chủ trương/
+                        # quyết định của Chính phủ là ưu tiên CAO NHẤT
     "Fed": 1.7,        # nâng 1.3 -> 1.7: tập trung hơn vào động thái/chính sách Fed
     "Thế giới": 1.1,   # hạ nhẹ 1.2 -> 1.1: tin thế giới lặt vặt không chen top
     "Địa chính trị": 1.0,
