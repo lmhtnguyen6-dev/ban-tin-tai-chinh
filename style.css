@@ -79,6 +79,41 @@ header h1 { margin: 0 0 6px; font-size: 1.5rem; }
 .diem-nong a:hover { text-decoration: underline; }
 .diem-nong .meta { font-size: 0.85rem; opacity: 0.9; }
 
+/* ----- Lịch sự kiện sắp tới ----- */
+.lich-su-kien {
+  max-width: 960px;
+  margin: 20px auto 0;
+  padding: 16px 22px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+.lich-su-kien h2 { margin: 0 0 10px; font-size: 1rem; color: #0f2b46; }
+.lich-su-kien ul { list-style: none; margin: 0; padding: 0; }
+.lich-su-kien li {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  padding: 8px 0;
+  border-top: 1px solid #eef0f3;
+  font-size: 0.9rem;
+}
+.lich-su-kien li:first-child { border-top: none; }
+.lich-su-kien .ngay {
+  flex: 0 0 90px;
+  font-weight: 700;
+  color: #0f5bb5;
+}
+.lich-su-kien .ten-su-kien { flex: 1; }
+.lich-su-kien .loai-su-kien {
+  flex: 0 0 auto;
+  font-size: 0.75rem;
+  color: #6b7688;
+  background: #eef2f7;
+  padding: 2px 8px;
+  border-radius: 10px;
+}
+
 /* ----- Bộ lọc chủ đề ----- */
 .bo-loc {
   max-width: 960px;
