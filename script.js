@@ -6,7 +6,42 @@ let TAT_CA_TIN = [];      // toàn bộ tin đọc từ data.json
 let CHU_DE_DANG_CHON = "Tất cả";
 
 // Bắt đầu khi trang tải xong
-document.addEventListener("DOMContentLoaded", taiDuLieu);
+document.addEventListener("DOMContentLoaded", () => {
+  taiDuLieu();
+  taiLichSuKien();
+});
+
+async function taiLichSuKien() {
+  const box = document.getElementById("lich-su-kien");
+  const list = document.getElementById("lich-su-kien-list");
+  try {
+    const res = await fetch("lich_su_kien.json?t=" + Date.now());
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const data = await res.json();
+    const suKien = data.su_kien || [];
+
+    if (suKien.length === 0) {
+      box.hidden = true;
+      return;
+    }
+
+    list.innerHTML = "";
+    suKien.forEach((sk) => {
+      const li = document.createElement("li");
+      li.innerHTML = `
+        <span class="ngay">${escapeHtml(sk.ngay)}</span>
+        <span class="ten-su-kien">${escapeHtml(sk.ten)}</span>
+        <span class="loai-su-kien">${escapeHtml(sk.loai)}</span>
+      `;
+      list.appendChild(li);
+    });
+    box.hidden = false;
+  } catch (err) {
+    // Chưa có file (lần chạy đầu) hoặc lỗi tải - im lặng ẩn khối này đi,
+    // không làm ảnh hưởng tới phần bảng tin chính.
+    box.hidden = true;
+  }
+}
 
 async function taiDuLieu() {
   try {
