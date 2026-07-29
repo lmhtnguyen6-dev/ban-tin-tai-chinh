@@ -14,7 +14,7 @@ Cách chạy thủ công (test trên máy):
 import json
 import re
 import html
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timezone, timedelta, date
 from difflib import SequenceMatcher
 
 import feedparser
@@ -115,6 +115,18 @@ TRONG_SO_TU_KHOA = {
     # --- Dòng vốn / trái phiếu quốc tế (tầng 7-8) ---
     "etf": 3, "dragon capital": 2, "vinacapital": 2, "pyn elite": 2,
     "lợi suất trái phiếu": 2, "trái phiếu chính phủ": 2,
+    "phát hành trái phiếu doanh nghiệp": 3,
+    # --- Doanh nghiệp lớn / vốn hóa lớn (tầng 9) — tin riêng về các mã này vẫn
+    #     là tin thị trường thực chất dù không dùng từ "cổ phiếu"/"chứng khoán" ---
+    "vingroup": 2, "hòa phát": 2, "masan": 2, "pv gas": 2, "petrolimex": 2,
+    "vietcombank": 2, "bidv": 2, "vietinbank": 2, "techcombank": 2,
+    "vpbank": 2, "mbbank": 2, "acb": 2, "sacombank": 2, "hdbank": 2, "tpbank": 2,
+    # --- Tin ngành (tầng 10): mỗi ngành vài từ khóa đặc trưng hay tạo sóng ---
+    "nợ xấu": 3, "basel": 2,                          # ngân hàng
+    "tự doanh": 2,                                    # công ty chứng khoán
+    "luật đất đai": 3,                                # bất động sản
+    "evn": 3, "giá điện": 3,                          # điện
+    "giá urê": 2, "than cốc": 1,                      # phân bón / thép
     # GHI CHÚ: "vàng" ở đây CHỈ cộng điểm cho tin vàng mang tính vĩ mô/sự kiện
     # (vd "NHTW tăng mua vàng dự trữ") vì tin CẬP NHẬT GIÁ VÀNG HẰNG NGÀY đã bị
     # loại ở bước lọc nhiễu (xem CUM_GIA_VANG_HANG_NGAY) trước khi tới bước này.
@@ -297,11 +309,13 @@ TU_KHOA_TIN_KHAN_CAP = [
     # Vỡ nợ / khủng hoảng tài chính - ngân hàng
     "vỡ nợ", "khủng hoảng ngân hàng", "khủng hoảng tài chính", "sụp đổ ngân hàng",
     "khủng hoảng thanh khoản", "vỡ bong bóng",
-    # Chính biến / xung đột leo thang
-    "đảo chính", "chính biến", "tuyên chiến", "chiến tranh bùng nổ",
-    "tấn công quân sự", "không kích",
-    # Thiên tai / dịch bệnh nghiêm trọng
-    "đại dịch", "phong tỏa toàn quốc", "sóng thần", "động đất mạnh",
+    # Chiến tranh / xung đột quân sự leo thang (có kênh truyền dẫn rõ tới giá dầu/
+    # tâm lý rủi ro toàn cầu). ĐÃ BỎ "đảo chính"/"chính biến" vì quá chung chung —
+    # chính biến ở một nước không liên quan kinh tế VN vẫn khớp, gây tin "linh tinh".
+    "tuyên chiến", "chiến tranh bùng nổ", "tấn công quân sự", "không kích",
+    # Dịch bệnh nghiêm trọng (có tiền lệ tác động mạnh tới KT-XH và TTCK VN, khác
+    # với thiên tai đơn lẻ ở nước ngoài — xem ghi chú bên dưới).
+    "đại dịch", "phong tỏa toàn quốc",
     # Xếp hạng tín nhiệm quốc gia
     "hạ xếp hạng tín nhiệm", "hạ bậc tín nhiệm",
     # Sự cố hệ thống giao dịch chứng khoán
@@ -309,6 +323,9 @@ TU_KHOA_TIN_KHAN_CAP = [
     "ngừng giao dịch toàn thị trường",
     # Trừng phạt / cấm vận diện rộng
     "cấm vận toàn diện", "trừng phạt kinh tế",
+    # GHI CHÚ: ĐÃ BỎ "sóng thần"/"động đất mạnh" — thiên tai ở nước ngoài (vd Nhật)
+    # KHÔNG có kênh truyền dẫn rõ ràng tới TTCK Việt Nam/kinh tế trong nước, nên dù
+    # là tin lớn vẫn không nên chiếm vị trí "khẩn cấp" trên trang.
 ]
 
 
@@ -641,10 +658,21 @@ def cham_diem(nhom_list):
     điểm_gốc = (số nguồn đăng trùng) * 3
              + (tổng TRỌNG SỐ các từ khóa nóng xuất hiện trong tiêu đề)
              + (điểm mới)
-    điểm     = điểm_gốc * HỆ SỐ ƯU TIÊN theo chủ đề
+    điểm     = điểm_gốc * HỆ SỐ ƯU TIÊN theo chủ đề (CHỈ áp dụng nếu tiêu đề khớp
+               ít nhất 1 từ khóa tài chính-kinh tế cụ thể trong TRONG_SO_TU_KHOA —
+               xem GHI CHÚ bên dưới)
              + DIEM_THUONG_KHAN_CAP (nếu là tin khẩn cấp - xem la_tin_khan_cap)
-    (Trước đây cộng theo tần suất từ khóa toàn ngày; nay cộng theo TRỌNG SỐ cố định
-     để tin chứng khoán - tài chính - doanh nghiệp được ưu tiên rõ ràng.)
+
+    GHI CHÚ QUAN TRỌNG (sửa lỗi "tin rác điểm cao"): trước đây HỆ SỐ ƯU TIÊN nhân
+    vào điểm gốc ngay cả khi tiêu đề KHÔNG khớp từ khóa tài chính cụ thể nào — chỉ
+    cần được gán chủ đề "Kinh tế VN"/"Chính sách" (thường do fallback theo khu_vực
+    nguồn, hoặc chỉ khớp từ chung như "thủ tướng") là đã được nhân hệ số x2.0/x2.0.
+    Hệ quả: các tin kiểu thông cáo hành chính/dự án hạ tầng địa phương chung chung
+    (vd "TP HCM thành lập khu thương mại tự do...", "Đồng Nai định hướng thành
+    trung tâm hàng không...") vẫn đạt ~26 điểm dù KHÔNG có nội dung tài chính cụ
+    thể nào, chỉ nhờ hệ số nhân — chiếm mất chỗ của tin lãi suất/lạm phát/doanh
+    nghiệp thực chất hơn. Nay CHỈ nhân hệ số khi diem_tu_khoa > 0 (tức tiêu đề có
+    ít nhất 1 từ khóa tài chính-kinh tế cụ thể) — nếu không, hệ số = 1.0.
     """
     bay_gio = datetime.now(timezone.utc)
 
@@ -659,7 +687,7 @@ def cham_diem(nhom_list):
         diem_goc = so_nguon * 3 + diem_tu_khoa + diem_mo
 
         chu_de = gan_chu_de(nhom["tieu_de"], nhom["khu_vuc"])
-        he_so = HE_SO_UU_TIEN.get(chu_de, 1.0)
+        he_so = HE_SO_UU_TIEN.get(chu_de, 1.0) if diem_tu_khoa > 0 else 1.0
         tong_diem = round(diem_goc * he_so, 1)
 
         # Tin khẩn cấp: cộng thẳng điểm thưởng SAU hệ số, để luôn đứng đầu bảng
@@ -687,24 +715,51 @@ def cham_diem(nhom_list):
 # ---------------------------------------------------------------------------
 # 8. CHỌN 30 TIN THEO ĐIỂM (ưu tiên VN MỀM, không ép sàn/trần cứng)
 # ---------------------------------------------------------------------------
+# Giới hạn số tin TỐI ĐA cho một số cụm từ/chủ đề hẹp, để tránh nhiều bài cùng
+# nói về một chủ điểm hẹp (thường là các bài kiểu "cập nhật phiên" lặp lại gần
+# giống nhau) chiếm nhiều chỗ, không còn đất cho tin đa dạng khác. Thêm cụm mới
+# vào đây nếu sau này thấy chủ điểm nào khác cũng bị lặp nhiều.
+GIOI_HAN_THEO_TU_KHOA = {
+    "lãi suất liên ngân hàng": 1,
+}
+
+
 def chon_tin_uu_tien(danh_sach, tong=30):
     """
-    Chọn tối đa `tong` tin THUẦN theo điểm giảm dần. Ưu tiên tin VN đã nằm sẵn trong
-    điểm nhờ HE_SO_UU_TIEN, nên tin Fed/thế giới điểm cao được lên top TỰ NHIÊN.
-    KHÔNG còn ép sàn cứng 6 tin VN, cũng KHÔNG còn trần cứng tin quốc tế.
+    Chọn tối đa `tong` tin THEO ĐIỂM GIẢM DẦN, có 2 lớp điều chỉnh:
 
-    Lưới an toàn MỀM (SAN_TIN_VN_MEM): nếu 30 tin chọn ra có ít tin VN hơn mức sàn mà
-    vẫn còn tin VN chưa dùng, thay dần tin KHÔNG-VN điểm thấp nhất bằng tin VN điểm cao
-    kế tiếp cho đủ sàn. Đặt SAN_TIN_VN_MEM = 0 để tắt hẳn (chọn hoàn toàn theo điểm).
+    1. GIỚI HẠN THEO CỤM TỪ (GIOI_HAN_THEO_TU_KHOA): duyệt danh sách đã xếp hạng
+       theo điểm, bỏ qua các tin VƯỢT QUÁ số lượng cho phép của một cụm từ hẹp
+       (vd tối đa 1 tin "lãi suất liên ngân hàng") — nhường chỗ cho tin điểm thấp
+       hơn nhưng thuộc chủ điểm khác được chọn thay, thay vì lấy y nguyên top N.
+    2. Lưới an toàn MỀM cho tin VN (SAN_TIN_VN_MEM) — giữ nguyên logic cũ.
     """
     xep = sorted(danh_sach, key=lambda x: x["diem"], reverse=True)
-    final = xep[:tong]
+
+    final = []
+    dem_theo_nhom = {tu: 0 for tu in GIOI_HAN_THEO_TU_KHOA}
+    for tin in xep:
+        if len(final) >= tong:
+            break
+        t = tin["tieu_de"].lower()
+        vuot_gioi_han = any(
+            tu in t and dem_theo_nhom[tu] >= gioi_han
+            for tu, gioi_han in GIOI_HAN_THEO_TU_KHOA.items()
+        )
+        if vuot_gioi_han:
+            continue
+        final.append(tin)
+        for tu in GIOI_HAN_THEO_TU_KHOA:
+            if tu in t:
+                dem_theo_nhom[tu] += 1
+
+    da_chon_id = {id(t) for t in final}
 
     # ----- Lưới an toàn mềm cho tin VN -----
     if SAN_TIN_VN_MEM > 0:
         so_vn = sum(1 for t in final if t["_la_vn"])
-        # Các tin VN nằm NGOÀI top (điểm cao trước) để bù vào nếu thiếu sàn.
-        vn_du_bi = [t for t in xep[tong:] if t["_la_vn"]]
+        # Các tin VN CHƯA được chọn (điểm cao trước) để bù vào nếu thiếu sàn.
+        vn_du_bi = [t for t in xep if id(t) not in da_chon_id and t["_la_vn"]]
         i_bu = 0
         while so_vn < SAN_TIN_VN_MEM and i_bu < len(vn_du_bi):
             tin_vn = vn_du_bi[i_bu]; i_bu += 1
@@ -720,6 +775,91 @@ def chon_tin_uu_tien(danh_sach, tong=30):
     # Sắp lại toàn bộ theo điểm giảm dần cho gọn.
     final.sort(key=lambda x: x["diem"], reverse=True)
     return final
+
+
+# ---------------------------------------------------------------------------
+# 8b. LỊCH SỰ KIỆN (Event Calendar) — tầng 11 trong khung tham khảo chủ dự án
+#     gửi. KHÁC HẲN phần scrape tin ở trên: đây là các mốc THỜI GIAN ĐÃ BIẾT
+#     TRƯỚC, không lấy được qua RSS. Xuất ra file RIÊNG (lich_su_kien.json),
+#     không trộn vào data.json của bảng tin.
+# ---------------------------------------------------------------------------
+# Lịch họp FOMC 2026 đã được Fed CÔNG BỐ CHÍNH THỨC trước cả năm (ngày ghi ở đây
+# là ngày công bố quyết định lãi suất = ngày thứ 2 của kỳ họp 2 ngày). Khi sang
+# năm mới, cập nhật lại danh sách này theo lịch chính thức tại
+# https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+LICH_FOMC_2026 = [
+    "2026-01-28", "2026-03-18", "2026-04-29", "2026-06-17",
+    "2026-07-29", "2026-09-16", "2026-10-28", "2026-12-09",
+]
+
+
+def tinh_ngay_dao_han_phai_sinh(nam: int, thang: int) -> date:
+    """
+    Ngày đáo hạn hợp đồng phái sinh VN30F1M = THỨ NĂM của TUẦN THỨ 3 trong tháng
+    (quy luật cố định của HNX/VNDIRECT, không đổi qua các năm).
+    """
+    ngay1 = date(nam, thang, 1)
+    # weekday(): Monday=0 ... Thursday=3 ... Sunday=6
+    offset = (3 - ngay1.weekday()) % 7
+    thu5_dau_tien = ngay1 + timedelta(days=offset)
+    return thu5_dau_tien + timedelta(days=14)  # nhảy thêm 2 tuần = tuần thứ 3
+
+
+def tao_lich_su_kien(so_ngay_toi: int = 30):
+    """
+    Trả về danh sách sự kiện trong `so_ngay_toi` ngày tới (mặc định 30), gồm:
+      1. Họp FOMC — tự động, lấy từ LICH_FOMC_2026.
+      2. Đáo hạn phái sinh VN30F1M — tự động TÍNH theo quy luật cố định.
+      3. Sự kiện THỦ CÔNG (chốt quyền cổ tức, công bố KQKD, IPO, MSCI/FTSE
+         review...) — đọc từ su_kien_thu_cong.json NẾU file này tồn tại.
+         File này KHÔNG tự sinh được vì cần dữ liệu riêng của từng công ty mà
+         RSS tin tức không cung cấp — người dùng tự thêm dòng mới vào đó.
+    Sắp xếp theo ngày tăng dần.
+    """
+    hom_nay = datetime.now(GIO_VN).date()
+    han_cuoi = hom_nay + timedelta(days=so_ngay_toi)
+    su_kien = []
+
+    # ----- 1. FOMC -----
+    for ngay_str in LICH_FOMC_2026:
+        ngay = datetime.strptime(ngay_str, "%Y-%m-%d").date()
+        if hom_nay <= ngay <= han_cuoi:
+            su_kien.append({
+                "ngay": ngay.isoformat(),
+                "ten": "Họp FOMC - công bố lãi suất điều hành Fed",
+                "loai": "Fed",
+            })
+
+    # ----- 2. Đáo hạn phái sinh VN30F1M (kiểm tra tháng này + tháng sau) -----
+    for i in (0, 1):
+        thang = hom_nay.month + i
+        nam = hom_nay.year
+        if thang > 12:
+            thang -= 12
+            nam += 1
+        ngay_dao_han = tinh_ngay_dao_han_phai_sinh(nam, thang)
+        if hom_nay <= ngay_dao_han <= han_cuoi:
+            su_kien.append({
+                "ngay": ngay_dao_han.isoformat(),
+                "ten": "Đáo hạn hợp đồng phái sinh VN30F1M",
+                "loai": "Chứng khoán VN",
+            })
+
+    # ----- 3. Sự kiện thủ công (nếu có file) -----
+    try:
+        with open("su_kien_thu_cong.json", "r", encoding="utf-8") as f:
+            danh_sach_thu_cong = json.load(f)
+        for sk in danh_sach_thu_cong:
+            ngay = datetime.strptime(sk["ngay"], "%Y-%m-%d").date()
+            if hom_nay <= ngay <= han_cuoi:
+                su_kien.append(sk)
+    except FileNotFoundError:
+        pass  # Chưa tạo file — bỏ qua, không phải lỗi.
+    except (json.JSONDecodeError, KeyError, ValueError) as e:
+        print(f"   !! Lỗi đọc su_kien_thu_cong.json, bỏ qua sự kiện thủ công: {e}")
+
+    su_kien.sort(key=lambda s: s["ngay"])
+    return su_kien
 
 
 # ---------------------------------------------------------------------------
@@ -748,6 +888,16 @@ def main():
     so_vn = sum(1 for t in danh_sach if t["chu_de"] in CHU_DE_VN)
     print(f"=> Đã ghi data.json với {len(danh_sach)} tin "
           f"(trong đó {so_vn} tin chủ đề Việt Nam).")
+
+    # ----- Lịch sự kiện (tầng 11) - file RIÊNG, không trộn vào data.json -----
+    lich = tao_lich_su_kien(so_ngay_toi=30)
+    lich_output = {
+        "cap_nhat_luc": datetime.now(GIO_VN).strftime("%Y-%m-%d %H:%M:%S"),
+        "su_kien": lich,
+    }
+    with open("lich_su_kien.json", "w", encoding="utf-8") as f:
+        json.dump(lich_output, f, ensure_ascii=False, indent=2)
+    print(f"=> Đã ghi lich_su_kien.json với {len(lich)} sự kiện trong 30 ngày tới.")
 
 
 if __name__ == "__main__":
