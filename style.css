@@ -20,6 +20,43 @@ header {
 header h1 { margin: 0 0 6px; font-size: 1.5rem; }
 .cap-nhat { margin: 0; opacity: 0.85; font-size: 0.9rem; }
 
+/* ----- Tin khẩn cấp (chỉ hiện khi có sự kiện đủ lớn) ----- */
+.tin-khan-cap {
+  max-width: 960px;
+  margin: 20px auto 0;
+  padding: 16px 22px;
+  background: #2a0a0f;
+  color: #fff;
+  border-radius: 12px;
+  border: 2px solid #ff2d4d;
+  box-shadow: 0 0 0 4px rgba(255, 45, 77, 0.15);
+  animation: nhap-nhay-khan-cap 1.6s ease-in-out infinite;
+}
+.tin-khan-cap .nhan {
+  font-weight: 800;
+  font-size: 0.85rem;
+  letter-spacing: 1.5px;
+  color: #ff5c72;
+  margin-bottom: 8px;
+}
+.tin-khan-cap ul { list-style: none; margin: 0; padding: 0; }
+.tin-khan-cap li { padding: 6px 0; border-top: 1px solid rgba(255, 255, 255, 0.12); }
+.tin-khan-cap li:first-child { border-top: none; }
+.tin-khan-cap a {
+  color: #fff;
+  font-size: 1.05rem;
+  font-weight: 700;
+  text-decoration: none;
+  display: block;
+}
+.tin-khan-cap a:hover { text-decoration: underline; }
+.tin-khan-cap .meta { font-size: 0.8rem; opacity: 0.85; margin-top: 2px; }
+
+@keyframes nhap-nhay-khan-cap {
+  0%, 100% { box-shadow: 0 0 0 4px rgba(255, 45, 77, 0.15); }
+  50% { box-shadow: 0 0 0 8px rgba(255, 45, 77, 0.3); }
+}
+
 /* ----- Điểm nóng hôm nay ----- */
 .diem-nong {
   max-width: 960px;
