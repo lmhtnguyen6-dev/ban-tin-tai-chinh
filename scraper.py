@@ -70,6 +70,13 @@ TRONG_SO_TU_KHOA = {
     "vn-index": 6, "vnindex": 6, "vn30": 5, "chứng khoán": 5, "cổ phiếu": 5,
     "hose": 4, "hnx": 3, "upcom": 3, "niêm yết": 4,
     "trái phiếu": 3, "khối ngoại": 5, "thanh khoản": 3,
+    # --- NHNN: nghiệp vụ điều hành tiền tệ (tầng 1.3 trong bộ khung tham khảo
+    #     — đây là các CÔNG CỤ điều hành cụ thể, tin về chúng thường báo hiệu
+    #     sớm hướng đi thanh khoản/lãi suất trước khi có quyết định chính thức) ---
+    "room tín dụng": 4, "lãi suất điều hành": 4, "tín phiếu": 3, "omo": 3,
+    "reverse repo": 3, "dự trữ ngoại hối": 3,
+    # --- UBCK: cấu trúc & quy định giao dịch (tầng 1.4) ---
+    "krx": 4, "t+0": 4, "bán khống": 3, "margin": 3, "ftse": 3, "msci": 3,
     # --- Hoạt động doanh nghiệp trên sàn (ƯU TIÊN TĂNG: cổ tức, phát hành, M&A,
     #     ĐHĐCĐ, giao dịch cổ đông... = tin CK thực chất, cần đẩy lên top) ---
     "cổ tức": 4, "trả cổ tức": 4, "chia cổ tức": 4,
@@ -89,8 +96,11 @@ TRONG_SO_TU_KHOA = {
     # --- Tài chính - ngân hàng - chính sách tiền tệ ---
     "ngân hàng nhà nước": 4, "nhnn": 4, "lãi suất": 4, "lãi suất liên ngân hàng": 5,
     "tín dụng": 3, "tỷ giá": 2, "lạm phát": 4,
-    # --- Fed & quốc tế tác động mạnh ---
+    # --- Fed & quốc tế tác động mạnh (thêm vài số liệu Mỹ cụ thể hay dẫn tới
+    #     biến động thị trường ngay khi công bố) ---
     "fed": 5, "fomc": 5, "powell": 4, "lãi suất mỹ": 5, "thuế quan": 3,
+    "non farm payroll": 3, "bảng lương phi nông nghiệp": 3, "cpi mỹ": 3,
+    "dot plot": 3, "pboc": 2,
     # --- Vĩ mô Việt Nam ---
     "fdi": 3, "gdp": 3, "tăng trưởng": 2, "xuất khẩu": 2, "nhập khẩu": 2,
     "đầu tư công": 3, "giải ngân": 2,
@@ -98,9 +108,20 @@ TRONG_SO_TU_KHOA = {
     #     này vào ưu tiên cao (sau chính sách/lãi suất/lạm phát) ---
     "dầu": 2, "opec": 2, "vàng": 2, "usd": 1, "bất động sản": 2,
     "trung quốc": 1, "trump": 2,
+    # Hàng hóa mở rộng (tầng 4) — dùng cụm "giá X" thay vì từ trơn để tránh
+    # nhầm với nghĩa đời thường (vd "cà phê" quán xá, "gạo" bữa ăn...).
+    "giá thép": 2, "quặng sắt": 2, "giá cà phê": 1, "giá cao su": 1,
+    "giá gạo": 1, "giá bạc": 1,
+    # --- Dòng vốn / trái phiếu quốc tế (tầng 7-8) ---
+    "etf": 3, "dragon capital": 2, "vinacapital": 2, "pyn elite": 2,
+    "lợi suất trái phiếu": 2, "trái phiếu chính phủ": 2,
     # GHI CHÚ: "vàng" ở đây CHỈ cộng điểm cho tin vàng mang tính vĩ mô/sự kiện
     # (vd "NHTW tăng mua vàng dự trữ") vì tin CẬP NHẬT GIÁ VÀNG HẰNG NGÀY đã bị
     # loại ở bước lọc nhiễu (xem CUM_GIA_VANG_HANG_NGAY) trước khi tới bước này.
+    # GHI CHÚ 2: KHÔNG thêm các số liệu cần nguồn dữ liệu thị trường riêng
+    # (US10Y/US2Y, DXY số cụ thể, CDS Việt Nam...) vì RSS báo chí không phải
+    # nguồn số liệu gốc cho các chỉ số này — chỉ có bài DIỄN GIẢI về chúng, và
+    # các bài đó đã được bắt qua "lợi suất trái phiếu"/"fed"/"trung quốc" ở trên.
 }
 
 # Token ASCII đánh dấu tin Việt Nam (dùng cho bộ lọc tiếng Việt bên dưới).
@@ -271,7 +292,8 @@ def la_tin_nhieu(tieu_de: str):
 # (Chủ đề đặc thù đặt trước.)
 CHU_DE_RULES = [
     ("Fed", ["fed", "fomc", "powell", "cục dự trữ liên bang", "lãi suất mỹ",
-             "ngân hàng trung ương mỹ", "chủ tịch fed", "biên bản fomc"]),
+             "ngân hàng trung ương mỹ", "chủ tịch fed", "biên bản fomc",
+             "non farm payroll", "bảng lương phi nông nghiệp", "cpi mỹ", "dot plot"]),
     ("Chính sách", ["chính phủ", "thủ tướng", "quốc hội", "nghị định", "nghị quyết",
                     "bộ tài chính", "ngân hàng nhà nước", "nhnn", "chính sách",
                     "thông tư", "đầu tư công", "giải ngân", "quy hoạch", "luật",
@@ -281,12 +303,18 @@ CHU_DE_RULES = [
                     "khối ngoại", "thanh khoản", "lợi nhuận", "doanh thu",
                     "kết quả kinh doanh", "ipo", "vốn hóa", "tỷ giá", "vnd",
                     "fdi", "tín dụng", "lãi suất", "xuất khẩu", "nhập khẩu",
-                    "bất động sản"]),
+                    "bất động sản",
+                    # NHNN nghiệp vụ điều hành + UBCK cấu trúc thị trường + dòng
+                    # vốn/trái phiếu quốc tế — đều là tin thị trường VN cụ thể.
+                    "room tín dụng", "omo", "tín phiếu", "dự trữ ngoại hối",
+                    "krx", "t+0", "bán khống", "margin", "ftse", "msci",
+                    "etf", "lợi suất trái phiếu"]),
     ("Địa chính trị", ["chiến tranh", "xung đột", "trump", "opec", "cấm vận",
                        "biển đông", "đài loan", "iran", "israel", "ukraine",
                        "nga", "hạt nhân", "quân sự", "căng thẳng"]),
     ("Thế giới", ["mỹ", "trung quốc", "nhật", "hàn quốc", "eu", "châu âu",
-                  "phố wall", "dow jones", "nasdaq", "s&p", "toàn cầu", "thế giới"]),
+                  "phố wall", "dow jones", "nasdaq", "s&p", "toàn cầu", "thế giới",
+                  "pboc"]),
 ]
 
 # Hệ số ưu tiên: nhân vào ĐIỂM GỐC để đẩy tin Việt Nam & Fed lên đầu.
