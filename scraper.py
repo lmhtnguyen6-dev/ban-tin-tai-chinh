@@ -286,6 +286,44 @@ def la_tin_nhieu(tieu_de: str):
 
 
 # ---------------------------------------------------------------------------
+# 2c. TIN KHẨN CẤP (Breaking News) — sự kiện đủ lớn để vượt lên TRÊN mọi luật
+#     xếp hạng thông thường, bất kể chủ đề/số nguồn/độ mới.
+# ---------------------------------------------------------------------------
+# Đây là các cụm từ ĐẶC HIỆU cho sự kiện QUY MÔ LỚN thực sự (vỡ nợ, khủng hoảng
+# ngân hàng, chiến tranh bùng nổ, sự cố hệ thống giao dịch...), KHÁC với tin
+# thời sự thông thường dù cùng chủ đề (vd "lãi suất tăng" là tin thường, nhưng
+# "khủng hoảng ngân hàng" là tin khẩn cấp). Dùng cụm nhiều từ để tránh khớp nhầm.
+TU_KHOA_TIN_KHAN_CAP = [
+    # Vỡ nợ / khủng hoảng tài chính - ngân hàng
+    "vỡ nợ", "khủng hoảng ngân hàng", "khủng hoảng tài chính", "sụp đổ ngân hàng",
+    "khủng hoảng thanh khoản", "vỡ bong bóng",
+    # Chính biến / xung đột leo thang
+    "đảo chính", "chính biến", "tuyên chiến", "chiến tranh bùng nổ",
+    "tấn công quân sự", "không kích",
+    # Thiên tai / dịch bệnh nghiêm trọng
+    "đại dịch", "phong tỏa toàn quốc", "sóng thần", "động đất mạnh",
+    # Xếp hạng tín nhiệm quốc gia
+    "hạ xếp hạng tín nhiệm", "hạ bậc tín nhiệm",
+    # Sự cố hệ thống giao dịch chứng khoán
+    "sập sàn", "lỗi hệ thống giao dịch", "tạm dừng giao dịch toàn thị trường",
+    "ngừng giao dịch toàn thị trường",
+    # Trừng phạt / cấm vận diện rộng
+    "cấm vận toàn diện", "trừng phạt kinh tế",
+]
+
+
+def la_tin_khan_cap(tieu_de: str) -> bool:
+    """True nếu tiêu đề khớp một cụm từ 'khẩn cấp' (sự kiện đủ lớn)."""
+    t = tieu_de.lower()
+    return any(cum in t for cum in TU_KHOA_TIN_KHAN_CAP)
+
+
+# Điểm THƯỞNG THÊM (cộng thẳng vào điểm cuối, sau hệ số ưu tiên chủ đề) cho tin
+# khẩn cấp, để đảm bảo LUÔN đứng đầu bảng bất kể chủ đề gì / bao nhiêu nguồn đăng.
+DIEM_THUONG_KHAN_CAP = 50
+
+
+# ---------------------------------------------------------------------------
 # 3. GÁN CHỦ ĐỀ & HỆ SỐ ƯU TIÊN
 # ---------------------------------------------------------------------------
 # Quy tắc gán chủ đề: duyệt theo thứ tự, khớp từ khóa nào trước thì gán chủ đề đó.
@@ -604,6 +642,7 @@ def cham_diem(nhom_list):
              + (tổng TRỌNG SỐ các từ khóa nóng xuất hiện trong tiêu đề)
              + (điểm mới)
     điểm     = điểm_gốc * HỆ SỐ ƯU TIÊN theo chủ đề
+             + DIEM_THUONG_KHAN_CAP (nếu là tin khẩn cấp - xem la_tin_khan_cap)
     (Trước đây cộng theo tần suất từ khóa toàn ngày; nay cộng theo TRỌNG SỐ cố định
      để tin chứng khoán - tài chính - doanh nghiệp được ưu tiên rõ ràng.)
     """
@@ -623,6 +662,12 @@ def cham_diem(nhom_list):
         he_so = HE_SO_UU_TIEN.get(chu_de, 1.0)
         tong_diem = round(diem_goc * he_so, 1)
 
+        # Tin khẩn cấp: cộng thẳng điểm thưởng SAU hệ số, để luôn đứng đầu bảng
+        # bất kể chủ đề/số nguồn/độ mới ra sao.
+        khan_cap = la_tin_khan_cap(nhom["tieu_de"])
+        if khan_cap:
+            tong_diem = round(tong_diem + DIEM_THUONG_KHAN_CAP, 1)
+
         gio_vn = nhom["gio_dang"].astimezone(GIO_VN)
         ket_qua.append({
             "tieu_de": nhom["tieu_de"],
@@ -632,6 +677,7 @@ def cham_diem(nhom_list):
             "thoi_gian": gio_vn.strftime("%Y-%m-%d %H:%M"),
             "link": nhom["link"],
             "diem": tong_diem,
+            "khan_cap": khan_cap,            # cờ hiển thị badge "khẩn cấp" ở frontend
             "_la_vn": chu_de in CHU_DE_VN,   # cờ nội bộ cho hạn ngạch
         })
 
