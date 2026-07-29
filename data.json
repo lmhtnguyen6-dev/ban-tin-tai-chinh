@@ -1,5 +1,5 @@
 {
-  "cap_nhat_luc": "2026-07-29 11:08:34",
+  "cap_nhat_luc": "2026-07-29 11:25:03",
   "so_tin": 30,
   "tin": [
     {
@@ -7,7 +7,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 11:08",
+      "thoi_gian": "2026-07-29 11:24",
       "link": "https://vietnambiz.vn/ts-can-van-luc-nen-kinh-te-chi-dua-vao-von-tin-dung-rat-rui-ro-can-tang-von-tu-chung-khoan-them-15-17-lan-2026723105627344.htm",
       "diem": 42.0
     },
@@ -16,7 +16,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 11:08",
+      "thoi_gian": "2026-07-29 11:24",
       "link": "https://vietnambiz.vn/hsbc-kinh-te-viet-nam-tang-toc-nhung-nhap-sieu-lam-phat-va-ty-gia-dang-cung-tao-suc-ep-len-dieu-hanh-2026721134523104.htm",
       "diem": 38.0
     },
@@ -27,7 +27,16 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-29 00:00",
       "link": "https://cafef.vn/xuat-hien-mot-nha-dau-tu-ca-nhan-nam-giu-luong-lon-co-phieu-ngan-hang-giau-hon-nhieu-doanh-nhan-ky-cuu-tren-san-chung-khoan-188260728233536936.chn",
-      "diem": 36.8
+      "diem": 36.4
+    },
+    {
+      "tieu_de": "Ông Nguyễn Đức Tài muốn mua 1 triệu cổ phiếu Thế Giới Di Động",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-29 11:09",
+      "link": "https://vnexpress.net/ong-nguyen-duc-tai-muon-mua-1-trieu-co-phieu-the-gioi-di-dong-5102840.html",
+      "diem": 35.8
     },
     {
       "tieu_de": "Được dự báo thuộc nhóm tăng trưởng nhanh nhất ASEAN trong 2026, GDP quý II của \"công xưởng bán dẫn ĐNA\" cao hay thấp so với Việt Nam?",
@@ -36,23 +45,14 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-29 10:07",
       "link": "https://cafef.vn/duoc-du-bao-thuoc-nhom-tang-truong-nhanh-nhat-asean-trong-2026-gdp-quy-ii-cua-cong-xuong-ban-dan-dna-cao-hay-thap-so-voi-viet-nam-18826072910083436.chn",
-      "diem": 35.2
-    },
-    {
-      "tieu_de": "Chuyên gia: Fed có thể khiến thị trường bất ngờ khi tăng lãi suất ngay tại cuộc họp đêm nay",
-      "chu_de": "Fed",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-29 06:21",
-      "link": "https://cafef.vn/chuyen-gia-fed-co-the-khien-thi-truong-bat-ngo-khi-tang-lai-suat-ngay-tai-cuoc-hop-dem-nay-188260728212150576.chn",
-      "diem": 34.0
+      "diem": 35.0
     },
     {
       "tieu_de": "Quảng Ninh được thông qua hồ sơ Đề án thành lập Thành phố trực thuộc Trung ương, Việt Nam sắp có Thành phố thứ 8",
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 11:08",
+      "thoi_gian": "2026-07-29 11:24",
       "link": "https://vietnambiz.vn/quang-ninh-duoc-thong-qua-ho-so-de-an-thanh-lap-thanh-pho-truc-thuoc-trung-uong-viet-nam-sap-co-thanh-pho-thu-8-202672873019600.htm",
       "diem": 34.0
     },
@@ -61,7 +61,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 11:08",
+      "thoi_gian": "2026-07-29 11:24",
       "link": "https://vietnambiz.vn/trung-uong-thao-luan-de-an-thanh-lap-thanh-pho-quang-ninh-bac-ninh-202672220748677.htm",
       "diem": 34.0
     },
@@ -70,9 +70,18 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 11:08",
+      "thoi_gian": "2026-07-29 11:24",
       "link": "https://vietnambiz.vn/pho-chu-tich-ubcknn-cac-nha-dau-tu-nuoc-ngoai-dang-quan-tam-den-nhieu-dnnn-quy-mo-lon-von-hoa-hang-ty-usd-2026721144556246.htm",
       "diem": 34.0
+    },
+    {
+      "tieu_de": "Chuyên gia: Fed có thể khiến thị trường bất ngờ khi tăng lãi suất ngay tại cuộc họp đêm nay",
+      "chu_de": "Fed",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-29 06:21",
+      "link": "https://cafef.vn/chuyen-gia-fed-co-the-khien-thi-truong-bat-ngo-khi-tang-lai-suat-ngay-tai-cuoc-hop-dem-nay-188260728212150576.chn",
+      "diem": 33.8
     },
     {
       "tieu_de": "Vàng thế giới giảm hơn 1% chờ quyết định của Fed",
@@ -81,7 +90,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-29 08:24",
       "link": "http://vietstock.vn/2026/07/vang-the-gioi-giam-hon-1-cho-quyet-dinh-cua-fed-759-1472552.htm",
-      "diem": 32.1
+      "diem": 31.8
     },
     {
       "tieu_de": "Vốn hóa Apple lần đầu chạm 5.000 tỷ USD",
@@ -90,23 +99,32 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-29 08:38",
       "link": "https://vnexpress.net/von-hoa-apple-lan-dau-cham-5-000-ty-usd-5102777.html",
-      "diem": 32.0
+      "diem": 31.6
     },
     {
       "tieu_de": "PVOIL: Đã thu xếp 2 triệu thùng dầu thô từ Iraq, từ nay đến cuối năm tiếp tục cung ứng thêm 3 triệu thùng",
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 11:08",
+      "thoi_gian": "2026-07-29 11:24",
       "link": "https://vietnambiz.vn/pvoil-da-thu-xep-2-trieu-thung-dau-tho-tu-iraq-tu-nay-den-cuoi-nam-tiep-tuc-cung-ung-them-3-trieu-thung-2026722151250466.htm",
       "diem": 30.0
+    },
+    {
+      "tieu_de": "Một ngân hàng dành riêng 5.000 tỷ đồng cho vay mua bất động sản Vinhomes",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-07-29 11:16",
+      "link": "https://cafef.vn/mot-ngan-hang-danh-rieng-5000-ty-dong-cho-vay-mua-bat-dong-san-vinhomes-188260729111752406.chn",
+      "diem": 29.8
     },
     {
       "tieu_de": "'IFC có thể huy động 10 - 30 tỷ USD mỗi năm từ nhà đầu tư quốc tế'",
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 11:08",
+      "thoi_gian": "2026-07-29 11:24",
       "link": "https://vietnambiz.vn/ifc-co-the-huy-dong-10-30-ty-usd-moi-nam-tu-nha-dau-tu-quoc-te-2026723183220903.htm",
       "diem": 28.0
     },
@@ -115,7 +133,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 11:08",
+      "thoi_gian": "2026-07-29 11:24",
       "link": "https://vietnambiz.vn/tham-hut-thuong-mai-lan-dau-tien-vuot-moc-20-ty-usd-sau-30-nam-2026720143919627.htm",
       "diem": 28.0
     },
@@ -124,7 +142,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 11:08",
+      "thoi_gian": "2026-07-29 11:24",
       "link": "https://vietnambiz.vn/chuyen-bo-cong-an-dieu-tra-sai-pham-cua-nhieu-nha-thau-du-an-san-bay-long-thanh-202672974924567.htm",
       "diem": 26.0
     },
@@ -133,7 +151,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 11:08",
+      "thoi_gian": "2026-07-29 11:24",
       "link": "https://vietnambiz.vn/pho-thu-tuong-thao-go-kho-khan-cho-cac-du-an-dien-gio-chong-lan-nhung-khong-hop-thuc-hoa-sai-pham-202672874517420.htm",
       "diem": 26.0
     },
@@ -142,7 +160,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 11:08",
+      "thoi_gian": "2026-07-29 11:24",
       "link": "https://vietnambiz.vn/tp-hcm-thanh-lap-khu-thuong-mai-tu-do-hon-4170-ha-2026724192439681.htm",
       "diem": 26.0
     },
@@ -151,7 +169,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 11:08",
+      "thoi_gian": "2026-07-29 11:24",
       "link": "https://vietnambiz.vn/de-xuat-hon-17000-ty-dong-xay-cao-toc-pleiku-le-thanh-2026724161548184.htm",
       "diem": 26.0
     },
@@ -160,7 +178,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 11:08",
+      "thoi_gian": "2026-07-29 11:24",
       "link": "https://vietnambiz.vn/de-xuat-dau-tu-19-cong-trinh-tang-hieu-qua-du-an-chong-ngap-10000-ty-dong-20267236545804.htm",
       "diem": 26.0
     },
@@ -169,7 +187,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 11:08",
+      "thoi_gian": "2026-07-29 11:24",
       "link": "https://vietnambiz.vn/ha-noi-nghien-cuu-mo-hinh-khu-dich-vu-giai-tri-dem-co-kiem-soat-2026723653445.htm",
       "diem": 26.0
     },
@@ -178,7 +196,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 11:08",
+      "thoi_gian": "2026-07-29 11:24",
       "link": "https://vietnambiz.vn/gap-rut-chuyen-minh-bang-cac-du-an-ha-tang-viet-nam-se-giai-bai-toan-von-va-nguon-luc-the-nao-2026722115144634.htm",
       "diem": 26.0
     },
@@ -187,7 +205,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 11:08",
+      "thoi_gian": "2026-07-29 11:24",
       "link": "https://vietnambiz.vn/dong-nai-duoc-dinh-huong-thanh-trung-tam-hang-khong-cua-chau-a-thai-binh-duong-2026722153116867.htm",
       "diem": 26.0
     },
@@ -196,7 +214,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 11:08",
+      "thoi_gian": "2026-07-29 11:24",
       "link": "https://vietnambiz.vn/ts-nguyen-duc-hien-tranh-truong-hop-doanh-nghiep-nha-nuoc-lon-lam-het-viec-cua-doanh-nghiep-vua-va-nho-202672110556191.htm",
       "diem": 26.0
     },
@@ -205,7 +223,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 11:08",
+      "thoi_gian": "2026-07-29 11:24",
       "link": "https://vietnambiz.vn/tam-nhin-2045-viet-nam-dat-muc-tieu-tro-thanh-trung-tam-van-hoa-sang-tao-hang-dau-khu-vuc-20267218633637.htm",
       "diem": 26.0
     },
@@ -214,7 +232,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 11:08",
+      "thoi_gian": "2026-07-29 11:24",
       "link": "https://vietnambiz.vn/lam-sach-ma-so-thue-chan-ke-ho-cho-doanh-nghiep-ao-2026719155423579.htm",
       "diem": 26.0
     },
@@ -223,7 +241,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 11:08",
+      "thoi_gian": "2026-07-29 11:24",
       "link": "https://vietnambiz.vn/du-kien-mo-rong-dinh-danh-dien-tu-moi-thuc-the-202671973935524.htm",
       "diem": 26.0
     },
@@ -232,17 +250,8 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-29 11:08",
+      "thoi_gian": "2026-07-29 11:24",
       "link": "https://vietnambiz.vn/du-an-chong-ngap-lon-nhat-tp-hcm-phat-sinh-hon-2500-ty-dong-lai-vay-2026718194423986.htm",
-      "diem": 26.0
-    },
-    {
-      "tieu_de": "Xử lý doanh nghiệp 'ma', ngăn lợi dụng pháp nhân để trốn thuế",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-29 11:08",
-      "link": "https://vietnambiz.vn/xu-ly-doanh-nghiep-ma-ngan-loi-dung-phap-nhan-de-tron-thue-2026718152841488.htm",
       "diem": 26.0
     },
     {
@@ -252,7 +261,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-29 11:01",
       "link": "https://cafef.vn/thoi-diem-lap-hoa-don-khi-thuc-hien-kinh-doanh-hang-hoa-dich-vu-co-gi-moi-188260729110229078.chn",
-      "diem": 25.8
+      "diem": 25.6
     },
     {
       "tieu_de": "Định hướng đến năm 2130, Việt Nam trở thành quốc gia xã hội chủ nghĩa phát triển trình độ cao",
@@ -261,15 +270,6 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-29 11:00",
       "link": "https://cafef.vn/dinh-huong-den-nam-2130-viet-nam-tro-thanh-quoc-gia-xa-hoi-chu-nghia-phat-trien-trinh-do-cao-188260729103616543.chn",
-      "diem": 25.8
-    },
-    {
-      "tieu_de": "Gỡ “nút thắt” mặt bằng, đẩy nhanh tiến độ dự án chống ngập phía Bắc Hà Nội",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-29 10:35",
-      "link": "https://cafef.vn/go-nut-that-mat-bang-day-nhanh-tien-do-du-an-chong-ngap-phia-bac-ha-noi-188260729101237876.chn",
       "diem": 25.6
     }
   ]
