@@ -22,6 +22,7 @@ async function taiDuLieu() {
       "Cập nhật lúc: " + (data.cap_nhat_luc || "không rõ") +
       " · " + TAT_CA_TIN.length + " tin";
 
+    hienTinKhanCap();
     hienDiemNong();
     taoBoLoc();
     renderBang();
@@ -29,6 +30,29 @@ async function taiDuLieu() {
     document.getElementById("cap-nhat").textContent =
       "Không tải được data.json (" + err.message + "). Chờ workflow chạy lần đầu.";
   }
+}
+
+/* ----- Tin khẩn cấp: chỉ hiện khi có tin cờ khan_cap = true ----- */
+function hienTinKhanCap() {
+  const box = document.getElementById("tin-khan-cap");
+  const list = document.getElementById("khan-cap-list");
+  const tinKhanCap = TAT_CA_TIN.filter((t) => t.khan_cap);
+
+  if (tinKhanCap.length === 0) {
+    box.hidden = true;
+    return;
+  }
+
+  list.innerHTML = "";
+  tinKhanCap.forEach((tin) => {
+    const li = document.createElement("li");
+    li.innerHTML = `
+      <a href="${tin.link}" target="_blank" rel="noopener">${escapeHtml(tin.tieu_de)}</a>
+      <div class="meta">${escapeHtml(tin.chu_de)} · ${escapeHtml(tin.nguon)} · ${escapeHtml(tin.thoi_gian)}</div>
+    `;
+    list.appendChild(li);
+  });
+  box.hidden = false;
 }
 
 /* ----- Điểm nóng hôm nay: tin điểm cao nhất ----- */
@@ -83,9 +107,10 @@ function renderBang() {
 
   ds.forEach((tin, i) => {
     const tr = document.createElement("tr");
+    const coKhanCap = tin.khan_cap ? "🚨 " : "";
     tr.innerHTML = `
       <td>${i + 1}</td>
-      <td><a href="${tin.link}" target="_blank" rel="noopener">${escapeHtml(tin.tieu_de)}</a></td>
+      <td><a href="${tin.link}" target="_blank" rel="noopener">${coKhanCap}${escapeHtml(tin.tieu_de)}</a></td>
       <td><span class="the-chu-de">${escapeHtml(tin.chu_de)}</span></td>
       <td>${escapeHtml(tin.nguon)}</td>
       <td>${escapeHtml(tin.thoi_gian)}</td>
