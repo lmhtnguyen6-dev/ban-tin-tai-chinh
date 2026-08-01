@@ -1,5 +1,5 @@
 {
-  "cap_nhat_luc": "2026-08-01 22:41:31",
+  "cap_nhat_luc": "2026-08-02 03:00:31",
   "so_tin": 30,
   "tin": [
     {
@@ -9,7 +9,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-01 20:51",
       "link": "https://cafef.vn/lai-suat-ngan-hang-1-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260801205254277.chn",
-      "diem": 52.4,
+      "diem": 48.8,
       "khan_cap": false
     },
     {
@@ -17,7 +17,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-01 22:41",
+      "thoi_gian": "2026-08-02 03:00",
       "link": "https://vietnambiz.vn/ts-can-van-luc-nen-kinh-te-chi-dua-vao-von-tin-dung-rat-rui-ro-can-tang-von-tu-chung-khoan-them-15-17-lan-2026723105627344.htm",
       "diem": 42.0,
       "khan_cap": false
@@ -27,9 +27,19 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-01 22:41",
+      "thoi_gian": "2026-08-02 03:00",
       "link": "https://vietnambiz.vn/hsbc-kinh-te-viet-nam-tang-toc-nhung-nhap-sieu-lam-phat-va-ty-gia-dang-cung-tao-suc-ep-len-dieu-hanh-2026721134523104.htm",
       "diem": 38.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Chủ tịch Fed tính toán thay đổi lớn, thị trường càng ít manh mối về lãi suất",
+      "chu_de": "Fed",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-02 00:09",
+      "link": "https://cafef.vn/chu-tich-fed-tinh-toan-thay-doi-lon-thi-truong-cang-it-manh-moi-ve-lai-suat-188260801225953346.chn",
+      "diem": 35.4,
       "khan_cap": false
     },
     {
@@ -37,7 +47,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-01 22:41",
+      "thoi_gian": "2026-08-02 03:00",
       "link": "https://vietnambiz.vn/quang-ninh-duoc-thong-qua-ho-so-de-an-thanh-lap-thanh-pho-truc-thuoc-trung-uong-viet-nam-sap-co-thanh-pho-thu-8-202672873019600.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -47,7 +57,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-01 22:41",
+      "thoi_gian": "2026-08-02 03:00",
       "link": "https://vietnambiz.vn/trung-uong-thao-luan-de-an-thanh-lap-thanh-pho-quang-ninh-bac-ninh-202672220748677.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -57,9 +67,19 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-01 22:41",
+      "thoi_gian": "2026-08-02 03:00",
       "link": "https://vietnambiz.vn/pho-chu-tich-ubcknn-cac-nha-dau-tu-nuoc-ngoai-dang-quan-tam-den-nhieu-dnnn-quy-mo-lon-von-hoa-hang-ty-usd-2026721144556246.htm",
       "diem": 34.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Lợi nhuận nhiều ngân hàng đi lùi",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-02 00:18",
+      "link": "https://vnexpress.net/loi-nhuan-nhieu-ngan-hang-di-lui-5104061.html",
+      "diem": 31.8,
       "khan_cap": false
     },
     {
@@ -67,7 +87,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-01 22:41",
+      "thoi_gian": "2026-08-02 03:00",
       "link": "https://vietnambiz.vn/dieu-gi-se-giup-ha-noi-can-moc-muc-tieu-grdp-tang-truong-134-nua-cuoi-nam-2026731173126634.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -77,7 +97,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-01 22:41",
+      "thoi_gian": "2026-08-02 03:00",
       "link": "https://vietnambiz.vn/ty-gia-tang-cao-ky-luc-do-dau-202672816363334.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -87,7 +107,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-01 22:41",
+      "thoi_gian": "2026-08-02 03:00",
       "link": "https://vietnambiz.vn/pvoil-da-thu-xep-2-trieu-thung-dau-tho-tu-iraq-tu-nay-den-cuoi-nam-tiep-tuc-cung-ung-them-3-trieu-thung-2026722151250466.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -97,7 +117,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-01 22:41",
+      "thoi_gian": "2026-08-02 03:00",
       "link": "https://vietnambiz.vn/viet-nam-nhap-sieu-hon-20-ty-usd-tinh-den-157-co-hoi-nao-de-dao-chieu-trong-nua-cuoi-nam-2026730153457826.htm",
       "diem": 28.0,
       "khan_cap": false
@@ -107,7 +127,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-01 22:41",
+      "thoi_gian": "2026-08-02 03:00",
       "link": "https://vietnambiz.vn/ifc-co-the-huy-dong-10-30-ty-usd-moi-nam-tu-nha-dau-tu-quoc-te-2026723183220903.htm",
       "diem": 28.0,
       "khan_cap": false
@@ -119,7 +139,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-01 11:33",
       "link": "http://vietstock.vn/2026/08/dot-ban-thao-trai-phieu-phat-tin-hieu-canh-bao-toi-fed-773-1475411.htm",
-      "diem": 27.9,
+      "diem": 24.8,
       "khan_cap": false
     },
     {
@@ -129,7 +149,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-01 18:14",
       "link": "https://cafef.vn/mot-xa-trien-khai-thu-hoi-dat-cua-1179-ho-dan-de-thuc-hien-tuyen-duong-sat-dai-390km-tong-von-84-ty-usd-18826080117155496.chn",
-      "diem": 24.2,
+      "diem": 20.6,
       "khan_cap": false
     },
     {
@@ -139,7 +159,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-01 13:16",
       "link": "https://vnexpress.net/nhap-khau-dieu-tho-vuot-3-ty-usd-5104042.html",
-      "diem": 24.2,
+      "diem": 20.6,
       "khan_cap": false
     },
     {
@@ -149,7 +169,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-01 13:41",
       "link": "https://cafef.vn/ha-noi-khai-thac-du-dia-quyet-tam-tang-truong-tren-11-188260801134041782.chn",
-      "diem": 22.4,
+      "diem": 18.8,
       "khan_cap": false
     },
     {
@@ -159,7 +179,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-01 06:45",
       "link": "https://vnexpress.net/loi-nhuan-yeah1-giam-mot-nua-do-thieu-concert-5103752.html",
-      "diem": 20.8,
+      "diem": 17.2,
       "khan_cap": false
     },
     {
@@ -169,7 +189,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-01 12:05",
       "link": "https://cafef.vn/de-kiem-100000-usd-thu-nhap-binh-quan-nguoi-philippines-mat-21-nam-thai-lan-mat-13-nam-viet-nam-thi-sao-188260801111102248.chn",
-      "diem": 19.2,
+      "diem": 15.6,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Bang Mỹ đau đầu vì kiếm được quá nhiều tiền từ dầu mỏ",
+      "chu_de": "Thế giới",
+      "nguon": "VnExpress Thế giới",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-02 01:00",
+      "link": "https://vnexpress.net/bang-my-dau-dau-vi-kiem-duoc-qua-nhieu-tien-tu-dau-mo-5103580.html",
+      "diem": 15.6,
       "khan_cap": false
     },
     {
@@ -179,7 +209,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-01 09:35",
       "link": "https://cafef.vn/cuc-thue-phat-thong-bao-quan-trong-doi-voi-ho-ca-nhan-kinh-doanh-co-doanh-thu-nam-duoi-1-ty-dong-18826080109354236.chn",
-      "diem": 19.0,
+      "diem": 15.4,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Các doanh nghiệp dầu khí, xăng dầu của Việt Nam đã chuẩn bị gì khi xung đột Trung Đông leo thang trở lại?",
+      "chu_de": "Địa chính trị",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-02 03:00",
+      "link": "https://vietnambiz.vn/cac-doanh-nghiep-dau-khi-xang-dau-cua-viet-nam-da-chuan-bi-gi-khi-xung-dot-trung-dong-leo-thang-tro-lai-202672214475436.htm",
+      "diem": 15.0,
       "khan_cap": false
     },
     {
@@ -189,7 +229,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-01 07:14",
       "link": "https://vnexpress.net/ong-lon-vat-lieu-xay-dung-thai-lan-tang-doanh-thu-126-o-viet-nam-5103897.html",
-      "diem": 17.2,
+      "diem": 13.6,
       "khan_cap": false
     },
     {
@@ -199,7 +239,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-01 15:04",
       "link": "https://cafef.vn/tich-thu-15-kg-vang-va-2-kg-bac-tri-gia-hon-8-ty-dong-5-giay-to-bat-dong-san-cung-23-ty-dong-tien-mat-tai-nha-mot-nhan-vien-van-thu-188260801111553607.chn",
-      "diem": 15.2,
+      "diem": 13.2,
       "khan_cap": false
     },
     {
@@ -209,37 +249,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-01 19:24",
       "link": "https://cafef.vn/tau-cho-dau-bat-ngo-trung-vat-the-la-ngoai-khoi-oman-188260801192411619.chn",
-      "diem": 15.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Các doanh nghiệp dầu khí, xăng dầu của Việt Nam đã chuẩn bị gì khi xung đột Trung Đông leo thang trở lại?",
-      "chu_de": "Địa chính trị",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-01 22:41",
-      "link": "https://vietnambiz.vn/cac-doanh-nghiep-dau-khi-xang-dau-cua-viet-nam-da-chuan-bi-gi-khi-xung-dot-trung-dong-leo-thang-tro-lai-202672214475436.htm",
-      "diem": 15.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "EVN chuẩn bị toàn diện cho dự án điện hạt nhân đầu tiên của Việt Nam",
-      "chu_de": "Địa chính trị",
-      "nguon": "CafeF Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-01 18:54",
-      "link": "https://cafef.vn/evn-chuan-bi-toan-dien-cho-du-an-dien-hat-nhan-dau-tien-cua-viet-nam-18826080118550423.chn",
-      "diem": 14.4,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Vì sao 50.000 người di cư ồ ạt tràn vào Tây Ban Nha?",
-      "chu_de": "Thế giới",
-      "nguon": "CafeF Tài chính quốc tế, VnExpress Thế giới",
-      "so_nguon": 2,
-      "thoi_gian": "2026-08-01 16:51",
-      "link": "https://cafef.vn/vi-sao-50000-nguoi-di-cu-o-at-tran-vao-tay-ban-nha-188260801162648683.chn",
-      "diem": 13.6,
+      "diem": 13.0,
       "khan_cap": false
     },
     {
@@ -247,7 +257,7 @@
       "chu_de": "Thế giới",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-01 22:41",
+      "thoi_gian": "2026-08-02 03:00",
       "link": "https://vietnambiz.vn/bac-ninh-dat-muc-tieu-vao-top-50-do-thi-thong-minh-toan-cau-20268114526771.htm",
       "diem": 13.0,
       "khan_cap": false
@@ -257,7 +267,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-01 22:41",
+      "thoi_gian": "2026-08-02 03:00",
       "link": "https://vietnambiz.vn/vietcap-my-ap-thue-moi-len-viet-nam-ty-trong-hang-hoa-xuat-khau-duoc-mien-thue-lai-tang-tu-34-len-hon-40-2026730112527466.htm",
       "diem": 13.0,
       "khan_cap": false
@@ -267,7 +277,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-01 22:41",
+      "thoi_gian": "2026-08-02 03:00",
       "link": "https://vietnambiz.vn/dua-viet-nam-tro-thanh-quoc-gia-phat-trien-thu-nhap-cao-vao-nam-2045-2026729143747488.htm",
       "diem": 13.0,
       "khan_cap": false
@@ -277,7 +287,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-01 22:41",
+      "thoi_gian": "2026-08-02 03:00",
       "link": "https://vietnambiz.vn/ong-nguyen-thanh-nghi-phat-trien-manh-doanh-nghiep-bien-nhat-la-cac-tap-doan-tong-cong-ty-quy-mo-lon-2026729121921851.htm",
       "diem": 13.0,
       "khan_cap": false
@@ -287,18 +297,8 @@
       "chu_de": "Địa chính trị",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-01 22:41",
+      "thoi_gian": "2026-08-02 03:00",
       "link": "https://vietnambiz.vn/nghien-cuu-khu-kinh-te-dac-biet-va-mo-hinh-xa-hat-nhan-2026729112426493.htm",
-      "diem": 13.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Chuyển Bộ Công an điều tra sai phạm của nhiều nhà thầu dự án sân bay Long Thành",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-01 22:41",
-      "link": "https://vietnambiz.vn/chuyen-bo-cong-an-dieu-tra-sai-pham-cua-nhieu-nha-thau-du-an-san-bay-long-thanh-202672974924567.htm",
       "diem": 13.0,
       "khan_cap": false
     }
