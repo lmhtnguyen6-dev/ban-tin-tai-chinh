@@ -1,15 +1,115 @@
 {
-  "cap_nhat_luc": "2026-08-01 18:48:56",
+  "cap_nhat_luc": "2026-08-01 22:41:31",
   "so_tin": 30,
   "tin": [
     {
-      "tieu_de": "Lãi suất ngân hàng 31/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...",
+      "tieu_de": "Lãi suất ngân hàng 1/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...",
       "chu_de": "Kinh tế VN",
       "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-31 20:31",
-      "link": "https://cafef.vn/lai-suat-ngan-hang-31-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-18826073120331875.chn",
-      "diem": 35.4,
+      "thoi_gian": "2026-08-01 20:51",
+      "link": "https://cafef.vn/lai-suat-ngan-hang-1-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260801205254277.chn",
+      "diem": 52.4,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "TS. Cấn Văn Lực: Nền kinh tế chỉ dựa vào vốn tín dụng rất rủi ro, cần tăng vốn từ chứng khoán thêm 1,5 - 1,7 lần",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 22:41",
+      "link": "https://vietnambiz.vn/ts-can-van-luc-nen-kinh-te-chi-dua-vao-von-tin-dung-rat-rui-ro-can-tang-von-tu-chung-khoan-them-15-17-lan-2026723105627344.htm",
+      "diem": 42.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "HSBC: Kinh tế Việt Nam tăng tốc nhưng nhập siêu, lạm phát và tỷ giá đang cùng tạo sức ép lên điều hành",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 22:41",
+      "link": "https://vietnambiz.vn/hsbc-kinh-te-viet-nam-tang-toc-nhung-nhap-sieu-lam-phat-va-ty-gia-dang-cung-tao-suc-ep-len-dieu-hanh-2026721134523104.htm",
+      "diem": 38.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Quảng Ninh được thông qua hồ sơ Đề án thành lập Thành phố trực thuộc Trung ương, Việt Nam sắp có Thành phố thứ 8",
+      "chu_de": "Chính sách",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 22:41",
+      "link": "https://vietnambiz.vn/quang-ninh-duoc-thong-qua-ho-so-de-an-thanh-lap-thanh-pho-truc-thuoc-trung-uong-viet-nam-sap-co-thanh-pho-thu-8-202672873019600.htm",
+      "diem": 34.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Trung ương thảo luận đề án thành lập thành phố Quảng Ninh, Bắc Ninh",
+      "chu_de": "Chính sách",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 22:41",
+      "link": "https://vietnambiz.vn/trung-uong-thao-luan-de-an-thanh-lap-thanh-pho-quang-ninh-bac-ninh-202672220748677.htm",
+      "diem": 34.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Phó Chủ tịch UBCKNN: Các nhà đầu tư nước ngoài đang quan tâm đến nhiều DNNN quy mô lớn, vốn hóa hàng tỷ USD",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 22:41",
+      "link": "https://vietnambiz.vn/pho-chu-tich-ubcknn-cac-nha-dau-tu-nuoc-ngoai-dang-quan-tam-den-nhieu-dnnn-quy-mo-lon-von-hoa-hang-ty-usd-2026721144556246.htm",
+      "diem": 34.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Điều gì sẽ giúp Hà Nội 'cán mốc' mục tiêu GRDP tăng trưởng 13,4% nửa cuối năm?",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 22:41",
+      "link": "https://vietnambiz.vn/dieu-gi-se-giup-ha-noi-can-moc-muc-tieu-grdp-tang-truong-134-nua-cuoi-nam-2026731173126634.htm",
+      "diem": 30.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Tỷ giá tăng cao kỷ lục do đâu?",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 22:41",
+      "link": "https://vietnambiz.vn/ty-gia-tang-cao-ky-luc-do-dau-202672816363334.htm",
+      "diem": 30.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "PVOIL: Đã thu xếp 2 triệu thùng dầu thô từ Iraq, từ nay đến cuối năm tiếp tục cung ứng thêm 3 triệu thùng",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 22:41",
+      "link": "https://vietnambiz.vn/pvoil-da-thu-xep-2-trieu-thung-dau-tho-tu-iraq-tu-nay-den-cuoi-nam-tiep-tuc-cung-ung-them-3-trieu-thung-2026722151250466.htm",
+      "diem": 30.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Việt Nam nhập siêu hơn 20 tỷ USD, tính đến 15/7: Cơ hội nào để đảo chiều trong nửa cuối năm?",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 22:41",
+      "link": "https://vietnambiz.vn/viet-nam-nhap-sieu-hon-20-ty-usd-tinh-den-157-co-hoi-nao-de-dao-chieu-trong-nua-cuoi-nam-2026730153457826.htm",
+      "diem": 28.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "'IFC có thể huy động 10 - 30 tỷ USD mỗi năm từ nhà đầu tư quốc tế'",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 22:41",
+      "link": "https://vietnambiz.vn/ifc-co-the-huy-dong-10-30-ty-usd-moi-nam-tu-nha-dau-tu-quoc-te-2026723183220903.htm",
+      "diem": 28.0,
       "khan_cap": false
     },
     {
@@ -19,7 +119,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-01 11:33",
       "link": "http://vietstock.vn/2026/08/dot-ban-thao-trai-phieu-phat-tin-hieu-canh-bao-toi-fed-773-1475411.htm",
-      "diem": 30.6,
+      "diem": 27.9,
       "khan_cap": false
     },
     {
@@ -29,7 +129,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-01 18:14",
       "link": "https://cafef.vn/mot-xa-trien-khai-thu-hoi-dat-cua-1179-ho-dan-de-thuc-hien-tuyen-duong-sat-dai-390km-tong-von-84-ty-usd-18826080117155496.chn",
-      "diem": 27.6,
+      "diem": 24.2,
       "khan_cap": false
     },
     {
@@ -39,7 +139,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-01 13:16",
       "link": "https://vnexpress.net/nhap-khau-dieu-tho-vuot-3-ty-usd-5104042.html",
-      "diem": 27.4,
+      "diem": 24.2,
       "khan_cap": false
     },
     {
@@ -49,7 +149,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-01 13:41",
       "link": "https://cafef.vn/ha-noi-khai-thac-du-dia-quyet-tam-tang-truong-tren-11-188260801134041782.chn",
-      "diem": 25.8,
+      "diem": 22.4,
       "khan_cap": false
     },
     {
@@ -59,7 +159,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-01 06:45",
       "link": "https://vnexpress.net/loi-nhuan-yeah1-giam-mot-nua-do-thieu-concert-5103752.html",
-      "diem": 24.0,
+      "diem": 20.8,
       "khan_cap": false
     },
     {
@@ -69,7 +169,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-01 12:05",
       "link": "https://cafef.vn/de-kiem-100000-usd-thu-nhap-binh-quan-nguoi-philippines-mat-21-nam-thai-lan-mat-13-nam-viet-nam-thi-sao-188260801111102248.chn",
-      "diem": 22.4,
+      "diem": 19.2,
       "khan_cap": false
     },
     {
@@ -79,7 +179,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-01 09:35",
       "link": "https://cafef.vn/cuc-thue-phat-thong-bao-quan-trong-doi-voi-ho-ca-nhan-kinh-doanh-co-doanh-thu-nam-duoi-1-ty-dong-18826080109354236.chn",
-      "diem": 22.4,
+      "diem": 19.0,
       "khan_cap": false
     },
     {
@@ -89,7 +189,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-01 07:14",
       "link": "https://vnexpress.net/ong-lon-vat-lieu-xay-dung-thai-lan-tang-doanh-thu-126-o-viet-nam-5103897.html",
-      "diem": 20.4,
+      "diem": 17.2,
       "khan_cap": false
     },
     {
@@ -99,7 +199,37 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-01 15:04",
       "link": "https://cafef.vn/tich-thu-15-kg-vang-va-2-kg-bac-tri-gia-hon-8-ty-dong-5-giay-to-bat-dong-san-cung-23-ty-dong-tien-mat-tai-nha-mot-nhan-vien-van-thu-188260801111553607.chn",
-      "diem": 16.9,
+      "diem": 15.2,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Tàu chở dầu bất ngờ trúng vật thể lạ ngoài khơi Oman",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 19:24",
+      "link": "https://cafef.vn/tau-cho-dau-bat-ngo-trung-vat-the-la-ngoai-khoi-oman-188260801192411619.chn",
+      "diem": 15.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Các doanh nghiệp dầu khí, xăng dầu của Việt Nam đã chuẩn bị gì khi xung đột Trung Đông leo thang trở lại?",
+      "chu_de": "Địa chính trị",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 22:41",
+      "link": "https://vietnambiz.vn/cac-doanh-nghiep-dau-khi-xang-dau-cua-viet-nam-da-chuan-bi-gi-khi-xung-dot-trung-dong-leo-thang-tro-lai-202672214475436.htm",
+      "diem": 15.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "EVN chuẩn bị toàn diện cho dự án điện hạt nhân đầu tiên của Việt Nam",
+      "chu_de": "Địa chính trị",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 18:54",
+      "link": "https://cafef.vn/evn-chuan-bi-toan-dien-cho-du-an-dien-hat-nhan-dau-tien-cua-viet-nam-18826080118550423.chn",
+      "diem": 14.4,
       "khan_cap": false
     },
     {
@@ -109,197 +239,67 @@
       "so_nguon": 2,
       "thoi_gian": "2026-08-01 16:51",
       "link": "https://cafef.vn/vi-sao-50000-nguoi-di-cu-o-at-tran-vao-tay-ban-nha-188260801162648683.chn",
-      "diem": 15.2,
+      "diem": 13.6,
       "khan_cap": false
     },
     {
-      "tieu_de": "Mỹ: Lãi suất vay thế chấp tăng vọt lên mức cao nhất trong một năm",
+      "tieu_de": "Bắc Ninh đặt mục tiêu vào Top 50 đô thị thông minh toàn cầu",
       "chu_de": "Thế giới",
-      "nguon": "Vietstock Thế giới",
+      "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-01 10:00",
-      "link": "http://vietstock.vn/2026/08/my-lai-suat-vay-the-chap-tang-vot-len-muc-cao-nhat-trong-mot-nam-772-1475398.htm",
-      "diem": 14.6,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Ngân hàng quốc doanh tiếp tục được 'nới thanh khoản'",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-31 21:28",
-      "link": "https://vnexpress.net/ngan-hang-quoc-doanh-tiep-tuc-duoc-noi-thanh-khoan-5103806.html",
-      "diem": 14.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Elon Musk có thể bán hoặc tách Tesla Trung Quốc? Động thái âm thầm hé lộ nước cờ lớn nhất của tỷ phú Mỹ",
-      "chu_de": "Thế giới",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-01 14:38",
-      "link": "https://cafef.vn/elon-musk-co-the-ban-hoac-tach-tesla-trung-quoc-dong-thai-am-tham-he-lo-nuoc-co-lon-nhat-cua-ty-phu-my-188260801111922786.chn",
-      "diem": 13.5,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Quốc gia quyền lực nhất nhì BRICS 'vượt mặt' hệ thống thanh toán bằng USD: Vừa chốt đơn nông sản với một nước Đông Nam Á bằng đồng tiền số tự phát triển",
-      "chu_de": "Thế giới",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-01 14:02",
-      "link": "https://cafef.vn/quoc-gia-quyen-luc-nhat-nhi-brics-vuot-mat-he-thong-thanh-toan-bang-usd-vua-chot-don-nong-san-voi-mot-nuoc-dong-nam-a-bang-dong-tien-so-tu-phat-trien-188260801110310169.chn",
-      "diem": 13.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Thất vọng với Washington, nhiều nước đồng minh của Mỹ quay sang 'cầu cứu' Trung Quốc",
-      "chu_de": "Thế giới",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-01 13:36",
-      "link": "https://cafef.vn/that-vong-voi-washington-nhieu-nuoc-dong-minh-cua-my-quay-sang-cau-cuu-trung-quoc-188260801133651665.chn",
+      "thoi_gian": "2026-08-01 22:41",
+      "link": "https://vietnambiz.vn/bac-ninh-dat-muc-tieu-vao-top-50-do-thi-thong-minh-toan-cau-20268114526771.htm",
       "diem": 13.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "Đối đầu Mỹ - Iran mở ra phép thử mới cho BRICS và SCO",
+      "tieu_de": "Vietcap: Mỹ áp thuế mới lên Việt Nam, tỷ trọng hàng hóa xuất khẩu được miễn thuế lại tăng từ 34% lên hơn 40%",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 22:41",
+      "link": "https://vietnambiz.vn/vietcap-my-ap-thue-moi-len-viet-nam-ty-trong-hang-hoa-xuat-khau-duoc-mien-thue-lai-tang-tu-34-len-hon-40-2026730112527466.htm",
+      "diem": 13.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Đưa Việt Nam trở thành quốc gia phát triển, thu nhập cao vào năm 2045",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 22:41",
+      "link": "https://vietnambiz.vn/dua-viet-nam-tro-thanh-quoc-gia-phat-trien-thu-nhap-cao-vao-nam-2045-2026729143747488.htm",
+      "diem": 13.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Ông Nguyễn Thanh Nghị: Phát triển mạnh doanh nghiệp biển, nhất là các tập đoàn, tổng công ty quy mô lớn",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 22:41",
+      "link": "https://vietnambiz.vn/ong-nguyen-thanh-nghi-phat-trien-manh-doanh-nghiep-bien-nhat-la-cac-tap-doan-tong-cong-ty-quy-mo-lon-2026729121921851.htm",
+      "diem": 13.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Nghiên cứu khu kinh tế đặc biệt và mô hình xã hạt nhân",
       "chu_de": "Địa chính trị",
-      "nguon": "CafeF Tài chính quốc tế",
+      "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-01 18:11",
-      "link": "https://cafef.vn/doi-dau-my-iran-mo-ra-phep-thu-moi-cho-brics-va-sco-188260801174225936.chn",
-      "diem": 12.7,
+      "thoi_gian": "2026-08-01 22:41",
+      "link": "https://vietnambiz.vn/nghien-cuu-khu-kinh-te-dac-biet-va-mo-hinh-xa-hat-nhan-2026729112426493.htm",
+      "diem": 13.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "Nhiều người bệnh được quỹ bảo hiểm y tế chi trả hơn 1 tỷ đồng",
+      "tieu_de": "Chuyển Bộ Công an điều tra sai phạm của nhiều nhà thầu dự án sân bay Long Thành",
       "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Vĩ mô",
+      "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-01 17:55",
-      "link": "https://cafef.vn/nhieu-nguoi-benh-duoc-quy-bao-hiem-y-te-chi-tra-hon-1-ty-dong-18826080115180395.chn",
-      "diem": 12.6,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Tổng Bí thư, Chủ tịch nước: Không để đất nước rơi vào thế bị động, bất ngờ",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-01 17:30",
-      "link": "https://cafef.vn/tong-bi-thu-chu-tich-nuoc-khong-de-dat-nuoc-roi-vao-the-bi-dong-bat-ngo-18826080113341498.chn",
-      "diem": 12.5,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Châu Âu có một quốc gia \"bí mật\": Giàu có, xinh đẹp, lâu đời bậc nhất thế giới nhưng ít ai biết đến",
-      "chu_de": "Thế giới",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-01 17:30",
-      "link": "https://cafef.vn/chau-au-co-mot-quoc-gia-bi-mat-giau-co-xinh-dep-lau-doi-bac-nhat-the-gioi-nhung-it-ai-biet-den-188260801173049517.chn",
-      "diem": 12.5,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "San đất để làm vườn, người dân Việt Nam phát hiện vật hình hộp màu xanh lạ, chuyên gia xác nhận báu vật hiếm có 600 năm tuổi",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-01 17:29",
-      "link": "https://cafef.vn/san-dat-de-lam-vuon-nguoi-dan-viet-nam-phat-hien-vat-hinh-hop-mau-xanh-la-chuyen-gia-xac-nhan-bau-vat-hiem-co-600-nam-tuoi-188260801123136382.chn",
-      "diem": 12.4,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Hà Nội nêu nguyên nhân xuất hiện 2 điểm ngập ở Long Biên sau trận mưa lớn",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-01 17:22",
-      "link": "https://cafef.vn/ha-noi-neu-nguyen-nhan-xuat-hien-2-diem-ngap-o-long-bien-sau-tran-mua-lon-1882608011452509.chn",
-      "diem": 12.4,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Houthi phủ nhận kế hoạch thu phí ở biển Đỏ",
-      "chu_de": "Thế giới",
-      "nguon": "VnExpress Thế giới",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-01 17:25",
-      "link": "https://vnexpress.net/houthi-phu-nhan-ke-hoach-thu-phi-o-bien-do-5104129.html",
-      "diem": 12.4,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Eximbank có tổng giám đốc mới",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-01 17:09",
-      "link": "https://vnexpress.net/eximbank-co-tong-giam-doc-moi-5104133.html",
-      "diem": 12.3,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Hơn 3.700 cán bộ nhân viên của một ngân hàng lớn nghỉ việc",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-01 17:00",
-      "link": "https://cafef.vn/hon-3700-can-bo-nhan-vien-cua-mot-ngan-hang-lon-nghi-viec-188260801170040619.chn",
-      "diem": 12.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Mức phạt hành chính với hành vi vi phạm cung cấp thông tin trong lĩnh vực thuế, hóa đơn",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-01 17:00",
-      "link": "https://cafef.vn/muc-phat-hanh-chinh-voi-hanh-vi-vi-pham-cung-cap-thong-tin-trong-linh-vuc-thue-hoa-don-188260801083724542.chn",
-      "diem": 12.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Hà Nội phát huy vai trò đối ngoại, huy động nguồn lực quốc tế cho phát triển bền vững",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-01 16:42",
-      "link": "https://cafef.vn/ha-noi-phat-huy-vai-tro-doi-ngoai-huy-dong-nguon-luc-quoc-te-cho-phat-trien-ben-vung-188260801134448401.chn",
-      "diem": 12.1,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Elon Musk phủ nhận tin bán chi nhánh Tesla tại Trung Quốc",
-      "chu_de": "Thế giới",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-01 11:40",
-      "link": "https://vnexpress.net/elon-musk-phu-nhan-tin-ban-chi-nhanh-tesla-tai-trung-quoc-5104054.html",
-      "diem": 12.1,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Mối lo ngại khiến Tổng thống Mỹ chần chừ chia sẻ công nghệ tên lửa với Ukraine",
-      "chu_de": "Địa chính trị",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-01 16:24",
-      "link": "https://cafef.vn/moi-lo-ngai-khien-tong-thong-my-chan-chu-chia-se-cong-nghe-ten-lua-voi-ukraine-18826080116244685.chn",
-      "diem": 12.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Quan chức EU: Người di cư tràn vào Ceuta không thể tự do đến châu Âu",
-      "chu_de": "Thế giới",
-      "nguon": "VnExpress Thế giới",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-01 16:20",
-      "link": "https://vnexpress.net/quan-chuc-eu-nguoi-di-cu-tran-vao-ceuta-khong-the-tu-do-den-chau-au-5104098.html",
-      "diem": 12.0,
+      "thoi_gian": "2026-08-01 22:41",
+      "link": "https://vietnambiz.vn/chuyen-bo-cong-an-dieu-tra-sai-pham-cua-nhieu-nha-thau-du-an-san-bay-long-thanh-202672974924567.htm",
+      "diem": 13.0,
       "khan_cap": false
     }
   ]
