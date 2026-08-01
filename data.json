@@ -1,5 +1,5 @@
 {
-  "cap_nhat_luc": "2026-08-01 07:10:35",
+  "cap_nhat_luc": "2026-08-01 14:54:21",
   "so_tin": 30,
   "tin": [
     {
@@ -9,7 +9,77 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-31 20:31",
       "link": "https://cafef.vn/lai-suat-ngan-hang-31-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-18826073120331875.chn",
-      "diem": 45.2,
+      "diem": 38.6,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Đợt bán tháo trái phiếu phát tín hiệu cảnh báo tới Fed",
+      "chu_de": "Fed",
+      "nguon": "Vietstock Thế giới",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 11:33",
+      "link": "http://vietstock.vn/2026/08/dot-ban-thao-trai-phieu-phat-tin-hieu-canh-bao-toi-fed-773-1475411.htm",
+      "diem": 33.3,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Nhập khẩu điều thô vượt 3 tỷ USD",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 13:16",
+      "link": "https://vnexpress.net/nhap-khau-dieu-tho-vuot-3-ty-usd-5104042.html",
+      "diem": 30.6,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Hà Nội khai thác dư địa, quyết tâm tăng trưởng trên 11%",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 13:41",
+      "link": "https://cafef.vn/ha-noi-khai-thac-du-dia-quyet-tam-tang-truong-tren-11-188260801134041782.chn",
+      "diem": 29.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Lợi nhuận Yeah1 giảm một nửa do thiếu concert",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 06:45",
+      "link": "https://vnexpress.net/loi-nhuan-yeah1-giam-mot-nua-do-thieu-concert-5103752.html",
+      "diem": 27.2,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Để kiếm 100.000 USD: Thu nhập bình quân người Philippines mất 21 năm, Thái Lan mất 13 năm, Việt Nam thì sao?",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 12:05",
+      "link": "https://cafef.vn/de-kiem-100000-usd-thu-nhap-binh-quan-nguoi-philippines-mat-21-nam-thai-lan-mat-13-nam-viet-nam-thi-sao-188260801111102248.chn",
+      "diem": 25.6,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Cục Thuế phát thông báo quan trọng đối với hộ, cá nhân kinh doanh có doanh thu năm dưới 1 tỷ đồng",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 09:35",
+      "link": "https://cafef.vn/cuc-thue-phat-thong-bao-quan-trong-doi-voi-ho-ca-nhan-kinh-doanh-co-doanh-thu-nam-duoi-1-ty-dong-18826080109354236.chn",
+      "diem": 25.6,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "'Ông lớn' vật liệu xây dựng Thái Lan tăng doanh thu 126% ở Việt Nam",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 07:14",
+      "link": "https://vnexpress.net/ong-lon-vat-lieu-xay-dung-thai-lan-tang-doanh-thu-126-o-viet-nam-5103897.html",
+      "diem": 23.6,
       "khan_cap": false
     },
     {
@@ -19,7 +89,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-31 21:28",
       "link": "https://vnexpress.net/ngan-hang-quoc-doanh-tiep-tuc-duoc-noi-thanh-khoan-5103806.html",
-      "diem": 24.0,
+      "diem": 17.4,
       "khan_cap": false
     },
     {
@@ -29,27 +99,47 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-31 15:58",
       "link": "https://vnexpress.net/chung-khoan-giam-hon-124-diem-trong-thang-7-5103794.html",
-      "diem": 23.4,
+      "diem": 16.8,
       "khan_cap": false
     },
     {
-      "tieu_de": "Ông lớn hạ tầng TP HCM lãi hơn 100 tỷ khi 'bắt đáy' cổ phiếu PC1",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
+      "tieu_de": "Mỹ: Lãi suất vay thế chấp tăng vọt lên mức cao nhất trong một năm",
+      "chu_de": "Thế giới",
+      "nguon": "Vietstock Thế giới",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-31 14:02",
-      "link": "https://vnexpress.net/ong-lon-ha-tang-tp-hcm-lai-hon-100-ty-khi-bat-day-co-phieu-pc1-5103686.html",
-      "diem": 21.8,
+      "thoi_gian": "2026-08-01 10:00",
+      "link": "http://vietstock.vn/2026/08/my-lai-suat-vay-the-chap-tang-vot-len-muc-cao-nhat-trong-mot-nam-772-1475398.htm",
+      "diem": 16.5,
       "khan_cap": false
     },
     {
-      "tieu_de": "Nhờ đâu lợi nhuận Vietcombank tăng vọt lên mức cao chưa từng có?",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
+      "tieu_de": "Elon Musk có thể bán hoặc tách Tesla Trung Quốc? Động thái âm thầm hé lộ nước cờ lớn nhất của tỷ phú Mỹ",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-31 11:16",
-      "link": "https://cafef.vn/nho-dau-loi-nhuan-vietcombank-tang-vot-len-muc-cao-chua-tung-co-188260731112102574.chn",
-      "diem": 21.4,
+      "thoi_gian": "2026-08-01 14:38",
+      "link": "https://cafef.vn/elon-musk-co-the-ban-hoac-tach-tesla-trung-quoc-dong-thai-am-tham-he-lo-nuoc-co-lon-nhat-cua-ty-phu-my-188260801111922786.chn",
+      "diem": 15.3,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Quốc gia quyền lực nhất nhì BRICS 'vượt mặt' hệ thống thanh toán bằng USD: Vừa chốt đơn nông sản với một nước Đông Nam Á bằng đồng tiền số tự phát triển",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 14:02",
+      "link": "https://cafef.vn/quoc-gia-quyen-luc-nhat-nhi-brics-vuot-mat-he-thong-thanh-toan-bang-usd-vua-chot-don-nong-san-voi-mot-nuoc-dong-nam-a-bang-dong-tien-so-tu-phat-trien-188260801110310169.chn",
+      "diem": 15.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Thất vọng với Washington, nhiều nước đồng minh của Mỹ quay sang 'cầu cứu' Trung Quốc",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 13:36",
+      "link": "https://cafef.vn/that-vong-voi-washington-nhieu-nuoc-dong-minh-cua-my-quay-sang-cau-cuu-trung-quoc-188260801133651665.chn",
+      "diem": 14.9,
       "khan_cap": false
     },
     {
@@ -59,7 +149,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-31 20:37",
       "link": "https://cafef.vn/hai-pho-tong-giam-doc-cua-sacombank-thoi-viec-188260731203807485.chn",
-      "diem": 21.2,
+      "diem": 14.8,
       "khan_cap": false
     },
     {
@@ -69,37 +159,137 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-31 15:01",
       "link": "https://cafef.vn/nong-ngan-hang-nha-nuoc-nang-ty-le-tinh-tien-gui-kho-bac-nha-nuoc-vao-ldr-len-50-ap-dung-chinh-thuc-tu-ngay-mai-1-8-188260731150341967.chn",
-      "diem": 20.6,
+      "diem": 14.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "Vì sao lạm phát năng lượng đã tách rời khỏi giá Brent?",
-      "chu_de": "Kinh tế VN",
-      "nguon": "Vietstock Kinh tế",
+      "tieu_de": "Elon Musk phủ nhận tin bán chi nhánh Tesla tại Trung Quốc",
+      "chu_de": "Thế giới",
+      "nguon": "VnExpress Kinh doanh",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-31 14:16",
-      "link": "http://vietstock.vn/2026/07/vi-sao-lam-phat-nang-luong-da-tach-roi-khoi-gia-brent-761-1474537.htm",
-      "diem": 20.0,
+      "thoi_gian": "2026-08-01 11:40",
+      "link": "https://vnexpress.net/elon-musk-phu-nhan-tin-ban-chi-nhanh-tesla-tai-trung-quoc-5104054.html",
+      "diem": 14.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "HDBank gia nhập nhóm ngân hàng triệu tỷ, lợi nhuận vượt 13.200 tỷ đồng, vị thế mới trên thị trường vốn quốc tế",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
+      "tieu_de": "Cú bắt tay gã khổng lồ số 1 thế giới: \"Chìa khóa\" 5 tỷ USD mở cánh cửa đưa Việt Nam thành cường quốc biển",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-31 09:19",
-      "link": "https://cafef.vn/hdbank-gia-nhap-nhom-ngan-hang-trieu-ty-loi-nhuan-vuot-13200-ty-dong-vi-the-moi-tren-thi-truong-von-quoc-te-188260731091938574.chn",
-      "diem": 19.8,
+      "thoi_gian": "2026-08-01 11:02",
+      "link": "https://cafef.vn/cu-bat-tay-ga-khong-lo-so-1-the-gioi-chia-khoa-5-ty-usd-mo-canh-cua-dua-viet-nam-thanh-cuong-quoc-bien-188260801082901742.chn",
+      "diem": 13.6,
       "khan_cap": false
     },
     {
-      "tieu_de": "Lợi nhuận Nam A Bank tăng 25%, chất lượng tài sản cải thiện rõ nét quý 2/2026",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
+      "tieu_de": "Vàng thế giới giảm gần 2% nhưng vẫn có tháng tăng mạnh nhất kể từ tháng 2/2026",
+      "chu_de": "Thế giới",
+      "nguon": "Vietstock Thế giới",
       "so_nguon": 1,
-      "thoi_gian": "2026-07-31 13:30",
-      "link": "https://cafef.vn/loi-nhuan-nam-a-bank-tang-25-chat-luong-tai-san-cai-thien-ro-net-quy-2-2026-1882607311142497.chn",
-      "diem": 19.2,
+      "thoi_gian": "2026-08-01 08:25",
+      "link": "http://vietstock.vn/2026/08/vang-the-gioi-giam-gan-2-nhung-van-co-thang-tang-manh-nhat-ke-tu-thang-22026-759-1475389.htm",
+      "diem": 13.5,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Quảng Ninh: Đón trên 15,1 triệu lượt du khách trong 7 tháng đầu năm 2026",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 14:40",
+      "link": "https://cafef.vn/quang-ninh-don-tren-151-trieu-luot-du-khach-trong-7-thang-dau-nam-2026-188260801134845905.chn",
+      "diem": 12.9,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Nhật Bản có thể đã chi tới gần 59 tỷ USD để hỗ trợ đồng yen",
+      "chu_de": "Thế giới",
+      "nguon": "Vietstock Thế giới",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 08:56",
+      "link": "http://vietstock.vn/2026/07/nhat-ban-co-the-da-chi-toi-gan-59-ty-usd-de-ho-tro-dong-yen-772-1475395.htm",
+      "diem": 12.7,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Đề xuất quy định niên hạn sử dụng căn hộ: Gỡ 'nút thắt' hàng chục năm trong cải tạo chung cư cũ",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 14:00",
+      "link": "https://cafef.vn/de-xuat-quy-dinh-nien-han-su-dung-can-ho-go-nut-that-hang-chuc-nam-trong-cai-tao-chung-cu-cu-188260801133542846.chn",
+      "diem": 12.6,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Việt Nam là quốc gia duy nhất trên thế giới làm được điều này",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 13:46",
+      "link": "https://cafef.vn/viet-nam-la-quoc-gia-duy-nhat-tren-the-gioi-lam-duoc-dieu-nay-188260801112034728.chn",
+      "diem": 12.5,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "San đất để làm vườn, người dân Việt Nam phát hiện vật hình hộp màu xanh lạ, chuyên gia xác nhận báu vật hiếm có 600 năm tuổi",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 13:29",
+      "link": "https://cafef.vn/san-dat-de-lam-vuon-nguoi-dan-viet-nam-phat-hien-vat-hinh-hop-mau-xanh-la-chuyen-gia-xac-nhan-bau-vat-hiem-co-600-nam-tuoi-188260801123136382.chn",
+      "diem": 12.4,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Tổng Bí thư, Chủ tịch nước: Đối ngoại cần tranh thủ nguồn lực cho khoa học, công nghệ",
+      "chu_de": "Thế giới",
+      "nguon": "VnExpress Thế giới",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 13:21",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-doi-ngoai-can-tranh-thu-nguon-luc-cho-khoa-hoc-cong-nghe-5104055.html",
+      "diem": 12.4,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Ông Trump tuyên bố sẽ đánh đến khi Iran 'không thể chịu đựng thêm'",
+      "chu_de": "Địa chính trị",
+      "nguon": "VnExpress Thế giới",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 08:39",
+      "link": "https://vnexpress.net/ong-trump-tuyen-bo-se-danh-den-khi-iran-khong-the-chiu-dung-them-5103980.html",
+      "diem": 12.4,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Tư lệnh quân đoàn Ukraine thoát ám sát trong gang tấc",
+      "chu_de": "Địa chính trị",
+      "nguon": "VnExpress Thế giới",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 13:10",
+      "link": "https://vnexpress.net/tu-lenh-quan-doan-ukraine-thoat-am-sat-trong-gang-tac-5104036.html",
+      "diem": 12.3,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Giá dầu tăng sau khi Iran tuyên bố tấn công hai tàu chở dầu tại eo biển Hormuz",
+      "chu_de": "Địa chính trị",
+      "nguon": "Vietstock Thế giới",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 08:22",
+      "link": "http://vietstock.vn/2026/08/gia-dau-tang-sau-khi-iran-tuyen-bo-tan-cong-hai-tau-cho-dau-tai-eo-bien-hormuz-34-1475388.htm",
+      "diem": 12.3,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Lần đầu tiên sau 15 năm, Mỹ mới làm việc này cho Nhật Bản",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-01 13:05",
+      "link": "https://cafef.vn/lan-dau-tien-sau-15-nam-my-moi-lam-viec-nay-cho-nhat-ban-188260801121906565.chn",
+      "diem": 12.2,
       "khan_cap": false
     },
     {
@@ -109,197 +299,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-07-31 17:38",
       "link": "https://vnexpress.net/hoa-phat-vay-no-ky-luc-5103785.html",
-      "diem": 18.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "HDBank lãi trước thuế hơn 13.200 tỷ",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-31 17:00",
-      "link": "https://vnexpress.net/hdbank-lai-truoc-thue-hon-13-200-ty-5103851.html",
-      "diem": 18.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Chủ nhân Ngựa VÀNG 10 lượng SJC lộ diện, Vikki Digital Bank tiếp tục khai cuộc mùa Bóng VÀNG Ký",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-31 15:30",
-      "link": "https://cafef.vn/chu-nhan-ngua-vang-10-luong-sjc-lo-dien-vikki-digital-bank-tiep-tuc-khai-cuoc-mua-bong-vang-ky-188260731151435283.chn",
-      "diem": 17.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Sacombank giảm hơn 3.700 nhân viên nửa đầu năm",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-31 15:20",
-      "link": "https://vnexpress.net/sacombank-giam-hon-3-700-nhan-vien-nua-dau-nam-5103712.html",
-      "diem": 16.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Vingroup lãi lớn",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-31 14:29",
-      "link": "https://vnexpress.net/vingroup-lai-lon-5103671.html",
-      "diem": 16.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Lý do Vingroup đặt tên VinFast cho SVĐ 135.000 chỗ",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-31 14:30",
-      "link": "https://vnexpress.net/ly-do-vingroup-dat-ten-vinfast-cho-svd-135-000-cho-5103755.html",
-      "diem": 16.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Lợi nhuận nhiều ngân hàng tăng rất mạnh",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-31 07:51",
-      "link": "https://cafef.vn/loi-nhuan-nhieu-ngan-hang-tang-rat-manh-188260731075316388.chn",
-      "diem": 14.6,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Tổng Bí thư, Chủ tịch nước Tô Lâm: Không để Nghị quyết 57 dừng lại ở khẩu hiệu hay phong trào thi đua",
-      "chu_de": "Chính sách",
-      "nguon": "Vietstock Kinh tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-31 10:02",
-      "link": "http://vietstock.vn/2026/07/tong-bi-thu-chu-tich-nuoc-to-lam-khong-de-nghi-quyet-57-dung-lai-o-khau-hieu-hay-phong-trao-thi-dua-761-1474177.htm",
-      "diem": 14.4,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Microsoft lập kỷ lục thế giới về mức tăng vốn hóa",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-31 08:34",
-      "link": "https://vnexpress.net/microsoft-lap-ky-luc-the-gioi-ve-muc-tang-von-hoa-5103553.html",
-      "diem": 13.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Muốn tăng trưởng hai con số, địa phương phải đổi mới tư duy, nuôi lớn DN bản địa",
-      "chu_de": "Kinh tế VN",
-      "nguon": "Vietstock Kinh tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-31 11:03",
-      "link": "http://vietstock.vn/2026/07/muon-tang-truong-hai-con-so-dia-phuong-phai-doi-moi-tu-duy-nuoi-lon-dn-ban-dia-761-1474257.htm",
-      "diem": 13.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Siết chuẩn nhiên liệu giúp Trung Quốc giảm ô nhiễm, tiết kiệm gần 24 tỷ USD",
-      "chu_de": "Thế giới",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-31 22:35",
-      "link": "https://vnexpress.net/siet-chuan-nhien-lieu-giup-trung-quoc-giam-o-nhiem-tiet-kiem-gan-24-ty-usd-5103937.html",
-      "diem": 12.5,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Ngày hỗn loạn khi hàng chục nghìn người di cư tràn vào Tây Ban Nha",
-      "chu_de": "Thế giới",
-      "nguon": "VnExpress Thế giới",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-01 05:31",
-      "link": "https://vnexpress.net/ngay-hon-loan-khi-hang-chuc-nghin-nguoi-di-cu-tran-vao-tay-ban-nha-5103934.html",
-      "diem": 12.3,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Italy đình chỉ hiệp ước Schengen với Tây Ban Nha",
-      "chu_de": "Thế giới",
-      "nguon": "VnExpress Thế giới",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-01 05:20",
-      "link": "https://vnexpress.net/italy-dinh-chi-hiep-uoc-schengen-voi-tay-ban-nha-5103955.html",
       "diem": 12.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Sức nóng xung đột Trung Đông đe dọa kênh đào Suez",
-      "chu_de": "Địa chính trị",
-      "nguon": "VnExpress Thế giới",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-01 05:00",
-      "link": "https://vnexpress.net/suc-nong-xung-dot-trung-dong-de-doa-kenh-dao-suez-5103561.html",
-      "diem": 12.1,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Vượt bẫy thu nhập trung bình: Không thể đi tiếp bằng mô hình tăng trưởng cũ",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-31 09:34",
-      "link": "https://cafef.vn/vuot-bay-thu-nhap-trung-binh-khong-the-di-tiep-bang-mo-hinh-tang-truong-cu-188260731093506729.chn",
-      "diem": 12.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Nhãn xuồng Vĩnh Châu giá chỉ hơn 10.000 đồng một kg",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-01 04:00",
-      "link": "https://vnexpress.net/nhan-xuong-vinh-chau-gia-chi-hon-10-000-dong-mot-kg-5103518.html",
-      "diem": 11.7,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Hà Nội tập trung cao nhất để hoàn thành mục tiêu tăng trưởng hai con số",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-31 08:19",
-      "link": "https://cafef.vn/ha-noi-tap-trung-cao-nhat-de-hoan-thanh-muc-tieu-tang-truong-hai-con-so-188260731081747614.chn",
-      "diem": 11.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Máy bay Tango cất cánh với động cơ nội địa: Nga đặt dấu chấm hết cho chuỗi ngày \"chạy vạy nhập khẩu\" bao năm qua?",
-      "chu_de": "Địa chính trị",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-31 20:52",
-      "link": "https://cafef.vn/may-bay-tango-cat-canh-voi-dong-co-noi-dia-nga-dat-dau-cham-het-cho-chuoi-ngay-chay-vay-nhap-khau-bao-nam-qua-188260731201038672.chn",
-      "diem": 10.7,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "TPBank Biz Expense: Lời giải mới cho bài toán quản trị chi phí doanh nghiệp",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-07-31 08:00",
-      "link": "https://cafef.vn/tpbank-biz-expense-loi-giai-moi-cho-bai-toan-quan-tri-chi-phi-doanh-nghiep-188260730215649426.chn",
-      "diem": 10.6,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Thẻ căn cước sẽ có cập nhật quan trọng từ 1/9: Hàng triệu gia đình đang và sắp có con nhỏ đặc biệt lưu ý!",
-      "chu_de": "Thế giới",
-      "nguon": "CafeF Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-01 01:14",
-      "link": "https://cafef.vn/the-can-cuoc-se-co-cap-nhat-quan-trong-tu-1-9-hang-trieu-gia-dinh-dang-va-sap-co-con-nho-dac-biet-luu-y-1882607312114194.chn",
-      "diem": 10.5,
       "khan_cap": false
     }
   ]
