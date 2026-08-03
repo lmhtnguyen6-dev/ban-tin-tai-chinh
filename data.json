@@ -1,5 +1,5 @@
 {
-  "cap_nhat_luc": "2026-08-04 01:59:24",
+  "cap_nhat_luc": "2026-08-04 05:36:57",
   "so_tin": 30,
   "tin": [
     {
@@ -7,7 +7,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-04 01:59",
+      "thoi_gian": "2026-08-04 05:36",
       "link": "https://vietnambiz.vn/nhnn-quay-dau-bom-rong-hon-12000-ty-tuan-qua-lai-suat-lien-ngan-hang-ve-muc-thap-nhat-trong-3-nam-20268361058167.htm",
       "diem": 52.0,
       "khan_cap": false
@@ -19,7 +19,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-03 20:57",
       "link": "https://cafef.vn/lai-suat-ngan-hang-3-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260803205916353.chn",
-      "diem": 49.8,
+      "diem": 46.8,
       "khan_cap": false
     },
     {
@@ -27,19 +27,9 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-04 01:59",
+      "thoi_gian": "2026-08-04 05:36",
       "link": "https://vietnambiz.vn/cap-nhat-317-kqkd-ngan-hang-6-thang-dau-nam-big4-va-loat-ngan-hang-lon-cong-bo-vietcombank-va-vietinbank-gay-bat-ngo-lon-202673112546682.htm",
       "diem": 42.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Giữ ổn định tỷ giá, kiểm soát lạm phát, hỗ trợ mục tiêu tăng trưởng hai con số",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-03 21:53",
-      "link": "https://cafef.vn/giu-on-dinh-ty-gia-kiem-soat-lam-phat-ho-tro-muc-tieu-tang-truong-hai-con-so-188260803215040662.chn",
-      "diem": 38.6,
       "khan_cap": false
     },
     {
@@ -47,7 +37,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-04 01:59",
+      "thoi_gian": "2026-08-04 05:36",
       "link": "https://vietnambiz.vn/loi-nhuan-vietcombank-bat-ngo-tang-58-trong-quy-ii-thu-nhap-khac-tang-hon-2900-ty-20267311213691.htm",
       "diem": 38.0,
       "khan_cap": false
@@ -57,9 +47,19 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-04 01:59",
+      "thoi_gian": "2026-08-04 05:36",
       "link": "https://vietnambiz.vn/sacombank-cat-giam-hon-3700-nhan-vien-nua-dau-2026-ty-le-no-xau-tang-hon-1-diem--2026731184617816.htm",
       "diem": 36.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Giữ ổn định tỷ giá, kiểm soát lạm phát, hỗ trợ mục tiêu tăng trưởng hai con số",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-03 21:53",
+      "link": "https://cafef.vn/giu-on-dinh-ty-gia-kiem-soat-lam-phat-ho-tro-muc-tieu-tang-truong-hai-con-so-188260803215040662.chn",
+      "diem": 35.6,
       "khan_cap": false
     },
     {
@@ -67,7 +67,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-04 01:59",
+      "thoi_gian": "2026-08-04 05:36",
       "link": "https://vietnambiz.vn/pho-thong-doc-nhnn-se-trien-khai-goi-vay-uu-dai-220000-ty-dong-trong-vai-ngay-toi-202683194846227.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -77,7 +77,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-04 01:59",
+      "thoi_gian": "2026-08-04 05:36",
       "link": "https://vietnambiz.vn/huy-dong-von-dai-han-soi-dong-lai-suat-tiet-kiem-bien-dong-cuc-bo-202682194740681.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -87,7 +87,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-04 01:59",
+      "thoi_gian": "2026-08-04 05:36",
       "link": "https://vietnambiz.vn/nhnn-chinh-thuc-noi-tran-gioi-han-tien-gui-cua-kho-bac-tai-ngan-hang-len-50-2026731145438285.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -97,7 +97,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-04 01:59",
+      "thoi_gian": "2026-08-04 05:36",
       "link": "https://vietnambiz.vn/thu-nhap-lai-thuan-tang-hon-21-loi-nhuan-msb-van-di-ngang-2026731111249440.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -107,7 +107,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-04 01:59",
+      "thoi_gian": "2026-08-04 05:36",
       "link": "https://vietnambiz.vn/ngan-hang-lon-nhat-he-thong-cong-bo-bctc-loi-nhuan-tang-hai-chu-so-giam-hon-400-nhan-vien-202673175757584.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -117,7 +117,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-04 01:59",
+      "thoi_gian": "2026-08-04 05:36",
       "link": "https://vietnambiz.vn/loi-nhuan-ocb-tang-30-trong-nua-dau-nam-dat-hon-13-ke-hoach-ca-nam-2026730173155941.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -127,7 +127,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-04 01:59",
+      "thoi_gian": "2026-08-04 05:36",
       "link": "https://vietnambiz.vn/lai-suat-vay-muon-qua-dem-xuong-1-202673021050614.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -137,7 +137,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-04 01:59",
+      "thoi_gian": "2026-08-04 05:36",
       "link": "https://vietnambiz.vn/ong-lon-big4-dau-tien-cong-bo-kqkd-loi-nhuan-tang-gan-37-202673020251827.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -147,7 +147,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-04 01:59",
+      "thoi_gian": "2026-08-04 05:36",
       "link": "https://vietnambiz.vn/bo-truong-bo-tai-chinh-dieu-hanh-lam-phat-doi-mat-ap-luc-kep-cuoi-nam-20268316324798.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -157,7 +157,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-04 01:59",
+      "thoi_gian": "2026-08-04 05:36",
       "link": "https://vietnambiz.vn/lam-phat-thang-7-cham-lai-cpi-7-thang-dau-nam-tang-439-202683104833510.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -167,7 +167,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-04 01:59",
+      "thoi_gian": "2026-08-04 05:36",
       "link": "https://vietnambiz.vn/lo-dien-5-quoc-gia-rot-tren-1-ty-usd-von-fdi-vao-viet-nam-sau-7-thang-20268392612677.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -177,7 +177,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-04 01:59",
+      "thoi_gian": "2026-08-04 05:36",
       "link": "https://vietnambiz.vn/thong-qua-ho-so-de-an-thanh-lap-thanh-pho-bac-ninh-truc-thuoc-trung-uong-202682141059183.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -187,9 +187,19 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-04 01:59",
+      "thoi_gian": "2026-08-04 05:36",
       "link": "https://vietnambiz.vn/quang-ninh-duoc-thong-qua-ho-so-de-an-thanh-lap-thanh-pho-truc-thuoc-trung-uong-viet-nam-sap-co-thanh-pho-thu-8-202672873019600.htm",
       "diem": 34.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Lãi suất vay neo cao",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-04 05:00",
+      "link": "https://vnexpress.net/lai-suat-vay-neo-cao-5102903.html",
+      "diem": 33.4,
       "khan_cap": false
     },
     {
@@ -197,7 +207,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-04 01:59",
+      "thoi_gian": "2026-08-04 05:36",
       "link": "https://vietnambiz.vn/doanh-nghiep-bao-hiem-nam-gan-294000-ty-dong-tien-gui-va-trai-phieu-khoan-dau-tu-vao-vnm-tam-lo-lon-nhat-2026811355441.htm",
       "diem": 32.0,
       "khan_cap": false
@@ -207,29 +217,9 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-04 01:59",
+      "thoi_gian": "2026-08-04 05:36",
       "link": "https://vietnambiz.vn/no-xau-tang-gan-6-bac-a-bank-tang-trich-lap-du-phong-gap-5-lan-2026731135423349.htm",
       "diem": 32.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Chủ tịch Fed Kevin Warsh với áp lực tăng lãi suất ngày càng lớn",
-      "chu_de": "Fed",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-03 18:03",
-      "link": "https://cafef.vn/chu-tich-fed-kevin-warsh-voi-ap-luc-tang-lai-suat-ngay-cang-lon-188260803160705765.chn",
-      "diem": 31.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Một ngân hàng sắp trả cổ tức 15%",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-03 13:17",
-      "link": "https://cafef.vn/mot-ngan-hang-sap-tra-co-tuc-15-18826080313204005.chn",
-      "diem": 31.4,
       "khan_cap": false
     },
     {
@@ -237,7 +227,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-04 01:59",
+      "thoi_gian": "2026-08-04 05:36",
       "link": "https://vietnambiz.vn/tu-loi-the-huy-dong-den-he-sinh-thai-mo-rong-du-dia-but-pha-ro-net-cua-vpbank-2026731104428330.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -247,7 +237,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-04 01:59",
+      "thoi_gian": "2026-08-04 05:36",
       "link": "https://vietnambiz.vn/hdbank-vuot-moc-1-trieu-ty-dong-tai-san-roe-254-thuoc-nhom-dan-dau-tiep-tuc-nang-tam-vi-the-quoc-te-2026731105440480.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -257,7 +247,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-04 01:59",
+      "thoi_gian": "2026-08-04 05:36",
       "link": "https://vietnambiz.vn/go-nut-that-the-che-dat-dai-mo-khoa-nguon-luc-cho-tang-truong-20268120253331.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -267,7 +257,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-04 01:59",
+      "thoi_gian": "2026-08-04 05:36",
       "link": "https://vietnambiz.vn/dieu-gi-se-giup-ha-noi-can-moc-muc-tieu-grdp-tang-truong-134-nua-cuoi-nam-2026731173126634.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -277,29 +267,39 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-04 01:59",
+      "thoi_gian": "2026-08-04 05:36",
       "link": "https://vietnambiz.vn/ty-gia-tang-cao-ky-luc-do-dau-202672816363334.htm",
       "diem": 30.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "VN-Index tăng hơn 27 điểm",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
+      "tieu_de": "Chủ tịch Fed Kevin Warsh với áp lực tăng lãi suất ngày càng lớn",
+      "chu_de": "Fed",
+      "nguon": "CafeF Tài chính quốc tế",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-03 15:55",
-      "link": "https://vnexpress.net/vn-index-tang-hon-27-diem-5104686.html",
-      "diem": 29.6,
+      "thoi_gian": "2026-08-03 18:03",
+      "link": "https://cafef.vn/chu-tich-fed-kevin-warsh-voi-ap-luc-tang-lai-suat-ngay-cang-lon-188260803160705765.chn",
+      "diem": 29.2,
       "khan_cap": false
     },
     {
-      "tieu_de": "Chiến lược số của TPBank: Động lực tăng trưởng mới ngoài tín dụng",
+      "tieu_de": "Một ngân hàng sắp trả cổ tức 15%",
       "chu_de": "Kinh tế VN",
       "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-03 12:00",
-      "link": "https://cafef.vn/chien-luoc-so-cua-tpbank-dong-luc-tang-truong-moi-ngoai-tin-dung-188260803120102848.chn",
+      "thoi_gian": "2026-08-03 13:17",
+      "link": "https://cafef.vn/mot-ngan-hang-sap-tra-co-tuc-15-18826080313204005.chn",
       "diem": 28.4,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Việt Nam nhập siêu hơn 20,5 tỷ USD sau 7 tháng",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-04 05:36",
+      "link": "https://vietnambiz.vn/viet-nam-nhap-sieu-hon-205-ty-usd-sau-7-thang-20268394724666.htm",
+      "diem": 28.0,
       "khan_cap": false
     }
   ]
