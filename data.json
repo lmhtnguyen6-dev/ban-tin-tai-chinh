@@ -1,5 +1,5 @@
 {
-  "cap_nhat_luc": "2026-08-06 05:05:03",
+  "cap_nhat_luc": "2026-08-06 06:16:53",
   "so_tin": 30,
   "tin": [
     {
@@ -9,7 +9,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-05 13:53",
       "link": "https://vnexpress.net/don-khong-kich-gan-nhu-xoa-so-mot-gia-toc-o-gaza-5105492.html",
-      "diem": 56.7,
+      "diem": 56.2,
       "khan_cap": true
     },
     {
@@ -19,7 +19,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-05 21:01",
       "link": "https://cafef.vn/lai-suat-ngan-hang-5-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260805210321917.chn",
-      "diem": 47.2,
+      "diem": 46.2,
       "khan_cap": false
     },
     {
@@ -27,9 +27,19 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-06 05:04",
+      "thoi_gian": "2026-08-06 06:16",
       "link": "https://vietnambiz.vn/thu-tuong-nhnn-xu-ly-nghiem-hanh-vi-canh-tranh-lai-suat-khong-lanh-manh-20268320515976.htm",
       "diem": 42.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Một ngân hàng phát hành trái phiếu với lãi suất 10%",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-06 05:30",
+      "link": "https://vnexpress.net/mot-ngan-hang-phat-hanh-trai-phieu-voi-lai-suat-10-5105704.html",
+      "diem": 39.4,
       "khan_cap": false
     },
     {
@@ -39,7 +49,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-05 16:01",
       "link": "https://cafef.vn/moc-loi-nhuan-10000-ty-mot-nam-da-la-qua-khu-vietcombank-vietinbank-bidv-mb-va-vpbank-gio-lai-ca-van-ty-moi-quy-188260805112358656.chn",
-      "diem": 39.2,
+      "diem": 38.2,
       "khan_cap": false
     },
     {
@@ -47,7 +57,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-06 05:04",
+      "thoi_gian": "2026-08-06 06:16",
       "link": "https://vietnambiz.vn/chuyen-gia-hsbc-nghi-quyet-10-da-nhin-thang-vao-thach-thuc-viet-nam-co-co-hoi-lon-hut-fdi-nhung-khong-keo-dai-mai-202684105047888.htm",
       "diem": 38.0,
       "khan_cap": false
@@ -57,7 +67,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-06 05:04",
+      "thoi_gian": "2026-08-06 06:16",
       "link": "https://vietnambiz.vn/infographic-buc-tranh-kinh-te-7-thang-dau-nam-fdi-dang-ky-moi-dat-tren-38-ty-usd-tang-58-nsnn-boi-thu-470000-ty-dong-202683211254365.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -67,7 +77,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-06 05:04",
+      "thoi_gian": "2026-08-06 06:16",
       "link": "https://vietnambiz.vn/bo-truong-bo-tai-chinh-dieu-hanh-lam-phat-doi-mat-ap-luc-kep-cuoi-nam-20268316324798.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -77,7 +87,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-06 05:04",
+      "thoi_gian": "2026-08-06 06:16",
       "link": "https://vietnambiz.vn/lam-phat-thang-7-cham-lai-cpi-7-thang-dau-nam-tang-439-202683104833510.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -87,7 +97,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-06 05:04",
+      "thoi_gian": "2026-08-06 06:16",
       "link": "https://vietnambiz.vn/lo-dien-5-quoc-gia-rot-tren-1-ty-usd-von-fdi-vao-viet-nam-sau-7-thang-20268392612677.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -97,7 +107,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-06 05:04",
+      "thoi_gian": "2026-08-06 06:16",
       "link": "https://vietnambiz.vn/thong-qua-ho-so-de-an-thanh-lap-thanh-pho-bac-ninh-truc-thuoc-trung-uong-202682141059183.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -109,7 +119,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-05 11:42",
       "link": "https://cafef.vn/sang-5-8-nhnn-niem-yet-ty-gia-trung-tam-o-muc-25405-dong-188260805114313985.chn",
-      "diem": 31.6,
+      "diem": 30.6,
       "khan_cap": false
     },
     {
@@ -117,7 +127,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-06 05:04",
+      "thoi_gian": "2026-08-06 06:16",
       "link": "https://vietnambiz.vn/go-nut-that-the-che-dat-dai-mo-khoa-nguon-luc-cho-tang-truong-20268120253331.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -127,7 +137,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-06 05:04",
+      "thoi_gian": "2026-08-06 06:16",
       "link": "https://vietnambiz.vn/dieu-gi-se-giup-ha-noi-can-moc-muc-tieu-grdp-tang-truong-134-nua-cuoi-nam-2026731173126634.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -137,7 +147,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-06 05:04",
+      "thoi_gian": "2026-08-06 06:16",
       "link": "https://vietnambiz.vn/ty-gia-tang-cao-ky-luc-do-dau-202672816363334.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -147,7 +157,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-06 05:04",
+      "thoi_gian": "2026-08-06 06:16",
       "link": "https://vietnambiz.vn/viet-nam-nhap-sieu-hon-205-ty-usd-sau-7-thang-20268394724666.htm",
       "diem": 28.0,
       "khan_cap": false
@@ -157,7 +167,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-06 05:04",
+      "thoi_gian": "2026-08-06 06:16",
       "link": "https://vietnambiz.vn/viet-nam-nhap-sieu-hon-20-ty-usd-tinh-den-157-co-hoi-nao-de-dao-chieu-trong-nua-cuoi-nam-2026730153457826.htm",
       "diem": 28.0,
       "khan_cap": false
@@ -169,7 +179,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-05 19:04",
       "link": "https://vnexpress.net/vietcombank-mua-lai-toa-nha-tren-dat-vang-tai-ben-bach-dang-5105653.html",
-      "diem": 25.6,
+      "diem": 24.6,
       "khan_cap": false
     },
     {
@@ -179,7 +189,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-05 16:57",
       "link": "https://cafef.vn/lai-suat-cho-vay-moi-nhat-tai-agribank-188260805165851379.chn",
-      "diem": 23.8,
+      "diem": 22.8,
       "khan_cap": false
     },
     {
@@ -189,7 +199,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-05 09:19",
       "link": "https://cafef.vn/quan-chuc-fed-lai-suat-can-tang-cao-hon-nua-188260805085641145.chn",
-      "diem": 23.5,
+      "diem": 22.6,
       "khan_cap": false
     },
     {
@@ -199,7 +209,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-05 12:51",
       "link": "https://cafef.vn/nen-kinh-te-lon-nhat-dong-nam-a-cong-bo-tang-truong-gdp-quy-2-2026-vuot-du-bao-so-voi-viet-nam-thi-sao-188260805125219119.chn",
-      "diem": 22.4,
+      "diem": 21.4,
       "khan_cap": false
     },
     {
@@ -209,7 +219,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-05 19:28",
       "link": "https://cafef.vn/mot-tinh-vua-don-gan-7-ty-usd-von-dau-tu-188260805182726977.chn",
-      "diem": 20.0,
+      "diem": 19.0,
       "khan_cap": false
     },
     {
@@ -219,7 +229,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-05 07:19",
       "link": "https://cafef.vn/vietcombank-cong-bo-lai-suat-cho-vay-moi-nhat-188260805072059639.chn",
-      "diem": 19.8,
+      "diem": 18.8,
       "khan_cap": false
     },
     {
@@ -229,7 +239,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-05 16:38",
       "link": "https://vnexpress.net/de-xuat-kinh-doanh-kim-cuong-la-nganh-nghe-co-dieu-kien-nhu-vang-5105607.html",
-      "diem": 19.6,
+      "diem": 18.6,
       "khan_cap": false
     },
     {
@@ -239,7 +249,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-05 11:54",
       "link": "https://vnexpress.net/cong-ty-cua-bau-duc-duoc-phep-ipo-5105470.html",
-      "diem": 19.6,
+      "diem": 18.6,
       "khan_cap": false
     },
     {
@@ -249,7 +259,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-05 10:57",
       "link": "https://vnexpress.net/mot-ngan-hang-quoc-doanh-tiep-tuc-tang-manh-lai-suat-huy-dong-5105437.html",
-      "diem": 19.0,
+      "diem": 18.0,
       "khan_cap": false
     },
     {
@@ -259,7 +269,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-05 15:30",
       "link": "https://cafef.vn/de-nghi-siet-thiet-ke-do-thi-o-cac-du-an-bat-dong-san-lon-khu-vuc-ven-song-ven-bien-188260805135816928.chn",
-      "diem": 18.6,
+      "diem": 17.6,
       "khan_cap": false
     },
     {
@@ -269,7 +279,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-05 14:54",
       "link": "https://cafef.vn/giai-bai-toan-von-dai-han-cho-tang-truong-cao-188260805155526455.chn",
-      "diem": 18.2,
+      "diem": 17.2,
       "khan_cap": false
     },
     {
@@ -279,7 +289,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-05 11:55",
       "link": "https://cafef.vn/phe-duyet-dieu-chinh-quy-hoach-chung-khu-kinh-te-vung-ang-tinh-ha-tinh-den-nam-2050-188260805110751247.chn",
-      "diem": 17.6,
+      "diem": 16.6,
       "khan_cap": false
     },
     {
@@ -289,17 +299,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-05 11:48",
       "link": "https://vnexpress.net/quy-etf-bitcoin-giao-ngay-o-my-dau-tien-dong-cua-5105358.html",
-      "diem": 17.6,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Siêu dự án đường sắt tốc độ cao hơn 5,6 tỷ USD, rút ngắn thời gian đi từ Hà Nội - Quảng Ninh có diễn biến mới",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-05 16:16",
-      "link": "https://cafef.vn/sieu-du-an-duong-sat-toc-do-cao-hon-56-ty-usd-rut-ngan-thoi-gian-di-tu-ha-noi-quang-ninh-co-dien-bien-moi-188260805154141944.chn",
-      "diem": 17.4,
+      "diem": 16.6,
       "khan_cap": false
     }
   ]
