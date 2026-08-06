@@ -1,17 +1,7 @@
 {
-  "cap_nhat_luc": "2026-08-06 13:14:23",
+  "cap_nhat_luc": "2026-08-06 16:05:22",
   "so_tin": 30,
   "tin": [
-    {
-      "tieu_de": "Đòn không kích gần như xóa sổ một gia tộc ở Gaza",
-      "chu_de": "Thế giới",
-      "nguon": "VnExpress Thế giới",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-05 13:53",
-      "link": "https://vnexpress.net/don-khong-kich-gan-nhu-xoa-so-mot-gia-toc-o-gaza-5105492.html",
-      "diem": 53.3,
-      "khan_cap": true
-    },
     {
       "tieu_de": "Cổ phiếu Điện Máy Xanh lên HoSE, vốn hóa hơn 100.000 tỷ đồng",
       "chu_de": "Kinh tế VN",
@@ -19,7 +9,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-06 11:17",
       "link": "https://vnexpress.net/co-phieu-dien-may-xanh-len-hose-von-hoa-hon-100-000-ty-dong-5105865.html",
-      "diem": 48.4,
+      "diem": 46.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Thanh khoản chứng khoán giảm mạnh",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-06 15:42",
+      "link": "https://vnexpress.net/thanh-khoan-chung-khoan-giam-manh-5106035.html",
+      "diem": 41.6,
       "khan_cap": false
     },
     {
@@ -29,7 +29,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-05 21:01",
       "link": "https://cafef.vn/lai-suat-ngan-hang-5-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260805210321917.chn",
-      "diem": 40.4,
+      "diem": 38.2,
       "khan_cap": false
     },
     {
@@ -39,7 +39,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-06 11:59",
       "link": "https://cafef.vn/bidv-chot-ngay-chia-hon-498-trieu-co-phieu-thuong-188260806100921486.chn",
-      "diem": 39.0,
+      "diem": 36.6,
       "khan_cap": false
     },
     {
@@ -49,7 +49,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-06 12:58",
       "link": "https://cafef.vn/thong-doc-fed-san-sang-tang-lai-suat-canh-bao-my-khong-con-nhieu-thoi-gian-188260806120254025.chn",
-      "diem": 37.2,
+      "diem": 35.2,
       "khan_cap": false
     },
     {
@@ -59,7 +59,7 @@
       "so_nguon": 2,
       "thoi_gian": "2026-08-06 11:30",
       "link": "https://cafef.vn/eurocham-nghi-quyet-10-tao-niem-tin-de-doanh-nghiep-chau-au-mo-rong-dau-tu-tai-viet-nam-188260806111848279.chn",
-      "diem": 36.6,
+      "diem": 34.2,
       "khan_cap": false
     },
     {
@@ -69,7 +69,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-06 09:00",
       "link": "https://cafef.vn/them-quan-chuc-fed-muon-ngan-hang-trung-uong-tang-lai-suat-trong-thoi-gian-toi-188260806081010493.chn",
-      "diem": 34.3,
+      "diem": 32.3,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Tạo lợi thế mới để đón dòng FDI chất lượng cao",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-06 15:57",
+      "link": "https://cafef.vn/tao-loi-the-moi-de-don-dong-fdi-chat-luong-cao-188260806135414172.chn",
+      "diem": 31.8,
       "khan_cap": false
     },
     {
@@ -79,7 +89,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-06 05:30",
       "link": "https://vnexpress.net/mot-ngan-hang-phat-hanh-trai-phieu-lai-suat-10-5105704.html",
-      "diem": 33.6,
+      "diem": 31.2,
       "khan_cap": false
     },
     {
@@ -89,17 +99,27 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-06 11:45",
       "link": "https://cafef.vn/mot-tap-doan-gui-gan-167000-ty-dong-tai-ngan-hang-chiem-hon-mot-nua-tong-tai-san-duoc-huong-lai-suat-len-toi-89-nam-thu-ve-gan-5000-ty-dong-tien-lai-188260806114737103.chn",
-      "diem": 32.8,
+      "diem": 30.4,
       "khan_cap": false
     },
     {
-      "tieu_de": "Mốc lợi nhuận 10.000 tỷ một năm đã là quá khứ, Vietcombank, VietinBank, BIDV, MB và VPBank giờ lãi cả vạn tỷ mỗi quý",
+      "tieu_de": "Giá xăng, dầu cùng giảm",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-06 14:50",
+      "link": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-6-8-5105965.html",
+      "diem": 29.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Nam A Bank đón dòng vốn xanh từ Thụy Sĩ, nâng tổng quy mô huy động vốn quốc tế gần 350 triệu USD",
       "chu_de": "Kinh tế VN",
       "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-05 16:01",
-      "link": "https://cafef.vn/moc-loi-nhuan-10000-ty-mot-nam-da-la-qua-khu-vietcombank-vietinbank-bidv-mb-va-vpbank-gio-lai-ca-van-ty-moi-quy-188260805112358656.chn",
-      "diem": 32.4,
+      "thoi_gian": "2026-08-06 15:16",
+      "link": "https://cafef.vn/nam-a-bank-don-dong-von-xanh-tu-thuy-si-nang-tong-quy-mo-huy-dong-von-quoc-te-gan-350-trieu-usd-188260806151704066.chn",
+      "diem": 27.4,
       "khan_cap": false
     },
     {
@@ -109,7 +129,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-06 08:27",
       "link": "https://cafef.vn/nang-luc-ton-chua-dau-tho-cua-nmld-dung-quat-tang-them-125-188260805133216697.chn",
-      "diem": 26.0,
+      "diem": 23.6,
       "khan_cap": false
     },
     {
@@ -119,7 +139,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-06 06:52",
       "link": "https://cafef.vn/thanh-tra-5-doanh-nghiep-vang-tai-tay-ninh-188260806065208423.chn",
-      "diem": 24.6,
+      "diem": 22.4,
       "khan_cap": false
     },
     {
@@ -129,17 +149,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-05 19:04",
       "link": "https://vnexpress.net/vietcombank-mua-lai-toa-nha-tren-dat-vang-tai-ben-bach-dang-5105653.html",
-      "diem": 18.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Lãi suất cho vay mới nhất tại Agribank",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-05 16:57",
-      "link": "https://cafef.vn/lai-suat-cho-vay-moi-nhat-tai-agribank-188260805165851379.chn",
-      "diem": 17.0,
+      "diem": 16.4,
       "khan_cap": false
     },
     {
@@ -149,7 +159,37 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-06 11:52",
       "link": "http://vietstock.vn/2026/08/ong-trum-jpmorgan-canh-bao-du-no-margin-o-muc-ky-luc-se-co-ai-do-lam-rung-chuyen-thi-truong-773-1477341.htm",
-      "diem": 16.9,
+      "diem": 15.6,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Khoảnh khắc nghẹt thở khi trực thăng chở Tổng thống Trump áp sát máy bay thương mại",
+      "chu_de": "Địa chính trị",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-06 15:49",
+      "link": "https://cafef.vn/khoanh-khac-nghet-tho-khi-truc-thang-cho-tong-thong-trump-ap-sat-may-bay-thuong-mai-188260806145006057.chn",
+      "diem": 14.9,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Lãi suất cho vay mới nhất tại Agribank",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-05 16:57",
+      "link": "https://cafef.vn/lai-suat-cho-vay-moi-nhat-tai-agribank-188260805165851379.chn",
+      "diem": 14.8,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Mỹ treo thưởng 25 triệu USD săn lùng trùm ma túy Mexico",
+      "chu_de": "Thế giới",
+      "nguon": "VnExpress Thế giới",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-06 13:52",
+      "link": "https://vnexpress.net/my-treo-thuong-25-trieu-usd-san-lung-trum-ma-tuy-mexico-5105899.html",
+      "diem": 14.4,
       "khan_cap": false
     },
     {
@@ -159,7 +199,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-06 11:22",
       "link": "https://cafef.vn/anh-em-cua-vang-bat-ngo-tang-gia-5-chi-trong-mot-phien-dieu-gi-dang-xay-ra-188260806112321074.chn",
-      "diem": 15.6,
+      "diem": 14.3,
       "khan_cap": false
     },
     {
@@ -169,7 +209,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-06 11:11",
       "link": "https://cafef.vn/tich-thu-gan-700-ty-dong-tien-mat-cung-74-kg-vang-thoi-tai-mot-can-nha-sang-trong-18826080608114986.chn",
-      "diem": 15.5,
+      "diem": 14.3,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Quảng Ninh tính chi 80.000 tỷ đồng làm đường sắt kết nối Trung Quốc",
+      "chu_de": "Thế giới",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-06 13:06",
+      "link": "https://vnexpress.net/quang-ninh-tinh-chi-80-000-ty-dong-lam-duong-sat-ket-noi-trung-quoc-5105881.html",
+      "diem": 14.1,
       "khan_cap": false
     },
     {
@@ -179,7 +229,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-06 08:22",
       "link": "http://vietstock.vn/2026/08/tang-hon-4-vang-the-gioi-vuot-4300-usd-759-1477225.htm",
-      "diem": 15.4,
+      "diem": 14.1,
       "khan_cap": false
     },
     {
@@ -189,7 +239,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-06 11:26",
       "link": "https://vnexpress.net/my-sap-ap-them-thue-de-chan-tham-vong-chip-cua-trung-quoc-5105918.html",
-      "diem": 14.5,
+      "diem": 13.3,
       "khan_cap": false
     },
     {
@@ -199,7 +249,27 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-06 08:39",
       "link": "https://cafef.vn/tan-dung-kho-bau-quoc-gia-nguoi-cuba-am-tham-lan-rong-nguon-dien-vo-tan-khong-can-dau-mo-188260806062221261.chn",
-      "diem": 14.4,
+      "diem": 13.1,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Hướng dẫn doanh nghiệp, hộ kinh doanh không hoạt động tại địa chỉ đã đăng ký khôi phục mã số thuế",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-06 15:51",
+      "link": "https://cafef.vn/huong-dan-doanh-nghiep-ho-kinh-doanh-khong-hoat-dong-tai-dia-chi-da-dang-ky-khoi-phuc-ma-so-thue-18826080615513606.chn",
+      "diem": 12.9,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Thông tin mới liên quan đến số định danh điện tử mà người dân cần nắm rõ",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-06 15:39",
+      "link": "https://cafef.vn/thong-tin-moi-lien-quan-den-so-dinh-danh-dien-tu-ma-nguoi-dan-can-nam-ro-188260806153858782.chn",
+      "diem": 12.8,
       "khan_cap": false
     },
     {
@@ -209,7 +279,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-06 10:17",
       "link": "https://cafef.vn/trung-quoc-bat-ngo-bao-tin-vui-cho-ca-the-gioi-188260806081813339.chn",
-      "diem": 14.1,
+      "diem": 12.8,
       "khan_cap": false
     },
     {
@@ -219,87 +289,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-06 10:45",
       "link": "https://vnexpress.net/ong-trump-tu-choi-chuyen-hang-tram-ten-lua-patriot-cho-ukraine-5105750.html",
-      "diem": 14.0,
+      "diem": 12.8,
       "khan_cap": false
     },
     {
-      "tieu_de": "Mỹ có thể tốn gần 300 tỷ USD để chế tạo hạm đội lớp Trump",
-      "chu_de": "Địa chính trị",
-      "nguon": "VnExpress Thế giới",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-06 08:11",
-      "link": "https://vnexpress.net/my-co-the-ton-gan-300-ty-usd-de-che-tao-ham-doi-lop-trump-5105724.html",
-      "diem": 13.9,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Ông Trump đuổi theo ngăn em bé chạy khỏi sân khấu",
-      "chu_de": "Địa chính trị",
-      "nguon": "VnExpress Thế giới",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-06 09:02",
-      "link": "https://vnexpress.net/ong-trump-duoi-theo-ngan-em-be-chay-khoi-san-khau-5105762.html",
-      "diem": 13.3,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Một tỉnh vừa đón gần 7 tỷ USD vốn đầu tư",
-      "chu_de": "Kinh tế VN",
+      "tieu_de": "Đại biểu Quốc hội đề xuất xây dựng nhà máy điện mặt trời trên dọc tuyến đường Vành đai 5 - Vùng Thủ đô Hà Nội",
+      "chu_de": "Chính sách",
       "nguon": "CafeF Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-05 19:28",
-      "link": "https://cafef.vn/mot-tinh-vua-don-gan-7-ty-usd-von-dau-tu-188260805182726977.chn",
-      "diem": 13.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Giá dầu gần như đi ngang",
-      "chu_de": "Địa chính trị",
-      "nguon": "Vietstock Thế giới",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-06 08:18",
-      "link": "http://vietstock.vn/2026/08/gia-dau-gan-nhu-di-ngang-34-1477224.htm",
-      "diem": 12.9,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Đề xuất kinh doanh kim cương là ngành, nghề có điều kiện như vàng",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-05 16:38",
-      "link": "https://vnexpress.net/de-xuat-kinh-doanh-kim-cuong-la-nganh-nghe-co-dieu-kien-nhu-vang-5105607.html",
-      "diem": 12.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Phi cơ dân dụng bay sát bất thường với trực thăng chở ông Trump",
-      "chu_de": "Địa chính trị",
-      "nguon": "VnExpress Thế giới",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-06 07:51",
-      "link": "https://vnexpress.net/phi-co-dan-dung-bay-sat-bat-thuong-voi-truc-thang-cho-ong-trump-5105717.html",
-      "diem": 12.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Phát hiện 2 thùng các-tông chứa 24 tỷ đồng tiền mặt bị vứt bên vệ đường cao tốc",
-      "chu_de": "Thế giới",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-06 12:35",
-      "link": "https://cafef.vn/phat-hien-2-thung-cac-tong-chua-24-ty-dong-tien-mat-bi-vut-ben-ve-duong-cao-toc-18826080611423088.chn",
+      "thoi_gian": "2026-08-06 15:24",
+      "link": "https://cafef.vn/dai-bieu-quoc-hoi-de-xuat-xay-dung-nha-may-dien-mat-troi-tren-doc-tuyen-duong-vanh-dai-5-vung-thu-do-ha-noi-188260806150608842.chn",
       "diem": 12.7,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Cất tiền trong két sắt, người phụ nữ \"suýt ngất\" trước cảnh tượng đáng sợ bên trong",
-      "chu_de": "Thế giới",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-06 12:16",
-      "link": "https://cafef.vn/cat-tien-trong-ket-sat-nguoi-phu-nu-suyt-ngat-truoc-canh-tuong-dang-so-ben-trong-188260806105127067.chn",
-      "diem": 12.6,
       "khan_cap": false
     }
   ]
