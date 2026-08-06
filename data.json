@@ -1,5 +1,5 @@
 {
-  "cap_nhat_luc": "2026-08-06 10:38:24",
+  "cap_nhat_luc": "2026-08-06 13:14:23",
   "so_tin": 30,
   "tin": [
     {
@@ -9,8 +9,18 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-05 13:53",
       "link": "https://vnexpress.net/don-khong-kich-gan-nhu-xoa-so-mot-gia-toc-o-gaza-5105492.html",
-      "diem": 54.4,
+      "diem": 53.3,
       "khan_cap": true
+    },
+    {
+      "tieu_de": "Cổ phiếu Điện Máy Xanh lên HoSE, vốn hóa hơn 100.000 tỷ đồng",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-06 11:17",
+      "link": "https://vnexpress.net/co-phieu-dien-may-xanh-len-hose-von-hoa-hon-100-000-ty-dong-5105865.html",
+      "diem": 48.4,
+      "khan_cap": false
     },
     {
       "tieu_de": "Lãi suất ngân hàng 5/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...",
@@ -19,7 +29,37 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-05 21:01",
       "link": "https://cafef.vn/lai-suat-ngan-hang-5-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260805210321917.chn",
-      "diem": 42.6,
+      "diem": 40.4,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "BIDV chốt ngày chia hơn 498 triệu cổ phiếu thưởng",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-06 11:59",
+      "link": "https://cafef.vn/bidv-chot-ngay-chia-hon-498-trieu-co-phieu-thuong-188260806100921486.chn",
+      "diem": 39.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Thống đốc Fed: Sẵn sàng tăng lãi suất, cảnh báo Mỹ “không còn nhiều thời gian”",
+      "chu_de": "Fed",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-06 12:58",
+      "link": "https://cafef.vn/thong-doc-fed-san-sang-tang-lai-suat-canh-bao-my-khong-con-nhieu-thoi-gian-188260806120254025.chn",
+      "diem": 37.2,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "EuroCham: Nghị quyết 10 tạo niềm tin để doanh nghiệp châu Âu mở rộng đầu tư tại Việt Nam",
+      "chu_de": "Chính sách",
+      "nguon": "CafeF Vĩ mô, Vietstock Kinh tế",
+      "so_nguon": 2,
+      "thoi_gian": "2026-08-06 11:30",
+      "link": "https://cafef.vn/eurocham-nghi-quyet-10-tao-niem-tin-de-doanh-nghiep-chau-au-mo-rong-dau-tu-tai-viet-nam-188260806111848279.chn",
+      "diem": 36.6,
       "khan_cap": false
     },
     {
@@ -29,7 +69,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-06 09:00",
       "link": "https://cafef.vn/them-quan-chuc-fed-muon-ngan-hang-trung-uong-tang-lai-suat-trong-thoi-gian-toi-188260806081010493.chn",
-      "diem": 36.2,
+      "diem": 34.3,
       "khan_cap": false
     },
     {
@@ -39,7 +79,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-06 05:30",
       "link": "https://vnexpress.net/mot-ngan-hang-phat-hanh-trai-phieu-lai-suat-10-5105704.html",
-      "diem": 35.8,
+      "diem": 33.6,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Một tập đoàn gửi gần 167.000 tỷ đồng tại ngân hàng, chiếm hơn một nửa tổng tài sản, được hưởng lãi suất lên tới 8,9%/năm, thu về gần 5.000 tỷ đồng tiền lãi",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-06 11:45",
+      "link": "https://cafef.vn/mot-tap-doan-gui-gan-167000-ty-dong-tai-ngan-hang-chiem-hon-mot-nua-tong-tai-san-duoc-huong-lai-suat-len-toi-89-nam-thu-ve-gan-5000-ty-dong-tien-lai-188260806114737103.chn",
+      "diem": 32.8,
       "khan_cap": false
     },
     {
@@ -49,7 +99,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-05 16:01",
       "link": "https://cafef.vn/moc-loi-nhuan-10000-ty-mot-nam-da-la-qua-khu-vietcombank-vietinbank-bidv-mb-va-vpbank-gio-lai-ca-van-ty-moi-quy-188260805112358656.chn",
-      "diem": 34.4,
+      "diem": 32.4,
       "khan_cap": false
     },
     {
@@ -59,7 +109,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-06 08:27",
       "link": "https://cafef.vn/nang-luc-ton-chua-dau-tho-cua-nmld-dung-quat-tang-them-125-188260805133216697.chn",
-      "diem": 28.2,
+      "diem": 26.0,
       "khan_cap": false
     },
     {
@@ -69,17 +119,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-06 06:52",
       "link": "https://cafef.vn/thanh-tra-5-doanh-nghiep-vang-tai-tay-ninh-188260806065208423.chn",
-      "diem": 26.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Sáng 5/8: NHNN niêm yết tỷ giá trung tâm ở mức 25.405 đồng",
-      "chu_de": "Chính sách",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-05 11:42",
-      "link": "https://cafef.vn/sang-5-8-nhnn-niem-yet-ty-gia-trung-tam-o-muc-25405-dong-188260805114313985.chn",
-      "diem": 26.8,
+      "diem": 24.6,
       "khan_cap": false
     },
     {
@@ -89,7 +129,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-05 19:04",
       "link": "https://vnexpress.net/vietcombank-mua-lai-toa-nha-tren-dat-vang-tai-ben-bach-dang-5105653.html",
-      "diem": 21.0,
+      "diem": 18.8,
       "khan_cap": false
     },
     {
@@ -99,17 +139,37 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-05 16:57",
       "link": "https://cafef.vn/lai-suat-cho-vay-moi-nhat-tai-agribank-188260805165851379.chn",
-      "diem": 19.2,
+      "diem": 17.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "Nền kinh tế lớn nhất Đông Nam Á công bố tăng trưởng GDP quý 2/2026 vượt dự báo, so với Việt Nam thì sao?",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Vĩ mô",
+      "tieu_de": "Ông trùm JPMorgan cảnh báo dư nợ margin ở mức kỷ lục: \"Sẽ có ai đó làm rung chuyển thị trường\"",
+      "chu_de": "Thế giới",
+      "nguon": "Vietstock Thế giới",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-05 12:51",
-      "link": "https://cafef.vn/nen-kinh-te-lon-nhat-dong-nam-a-cong-bo-tang-truong-gdp-quy-2-2026-vuot-du-bao-so-voi-viet-nam-thi-sao-188260805125219119.chn",
-      "diem": 17.8,
+      "thoi_gian": "2026-08-06 11:52",
+      "link": "http://vietstock.vn/2026/08/ong-trum-jpmorgan-canh-bao-du-no-margin-o-muc-ky-luc-se-co-ai-do-lam-rung-chuyen-thi-truong-773-1477341.htm",
+      "diem": 16.9,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Anh em của vàng bất ngờ tăng giá 5% chỉ trong một phiên: Điều gì đang xảy ra?",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-06 11:22",
+      "link": "https://cafef.vn/anh-em-cua-vang-bat-ngo-tang-gia-5-chi-trong-mot-phien-dieu-gi-dang-xay-ra-188260806112321074.chn",
+      "diem": 15.6,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Tịch thu gần 700 tỷ đồng tiền mặt cùng 74 kg vàng thỏi tại một căn nhà sang trọng",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-06 11:11",
+      "link": "https://cafef.vn/tich-thu-gan-700-ty-dong-tien-mat-cung-74-kg-vang-thoi-tai-mot-can-nha-sang-trong-18826080608114986.chn",
+      "diem": 15.5,
       "khan_cap": false
     },
     {
@@ -119,7 +179,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-06 08:22",
       "link": "http://vietstock.vn/2026/08/tang-hon-4-vang-the-gioi-vuot-4300-usd-759-1477225.htm",
-      "diem": 16.6,
+      "diem": 15.4,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Mỹ sắp áp thêm thuế để chặn tham vọng chip của Trung Quốc",
+      "chu_de": "Thế giới",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-06 11:26",
+      "link": "https://vnexpress.net/my-sap-ap-them-thue-de-chan-tham-vong-chip-cua-trung-quoc-5105918.html",
+      "diem": 14.5,
       "khan_cap": false
     },
     {
@@ -129,17 +199,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-06 08:39",
       "link": "https://cafef.vn/tan-dung-kho-bau-quoc-gia-nguoi-cuba-am-tham-lan-rong-nguon-dien-vo-tan-khong-can-dau-mo-188260806062221261.chn",
-      "diem": 15.6,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Một tỉnh vừa đón gần 7 tỷ USD vốn đầu tư",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-05 19:28",
-      "link": "https://cafef.vn/mot-tinh-vua-don-gan-7-ty-usd-von-dau-tu-188260805182726977.chn",
-      "diem": 15.4,
+      "diem": 14.4,
       "khan_cap": false
     },
     {
@@ -149,27 +209,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-06 10:17",
       "link": "https://cafef.vn/trung-quoc-bat-ngo-bao-tin-vui-cho-ca-the-gioi-188260806081813339.chn",
-      "diem": 15.3,
+      "diem": 14.1,
       "khan_cap": false
     },
     {
-      "tieu_de": "Đề xuất kinh doanh kim cương là ngành, nghề có điều kiện như vàng",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
+      "tieu_de": "Ông Trump 'từ chối' chuyển hàng trăm tên lửa Patriot cho Ukraine",
+      "chu_de": "Địa chính trị",
+      "nguon": "VnExpress Thế giới",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-05 16:38",
-      "link": "https://vnexpress.net/de-xuat-kinh-doanh-kim-cuong-la-nganh-nghe-co-dieu-kien-nhu-vang-5105607.html",
-      "diem": 15.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Công ty của Bầu Đức được phép IPO",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-05 11:54",
-      "link": "https://vnexpress.net/cong-ty-cua-bau-duc-duoc-phep-ipo-5105470.html",
-      "diem": 15.0,
+      "thoi_gian": "2026-08-06 10:45",
+      "link": "https://vnexpress.net/ong-trump-tu-choi-chuyen-hang-tram-ten-lua-patriot-cho-ukraine-5105750.html",
+      "diem": 14.0,
       "khan_cap": false
     },
     {
@@ -179,7 +229,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-06 08:11",
       "link": "https://vnexpress.net/my-co-the-ton-gan-300-ty-usd-de-che-tao-ham-doi-lop-trump-5105724.html",
-      "diem": 15.0,
+      "diem": 13.9,
       "khan_cap": false
     },
     {
@@ -189,27 +239,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-06 09:02",
       "link": "https://vnexpress.net/ong-trump-duoi-theo-ngan-em-be-chay-khoi-san-khau-5105762.html",
-      "diem": 14.3,
+      "diem": 13.3,
       "khan_cap": false
     },
     {
-      "tieu_de": "Một ngân hàng quốc doanh tiếp tục tăng mạnh lãi suất huy động",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-05 10:57",
-      "link": "https://vnexpress.net/mot-ngan-hang-quoc-doanh-tiep-tuc-tang-manh-lai-suat-huy-dong-5105437.html",
-      "diem": 14.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Đề nghị siết thiết kế đô thị ở các dự án bất động sản lớn, khu vực ven sông, ven biển",
+      "tieu_de": "Một tỉnh vừa đón gần 7 tỷ USD vốn đầu tư",
       "chu_de": "Kinh tế VN",
       "nguon": "CafeF Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-05 15:30",
-      "link": "https://cafef.vn/de-nghi-siet-thiet-ke-do-thi-o-cac-du-an-bat-dong-san-lon-khu-vuc-ven-song-ven-bien-188260805135816928.chn",
-      "diem": 14.0,
+      "thoi_gian": "2026-08-05 19:28",
+      "link": "https://cafef.vn/mot-tinh-vua-don-gan-7-ty-usd-von-dau-tu-188260805182726977.chn",
+      "diem": 13.2,
       "khan_cap": false
     },
     {
@@ -219,7 +259,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-06 08:18",
       "link": "http://vietstock.vn/2026/08/gia-dau-gan-nhu-di-ngang-34-1477224.htm",
-      "diem": 14.0,
+      "diem": 12.9,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Đề xuất kinh doanh kim cương là ngành, nghề có điều kiện như vàng",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-05 16:38",
+      "link": "https://vnexpress.net/de-xuat-kinh-doanh-kim-cuong-la-nganh-nghe-co-dieu-kien-nhu-vang-5105607.html",
+      "diem": 12.8,
       "khan_cap": false
     },
     {
@@ -229,77 +279,27 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-06 07:51",
       "link": "https://vnexpress.net/phi-co-dan-dung-bay-sat-bat-thuong-voi-truc-thang-cho-ong-trump-5105717.html",
-      "diem": 13.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Giải bài toán vốn dài hạn cho tăng trưởng cao",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-05 14:54",
-      "link": "https://cafef.vn/giai-bai-toan-von-dai-han-cho-tang-truong-cao-188260805155526455.chn",
-      "diem": 13.6,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Phê duyệt Điều chỉnh Quy hoạch chung Khu kinh tế Vũng Áng, tỉnh Hà Tĩnh đến năm 2050",
-      "chu_de": "Chính sách",
-      "nguon": "CafeF Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-05 11:55",
-      "link": "https://cafef.vn/phe-duyet-dieu-chinh-quy-hoach-chung-khu-kinh-te-vung-ang-tinh-ha-tinh-den-nam-2050-188260805110751247.chn",
-      "diem": 13.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Quỹ ETF Bitcoin giao ngay ở Mỹ đầu tiên đóng cửa",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-05 11:48",
-      "link": "https://vnexpress.net/quy-etf-bitcoin-giao-ngay-o-my-dau-tien-dong-cua-5105358.html",
-      "diem": 13.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Nghỉ không lương trên 14 ngày, người lao động cần lưu ý việc sau để tránh mất quyền lợi về BHXH, BHYT",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-06 10:10",
-      "link": "https://cafef.vn/nghi-khong-luong-tren-14-ngay-nguoi-lao-dong-can-luu-y-viec-sau-de-tranh-mat-quyen-loi-ve-bhxh-bhyt-188260806090947826.chn",
       "diem": 12.8,
       "khan_cap": false
     },
     {
-      "tieu_de": "Israel nhận tàu ngầm INS Drakon bí ẩn sau 14 năm chế tạo",
-      "chu_de": "Địa chính trị",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-06 10:05",
-      "link": "https://cafef.vn/israel-nhan-tau-ngam-ins-drakon-bi-an-sau-14-nam-che-tao-18826080610052608.chn",
-      "diem": 12.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Nổ lớn rung chuyển Dubai",
+      "tieu_de": "Phát hiện 2 thùng các-tông chứa 24 tỷ đồng tiền mặt bị vứt bên vệ đường cao tốc",
       "chu_de": "Thế giới",
       "nguon": "CafeF Tài chính quốc tế",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-06 10:04",
-      "link": "https://cafef.vn/no-lon-rung-chuyen-dubai-188260806082229676.chn",
-      "diem": 12.8,
+      "thoi_gian": "2026-08-06 12:35",
+      "link": "https://cafef.vn/phat-hien-2-thung-cac-tong-chua-24-ty-dong-tien-mat-bi-vut-ben-ve-duong-cao-toc-18826080611423088.chn",
+      "diem": 12.7,
       "khan_cap": false
     },
     {
-      "tieu_de": "Trung Quốc - từ 'mỏ vàng' đến niềm đau của các hãng xe Đức",
+      "tieu_de": "Cất tiền trong két sắt, người phụ nữ \"suýt ngất\" trước cảnh tượng đáng sợ bên trong",
       "chu_de": "Thế giới",
-      "nguon": "VnExpress Kinh doanh",
+      "nguon": "CafeF Tài chính quốc tế",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-06 00:05",
-      "link": "https://vnexpress.net/trung-quoc-tu-mo-vang-den-niem-dau-cua-cac-hang-xe-duc-5105514.html",
-      "diem": 12.8,
+      "thoi_gian": "2026-08-06 12:16",
+      "link": "https://cafef.vn/cat-tien-trong-ket-sat-nguoi-phu-nu-suyt-ngat-truoc-canh-tuong-dang-so-ben-trong-188260806105127067.chn",
+      "diem": 12.6,
       "khan_cap": false
     }
   ]
