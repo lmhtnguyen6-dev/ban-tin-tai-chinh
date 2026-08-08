@@ -1,5 +1,5 @@
 {
-  "cap_nhat_luc": "2026-08-08 06:54:58",
+  "cap_nhat_luc": "2026-08-08 07:48:29",
   "so_tin": 30,
   "tin": [
     {
@@ -7,9 +7,19 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-08 06:54",
+      "thoi_gian": "2026-08-08 07:48",
       "link": "https://vietnambiz.vn/nhnn-can-tang-nam-giu-bao-nhieu-co-phieu-ctg-de-so-huu-toi-thieu-65-vietinbank-202687153739946.htm",
       "diem": 48.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Sacombank phát hành ba đợt trái phiếu thu về hơn 3.600 tỷ, lãi suất 10%/năm",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-08 07:48",
+      "link": "https://vietnambiz.vn/sacombank-phat-hanh-ba-dot-trai-phieu-thu-ve-hon-3600-ty-lai-suat-10nam-20268695420366.htm",
+      "diem": 44.0,
       "khan_cap": false
     },
     {
@@ -19,17 +29,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-07 19:23",
       "link": "https://cafef.vn/lai-suat-ngan-hang-7-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260807192505937.chn",
-      "diem": 44.4,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Sacombank phát hành ba đợt trái phiếu thu về hơn 3.600 tỷ, lãi suất 10%/năm",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-08 06:54",
-      "link": "https://vietnambiz.vn/sacombank-phat-hanh-ba-dot-trai-phieu-thu-ve-hon-3600-ty-lai-suat-10nam-20268695420366.htm",
-      "diem": 44.0,
+      "diem": 43.6,
       "khan_cap": false
     },
     {
@@ -37,7 +37,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-08 06:54",
+      "thoi_gian": "2026-08-08 07:48",
       "link": "https://vietnambiz.vn/thu-tuong-nhnn-xu-ly-nghiem-hanh-vi-canh-tranh-lai-suat-khong-lanh-manh-20268320515976.htm",
       "diem": 42.0,
       "khan_cap": false
@@ -47,7 +47,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-08 06:54",
+      "thoi_gian": "2026-08-08 07:48",
       "link": "https://vietnambiz.vn/bidv-sap-phat-hanh-gan-500-trieu-co-phieu-tang-von-len-gan-77800-ty-20268715440300.htm",
       "diem": 40.0,
       "khan_cap": false
@@ -57,7 +57,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-08 06:54",
+      "thoi_gian": "2026-08-08 07:48",
       "link": "https://vietnambiz.vn/vietinbank-dang-tra-lai-suat-tiet-kiem-cao-nhat-bao-nhieu-trong-thang-8-202685104135852.htm",
       "diem": 38.0,
       "khan_cap": false
@@ -67,7 +67,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-08 06:54",
+      "thoi_gian": "2026-08-08 07:48",
       "link": "https://vietnambiz.vn/lai-suat-cho-vay-binh-quan-vietcombank-tang-5-thang-lien-tiep-2026851051037.htm",
       "diem": 38.0,
       "khan_cap": false
@@ -77,7 +77,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-08 06:54",
+      "thoi_gian": "2026-08-08 07:48",
       "link": "https://vietnambiz.vn/chuyen-gia-hsbc-nghi-quyet-10-da-nhin-thang-vao-thach-thuc-viet-nam-co-co-hoi-lon-hut-fdi-nhung-khong-keo-dai-mai-202684105047888.htm",
       "diem": 38.0,
       "khan_cap": false
@@ -87,19 +87,9 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-08 06:54",
+      "thoi_gian": "2026-08-08 07:48",
       "link": "https://vietnambiz.vn/giai-ngan-dau-tu-cong-quy-iii-khi-cac-sieu-du-an-ap-sat-vach-dich-2026861530798.htm",
       "diem": 36.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Các quỹ nắm nhiều cổ phiếu nhóm Vingroup vẫn lỗ",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-08 00:00",
-      "link": "https://vnexpress.net/cac-quy-nam-nhieu-co-phieu-nhom-vingroup-van-lo-5106164.html",
-      "diem": 34.2,
       "khan_cap": false
     },
     {
@@ -107,7 +97,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-08 06:54",
+      "thoi_gian": "2026-08-08 07:48",
       "link": "https://vietnambiz.vn/gui-tien-tiet-kiem-tai-ngan-hang-quoc-doanh-nao-cho-lai-suat-cao-nhat-202687141927652.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -117,7 +107,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-08 06:54",
+      "thoi_gian": "2026-08-08 07:48",
       "link": "https://vietnambiz.vn/tong-giam-doc-mb-tu-tin-hoan-thanh-ke-hoach-loi-nhuan-nam-co-the-dat-moc-40000-ty-neu-tinh-hinh-thuan-loi-20268617731744.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -127,7 +117,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-08 06:54",
+      "thoi_gian": "2026-08-08 07:48",
       "link": "https://vietnambiz.vn/vietcombank-mua-lai-toa-nha-tren-dat-vang-tai-ben-bach-dang-202685192857683.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -137,7 +127,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-08 06:54",
+      "thoi_gian": "2026-08-08 07:48",
       "link": "https://vietnambiz.vn/thong-doc-nhnn-sua-doi-ba-luat-ve-tai-chinh-de-phat-trien-thi-truong-von-giam-phu-thuoc-vao-ngan-hang-202685161947314.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -147,7 +137,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-08 06:54",
+      "thoi_gian": "2026-08-08 07:48",
       "link": "https://vietnambiz.vn/lai-suat-ngan-hang-agribank-moi-nhat-thang-82026-202685103746360.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -157,7 +147,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-08 06:54",
+      "thoi_gian": "2026-08-08 07:48",
       "link": "https://vietnambiz.vn/buc-tranh-nganh-bao-hiem-nua-dau-nam-2026-ong-lon-thang-lon-trong-khi-nhieu-dn-quy-mo-nho-giam-manh-loi-nhuan-20268418461686.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -167,7 +157,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-08 06:54",
+      "thoi_gian": "2026-08-08 07:48",
       "link": "https://vietnambiz.vn/mot-ngan-hang-quoc-doanh-tham-gia-vao-cuoc-dua-tang-lai-suat-trong-thang-8-202684165610289.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -177,7 +167,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-08 06:54",
+      "thoi_gian": "2026-08-08 07:48",
       "link": "https://vietnambiz.vn/infographic-buc-tranh-kinh-te-7-thang-dau-nam-fdi-dang-ky-moi-dat-tren-38-ty-usd-tang-58-nsnn-boi-thu-470000-ty-dong-202683211254365.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -187,7 +177,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-08 06:54",
+      "thoi_gian": "2026-08-08 07:48",
       "link": "https://vietnambiz.vn/bo-truong-bo-tai-chinh-dieu-hanh-lam-phat-doi-mat-ap-luc-kep-cuoi-nam-20268316324798.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -197,7 +187,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-08 06:54",
+      "thoi_gian": "2026-08-08 07:48",
       "link": "https://vietnambiz.vn/lam-phat-thang-7-cham-lai-cpi-7-thang-dau-nam-tang-439-202683104833510.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -207,7 +197,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-08 06:54",
+      "thoi_gian": "2026-08-08 07:48",
       "link": "https://vietnambiz.vn/lo-dien-5-quoc-gia-rot-tren-1-ty-usd-von-fdi-vao-viet-nam-sau-7-thang-20268392612677.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -217,9 +207,19 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-08 06:54",
+      "thoi_gian": "2026-08-08 07:48",
       "link": "https://vietnambiz.vn/thong-qua-ho-so-de-an-thanh-lap-thanh-pho-bac-ninh-truc-thuoc-trung-uong-202682141059183.htm",
       "diem": 34.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Các quỹ nắm nhiều cổ phiếu nhóm Vingroup vẫn lỗ",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-08 00:00",
+      "link": "https://vnexpress.net/cac-quy-nam-nhieu-co-phieu-nhom-vingroup-van-lo-5106164.html",
+      "diem": 33.4,
       "khan_cap": false
     },
     {
@@ -229,7 +229,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-08 06:44",
       "link": "https://cafef.vn/ngan-hang-thu-dong-tien-tu-trai-phieu-188260807152352753.chn",
-      "diem": 31.8,
+      "diem": 31.2,
       "khan_cap": false
     },
     {
@@ -237,7 +237,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-08 06:54",
+      "thoi_gian": "2026-08-08 07:48",
       "link": "https://vietnambiz.vn/top-ngan-hang-tang-truong-cho-vay-manh-nhat-nua-dau-nam-2026-202687161325891.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -247,7 +247,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-08 06:54",
+      "thoi_gian": "2026-08-08 07:48",
       "link": "https://vietnambiz.vn/chu-tich-vietcombank-khong-the-quan-ly-rui-ro-tai-san-ma-hoa-theo-cach-truyen-thong-20268619521465.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -257,7 +257,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-08 06:54",
+      "thoi_gian": "2026-08-08 07:48",
       "link": "https://vietnambiz.vn/lai-thuan-tu-dich-vu-nhieu-ngan-hang-tang-ba-chu-so-trong-nua-dau-nam-techcombank-dan-dau-big4-tut-hang-202685214723194.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -267,7 +267,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-08 06:54",
+      "thoi_gian": "2026-08-08 07:48",
       "link": "https://vietnambiz.vn/doanh-nghiep-rut-tien-mat-den-300-trieungay-de-dang-qua-quet-ma-qr-tren-ung-dung-tpbank-biz-202685151746941.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -277,7 +277,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-08 06:54",
+      "thoi_gian": "2026-08-08 07:48",
       "link": "https://vietnambiz.vn/100-ngay-chuyen-doi-so-tai-thu-do-bidv-va-nhung-giai-phap-tro-luc-cong-nghe-tai-chinh-202685154410942.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -287,7 +287,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-08 06:54",
+      "thoi_gian": "2026-08-08 07:48",
       "link": "https://vietnambiz.vn/top-10-ngan-hang-co-thu-nhap-lai-thuan-cao-nhat-nua-dau-nam-2026-vietinbank-vuon-len-dan-dau-5-nha-bang-tang-tren-30-20268515814395.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -297,7 +297,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-08 06:54",
+      "thoi_gian": "2026-08-08 07:48",
       "link": "https://vietnambiz.vn/go-nut-that-the-che-dat-dai-mo-khoa-nguon-luc-cho-tang-truong-20268120253331.htm",
       "diem": 30.0,
       "khan_cap": false
