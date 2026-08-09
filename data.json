@@ -1,5 +1,5 @@
 {
-  "cap_nhat_luc": "2026-08-09 17:04:02",
+  "cap_nhat_luc": "2026-08-09 17:50:38",
   "so_tin": 30,
   "tin": [
     {
@@ -7,7 +7,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-09 17:03",
+      "thoi_gian": "2026-08-09 17:50",
       "link": "https://vietnambiz.vn/nhnn-can-tang-nam-giu-bao-nhieu-co-phieu-ctg-de-so-huu-toi-thieu-65-vietinbank-202687153739946.htm",
       "diem": 48.0,
       "khan_cap": false
@@ -17,7 +17,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-09 17:03",
+      "thoi_gian": "2026-08-09 17:50",
       "link": "https://vietnambiz.vn/sacombank-phat-hanh-ba-dot-trai-phieu-thu-ve-hon-3600-ty-lai-suat-10nam-20268695420366.htm",
       "diem": 44.0,
       "khan_cap": false
@@ -27,19 +27,9 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-09 17:03",
+      "thoi_gian": "2026-08-09 17:50",
       "link": "https://vietnambiz.vn/bidv-sap-phat-hanh-gan-500-trieu-co-phieu-tang-von-len-gan-77800-ty-20268715440300.htm",
       "diem": 40.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Dư nợ cho vay một ngân hàng tư nhân tăng vọt, bằng cả BIDV và Vietcombank cộng lại: Hơn 40% dư nợ tăng thêm rót vào kinh doanh bất động sản, tỷ lệ nợ xấu ở mức 3,28%",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-09 09:49",
-      "link": "https://cafef.vn/du-no-cho-vay-mot-ngan-hang-tu-nhan-tang-vot-bang-ca-bidv-va-vietcombank-cong-lai-hon-40-du-no-tang-them-rot-vao-kinh-doanh-bat-dong-san-ty-le-no-xau-o-muc-328-188260809095201886.chn",
-      "diem": 38.0,
       "khan_cap": false
     },
     {
@@ -47,7 +37,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Tài chính, VnExpress Kinh doanh",
       "so_nguon": 2,
-      "thoi_gian": "2026-08-09 17:03",
+      "thoi_gian": "2026-08-09 17:50",
       "link": "https://vietnambiz.vn/dai-bieu-quoc-hoi-lo-xung-dot-loi-ich-khi-ngan-hang-quan-ly-tai-san-dam-bao-trai-phieu-202689142338980.htm",
       "diem": 38.0,
       "khan_cap": false
@@ -57,7 +47,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-09 17:03",
+      "thoi_gian": "2026-08-09 17:50",
       "link": "https://vietnambiz.vn/vpbank-bat-ngo-ha-lai-suat-o-tat-ca-ky-han-muc-giam-manh-nhat-len-den-24-202688212127839.htm",
       "diem": 38.0,
       "khan_cap": false
@@ -67,9 +57,19 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-09 17:03",
+      "thoi_gian": "2026-08-09 17:50",
       "link": "https://vietnambiz.vn/vietinbank-dang-tra-lai-suat-tiet-kiem-cao-nhat-bao-nhieu-trong-thang-8-202685104135852.htm",
       "diem": 38.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Dư nợ cho vay một ngân hàng tư nhân tăng vọt, bằng cả BIDV và Vietcombank cộng lại: Hơn 40% dư nợ tăng thêm rót vào kinh doanh bất động sản, tỷ lệ nợ xấu ở mức 3,28%",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-09 09:49",
+      "link": "https://cafef.vn/du-no-cho-vay-mot-ngan-hang-tu-nhan-tang-vot-bang-ca-bidv-va-vietcombank-cong-lai-hon-40-du-no-tang-them-rot-vao-kinh-doanh-bat-dong-san-ty-le-no-xau-o-muc-328-188260809095201886.chn",
+      "diem": 37.4,
       "khan_cap": false
     },
     {
@@ -79,17 +79,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-09 16:46",
       "link": "https://cafef.vn/lai-suat-ngan-hang-hdbank-moi-nhat-thang-8-2026-gui-ky-han-nao-co-lai-suat-cao-nhat-188260809164823076.chn",
-      "diem": 37.8,
+      "diem": 37.2,
       "khan_cap": false
     },
     {
-      "tieu_de": "Lãi suất ngân hàng 8/8 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
+      "tieu_de": "Fed khó tăng lãi suất vào tháng 9",
+      "chu_de": "Fed",
+      "nguon": "CafeF Tài chính quốc tế",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-08 17:28",
-      "link": "https://cafef.vn/lai-suat-ngan-hang-8-8-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260808173031082.chn",
-      "diem": 34.4,
+      "thoi_gian": "2026-08-09 17:00",
+      "link": "https://cafef.vn/fed-kho-tang-lai-suat-vao-thang-9-188260809170119448.chn",
+      "diem": 36.7,
       "khan_cap": false
     },
     {
@@ -97,7 +97,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-09 17:03",
+      "thoi_gian": "2026-08-09 17:50",
       "link": "https://vietnambiz.vn/lai-suat-ngan-hang-kienlongbank-moi-nhat-thang-8-202688195624282.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -107,7 +107,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-09 17:03",
+      "thoi_gian": "2026-08-09 17:50",
       "link": "https://vietnambiz.vn/top-10-ngan-hang-lai-lon-nhat-tu-kinh-doanh-ngoai-hoi-nua-dau-nam-2026-vietcombank-quan-quan-acb-dan-dau-nhom-tu-nhan-202671415548780.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -117,7 +117,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-09 17:03",
+      "thoi_gian": "2026-08-09 17:50",
       "link": "https://vietnambiz.vn/gui-tien-tiet-kiem-tai-ngan-hang-quoc-doanh-nao-cho-lai-suat-cao-nhat-202687141927652.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -127,7 +127,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-09 17:03",
+      "thoi_gian": "2026-08-09 17:50",
       "link": "https://vietnambiz.vn/tong-giam-doc-mb-tu-tin-hoan-thanh-ke-hoach-loi-nhuan-nam-co-the-dat-moc-40000-ty-neu-tinh-hinh-thuan-loi-20268617731744.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -137,7 +137,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-09 17:03",
+      "thoi_gian": "2026-08-09 17:50",
       "link": "https://vietnambiz.vn/vietcombank-mua-lai-toa-nha-tren-dat-vang-tai-ben-bach-dang-202685192857683.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -147,7 +147,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-09 17:03",
+      "thoi_gian": "2026-08-09 17:50",
       "link": "https://vietnambiz.vn/thong-doc-nhnn-sua-doi-ba-luat-ve-tai-chinh-de-phat-trien-thi-truong-von-giam-phu-thuoc-vao-ngan-hang-202685161947314.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -157,7 +157,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-09 17:03",
+      "thoi_gian": "2026-08-09 17:50",
       "link": "https://vietnambiz.vn/top-ngan-hang-tang-truong-cho-vay-manh-nhat-nua-dau-nam-2026-202687161325891.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -167,7 +167,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-09 17:03",
+      "thoi_gian": "2026-08-09 17:50",
       "link": "https://vietnambiz.vn/chu-tich-vietcombank-khong-the-quan-ly-rui-ro-tai-san-ma-hoa-theo-cach-truyen-thong-20268619521465.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -177,7 +177,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-09 17:03",
+      "thoi_gian": "2026-08-09 17:50",
       "link": "https://vietnambiz.vn/lai-thuan-tu-dich-vu-nhieu-ngan-hang-tang-ba-chu-so-trong-nua-dau-nam-techcombank-dan-dau-big4-tut-hang-202685214723194.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -187,7 +187,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-09 17:03",
+      "thoi_gian": "2026-08-09 17:50",
       "link": "https://vietnambiz.vn/doanh-nghiep-rut-tien-mat-den-300-trieungay-de-dang-qua-quet-ma-qr-tren-ung-dung-tpbank-biz-202685151746941.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -197,7 +197,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-09 17:03",
+      "thoi_gian": "2026-08-09 17:50",
       "link": "https://vietnambiz.vn/100-ngay-chuyen-doi-so-tai-thu-do-bidv-va-nhung-giai-phap-tro-luc-cong-nghe-tai-chinh-202685154410942.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -209,7 +209,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-09 09:00",
       "link": "https://vnexpress.net/masan-gioi-thieu-chien-luoc-cao-cap-hoa-san-pham-tai-vietfood-5106921.html",
-      "diem": 29.2,
+      "diem": 28.6,
       "khan_cap": false
     },
     {
@@ -219,7 +219,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-09 12:59",
       "link": "https://cafef.vn/bo-sung-quy-dinh-su-dung-tai-khoan-ngoai-te-dong-viet-nam-cua-to-chuc-tin-dung-nuoc-ngoai-1882608091208062.chn",
-      "diem": 28.6,
+      "diem": 28.0,
       "khan_cap": false
     },
     {
@@ -227,7 +227,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-09 17:03",
+      "thoi_gian": "2026-08-09 17:50",
       "link": "https://vietnambiz.vn/uob-se-ban-mang-quan-ly-tai-san-cho-allianzgi-voi-gia-434-trieu-usd-20268517132949.htm",
       "diem": 28.0,
       "khan_cap": false
@@ -237,7 +237,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-09 17:03",
+      "thoi_gian": "2026-08-09 17:50",
       "link": "https://vietnambiz.vn/gia-usd-cho-den-thap-hon-ngan-hang-202685152259116.htm",
       "diem": 28.0,
       "khan_cap": false
@@ -249,7 +249,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-09 13:05",
       "link": "https://vnexpress.net/hoa-phat-du-kien-rot-them-20-000-ty-dong-vao-du-an-ray-duong-sat-tai-dung-quat-5107026.html",
-      "diem": 26.6,
+      "diem": 26.0,
       "khan_cap": false
     },
     {
@@ -259,7 +259,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-09 15:04",
       "link": "https://cafef.vn/sap-trien-khai-duong-sat-ha-noi-dong-dang-hon-5-ty-usd-188260809141213375.chn",
-      "diem": 26.4,
+      "diem": 25.6,
       "khan_cap": false
     },
     {
@@ -269,7 +269,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-08 18:04",
       "link": "https://cafef.vn/tuan-toi-mot-ngan-hang-se-chot-quyen-nhan-co-tuc-ty-le-15-co-dong-con-duoc-mua-them-co-phieu-gia-re-188260808180555989.chn",
-      "diem": 24.8,
+      "diem": 24.2,
       "khan_cap": false
     },
     {
@@ -279,7 +279,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-08 21:02",
       "link": "http://vietstock.vn/2026/08/ban-co-theo-kip-cuoc-chien-chong-lam-phat-cua-fed-761-1454060.htm",
-      "diem": 23.3,
+      "diem": 22.6,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Cú sốc việc làm Mỹ đẩy đồng USD lao dốc",
+      "chu_de": "Thế giới",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-09 17:50",
+      "link": "https://vietnambiz.vn/cu-soc-viec-lam-my-day-dong-usd-lao-doc-20268815410359.htm",
+      "diem": 15.4,
       "khan_cap": false
     },
     {
@@ -289,17 +299,7 @@
       "so_nguon": 2,
       "thoi_gian": "2026-08-09 15:59",
       "link": "https://vnexpress.net/bao-tin-manh-hai-va-mi-hong-len-tieng-sau-ket-luan-thanh-tra-cua-chinh-phu-5107038.html",
-      "diem": 15.6,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Cú sốc việc làm Mỹ đẩy đồng USD lao dốc",
-      "chu_de": "Thế giới",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-09 17:03",
-      "link": "https://vietnambiz.vn/cu-soc-viec-lam-my-day-dong-usd-lao-doc-20268815410359.htm",
-      "diem": 15.4,
+      "diem": 15.2,
       "khan_cap": false
     }
   ]
