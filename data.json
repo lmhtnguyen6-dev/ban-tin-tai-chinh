@@ -1,33 +1,13 @@
 {
-  "cap_nhat_luc": "2026-08-09 13:05:22",
+  "cap_nhat_luc": "2026-08-09 14:13:08",
   "so_tin": 30,
   "tin": [
-    {
-      "tieu_de": "NHNN cần tăng nắm giữ bao nhiêu cổ phiếu CTG để sở hữu tối thiểu 65% VietinBank?",
-      "chu_de": "Chính sách",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-09 13:05",
-      "link": "https://vietnambiz.vn/nhnn-can-tang-nam-giu-bao-nhieu-co-phieu-ctg-de-so-huu-toi-thieu-65-vietinbank-202687153739946.htm",
-      "diem": 48.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Sacombank phát hành ba đợt trái phiếu thu về hơn 3.600 tỷ, lãi suất 10%/năm",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-09 13:05",
-      "link": "https://vietnambiz.vn/sacombank-phat-hanh-ba-dot-trai-phieu-thu-ve-hon-3600-ty-lai-suat-10nam-20268695420366.htm",
-      "diem": 44.0,
-      "khan_cap": false
-    },
     {
       "tieu_de": "Thủ tướng: NHNN xử lý nghiêm hành vi cạnh tranh lãi suất không lành mạnh",
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-09 13:05",
+      "thoi_gian": "2026-08-09 14:13",
       "link": "https://vietnambiz.vn/thu-tuong-nhnn-xu-ly-nghiem-hanh-vi-canh-tranh-lai-suat-khong-lanh-manh-20268320515976.htm",
       "diem": 42.0,
       "khan_cap": false
@@ -39,37 +19,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-09 09:49",
       "link": "https://cafef.vn/du-no-cho-vay-mot-ngan-hang-tu-nhan-tang-vot-bang-ca-bidv-va-vietcombank-cong-lai-hon-40-du-no-tang-them-rot-vao-kinh-doanh-bat-dong-san-ty-le-no-xau-o-muc-328-188260809095201886.chn",
-      "diem": 41.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "BIDV sắp phát hành gần 500 triệu cổ phiếu, tăng vốn lên gần 77.800 tỷ",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-09 13:05",
-      "link": "https://vietnambiz.vn/bidv-sap-phat-hanh-gan-500-trieu-co-phieu-tang-von-len-gan-77800-ty-20268715440300.htm",
-      "diem": 40.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "VPBank bất ngờ hạ lãi suất ở tất cả kỳ hạn, mức giảm mạnh nhất lên đến 2,4%",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-09 13:05",
-      "link": "https://vietnambiz.vn/vpbank-bat-ngo-ha-lai-suat-o-tat-ca-ky-han-muc-giam-manh-nhat-len-den-24-202688212127839.htm",
-      "diem": 38.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "VietinBank đang trả lãi suất tiết kiệm cao nhất bao nhiêu trong tháng 8?",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-09 13:05",
-      "link": "https://vietnambiz.vn/vietinbank-dang-tra-lai-suat-tiet-kiem-cao-nhat-bao-nhieu-trong-thang-8-202685104135852.htm",
-      "diem": 38.0,
+      "diem": 40.4,
       "khan_cap": false
     },
     {
@@ -77,7 +27,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-09 13:05",
+      "thoi_gian": "2026-08-09 14:13",
       "link": "https://vietnambiz.vn/chuyen-gia-hsbc-nghi-quyet-10-da-nhin-thang-vao-thach-thuc-viet-nam-co-co-hoi-lon-hut-fdi-nhung-khong-keo-dai-mai-202684105047888.htm",
       "diem": 38.0,
       "khan_cap": false
@@ -89,7 +39,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-08 17:28",
       "link": "https://cafef.vn/lai-suat-ngan-hang-8-8-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260808173031082.chn",
-      "diem": 37.6,
+      "diem": 36.8,
       "khan_cap": false
     },
     {
@@ -97,7 +47,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô, VnExpress Kinh doanh",
       "so_nguon": 2,
-      "thoi_gian": "2026-08-09 13:05",
+      "thoi_gian": "2026-08-09 14:13",
       "link": "https://vietnambiz.vn/can-phan-dinh-rui-ro-cua-hoat-dong-dau-khi-voi-quyet-dinh-dau-tu-sai-2026881939531.htm",
       "diem": 36.0,
       "khan_cap": false
@@ -107,69 +57,9 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-09 13:05",
+      "thoi_gian": "2026-08-09 14:13",
       "link": "https://vietnambiz.vn/giai-ngan-dau-tu-cong-quy-iii-khi-cac-sieu-du-an-ap-sat-vach-dich-2026861530798.htm",
       "diem": 36.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Lãi suất ngân hàng Kienlongbank mới nhất tháng 8",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-09 13:05",
-      "link": "https://vietnambiz.vn/lai-suat-ngan-hang-kienlongbank-moi-nhat-thang-8-202688195624282.htm",
-      "diem": 34.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "TOP 10 ngân hàng lãi lớn nhất từ kinh doanh ngoại hối nửa đầu năm 2026: Vietcombank quán quân, ACB dẫn đầu nhóm tư nhân",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-09 13:05",
-      "link": "https://vietnambiz.vn/top-10-ngan-hang-lai-lon-nhat-tu-kinh-doanh-ngoai-hoi-nua-dau-nam-2026-vietcombank-quan-quan-acb-dan-dau-nhom-tu-nhan-202671415548780.htm",
-      "diem": 34.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Gửi tiền tiết kiệm tại ngân hàng quốc doanh nào cho lãi suất cao nhất?",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-09 13:05",
-      "link": "https://vietnambiz.vn/gui-tien-tiet-kiem-tai-ngan-hang-quoc-doanh-nao-cho-lai-suat-cao-nhat-202687141927652.htm",
-      "diem": 34.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Tổng Giám đốc MB: Tự tin hoàn thành kế hoạch lợi nhuận năm, có thể đạt mốc 40.000 tỷ nếu tình hình thuận lợi",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-09 13:05",
-      "link": "https://vietnambiz.vn/tong-giam-doc-mb-tu-tin-hoan-thanh-ke-hoach-loi-nhuan-nam-co-the-dat-moc-40000-ty-neu-tinh-hinh-thuan-loi-20268617731744.htm",
-      "diem": 34.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Vietcombank mua lại tòa nhà trên 'đất vàng' tại bến Bạch Đằng",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-09 13:05",
-      "link": "https://vietnambiz.vn/vietcombank-mua-lai-toa-nha-tren-dat-vang-tai-ben-bach-dang-202685192857683.htm",
-      "diem": 34.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Thống đốc NHNN: Sửa đổi ba luật về tài chính để phát triển thị trường vốn, giảm phụ thuộc vào ngân hàng",
-      "chu_de": "Chính sách",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-09 13:05",
-      "link": "https://vietnambiz.vn/thong-doc-nhnn-sua-doi-ba-luat-ve-tai-chinh-de-phat-trien-thi-truong-von-giam-phu-thuoc-vao-ngan-hang-202685161947314.htm",
-      "diem": 34.0,
       "khan_cap": false
     },
     {
@@ -177,7 +67,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-09 13:05",
+      "thoi_gian": "2026-08-09 14:13",
       "link": "https://vietnambiz.vn/infographic-buc-tranh-kinh-te-7-thang-dau-nam-fdi-dang-ky-moi-dat-tren-38-ty-usd-tang-58-nsnn-boi-thu-470000-ty-dong-202683211254365.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -187,7 +77,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-09 13:05",
+      "thoi_gian": "2026-08-09 14:13",
       "link": "https://vietnambiz.vn/bo-truong-bo-tai-chinh-dieu-hanh-lam-phat-doi-mat-ap-luc-kep-cuoi-nam-20268316324798.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -197,7 +87,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-09 13:05",
+      "thoi_gian": "2026-08-09 14:13",
       "link": "https://vietnambiz.vn/lam-phat-thang-7-cham-lai-cpi-7-thang-dau-nam-tang-439-202683104833510.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -207,7 +97,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-09 13:05",
+      "thoi_gian": "2026-08-09 14:13",
       "link": "https://vietnambiz.vn/lo-dien-5-quoc-gia-rot-tren-1-ty-usd-von-fdi-vao-viet-nam-sau-7-thang-20268392612677.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -219,7 +109,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-09 09:00",
       "link": "https://vnexpress.net/masan-gioi-thieu-chien-luoc-cao-cap-hoa-san-pham-tai-vietfood-5106921.html",
-      "diem": 32.6,
+      "diem": 31.6,
       "khan_cap": false
     },
     {
@@ -229,7 +119,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-09 12:59",
       "link": "https://cafef.vn/bo-sung-quy-dinh-su-dung-tai-khoan-ngoai-te-dong-viet-nam-cua-to-chuc-tin-dung-nuoc-ngoai-1882608091208062.chn",
-      "diem": 32.0,
+      "diem": 31.0,
       "khan_cap": false
     },
     {
@@ -239,67 +129,177 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-09 11:44",
       "link": "https://vnexpress.net/dai-bieu-quoc-hoi-lo-xung-dot-loi-ich-khi-ngan-hang-quan-ly-tai-san-dam-bao-trai-phieu-5106995.html",
-      "diem": 30.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Top ngân hàng tăng trưởng cho vay mạnh nhất nửa đầu năm 2026",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-09 13:05",
-      "link": "https://vietnambiz.vn/top-ngan-hang-tang-truong-cho-vay-manh-nhat-nua-dau-nam-2026-202687161325891.htm",
       "diem": 30.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "Chủ tịch Vietcombank: Không thể quản lý rủi ro tài sản mã hóa theo cách truyền thống",
+      "tieu_de": "Hòa Phát dự kiến rót thêm 20.000 tỷ đồng vào dự án ray đường sắt tại Dung Quất",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
+      "nguon": "VnExpress Kinh doanh",
       "so_nguon": 1,
       "thoi_gian": "2026-08-09 13:05",
-      "link": "https://vietnambiz.vn/chu-tich-vietcombank-khong-the-quan-ly-rui-ro-tai-san-ma-hoa-theo-cach-truyen-thong-20268619521465.htm",
-      "diem": 30.0,
+      "link": "https://vnexpress.net/hoa-phat-du-kien-rot-them-20-000-ty-dong-vao-du-an-ray-duong-sat-tai-dung-quat-5107026.html",
+      "diem": 29.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "Lãi thuần từ dịch vụ nhiều ngân hàng tăng ba chữ số trong nửa đầu năm: Techcombank dẫn đầu, Big4 tụt hạng",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
+      "tieu_de": "Doanh nghiệp vàng Mi Hồng lên tiếng sau kết luận của Thanh tra Chính phủ",
+      "chu_de": "Chính sách",
+      "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-09 13:05",
-      "link": "https://vietnambiz.vn/lai-thuan-tu-dich-vu-nhieu-ngan-hang-tang-ba-chu-so-trong-nua-dau-nam-techcombank-dan-dau-big4-tut-hang-202685214723194.htm",
-      "diem": 30.0,
+      "thoi_gian": "2026-08-09 12:38",
+      "link": "https://cafef.vn/doanh-nghiep-vang-mi-hong-len-tieng-sau-ket-luan-cua-thanh-tra-chinh-phu-188260809123904934.chn",
+      "diem": 28.6,
       "khan_cap": false
     },
     {
-      "tieu_de": "Doanh nghiệp rút tiền mặt đến 300 triệu/ngày dễ dàng qua quét mã QR trên ứng dụng TPBank Biz",
+      "tieu_de": "Việt Nam nhập siêu hơn 20,5 tỷ USD sau 7 tháng",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
+      "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-09 13:05",
-      "link": "https://vietnambiz.vn/doanh-nghiep-rut-tien-mat-den-300-trieungay-de-dang-qua-quet-ma-qr-tren-ung-dung-tpbank-biz-202685151746941.htm",
-      "diem": 30.0,
+      "thoi_gian": "2026-08-09 14:13",
+      "link": "https://vietnambiz.vn/viet-nam-nhap-sieu-hon-205-ty-usd-sau-7-thang-20268394724666.htm",
+      "diem": 28.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "'100 ngày chuyển đổi số' tại Thủ đô: BIDV và những giải pháp trợ lực công nghệ, tài chính",
+      "tieu_de": "Tuần tới, một ngân hàng sẽ chốt quyền nhận cổ tức tỷ lệ 15%, cổ đông còn được mua thêm cổ phiếu giá rẻ",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
+      "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-09 13:05",
-      "link": "https://vietnambiz.vn/100-ngay-chuyen-doi-so-tai-thu-do-bidv-va-nhung-giai-phap-tro-luc-cong-nghe-tai-chinh-202685154410942.htm",
-      "diem": 30.0,
+      "thoi_gian": "2026-08-08 18:04",
+      "link": "https://cafef.vn/tuan-toi-mot-ngan-hang-se-chot-quyen-nhan-co-tuc-ty-le-15-co-dong-con-duoc-mua-them-co-phieu-gia-re-188260808180555989.chn",
+      "diem": 27.2,
       "khan_cap": false
     },
     {
-      "tieu_de": "TOP 10 ngân hàng có thu nhập lãi thuần cao nhất nửa đầu năm 2026: VietinBank vươn lên dẫn đầu, 5 nhà băng tăng trên 30%",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
+      "tieu_de": "Bạn có theo kịp cuộc chiến chống lạm phát của Fed?",
+      "chu_de": "Fed",
+      "nguon": "Vietstock Kinh tế",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-09 13:05",
-      "link": "https://vietnambiz.vn/top-10-ngan-hang-co-thu-nhap-lai-thuan-cao-nhat-nua-dau-nam-2026-vietinbank-vuon-len-dan-dau-5-nha-bang-tang-tren-30-20268515814395.htm",
-      "diem": 30.0,
+      "thoi_gian": "2026-08-08 21:02",
+      "link": "http://vietstock.vn/2026/08/ban-co-theo-kip-cuoc-chien-chong-lam-phat-cua-fed-761-1454060.htm",
+      "diem": 25.2,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "CEO MB: Lãi suất khó tăng thêm, nhưng thanh khoản vẫn là bài toán lớn trong nửa cuối năm",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-08 14:58",
+      "link": "https://cafef.vn/ceo-mb-lai-suat-kho-tang-them-nhung-thanh-khoan-van-la-bai-toan-lon-trong-nua-cuoi-nam-188260808135835993.chn",
+      "diem": 20.6,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Phó thủ tướng: Xử lý đến cùng vướng mắc, không đẩy doanh nghiệp đi vòng",
+      "chu_de": "Chính sách",
+      "nguon": "CafeF Vĩ mô, VietnamBiz Vĩ mô, VnExpress Kinh doanh",
+      "so_nguon": 3,
+      "thoi_gian": "2026-08-09 14:13",
+      "link": "https://vietnambiz.vn/pho-thu-tuong-xu-ly-den-cung-vuong-mac-khong-day-doanh-nghiep-di-vong-202688213633567.htm",
+      "diem": 19.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Vì sao lãi suất cuối năm dự báo khó giảm?",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-08 17:57",
+      "link": "https://cafef.vn/vi-sao-lai-suat-cuoi-nam-du-bao-kho-giam-188260808165833206.chn",
+      "diem": 17.2,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Tịch thu số vàng thỏi trị giá 450 triệu đồng, 13 tỷ đồng tiền mặt rải la liệt trong nhà của một công chức ngành mỏ đang nhận 9 triệu tiền hối lộ",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-09 13:04",
+      "link": "https://cafef.vn/tich-thu-so-vang-thoi-tri-gia-450-trieu-dong-13-ty-dong-tien-mat-rai-la-liet-trong-nha-cua-mot-cong-chuc-nganh-mo-dang-nhan-9-trieu-tien-hoi-lo-188260809123220778.chn",
+      "diem": 16.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Tàu dầu UAE trúng tên lửa khi qua eo biển Hormuz",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-09 12:39",
+      "link": "https://cafef.vn/tau-dau-uae-trung-ten-lua-khi-qua-eo-bien-hormuz-188260809124102507.chn",
+      "diem": 15.7,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Lãi suất huy động leo thang, ngân hàng chịu sức ép kép",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-08 16:10",
+      "link": "https://cafef.vn/lai-suat-huy-dong-leo-thang-ngan-hang-chiu-suc-ep-kep-188260808161052601.chn",
+      "diem": 15.6,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Iran nêu yêu cầu cứng rắn mở lại eo biển Hormuz",
+      "chu_de": "Địa chính trị",
+      "nguon": "CafeF Tài chính quốc tế, VnExpress Thế giới",
+      "so_nguon": 2,
+      "thoi_gian": "2026-08-09 08:56",
+      "link": "https://cafef.vn/iran-neu-yeu-cau-cung-ran-mo-lai-eo-bien-hormuz-188260809082502257.chn",
+      "diem": 13.8,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Diện mạo đường nối cao tốc TP.HCM - Long Thành sau gần 8 tháng thi công",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-09 14:09",
+      "link": "https://cafef.vn/dien-mao-duong-noi-cao-toc-tphcm-long-thanh-sau-gan-8-thang-thi-cong-188260809133900268.chn",
+      "diem": 13.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Cán cân thương mại sắp đổi chiều?",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-09 14:13",
+      "link": "https://vietnambiz.vn/can-can-thuong-mai-sap-doi-chieu-202689101933772.htm",
+      "diem": 13.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Hà Nội xem xét gia hạn thủ tục 6 dự án lớn",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-09 14:13",
+      "link": "https://vietnambiz.vn/ha-noi-xem-xet-gia-han-thu-tuc-6-du-an-lon-20268814315960.htm",
+      "diem": 13.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Quốc hội: Công khai tiêu chí xác định dự án phục vụ APEC 2027 được áp dụng chính sách đặc thù",
+      "chu_de": "Chính sách",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-09 14:13",
+      "link": "https://vietnambiz.vn/quoc-hoi-cong-khai-tieu-chi-xac-dinh-du-an-phuc-vu-apec-2027-duoc-ap-dung-chinh-sach-dac-thu-202687204917130.htm",
+      "diem": 13.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Kiến nghị đưa người bán hàng online, lao động công trình đóng BHXH bắt buộc",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-09 14:13",
+      "link": "https://vietnambiz.vn/kien-nghi-dua-nguoi-ban-hang-online-lao-dong-cong-trinh-dong-bhxh-bat-buoc-20268719426187.htm",
+      "diem": 13.0,
       "khan_cap": false
     }
   ]
