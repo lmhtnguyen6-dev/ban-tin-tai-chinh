@@ -1,5 +1,5 @@
 {
-  "cap_nhat_luc": "2026-08-10 21:51:23",
+  "cap_nhat_luc": "2026-08-10 22:49:09",
   "so_tin": 30,
   "tin": [
     {
@@ -9,87 +9,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 20:00",
       "link": "https://cafef.vn/lai-suat-ngan-hang-10-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260810190348653.chn",
-      "diem": 52.4,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "NHNN quay đầu bơm ròng gần 25.000 tỷ tuần qua, lãi suất liên ngân hàng tăng trở lại",
-      "chu_de": "Chính sách",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-10 21:51",
-      "link": "https://vietnambiz.vn/nhnn-quay-dau-bom-rong-gan-25000-ty-tuan-qua-lai-suat-lien-ngan-hang-tang-tro-lai-202681073442320.htm",
-      "diem": 52.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "NHNN cần tăng nắm giữ bao nhiêu cổ phiếu CTG để sở hữu tối thiểu 65% VietinBank?",
-      "chu_de": "Chính sách",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-10 21:51",
-      "link": "https://vietnambiz.vn/nhnn-can-tang-nam-giu-bao-nhieu-co-phieu-ctg-de-so-huu-toi-thieu-65-vietinbank-202687153739946.htm",
-      "diem": 48.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "BIDV triển khai gói tín dụng ưu đãi 50.000 tỷ đồng cho khách hàng doanh nghiệp",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính, VietnamBiz Tài chính",
-      "so_nguon": 2,
-      "thoi_gian": "2026-08-10 21:51",
-      "link": "https://vietnambiz.vn/bidv-trien-khai-goi-tin-dung-uu-dai-50000-ty-dong-cho-khach-hang-doanh-nghiep-2026810161839642.htm",
-      "diem": 42.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Lãi suất huy động chưa bớt 'nóng', nhiều nơi xuất hiện ngưỡng trên 9%, vượt xa biểu niêm yết",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-10 21:51",
-      "link": "https://vietnambiz.vn/lai-suat-huy-dong-chua-bot-nong-nhieu-noi-xuat-hien-nguong-tren-9-vuot-xa-bieu-niem-yet-2026810122842906.htm",
-      "diem": 42.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "NHNN công bố điều kiện 'hưởng' lãi suất ưu đãi gói 220.000 tỷ đồng",
-      "chu_de": "Chính sách",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-10 21:51",
-      "link": "https://vietnambiz.vn/nhnn-cong-bo-dieu-kien-huong-lai-suat-uu-dai-goi-220000-ty-dong-202681016211983.htm",
-      "diem": 42.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "BIDV sắp phát hành gần 500 triệu cổ phiếu, tăng vốn lên gần 77.800 tỷ",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-10 21:51",
-      "link": "https://vietnambiz.vn/bidv-sap-phat-hanh-gan-500-trieu-co-phieu-tang-von-len-gan-77800-ty-20268715440300.htm",
-      "diem": 40.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "VPBank điều chỉnh giảm lãi suất trên biểu tại nhiều kỳ hạn trong tháng 8",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-10 21:51",
-      "link": "https://vietnambiz.vn/vpbank-bat-ngo-ha-lai-suat-o-tat-ca-ky-han-muc-giam-manh-nhat-len-den-24-202688212127839.htm",
-      "diem": 38.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "VietinBank đang trả lãi suất tiết kiệm cao nhất bao nhiêu trong tháng 8?",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-10 21:51",
-      "link": "https://vietnambiz.vn/vietinbank-dang-tra-lai-suat-tiet-kiem-cao-nhat-bao-nhieu-trong-thang-8-202685104135852.htm",
-      "diem": 38.0,
+      "diem": 51.6,
       "khan_cap": false
     },
     {
@@ -99,7 +19,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 16:51",
       "link": "https://cafef.vn/nhnn-ra-chi-dao-nong-toi-cac-ngan-hang-mot-nhom-khach-hang-sap-duoc-vay-von-voi-lai-suat-thap-hon-it-nhat-1-nam-18826081016533361.chn",
-      "diem": 37.8,
+      "diem": 37.0,
       "khan_cap": false
     },
     {
@@ -109,17 +29,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 10:30",
       "link": "https://cafef.vn/moi-anh-mat-do-don-vao-bao-cao-lam-phat-my-cong-bo-tuan-nay-fed-lieu-co-tang-lai-suat-188260810103058004.chn",
-      "diem": 36.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "TOP 10 ngân hàng có tỷ lệ nợ xấu thấp nhất 6 tháng đầu năm 2026: Vietcombank tiếp tục dẫn đầu, 3 nhà băng dưới 1%",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-10 21:51",
-      "link": "https://vietnambiz.vn/top-10-ngan-hang-co-ty-le-no-xau-thap-nhat-6-thang-dau-nam-2026-vietcombank-tiep-tuc-dan-dau-3-nha-bang-duoi-1-202681012328519.htm",
-      "diem": 36.0,
+      "diem": 35.5,
       "khan_cap": false
     },
     {
@@ -129,7 +39,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 10:11",
       "link": "https://cafef.vn/fed-co-dong-thai-la-lien-quan-den-lai-suat-giua-luc-lam-phat-vuot-muc-tieu-5-nam-lien-tiep-188260810101252225.chn",
-      "diem": 35.9,
+      "diem": 35.2,
       "khan_cap": false
     },
     {
@@ -139,46 +49,6 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 15:42",
       "link": "https://cafef.vn/pho-thong-doc-nhnn-yeu-cau-cac-ngan-hang-cong-bo-goi-tin-dung-uu-dai-cho-smes-va-linh-vuc-uu-tien-ngay-thang-8-2026-188260810154243172.chn",
-      "diem": 34.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Ngân hàng MB cộng thêm 2,2 điểm % cho khách hàng mới, đưa lãi suất cao nhất chạm 8%/năm",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-10 21:51",
-      "link": "https://vietnambiz.vn/ngan-hang-mb-cong-them-22-diem-cho-khach-hang-moi-dua-lai-suat-cao-nhat-cham-8nam-202681095758169.htm",
-      "diem": 34.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Lãi suất ngân hàng Kienlongbank mới nhất tháng 8",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-10 21:51",
-      "link": "https://vietnambiz.vn/lai-suat-ngan-hang-kienlongbank-moi-nhat-thang-8-202688195624282.htm",
-      "diem": 34.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "TOP 10 ngân hàng lãi lớn nhất từ kinh doanh ngoại hối nửa đầu năm 2026: Vietcombank quán quân, ACB dẫn đầu nhóm tư nhân",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-10 21:51",
-      "link": "https://vietnambiz.vn/top-10-ngan-hang-lai-lon-nhat-tu-kinh-doanh-ngoai-hoi-nua-dau-nam-2026-vietcombank-quan-quan-acb-dan-dau-nhom-tu-nhan-202671415548780.htm",
-      "diem": 34.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Gửi tiền tiết kiệm tại ngân hàng quốc doanh nào cho lãi suất cao nhất?",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-10 21:51",
-      "link": "https://vietnambiz.vn/gui-tien-tiet-kiem-tai-ngan-hang-quoc-doanh-nao-cho-lai-suat-cao-nhat-202687141927652.htm",
       "diem": 34.0,
       "khan_cap": false
     },
@@ -189,7 +59,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 16:37",
       "link": "https://vnexpress.net/vn-index-tien-gan-1-800-diem-5107489.html",
-      "diem": 33.6,
+      "diem": 32.8,
       "khan_cap": false
     },
     {
@@ -199,27 +69,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 20:36",
       "link": "https://cafef.vn/pho-thu-tuong-nguyen-van-thang-tiep-tuc-giam-chi-phi-von-phan-dau-giam-thuc-chat-lai-suat-cho-vay-188260810203706062.chn",
-      "diem": 33.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Nợ xấu ngành ngân hàng vượt 310.000 tỷ đồng sau nửa đầu năm 2026",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-10 21:51",
-      "link": "https://vietnambiz.vn/no-xau-nganh-ngan-hang-vuot-310000-ty-dong-sau-nua-dau-nam-2026-202687232656327.htm",
-      "diem": 32.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Đại biểu Quốc hội lo xung đột lợi ích khi ngân hàng quản lý tài sản đảm bảo trái phiếu",
-      "chu_de": "Chính sách",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-10 21:51",
-      "link": "https://vietnambiz.vn/dai-bieu-quoc-hoi-lo-xung-dot-loi-ich-khi-ngan-hang-quan-ly-tai-san-dam-bao-trai-phieu-202689142338980.htm",
-      "diem": 32.0,
+      "diem": 32.2,
       "khan_cap": false
     },
     {
@@ -229,17 +79,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 18:35",
       "link": "https://cafef.vn/mot-ngan-hang-lon-vua-dieu-chinh-lai-suat-tiet-kiem-co-ky-han-giam-toi-14-nam-188260810175504821.chn",
-      "diem": 31.2,
+      "diem": 30.4,
       "khan_cap": false
     },
     {
-      "tieu_de": "Top ngân hàng tăng trưởng cho vay mạnh nhất nửa đầu năm 2026",
+      "tieu_de": "BIDV triển khai gói tín dụng ưu đãi 50.000 tỷ đồng cho khách hàng doanh nghiệp",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
+      "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-10 21:51",
-      "link": "https://vietnambiz.vn/top-ngan-hang-tang-truong-cho-vay-manh-nhat-nua-dau-nam-2026-202687161325891.htm",
-      "diem": 30.0,
+      "thoi_gian": "2026-08-10 15:48",
+      "link": "https://cafef.vn/bidv-trien-khai-goi-tin-dung-uu-dai-50000-ty-dong-cho-khach-hang-doanh-nghiep-188260810144926033.chn",
+      "diem": 30.2,
       "khan_cap": false
     },
     {
@@ -249,7 +99,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 10:07",
       "link": "https://cafef.vn/nghi-quyet-10-mo-co-hoi-de-doanh-nghiep-viet-vao-chuoi-fdi-188260810094642522.chn",
-      "diem": 28.2,
+      "diem": 27.4,
       "khan_cap": false
     },
     {
@@ -259,7 +109,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 15:01",
       "link": "https://cafef.vn/nganh-hang-xuat-khau-86-ty-usd-cua-viet-nam-tro-thanh-hinh-mau-mot-quoc-gia-se-dua-80-doanh-nghiep-den-viet-nam-tim-loi-giai-cho-cau-chuyen-thanh-cong-188260810140209478.chn",
-      "diem": 26.4,
+      "diem": 25.4,
       "khan_cap": false
     },
     {
@@ -269,7 +119,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 16:10",
       "link": "https://cafef.vn/thue-ho-kinh-doanh-chi-vai-phan-tram-doanh-thu-vi-sao-van-nang-188260810152521632.chn",
-      "diem": 25.2,
+      "diem": 24.4,
       "khan_cap": false
     },
     {
@@ -279,7 +129,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 18:25",
       "link": "https://vnexpress.net/meme-coin-lot-mat-xanh-quy-nghin-ty-usd-5107443.html",
-      "diem": 25.2,
+      "diem": 24.4,
       "khan_cap": false
     },
     {
@@ -289,7 +139,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 04:00",
       "link": "https://vnexpress.net/don-vi-chu-quan-cua-hose-va-hnx-lai-dam-5107134.html",
-      "diem": 25.2,
+      "diem": 24.4,
       "khan_cap": false
     },
     {
@@ -299,7 +149,157 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 13:23",
       "link": "https://vnexpress.net/fdi-can-gi-de-tu-tin-rot-von-chat-luong-cao-vao-viet-nam-5105190.html",
-      "diem": 25.0,
+      "diem": 24.2,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "VPBank tăng tốc từ hoạt động cốt lõi",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-10 15:30",
+      "link": "https://cafef.vn/vpbank-tang-toc-tu-hoat-dong-cot-loi-188260810152719529.chn",
+      "diem": 24.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "TOP 1 tại 7 thị trường nước ngoài, Chủ tịch Viettel Tào Đức Thắng 'tiết lộ' loạt kinh nghiệm giúp tập đoàn mang về nước 400 triệu USD/năm",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-10 15:35",
+      "link": "https://cafef.vn/top-1-tai-7-thi-truong-nuoc-ngoai-chu-tich-viettel-tao-duc-thang-tiet-lo-loat-kinh-nghiem-giup-tap-doan-mang-ve-nuoc-400-trieu-usd-nam-188260810153554014.chn",
+      "diem": 22.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Thống đốc NHNN Phạm Đức Ấn: Áp dụng các tỷ lệ an toàn khác phục vụ phát triển kinh tế - xã hội không đồng nghĩa với việc hạ chuẩn an toàn hay nới lỏng rủi ro",
+      "chu_de": "Chính sách",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-10 08:12",
+      "link": "https://cafef.vn/thong-doc-nhnn-pham-duc-an-ap-dung-cac-ty-le-an-toan-khac-phuc-vu-phat-trien-kinh-te-xa-hoi-khong-dong-nghia-voi-viec-ha-chuan-an-toan-hay-noi-long-rui-ro-188260810071334948.chn",
+      "diem": 21.8,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Ngăn chặn việc sử dụng quan hệ tín dụng tạo sức ép lên khách hàng",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-10 07:17",
+      "link": "https://cafef.vn/ngan-chan-viec-su-dung-quan-he-tin-dung-tao-suc-ep-len-khach-hang-188260810071719585.chn",
+      "diem": 19.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Dragon Capital bàn về những cú hích đầu tư nửa cuối năm",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-10 08:00",
+      "link": "https://vnexpress.net/dragon-capital-ban-ve-nhung-cu-hich-dau-tu-nua-cuoi-nam-5107017.html",
+      "diem": 17.6,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Huyền thoại Warren Buffett bất ngờ mở két đi mua sắm, dồn 40% ngân sách quý 2 mua 1 cổ phiếu khi giá giảm 12,6%",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-10 14:45",
+      "link": "https://cafef.vn/huyen-thoai-warren-buffett-bat-ngo-mo-ket-di-mua-sam-don-40-ngan-sach-quy-2-mua-1-co-phieu-khi-gia-giam-126-188260810140221602.chn",
+      "diem": 16.1,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Xuất hiện cơ sở nằm ở khu vực rộng 80 ha của Trung Quốc đang âm thầm thay đổi ngành năng lượng toàn cầu",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-10 21:00",
+      "link": "https://cafef.vn/xuat-hien-co-so-nam-o-khu-vuc-rong-80-ha-cua-trung-quoc-dang-am-tham-thay-doi-nganh-nang-luong-toan-cau-188260810191627367.chn",
+      "diem": 14.5,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Loại dầu ăn bác sĩ ung thư Mỹ cực kỳ ưu ái",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-10 18:34",
+      "link": "https://cafef.vn/loai-dau-an-bac-si-ung-thu-my-cuc-ky-uu-ai-188260810143440529.chn",
+      "diem": 14.5,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Thế khó với ông Trump trước điều kiện mở cửa Hormuz của Iran",
+      "chu_de": "Địa chính trị",
+      "nguon": "VnExpress Thế giới",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-10 19:00",
+      "link": "https://vnexpress.net/the-kho-voi-ong-trump-truoc-dieu-kien-mo-cua-hormuz-cua-iran-5107194.html",
+      "diem": 13.4,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Ukraine tập kích cơ sở lọc dầu Nga, 13 người chết",
+      "chu_de": "Địa chính trị",
+      "nguon": "VnExpress Thế giới",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-10 18:45",
+      "link": "https://vnexpress.net/ukraine-tap-kich-co-so-loc-dau-nga-13-nguoi-chet-5107556.html",
+      "diem": 13.3,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Động đất rung chuyển Colombia, ít nhất 18 người chết",
+      "chu_de": "Thế giới",
+      "nguon": "VnExpress Thế giới",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-10 22:29",
+      "link": "https://vnexpress.net/dong-dat-rung-chuyen-colombia-it-nhat-18-nguoi-chet-5107602.html",
+      "diem": 12.9,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Tịch thu 51 kg vàng trị giá 185 tỷ đồng và 1.300 tỷ tiền mặt tại nhà riêng 1 người lương 29 triệu đồng/tháng ở Indonesia",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-10 14:36",
+      "link": "https://cafef.vn/tich-thu-51-kg-vang-tri-gia-185-ty-dong-va-1300-ty-tien-mat-tai-nha-rieng-1-nguoi-luong-29-trieu-dong-thang-18826081014331496.chn",
+      "diem": 12.8,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Sầu riêng 'tắc' mã vùng trồng, chủ tịch tỉnh thành phải chịu trách nhiệm",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-10 22:09",
+      "link": "https://cafef.vn/sau-rieng-tac-ma-vung-trong-chu-tich-tinh-thanh-phai-chiu-trach-nhiem-188260810213528599.chn",
+      "diem": 12.7,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Sau 30 năm, thi thể \"Giày xanh\" đóng băng trên đỉnh Everest sắp được đưa về nhà",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-10 22:05",
+      "link": "https://cafef.vn/sau-30-nam-thi-the-giay-xanh-dong-bang-tren-dinh-everest-sap-duoc-dua-ve-nha-188260810155720631.chn",
+      "diem": 12.7,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Lạm phát Trung Quốc hạ nhiệt trong tháng 7",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-10 07:12",
+      "link": "https://cafef.vn/lam-phat-trung-quoc-ha-nhiet-trong-thang-7-188260810065134524.chn",
+      "diem": 12.7,
       "khan_cap": false
     }
   ]
