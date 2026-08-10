@@ -1,5 +1,5 @@
 {
-  "cap_nhat_luc": "2026-08-10 13:06:33",
+  "cap_nhat_luc": "2026-08-10 15:01:50",
   "so_tin": 30,
   "tin": [
     {
@@ -9,7 +9,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 10:30",
       "link": "https://cafef.vn/moi-anh-mat-do-don-vao-bao-cao-lam-phat-my-cong-bo-tuan-nay-fed-lieu-co-tang-lai-suat-188260810103058004.chn",
-      "diem": 42.3,
+      "diem": 41.0,
       "khan_cap": false
     },
     {
@@ -19,17 +19,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 10:11",
       "link": "https://cafef.vn/fed-co-dong-thai-la-lien-quan-den-lai-suat-giua-luc-lam-phat-vuot-muc-tieu-5-nam-lien-tiep-188260810101252225.chn",
-      "diem": 42.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Thủ tướng: NHNN xử lý nghiêm hành vi cạnh tranh lãi suất không lành mạnh",
-      "chu_de": "Chính sách",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-10 13:06",
-      "link": "https://vietnambiz.vn/thu-tuong-nhnn-xu-ly-nghiem-hanh-vi-canh-tranh-lai-suat-khong-lanh-manh-20268320515976.htm",
-      "diem": 42.0,
+      "diem": 40.8,
       "khan_cap": false
     },
     {
@@ -39,27 +29,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-09 21:04",
       "link": "https://cafef.vn/lai-suat-ngan-hang-9-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260809210538324.chn",
-      "diem": 40.6,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Chuyên gia HSBC: Nghị quyết 10 đã nhìn thẳng vào thách thức, Việt Nam có cơ hội lớn hút FDI nhưng không kéo dài mãi",
-      "chu_de": "Chính sách",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-10 13:06",
-      "link": "https://vietnambiz.vn/chuyen-gia-hsbc-nghi-quyet-10-da-nhin-thang-vao-thach-thuc-viet-nam-co-co-hoi-lon-hut-fdi-nhung-khong-keo-dai-mai-202684105047888.htm",
-      "diem": 38.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Giải ngân đầu tư công quý III: Khi các siêu dự án áp sát 'vạch đích'",
-      "chu_de": "Chính sách",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-10 13:06",
-      "link": "https://vietnambiz.vn/giai-ngan-dau-tu-cong-quy-iii-khi-cac-sieu-du-an-ap-sat-vach-dich-2026861530798.htm",
-      "diem": 36.0,
+      "diem": 39.0,
       "khan_cap": false
     },
     {
@@ -69,46 +39,6 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 10:07",
       "link": "https://cafef.vn/nghi-quyet-10-mo-co-hoi-de-doanh-nghiep-viet-vao-chuoi-fdi-188260810094642522.chn",
-      "diem": 35.6,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Hà Nội dự kiến sáp nhập, tổ chức lại 5 sở ngành",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-10 13:06",
-      "link": "https://vietnambiz.vn/ha-noi-du-kien-sap-nhap-to-chuc-lai-5-so-nganh-202689145715441.htm",
-      "diem": 34.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "[Infographic] Bức tranh kinh tế 7 tháng đầu năm: FDI đăng ký mới đạt trên 38 tỷ USD, tăng 58%, NSNN bội thu 470.000 tỷ đồng",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-10 13:06",
-      "link": "https://vietnambiz.vn/infographic-buc-tranh-kinh-te-7-thang-dau-nam-fdi-dang-ky-moi-dat-tren-38-ty-usd-tang-58-nsnn-boi-thu-470000-ty-dong-202683211254365.htm",
-      "diem": 34.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Bộ trưởng Bộ Tài chính: Điều hành lạm phát đối mặt áp lực kép cuối năm",
-      "chu_de": "Chính sách",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-10 13:06",
-      "link": "https://vietnambiz.vn/bo-truong-bo-tai-chinh-dieu-hanh-lam-phat-doi-mat-ap-luc-kep-cuoi-nam-20268316324798.htm",
-      "diem": 34.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Lạm phát tháng 7 chậm lại, CPI 7 tháng đầu năm tăng 4,39%",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-10 13:06",
-      "link": "https://vietnambiz.vn/lam-phat-thang-7-cham-lai-cpi-7-thang-dau-nam-tang-439-202683104833510.htm",
       "diem": 34.0,
       "khan_cap": false
     },
@@ -119,7 +49,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 04:00",
       "link": "https://vnexpress.net/don-vi-chu-quan-cua-hose-va-hnx-lai-dam-5107134.html",
-      "diem": 32.4,
+      "diem": 30.8,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "FDI cần gì để tự tin rót vốn chất lượng cao vào Việt Nam?",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-10 13:23",
+      "link": "https://vnexpress.net/fdi-can-gi-de-tu-tin-rot-von-chat-luong-cao-vao-viet-nam-5105190.html",
+      "diem": 30.6,
       "khan_cap": false
     },
     {
@@ -129,27 +69,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 08:12",
       "link": "https://cafef.vn/thong-doc-nhnn-pham-duc-an-ap-dung-cac-ty-le-an-toan-khac-phuc-vu-phat-trien-kinh-te-xa-hoi-khong-dong-nghia-voi-viec-ha-chuan-an-toan-hay-noi-long-rui-ro-188260810071334948.chn",
-      "diem": 30.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "SSI Research chỉ ra hai yếu tố quyết định động lực tăng trưởng nửa cuối năm",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-10 13:06",
-      "link": "https://vietnambiz.vn/ssi-research-chi-ra-hai-yeu-to-quyet-dinh-dong-luc-tang-truong-nua-cuoi-nam-202689155728326.htm",
-      "diem": 30.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "'Cần phân định rủi ro của hoạt động dầu khí với quyết định đầu tư sai'",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-10 13:06",
-      "link": "https://vietnambiz.vn/can-phan-dinh-rui-ro-cua-hoat-dong-dau-khi-voi-quyet-dinh-dau-tu-sai-2026881939531.htm",
-      "diem": 30.0,
+      "diem": 28.4,
       "khan_cap": false
     },
     {
@@ -159,7 +79,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 07:17",
       "link": "https://cafef.vn/ngan-chan-viec-su-dung-quan-he-tin-dung-tao-suc-ep-len-khach-hang-188260810071719585.chn",
-      "diem": 27.2,
+      "diem": 25.6,
       "khan_cap": false
     },
     {
@@ -169,7 +89,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 08:00",
       "link": "https://vnexpress.net/dragon-capital-ban-ve-nhung-cu-hich-dau-tu-nua-cuoi-nam-5107017.html",
-      "diem": 25.8,
+      "diem": 24.2,
       "khan_cap": false
     },
     {
@@ -179,7 +99,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-09 17:00",
       "link": "https://cafef.vn/fed-kho-tang-lai-suat-vao-thang-9-188260809170119448.chn",
-      "diem": 23.1,
+      "diem": 21.8,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Huyền thoại Warren Buffett bất ngờ mở két đi mua sắm, dồn 40% ngân sách quý 2 mua 1 cổ phiếu khi giá giảm 12,6%",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-10 14:45",
+      "link": "https://cafef.vn/huyen-thoai-warren-buffett-bat-ngo-mo-ket-di-mua-sam-don-40-ngan-sach-quy-2-mua-1-co-phieu-khi-gia-giam-126-188260810140221602.chn",
+      "diem": 19.7,
       "khan_cap": false
     },
     {
@@ -189,7 +119,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-09 16:46",
       "link": "https://cafef.vn/lai-suat-ngan-hang-hdbank-moi-nhat-thang-8-2026-gui-ky-han-nao-co-lai-suat-cao-nhat-188260809164823076.chn",
-      "diem": 21.0,
+      "diem": 19.4,
       "khan_cap": false
     },
     {
@@ -199,7 +129,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-09 18:39",
       "link": "https://cafef.vn/ngan-hang-quan-doi-mb-huy-dong-lai-suat-len-toi-8-cho-so-tien-gui-tu-1-trieu-dong-188260809184201308.chn",
-      "diem": 18.6,
+      "diem": 17.0,
       "khan_cap": false
     },
     {
@@ -209,7 +139,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-09 22:40",
       "link": "https://cafef.vn/doanh-nghiep-vang-noi-gi-khi-bi-thanh-tra-chinh-phu-chi-ro-sai-pham-188260809213946379.chn",
-      "diem": 18.0,
+      "diem": 16.4,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Tịch thu 51 kg vàng trị giá 185 tỷ đồng và 1.300 tỷ tiền mặt tại nhà riêng 1 người lương 29 triệu đồng/tháng",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-10 14:36",
+      "link": "https://cafef.vn/tich-thu-51-kg-vang-tri-gia-185-ty-dong-va-1300-ty-tien-mat-tai-nha-rieng-1-nguoi-luong-29-trieu-dong-thang-18826081014331496.chn",
+      "diem": 16.3,
       "khan_cap": false
     },
     {
@@ -219,17 +159,37 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 07:12",
       "link": "https://cafef.vn/lam-phat-trung-quoc-ha-nhiet-trong-thang-7-188260810065134524.chn",
-      "diem": 17.1,
+      "diem": 16.2,
       "khan_cap": false
     },
     {
-      "tieu_de": "Hà Nội xem xét gia hạn thủ tục 6 dự án lớn",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Vĩ mô, VietnamBiz Vĩ mô",
-      "so_nguon": 2,
-      "thoi_gian": "2026-08-10 13:06",
-      "link": "https://vietnambiz.vn/ha-noi-xem-xet-gia-han-thu-tuc-6-du-an-lon-20268814315960.htm",
-      "diem": 16.0,
+      "tieu_de": "Đồng USD dao động quanh mức đáy 2 tháng",
+      "chu_de": "Thế giới",
+      "nguon": "Vietstock Thế giới",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-10 14:05",
+      "link": "http://vietstock.vn/2026/08/dong-usd-dao-dong-quanh-muc-day-2-thang-772-1478605.htm",
+      "diem": 15.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Sau ca phẫu thuật ở Trung Quốc, Quốc vương Campuchia lần đầu chủ trì một sự kiện công khai: Ông nói gì?",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-10 13:39",
+      "link": "https://cafef.vn/sau-ca-phau-thuat-o-trung-quoc-quoc-vuong-campuchia-lan-dau-chu-tri-mot-su-kien-cong-khai-ong-noi-gi-18826081012202721.chn",
+      "diem": 14.7,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Trung Quốc tung ‘vũ khí pháp lý’, âm thầm thách thức quyền lực toàn cầu của Mỹ",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-10 13:08",
+      "link": "https://cafef.vn/trung-quoc-tung-vu-khi-phap-ly-am-tham-thach-thuc-quyen-luc-toan-cau-cua-my-188260810130917923.chn",
+      "diem": 14.5,
       "khan_cap": false
     },
     {
@@ -239,7 +199,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 11:43",
       "link": "https://vnexpress.net/ly-do-chiec-banh-gia-20-usd-day-maga-vao-noi-chien-5107174.html",
-      "diem": 14.7,
+      "diem": 13.9,
       "khan_cap": false
     },
     {
@@ -249,7 +209,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 11:13",
       "link": "https://cafef.vn/phap-bi-loai-trung-quoc-lap-tuc-de-mat-toi-du-an-metro-ngam-dai-nhat-tai-mot-quoc-gia-dong-nam-a-188260810111336827.chn",
-      "diem": 14.5,
+      "diem": 13.6,
       "khan_cap": false
     },
     {
@@ -259,7 +219,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 10:59",
       "link": "https://vnexpress.net/rac-roi-khi-theo-trend-om-bi-dao-giai-nhiet-o-trung-quoc-5107214.html",
-      "diem": 14.4,
+      "diem": 13.5,
       "khan_cap": false
     },
     {
@@ -269,7 +229,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 10:48",
       "link": "https://cafef.vn/phat-hien-tau-trung-quoc-dai-122-met-nang-gan-14000-tan-di-chuyen-lien-tuc-ve-phia-bac-thuc-hien-nhiem-vu-quan-trong-toan-cau-188260810103233525.chn",
-      "diem": 14.3,
+      "diem": 13.4,
       "khan_cap": false
     },
     {
@@ -279,7 +239,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 11:18",
       "link": "https://vnexpress.net/ong-trump-my-dang-giu-thai-do-chung-muc-voi-iran-5107193.html",
-      "diem": 14.2,
+      "diem": 13.4,
       "khan_cap": false
     },
     {
@@ -289,7 +249,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 07:38",
       "link": "https://cafef.vn/khan-hiem-nuoc-nut-that-moi-cua-tang-truong-kinh-te-188260810065705357.chn",
-      "diem": 14.0,
+      "diem": 13.1,
       "khan_cap": false
     },
     {
@@ -299,7 +259,47 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 09:27",
       "link": "https://cafef.vn/nganh-duong-sat-huong-toi-muc-tieu-1500-container-van-tai-lien-van-trung-quoc-188260810092800132.chn",
-      "diem": 13.8,
+      "diem": 12.9,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Hà Nội công bố 40 quyết định nhân sự lãnh đạo các sở, ngành và xã, phường",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-10 14:38",
+      "link": "https://cafef.vn/ha-noi-cong-bo-40-quyet-dinh-nhan-su-lanh-dao-cac-so-nganh-va-xa-phuong-188260810143640578.chn",
+      "diem": 12.8,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Camera trên xuồng robot Anh 'lén truyền dữ liệu ra nước ngoài'",
+      "chu_de": "Thế giới",
+      "nguon": "VnExpress Thế giới",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-10 14:28",
+      "link": "https://vnexpress.net/camera-tren-xuong-robot-anh-len-truyen-du-lieu-ra-nuoc-ngoai-5107309.html",
+      "diem": 12.8,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Nga lắp xong \"hệ thống an toàn vĩnh cửu\" dành riêng cho lò hạt nhân thế hệ III+ tại Thổ Nhĩ Kỳ",
+      "chu_de": "Địa chính trị",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-10 14:25",
+      "link": "https://cafef.vn/nga-lap-xong-he-thong-an-toan-vinh-cuu-danh-rieng-cho-lo-hat-nhan-the-he-iii-tai-tho-nhi-ky-188260810140054117.chn",
+      "diem": 12.7,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Tổng Bí thư, Chủ tịch nước: Khoa học công nghệ là trụ cột mới trong quan hệ Việt Nam - Australia",
+      "chu_de": "Thế giới",
+      "nguon": "VnExpress Thế giới",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-10 14:20",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-khoa-hoc-cong-nghe-la-tru-cot-moi-trong-quan-he-viet-nam-australia-5107336.html",
+      "diem": 12.7,
       "khan_cap": false
     }
   ]
