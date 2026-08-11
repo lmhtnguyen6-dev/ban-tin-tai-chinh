@@ -1,5 +1,5 @@
 {
-  "cap_nhat_luc": "2026-08-12 01:32:10",
+  "cap_nhat_luc": "2026-08-12 02:43:14",
   "so_tin": 30,
   "tin": [
     {
@@ -9,7 +9,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-11 20:39",
       "link": "https://cafef.vn/lai-suat-ngan-hang-11-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-18826081120405852.chn",
-      "diem": 50.0,
+      "diem": 49.0,
       "khan_cap": false
     },
     {
@@ -17,7 +17,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-12 01:32",
+      "thoi_gian": "2026-08-12 02:43",
       "link": "https://vietnambiz.vn/thu-tuong-nhnn-xu-ly-nghiem-hanh-vi-canh-tranh-lai-suat-khong-lanh-manh-20268320515976.htm",
       "diem": 42.0,
       "khan_cap": false
@@ -27,7 +27,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-12 01:32",
+      "thoi_gian": "2026-08-12 02:43",
       "link": "https://vietnambiz.vn/chuyen-gia-hsbc-nghi-quyet-10-da-nhin-thang-vao-thach-thuc-viet-nam-co-co-hoi-lon-hut-fdi-nhung-khong-keo-dai-mai-202684105047888.htm",
       "diem": 38.0,
       "khan_cap": false
@@ -37,7 +37,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-12 01:32",
+      "thoi_gian": "2026-08-12 02:43",
       "link": "https://vietnambiz.vn/giai-ngan-dau-tu-cong-quy-iii-khi-cac-sieu-du-an-ap-sat-vach-dich-2026861530798.htm",
       "diem": 36.0,
       "khan_cap": false
@@ -47,7 +47,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-12 01:32",
+      "thoi_gian": "2026-08-12 02:43",
       "link": "https://vietnambiz.vn/pho-thu-tuong-yeu-cau-ngan-hang-giam-lai-suat-cho-vay-thuc-chat-thao-go-van-de-tiep-can-von-20268117427459.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -57,7 +57,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-12 01:32",
+      "thoi_gian": "2026-08-12 02:43",
       "link": "https://vietnambiz.vn/ha-noi-sap-nhap-so-quy-hoach-kien-truc-voi-xay-dung-du-lich-voi-van-hoa-the-thao-2026810101013405.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -67,7 +67,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-12 01:32",
+      "thoi_gian": "2026-08-12 02:43",
       "link": "https://vietnambiz.vn/ha-noi-du-kien-sap-nhap-to-chuc-lai-5-so-nganh-202689145715441.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -77,7 +77,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-12 01:32",
+      "thoi_gian": "2026-08-12 02:43",
       "link": "https://vietnambiz.vn/infographic-buc-tranh-kinh-te-7-thang-dau-nam-fdi-dang-ky-moi-dat-tren-38-ty-usd-tang-58-nsnn-boi-thu-470000-ty-dong-202683211254365.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -87,7 +87,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-12 01:32",
+      "thoi_gian": "2026-08-12 02:43",
       "link": "https://vietnambiz.vn/fdi-can-gi-de-tu-tin-rot-von-chat-luong-cao-vao-viet-nam-2026810201023146.htm",
       "diem": 32.0,
       "khan_cap": false
@@ -99,17 +99,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-11 22:39",
       "link": "https://cafef.vn/lai-suat-cho-vay-gay-chu-y-188260811220855615.chn",
-      "diem": 31.6,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Lãi suất ngân hàng Sacombank tháng 8/2026: Mức lãi suất cao nhất là bao nhiêu?",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-11 15:59",
-      "link": "https://cafef.vn/lai-suat-ngan-hang-sacombank-thang-8-2026-muc-lai-suat-cao-nhat-la-bao-nhieu-188260811155952654.chn",
-      "diem": 30.0,
+      "diem": 30.6,
       "khan_cap": false
     },
     {
@@ -117,7 +107,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-12 01:32",
+      "thoi_gian": "2026-08-12 02:43",
       "link": "https://vietnambiz.vn/ssi-research-chi-ra-hai-yeu-to-quyet-dinh-dong-luc-tang-truong-nua-cuoi-nam-202689155728326.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -127,9 +117,19 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-12 01:32",
+      "thoi_gian": "2026-08-12 02:43",
       "link": "https://vietnambiz.vn/can-phan-dinh-rui-ro-cua-hoat-dong-dau-khi-voi-quyet-dinh-dau-tu-sai-2026881939531.htm",
       "diem": 30.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Lãi suất ngân hàng Sacombank tháng 8/2026: Mức lãi suất cao nhất là bao nhiêu?",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-11 15:59",
+      "link": "https://cafef.vn/lai-suat-ngan-hang-sacombank-thang-8-2026-muc-lai-suat-cao-nhat-la-bao-nhieu-188260811155952654.chn",
+      "diem": 29.0,
       "khan_cap": false
     },
     {
@@ -139,17 +139,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-11 16:27",
       "link": "https://vnexpress.net/khoi-ngoai-lien-tuc-ban-rong-5107948.html",
-      "diem": 28.4,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Một ngân hàng chuẩn bị chia cổ phiếu thưởng tỷ lệ 9,5%",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-11 14:49",
-      "link": "https://cafef.vn/mot-ngan-hang-chuan-bi-chia-co-phieu-thuong-ty-le-95-188260811144917992.chn",
-      "diem": 27.0,
+      "diem": 27.4,
       "khan_cap": false
     },
     {
@@ -159,7 +149,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-11 10:48",
       "link": "https://cafef.vn/quan-chuc-fed-canh-bao-co-the-phai-tang-lai-suat-nhieu-lan-188260811104853482.chn",
-      "diem": 27.0,
+      "diem": 26.2,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Một ngân hàng chuẩn bị chia cổ phiếu thưởng tỷ lệ 9,5%",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-11 14:49",
+      "link": "https://cafef.vn/mot-ngan-hang-chuan-bi-chia-co-phieu-thuong-ty-le-95-188260811144917992.chn",
+      "diem": 26.0,
       "khan_cap": false
     },
     {
@@ -169,7 +169,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-11 14:35",
       "link": "https://cafef.vn/quang-ninh-giai-ngan-von-dau-tu-cong-dat-10333-ty-dong-188260811142523513.chn",
-      "diem": 26.8,
+      "diem": 25.8,
       "khan_cap": false
     },
     {
@@ -179,7 +179,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-11 15:40",
       "link": "https://cafef.vn/loi-ich-sau-khi-ha-noi-sap-nhap-cac-so-nganh-quan-trong-188260811144800256.chn",
-      "diem": 25.8,
+      "diem": 24.8,
       "khan_cap": false
     },
     {
@@ -189,7 +189,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-11 22:05",
       "link": "https://cafef.vn/vi-sao-gia-usd-lao-doc-18826081122053477.chn",
-      "diem": 25.2,
+      "diem": 24.2,
       "khan_cap": false
     },
     {
@@ -199,17 +199,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-11 11:30",
       "link": "https://cafef.vn/agribank-trien-khai-chuong-trinh-tin-dung-uu-dai-70000-ty-dong-huong-den-cac-dong-luc-tang-truong-kinh-te-va-doanh-nghiep-sme-188260811101117057.chn",
-      "diem": 24.4,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Lãi cổ phiếu gần 50%, có nên dùng margin kiếm thêm?",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-11 02:39",
-      "link": "https://vnexpress.net/lai-co-phieu-gan-50-co-nen-dung-margin-kiem-them-5107408.html",
-      "diem": 23.0,
+      "diem": 23.4,
       "khan_cap": false
     },
     {
@@ -219,7 +209,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-11 12:10",
       "link": "https://cafef.vn/ngay-mai-thu-tuong-se-lam-viec-voi-ngan-hang-nha-nuoc-va-cac-ngan-hang-188260811115112542.chn",
-      "diem": 22.8,
+      "diem": 21.8,
       "khan_cap": false
     },
     {
@@ -229,7 +219,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-11 11:03",
       "link": "https://cafef.vn/pho-vu-truong-vu-thanh-toan-nhnn-khach-hang-hoan-toan-co-the-tu-dieu-chinh-han-muc-hoac-khong-dang-ky-co-che-thoi-gian-cho-khi-chuyen-tien-18826081111033062.chn",
-      "diem": 22.0,
+      "diem": 21.0,
       "khan_cap": false
     },
     {
@@ -239,7 +229,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-11 09:48",
       "link": "https://cafef.vn/mot-ngan-hang-cong-bo-giam-05-lai-suat-cho-vay-voi-moi-khac-hang-ap-dung-tu-hom-nay-11-8-188260811084829172.chn",
-      "diem": 20.8,
+      "diem": 19.8,
       "khan_cap": false
     },
     {
@@ -249,7 +239,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-11 14:29",
       "link": "https://vnexpress.net/tether-bat-day-14-tan-vang-trong-quy-ii-5107861.html",
-      "diem": 20.8,
+      "diem": 19.8,
       "khan_cap": false
     },
     {
@@ -259,7 +249,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-11 15:24",
       "link": "https://vnexpress.net/gia-usd-tu-do-xuong-duoi-26-000-dong-5107903.html",
-      "diem": 19.6,
+      "diem": 18.6,
       "khan_cap": false
     },
     {
@@ -269,7 +259,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-11 14:11",
       "link": "https://cafef.vn/vi-sao-viet-nam-quyet-tam-xay-bang-duoc-trai-tim-cua-kho-bau-gan-7-ty-usd-188260811141158203.chn",
-      "diem": 18.6,
+      "diem": 17.6,
       "khan_cap": false
     },
     {
@@ -279,7 +269,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-11 06:46",
       "link": "https://cafef.vn/gan-39-trieu-the-tin-dung-bi-danh-cap-thong-tin-188260810162447443.chn",
-      "diem": 16.4,
+      "diem": 15.4,
       "khan_cap": false
     },
     {
@@ -289,7 +279,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-11 06:41",
       "link": "https://cafef.vn/kiem-toan-viec-su-dung-tai-chinh-von-dau-tu-cong-tai-bo-nong-nghiep-va-moi-truong-va-kiem-toan-tai-cuc-thue-188260811064150486.chn",
-      "diem": 16.2,
+      "diem": 15.4,
       "khan_cap": false
     },
     {
@@ -299,7 +289,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-11 17:30",
       "link": "https://cafef.vn/lieu-thue-quan-moi-cua-my-co-ngan-can-an-do-mua-dau-nga-188260811152614199.chn",
-      "diem": 14.7,
+      "diem": 14.2,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Kazakhstan định tuyến lại xuất khẩu dầu sau các cuộc tấn công của Ukraine",
+      "chu_de": "Địa chính trị",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-11 18:30",
+      "link": "https://cafef.vn/kazakhstan-dinh-tuyen-lai-xuat-khau-dau-sau-cac-cuoc-tan-cong-cua-ukraine-188260811181515998.chn",
+      "diem": 13.6,
       "khan_cap": false
     }
   ]
