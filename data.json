@@ -1,5 +1,5 @@
 {
-  "cap_nhat_luc": "2026-08-11 11:18:14",
+  "cap_nhat_luc": "2026-08-11 12:32:46",
   "so_tin": 30,
   "tin": [
     {
@@ -9,7 +9,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 20:00",
       "link": "https://cafef.vn/lai-suat-ngan-hang-10-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260810190348653.chn",
-      "diem": 41.2,
+      "diem": 40.2,
       "khan_cap": false
     },
     {
@@ -19,7 +19,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-11 10:48",
       "link": "https://cafef.vn/quan-chuc-fed-canh-bao-co-the-phai-tang-lai-suat-nhieu-lan-188260811104853482.chn",
-      "diem": 37.1,
+      "diem": 36.2,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Agribank triển khai chương trình tín dụng ưu đãi 70.000 tỷ đồng hướng đến các động lực tăng trưởng kinh tế và doanh nghiệp SME",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-11 11:30",
+      "link": "https://cafef.vn/agribank-trien-khai-chuong-trinh-tin-dung-uu-dai-70000-ty-dong-huong-den-cac-dong-luc-tang-truong-kinh-te-va-doanh-nghiep-sme-188260811101117057.chn",
+      "diem": 35.2,
       "khan_cap": false
     },
     {
@@ -29,7 +39,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-11 02:39",
       "link": "https://vnexpress.net/lai-co-phieu-gan-50-co-nen-dung-margin-kiem-them-5107408.html",
-      "diem": 34.8,
+      "diem": 33.8,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Ngày mai, Thủ tướng sẽ làm việc với Ngân hàng Nhà nước và các ngân hàng",
+      "chu_de": "Chính sách",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-11 12:10",
+      "link": "https://cafef.vn/ngay-mai-thu-tuong-se-lam-viec-voi-ngan-hang-nha-nuoc-va-cac-ngan-hang-188260811115112542.chn",
+      "diem": 33.6,
       "khan_cap": false
     },
     {
@@ -39,7 +59,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-11 11:03",
       "link": "https://cafef.vn/pho-vu-truong-vu-thanh-toan-nhnn-khach-hang-hoan-toan-co-the-tu-dieu-chinh-han-muc-hoac-khong-dang-ky-co-che-thoi-gian-cho-khi-chuyen-tien-18826081111033062.chn",
-      "diem": 33.8,
+      "diem": 32.8,
       "khan_cap": false
     },
     {
@@ -49,7 +69,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-11 09:48",
       "link": "https://cafef.vn/mot-ngan-hang-cong-bo-giam-05-lai-suat-cho-vay-voi-moi-khac-hang-ap-dung-tu-hom-nay-11-8-188260811084829172.chn",
-      "diem": 32.8,
+      "diem": 31.8,
       "khan_cap": false
     },
     {
@@ -59,7 +79,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-11 06:46",
       "link": "https://cafef.vn/gan-39-trieu-the-tin-dung-bi-danh-cap-thong-tin-188260810162447443.chn",
-      "diem": 28.2,
+      "diem": 27.2,
       "khan_cap": false
     },
     {
@@ -69,7 +89,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-11 06:41",
       "link": "https://cafef.vn/kiem-toan-viec-su-dung-tai-chinh-von-dau-tu-cong-tai-bo-nong-nghiep-va-moi-truong-va-kiem-toan-tai-cuc-thue-188260811064150486.chn",
-      "diem": 28.2,
+      "diem": 27.2,
       "khan_cap": false
     },
     {
@@ -79,7 +99,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 16:51",
       "link": "https://cafef.vn/nhnn-ra-chi-dao-nong-toi-cac-ngan-hang-mot-nhom-khach-hang-sap-duoc-vay-von-voi-lai-suat-thap-hon-it-nhat-1-nam-18826081016533361.chn",
-      "diem": 26.6,
+      "diem": 25.6,
       "khan_cap": false
     },
     {
@@ -89,7 +109,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-11 09:03",
       "link": "https://cafef.vn/trien-khai-chien-dich-30-ngay-dem-gan-so-nha-cho-vuon-trong-go-nut-that-cho-mat-hang-4-ty-usd-188260811090327718.chn",
-      "diem": 26.2,
+      "diem": 25.0,
       "khan_cap": false
     },
     {
@@ -99,7 +119,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 15:42",
       "link": "https://cafef.vn/pho-thong-doc-nhnn-yeu-cau-cac-ngan-hang-cong-bo-goi-tin-dung-uu-dai-cho-smes-va-linh-vuc-uu-tien-ngay-thang-8-2026-188260810154243172.chn",
-      "diem": 23.6,
+      "diem": 22.6,
       "khan_cap": false
     },
     {
@@ -109,7 +129,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 16:37",
       "link": "https://vnexpress.net/vn-index-tien-gan-1-800-diem-5107489.html",
-      "diem": 22.4,
+      "diem": 21.4,
       "khan_cap": false
     },
     {
@@ -119,7 +139,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 20:36",
       "link": "https://cafef.vn/pho-thu-tuong-nguyen-van-thang-tiep-tuc-giam-chi-phi-von-phan-dau-giam-thuc-chat-lai-suat-cho-vay-188260810203706062.chn",
-      "diem": 21.8,
+      "diem": 20.8,
       "khan_cap": false
     },
     {
@@ -129,7 +149,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 18:35",
       "link": "https://cafef.vn/mot-ngan-hang-lon-vua-dieu-chinh-lai-suat-tiet-kiem-co-ky-han-giam-toi-14-nam-188260810175504821.chn",
-      "diem": 20.0,
+      "diem": 19.0,
       "khan_cap": false
     },
     {
@@ -139,7 +159,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 15:48",
       "link": "https://cafef.vn/bidv-trien-khai-goi-tin-dung-uu-dai-50000-ty-dong-cho-khach-hang-doanh-nghiep-188260810144926033.chn",
-      "diem": 19.8,
+      "diem": 18.8,
       "khan_cap": false
     },
     {
@@ -149,7 +169,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-11 09:56",
       "link": "https://vnexpress.net/con-sot-co-phieu-ai-khien-nha-dau-tu-nho-le-tat-tay-5106453.html",
-      "diem": 19.1,
+      "diem": 18.6,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Trung Quốc chi gần 1 tỷ USD mua sầu riêng Việt Nam",
+      "chu_de": "Thế giới",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-11 11:26",
+      "link": "https://vnexpress.net/trung-quoc-chi-gan-1-ty-usd-mua-sau-rieng-viet-nam-5107766.html",
+      "diem": 16.0,
       "khan_cap": false
     },
     {
@@ -159,17 +189,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-11 07:57",
       "link": "http://vietstock.vn/2026/08/vang-the-gioi-dao-dong-tren-moc-4400-usd-759-1478987.htm",
-      "diem": 16.1,
+      "diem": 15.5,
       "khan_cap": false
     },
     {
-      "tieu_de": "Ngành hàng xuất khẩu 8,6 tỷ USD của Việt Nam trở thành hình mẫu: Một quốc gia sẽ đưa 80 doanh nghiệp đến Việt Nam tìm lời giải cho \"câu chuyện thành công\"",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Vĩ mô",
+      "tieu_de": "Một nước G7 tịch thu 2 tàu chở dầu treo cờ Nga, đem bán phế liệu",
+      "chu_de": "Địa chính trị",
+      "nguon": "CafeF Tài chính quốc tế",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-10 15:01",
-      "link": "https://cafef.vn/nganh-hang-xuat-khau-86-ty-usd-cua-viet-nam-tro-thanh-hinh-mau-mot-quoc-gia-se-dua-80-doanh-nghiep-den-viet-nam-tim-loi-giai-cho-cau-chuyen-thanh-cong-188260810140209478.chn",
-      "diem": 15.0,
+      "thoi_gian": "2026-08-11 12:00",
+      "link": "https://cafef.vn/mot-nuoc-g7-tich-thu-2-tau-cho-dau-treo-co-nga-dem-ban-phe-lieu-188260811105209712.chn",
+      "diem": 14.8,
       "khan_cap": false
     },
     {
@@ -179,7 +209,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-11 10:13",
       "link": "http://vietstock.vn/2026/08/loi-va-hai-khi-tap-doan-5000-ty-usd-dung-ngoai-cuoc-dua-ai-772-1479009.htm",
-      "diem": 14.9,
+      "diem": 14.3,
       "khan_cap": false
     },
     {
@@ -189,7 +219,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-11 07:49",
       "link": "http://vietstock.vn/2026/08/ky-vong-thoa-thuan-hormuz-lung-lay-gia-dau-bat-tang-5-34-1478984.htm",
-      "diem": 14.9,
+      "diem": 14.3,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Ngành hàng xuất khẩu 8,6 tỷ USD của Việt Nam trở thành hình mẫu: Một quốc gia sẽ đưa 80 doanh nghiệp đến Việt Nam tìm lời giải cho \"câu chuyện thành công\"",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-10 15:01",
+      "link": "https://cafef.vn/nganh-hang-xuat-khau-86-ty-usd-cua-viet-nam-tro-thanh-hinh-mau-mot-quoc-gia-se-dua-80-doanh-nghiep-den-viet-nam-tim-loi-giai-cho-cau-chuyen-thanh-cong-188260810140209478.chn",
+      "diem": 14.0,
       "khan_cap": false
     },
     {
@@ -199,7 +239,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-11 09:56",
       "link": "https://cafef.vn/iran-tuyen-bo-tu-tin-dau-co-voi-tong-thong-my-trump-188260811091929056.chn",
-      "diem": 14.4,
+      "diem": 13.9,
       "khan_cap": false
     },
     {
@@ -209,7 +249,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-11 08:52",
       "link": "http://vietstock.vn/2026/08/trung-quoc-day-manh-tai-chinh-so-tung-buoc-phat-trien-nhan-dan-te-ky-thuat-so-772-1479002.htm",
-      "diem": 14.3,
+      "diem": 13.8,
       "khan_cap": false
     },
     {
@@ -219,7 +259,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-11 09:24",
       "link": "https://vnexpress.net/ly-do-thu-tuong-israel-cong-khai-khuoc-tu-thoa-thuan-gaza-cua-ong-trump-5107317.html",
-      "diem": 14.2,
+      "diem": 13.7,
       "khan_cap": false
     },
     {
@@ -229,7 +269,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 16:10",
       "link": "https://cafef.vn/thue-ho-kinh-doanh-chi-vai-phan-tram-doanh-thu-vi-sao-van-nang-188260810152521632.chn",
-      "diem": 14.0,
+      "diem": 13.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Phó thủ tướng: Không dùng ngân sách khi thí điểm xe ba bánh điện",
+      "chu_de": "Chính sách",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-11 12:08",
+      "link": "https://vnexpress.net/pho-thu-tuong-khong-dung-ngan-sach-khi-thi-diem-xe-ba-banh-dien-5107818.html",
+      "diem": 12.8,
       "khan_cap": false
     },
     {
@@ -239,7 +289,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 18:25",
       "link": "https://vnexpress.net/meme-coin-lot-mat-xanh-quy-nghin-ty-usd-5107443.html",
-      "diem": 14.0,
+      "diem": 12.8,
       "khan_cap": false
     },
     {
@@ -249,57 +299,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-10 13:23",
       "link": "https://vnexpress.net/fdi-can-gi-de-tu-tin-rot-von-chat-luong-cao-vao-viet-nam-5105190.html",
-      "diem": 13.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "VPBank tăng tốc từ hoạt động cốt lõi",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-10 15:30",
-      "link": "https://cafef.vn/vpbank-tang-toc-tu-hoat-dong-cot-loi-188260810152719529.chn",
-      "diem": 13.4,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Ông Trump yêu cầu Iran bồi thường thiệt hại chiến tranh",
-      "chu_de": "Địa chính trị",
-      "nguon": "VnExpress Thế giới",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-11 07:03",
-      "link": "https://vnexpress.net/ong-trump-yeu-cau-iran-boi-thuong-thiet-hai-chien-tranh-5107633.html",
-      "diem": 13.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Đề xuất mới từ Cục CSGT về làn đường dành riêng để vượt xe: Những tuyến đường cao tốc nào được chọn để thí điểm vào Quý IV/2026??",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-11 11:04",
-      "link": "https://cafef.vn/de-xuat-moi-tu-cuc-csgt-ve-lan-duong-danh-rieng-de-vuot-xe-nhung-tuyen-duong-cao-toc-nao-duoc-chon-de-thi-diem-vao-quy-iv-2026-188260811100422936.chn",
-      "diem": 12.9,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Không qua Hormuz hay Biển Đỏ, láng giềng Việt Nam mở tuyến vận chuyển mới phá vỡ mọi rào cản, di chuyển từ 40 ngày còn 20 ngày",
-      "chu_de": "Thế giới",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-11 11:06",
-      "link": "https://cafef.vn/khong-qua-hormuz-hay-bien-do-lang-gieng-viet-nam-mo-tuyen-van-chuyen-moi-pha-vo-moi-rao-can-di-chuyen-tu-40-ngay-con-20-ngay-188260811104419577.chn",
-      "diem": 12.9,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Giảm thuế thu nhập: Tạo thêm “khoảng thở” về tài chính cho doanh nghiệp",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-11 10:37",
-      "link": "https://cafef.vn/giam-thue-thu-nhap-tao-them-khoang-tho-ve-tai-chinh-cho-doanh-nghiep-188260811095012323.chn",
-      "diem": 12.7,
+      "diem": 12.8,
       "khan_cap": false
     }
   ]
