@@ -1,17 +1,14 @@
 name: Thu thap tin tuc
-
 # Khi nào chạy?
 on:
   schedule:
-    - cron: "*/15 * * * *"   # mỗi 15 phút (giờ UTC). Lưu ý: cron của GitHub
-                             # thường trễ vài phút, và có thể bỏ nhịp khi hệ
-                             # thống bận - đây là điều bình thường.
+    - cron: "0 2 * * *"   # 1 lần/ngày lúc 9:00 sáng giờ VN (2:00 UTC). Lưu ý: cron của GitHub
+                          # thường trễ vài phút, và có thể bỏ nhịp khi hệ
+                          # thống bận - đây là điều bình thường.
   workflow_dispatch:          # cho phép bấm chạy tay trong tab Actions
-
 # Cấp quyền để job được phép commit ngược lại repo
 permissions:
   contents: write
-
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -19,21 +16,17 @@ jobs:
       # 1. Lấy code về máy ảo
       - name: Checkout code
         uses: actions/checkout@v5
-
       # 2. Cài Python
       - name: Cai Python
         uses: actions/setup-python@v6
         with:
           python-version: "3.11"
-
       # 3. Cài thư viện
       - name: Cai thu vien
         run: pip install -r requirements.txt
-
       # 4. Chạy scraper -> tạo/cập nhật data.json
       - name: Chay scraper
         run: python scraper.py
-
       # 5. Commit data.json NẾU có thay đổi
       - name: Commit data.json neu thay doi
         run: |
