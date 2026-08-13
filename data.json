@@ -1,7 +1,17 @@
 {
-  "cap_nhat_luc": "2026-08-13 09:10:32",
+  "cap_nhat_luc": "2026-08-13 11:01:28",
   "so_tin": 30,
   "tin": [
+    {
+      "tieu_de": "Thủ tướng: NHNN xử lý nghiêm hành vi cạnh tranh lãi suất không lành mạnh",
+      "chu_de": "Chính sách",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-13 11:01",
+      "link": "https://vietnambiz.vn/thu-tuong-nhnn-xu-ly-nghiem-hanh-vi-canh-tranh-lai-suat-khong-lanh-manh-20268320515976.htm",
+      "diem": 42.0,
+      "khan_cap": false
+    },
     {
       "tieu_de": "Lãi suất ngân hàng 12/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...",
       "chu_de": "Kinh tế VN",
@@ -9,17 +19,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-12 19:57",
       "link": "https://cafef.vn/lai-suat-ngan-hang-12-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260812195920661.chn",
-      "diem": 43.0,
+      "diem": 41.4,
       "khan_cap": false
     },
     {
-      "tieu_de": "Thủ tướng: NHNN xử lý nghiêm hành vi cạnh tranh lãi suất không lành mạnh",
+      "tieu_de": "Chuyên gia HSBC: Nghị quyết 10 đã nhìn thẳng vào thách thức, Việt Nam có cơ hội lớn hút FDI nhưng không kéo dài mãi",
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-13 09:10",
-      "link": "https://vietnambiz.vn/thu-tuong-nhnn-xu-ly-nghiem-hanh-vi-canh-tranh-lai-suat-khong-lanh-manh-20268320515976.htm",
-      "diem": 42.0,
+      "thoi_gian": "2026-08-13 11:01",
+      "link": "https://vietnambiz.vn/chuyen-gia-hsbc-nghi-quyet-10-da-nhin-thang-vao-thach-thuc-viet-nam-co-co-hoi-lon-hut-fdi-nhung-khong-keo-dai-mai-202684105047888.htm",
+      "diem": 38.0,
       "khan_cap": false
     },
     {
@@ -29,17 +39,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-12 16:35",
       "link": "https://vnexpress.net/vn-index-tang-gan-20-diem-nho-co-phieu-ho-vingroup-5108394.html",
-      "diem": 38.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Chuyên gia HSBC: Nghị quyết 10 đã nhìn thẳng vào thách thức, Việt Nam có cơ hội lớn hút FDI nhưng không kéo dài mãi",
-      "chu_de": "Chính sách",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-13 09:10",
-      "link": "https://vietnambiz.vn/chuyen-gia-hsbc-nghi-quyet-10-da-nhin-thang-vao-thach-thuc-viet-nam-co-co-hoi-lon-hut-fdi-nhung-khong-keo-dai-mai-202684105047888.htm",
-      "diem": 38.0,
+      "diem": 36.6,
       "khan_cap": false
     },
     {
@@ -49,7 +49,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-12 15:47",
       "link": "https://cafef.vn/loat-ngan-hang-sap-tra-co-tuc-co-phieu-thuong-188260812154912978.chn",
-      "diem": 37.6,
+      "diem": 36.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Giải ngân đầu tư công quý III: Khi các siêu dự án áp sát 'vạch đích'",
+      "chu_de": "Chính sách",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-13 11:01",
+      "link": "https://vietnambiz.vn/giai-ngan-dau-tu-cong-quy-iii-khi-cac-sieu-du-an-ap-sat-vach-dich-2026861530798.htm",
+      "diem": 36.0,
       "khan_cap": false
     },
     {
@@ -59,27 +69,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-12 22:00",
       "link": "https://cafef.vn/lam-phat-my-bat-ngo-ha-nhiet-fed-se-khong-tang-lai-suat-188260812220016211.chn",
-      "diem": 36.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Giải ngân đầu tư công quý III: Khi các siêu dự án áp sát 'vạch đích'",
-      "chu_de": "Chính sách",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-13 09:10",
-      "link": "https://vietnambiz.vn/giai-ngan-dau-tu-cong-quy-iii-khi-cac-sieu-du-an-ap-sat-vach-dich-2026861530798.htm",
-      "diem": 36.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Quảng Ngãi: Công khai tỷ lệ giải ngân vốn đầu tư công của 109 chủ đầu tư",
-      "chu_de": "Chính sách",
-      "nguon": "CafeF Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-13 08:09",
-      "link": "https://cafef.vn/quang-ngai-cong-khai-ty-le-giai-ngan-von-dau-tu-cong-cua-109-chu-dau-tu-188260812133756961.chn",
-      "diem": 35.2,
+      "diem": 35.0,
       "khan_cap": false
     },
     {
@@ -87,7 +77,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-13 09:10",
+      "thoi_gian": "2026-08-13 11:01",
       "link": "https://vietnambiz.vn/pho-thu-tuong-yeu-cau-ngan-hang-giam-lai-suat-cho-vay-thuc-chat-thao-go-van-de-tiep-can-von-20268117427459.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -97,7 +87,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-13 09:10",
+      "thoi_gian": "2026-08-13 11:01",
       "link": "https://vietnambiz.vn/ha-noi-sap-nhap-so-quy-hoach-kien-truc-voi-xay-dung-du-lich-voi-van-hoa-the-thao-2026810101013405.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -107,7 +97,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-13 09:10",
+      "thoi_gian": "2026-08-13 11:01",
       "link": "https://vietnambiz.vn/ha-noi-du-kien-sap-nhap-to-chuc-lai-5-so-nganh-202689145715441.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -117,9 +107,29 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-13 09:10",
+      "thoi_gian": "2026-08-13 11:01",
       "link": "https://vietnambiz.vn/infographic-buc-tranh-kinh-te-7-thang-dau-nam-fdi-dang-ky-moi-dat-tren-38-ty-usd-tang-58-nsnn-boi-thu-470000-ty-dong-202683211254365.htm",
       "diem": 34.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Quảng Ngãi: Công khai tỷ lệ giải ngân vốn đầu tư công của 109 chủ đầu tư",
+      "chu_de": "Chính sách",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-13 08:09",
+      "link": "https://cafef.vn/quang-ngai-cong-khai-ty-le-giai-ngan-von-dau-tu-cong-cua-109-chu-dau-tu-188260812133756961.chn",
+      "diem": 33.6,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Lộ diện địa phương duy nhất ghi nhận thu hút FDI vượt mốc 10 tỷ USD trong 7 tháng 2026",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-13 09:46",
+      "link": "https://cafef.vn/lo-dien-dia-phuong-duy-nhat-ghi-nhan-thu-hut-fdi-vuot-moc-10-ty-usd-trong-7-thang-2026-188260813094647401.chn",
+      "diem": 33.0,
       "khan_cap": false
     },
     {
@@ -127,7 +137,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-13 09:10",
+      "thoi_gian": "2026-08-13 11:01",
       "link": "https://vietnambiz.vn/fdi-can-gi-de-tu-tin-rot-von-chat-luong-cao-vao-viet-nam-2026810201023146.htm",
       "diem": 32.0,
       "khan_cap": false
@@ -137,7 +147,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-13 09:10",
+      "thoi_gian": "2026-08-13 11:01",
       "link": "https://vietnambiz.vn/ssi-research-chi-ra-hai-yeu-to-quyet-dinh-dong-luc-tang-truong-nua-cuoi-nam-202689155728326.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -147,7 +157,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-13 09:10",
+      "thoi_gian": "2026-08-13 11:01",
       "link": "https://vietnambiz.vn/can-phan-dinh-rui-ro-cua-hoat-dong-dau-khi-voi-quyet-dinh-dau-tu-sai-2026881939531.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -159,7 +169,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-13 03:00",
       "link": "https://vnexpress.net/nha-dau-tu-se-so-hai-neu-lai-suat-tiet-kiem-vuot-10-5108173.html",
-      "diem": 28.8,
+      "diem": 27.4,
       "khan_cap": false
     },
     {
@@ -169,17 +179,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-12 18:59",
       "link": "https://cafef.vn/mot-ngan-hang-vua-tang-manh-lai-suat-tiet-kiem-188260812184925289.chn",
-      "diem": 22.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Ngân hàng đồng loạt giảm lãi suất cho vay, tung gói tín dụng ưu đãi",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-12 09:37",
-      "link": "https://cafef.vn/ngan-hang-dong-loat-giam-lai-suat-cho-vay-tung-goi-tin-dung-uu-dai-188260812093733605.chn",
-      "diem": 20.4,
+      "diem": 20.6,
       "khan_cap": false
     },
     {
@@ -189,7 +189,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-12 16:03",
       "link": "https://vnexpress.net/cac-ngan-hang-tung-goi-vay-giam-lai-suat-0-5-2-5108293.html",
-      "diem": 19.8,
+      "diem": 18.2,
       "khan_cap": false
     },
     {
@@ -199,7 +199,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-12 14:06",
       "link": "https://cafef.vn/mot-ngan-hang-ap-dung-lai-suat-tham-chieu-moi-92-nam-188260812140651252.chn",
-      "diem": 18.2,
+      "diem": 16.6,
       "khan_cap": false
     },
     {
@@ -209,7 +209,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-12 16:30",
       "link": "https://vnexpress.net/lpbank-trien-khai-goi-tin-dung-2-000-ty-dong-cho-sme-5108400.html",
-      "diem": 18.2,
+      "diem": 16.6,
       "khan_cap": false
     },
     {
@@ -219,17 +219,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-13 07:56",
       "link": "https://cafef.vn/nganh-hoc-day-lam-dam-tang-tai-trung-quoce-am-bong-hoa-mo-vang-diem-chuan-cao-ngat-sinh-vien-gianh-giat-nhau-100-co-viec-lam-188260813062537792.chn",
-      "diem": 17.1,
+      "diem": 16.2,
       "khan_cap": false
     },
     {
-      "tieu_de": "Sáng 12/8, một cổ phiếu ngân hàng tăng 40% ngay khi mở cửa",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-12 10:09",
-      "link": "https://cafef.vn/sang-12-8-mot-co-phieu-ngan-hang-tang-40-ngay-khi-mo-cua-188260812100920418.chn",
-      "diem": 16.8,
+      "tieu_de": "Phó thủ tướng: Xử lý đến cùng vướng mắc, không đẩy doanh nghiệp đi vòng",
+      "chu_de": "Chính sách",
+      "nguon": "VietnamBiz Vĩ mô, VnExpress Kinh doanh",
+      "so_nguon": 2,
+      "thoi_gian": "2026-08-13 11:01",
+      "link": "https://vietnambiz.vn/pho-thu-tuong-xu-ly-den-cung-vuong-mac-khong-day-doanh-nghiep-di-vong-202688213633567.htm",
+      "diem": 16.0,
       "khan_cap": false
     },
     {
@@ -239,37 +239,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-13 08:12",
       "link": "http://vietstock.vn/2026/08/vang-the-gioi-len-dinh-hon-hai-thang-759-1479905.htm",
-      "diem": 16.1,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Phó thủ tướng: Xử lý đến cùng vướng mắc, không đẩy doanh nghiệp đi vòng",
-      "chu_de": "Chính sách",
-      "nguon": "VietnamBiz Vĩ mô, VnExpress Kinh doanh",
-      "so_nguon": 2,
-      "thoi_gian": "2026-08-13 09:10",
-      "link": "https://vietnambiz.vn/pho-thu-tuong-xu-ly-den-cung-vuong-mac-khong-day-doanh-nghiep-di-vong-202688213633567.htm",
-      "diem": 16.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Ngày 12/8: Tỷ giá trung tâm tăng 23 đồng",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-12 16:11",
-      "link": "https://cafef.vn/ngay-12-8-ty-gia-trung-tam-tang-23-dong-188260812093111008.chn",
-      "diem": 15.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "HDBank mở rộng dòng vốn, cùng doanh nghiệp gia tăng động lực tăng trưởng 2026",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-12 10:58",
-      "link": "https://cafef.vn/hdbank-mo-rong-dong-von-cung-doanh-nghiep-gia-tang-dong-luc-tang-truong-2026-188260812105859612.chn",
-      "diem": 15.4,
+      "diem": 15.2,
       "khan_cap": false
     },
     {
@@ -279,7 +249,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-13 08:39",
       "link": "https://cafef.vn/trung-quoc-lien-tiep-pha-ky-luc-3-lan-trong-vong-6-thang-188260813080044232.chn",
-      "diem": 15.2,
+      "diem": 14.3,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Ngày 12/8: Tỷ giá trung tâm tăng 23 đồng",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-12 16:11",
+      "link": "https://cafef.vn/ngay-12-8-ty-gia-trung-tam-tang-23-dong-188260812093111008.chn",
+      "diem": 14.2,
       "khan_cap": false
     },
     {
@@ -289,7 +269,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-13 08:57",
       "link": "https://cafef.vn/nga-lai-ban-luong-vang-khung-dieu-gi-dang-xay-ra-voi-moscow-188260813080317302.chn",
-      "diem": 14.9,
+      "diem": 14.1,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Mật vụ Mỹ hứng chỉ trích vì biến đoàn tháp tùng ông Trump thành 'mồi nhử'",
+      "chu_de": "Địa chính trị",
+      "nguon": "VnExpress Thế giới",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-13 08:48",
+      "link": "https://vnexpress.net/mat-vu-my-hung-chi-trich-vi-bien-doan-thap-tung-ong-trump-thanh-moi-nhu-5108320.html",
+      "diem": 14.1,
       "khan_cap": false
     },
     {
@@ -299,7 +289,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-13 08:00",
       "link": "https://vnexpress.net/noi-kim-cuong-duoc-vi-von-re-nhu-bap-cai-o-trung-quoc-5107403.html",
-      "diem": 14.9,
+      "diem": 14.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Giá dầu gần như đi ngang",
+      "chu_de": "Địa chính trị",
+      "nguon": "Vietstock Thế giới",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-13 08:08",
+      "link": "http://vietstock.vn/2026/08/gia-dau-gan-nhu-di-ngang-34-1479904.htm",
+      "diem": 13.8,
       "khan_cap": false
     }
   ]
