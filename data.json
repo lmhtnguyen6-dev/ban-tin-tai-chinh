@@ -1,7 +1,17 @@
 {
-  "cap_nhat_luc": "2026-08-16 09:53:00",
+  "cap_nhat_luc": "2026-08-17 00:39:10",
   "so_tin": 30,
   "tin": [
+    {
+      "tieu_de": "Lãi suất ngân hàng 16/8 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-16 20:00",
+      "link": "https://cafef.vn/lai-suat-ngan-hang-16-8-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260816181543571.chn",
+      "diem": 50.2,
+      "khan_cap": false
+    },
     {
       "tieu_de": "MSCI tái cơ cấu: Cổ phiếu ngân hàng Việt Nam lên ngôi",
       "chu_de": "Kinh tế VN",
@@ -9,7 +19,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-16 09:19",
       "link": "https://cafef.vn/msci-tai-co-cau-co-phieu-ngan-hang-viet-nam-len-ngoi-188260816091920284.chn",
-      "diem": 41.6,
+      "diem": 29.2,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "VDSC: Xuất hiện tín hiệu để Ngân hàng Nhà nước có thể mua ngoại tệ giao ngay",
+      "chu_de": "Chính sách",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-16 17:54",
+      "link": "https://cafef.vn/vdsc-xuat-hien-tin-hieu-de-ngan-hang-nha-nuoc-co-the-mua-ngoai-te-giao-ngay-188260816175755141.chn",
+      "diem": 28.4,
       "khan_cap": false
     },
     {
@@ -19,7 +39,37 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-16 08:11",
       "link": "https://vnexpress.net/msci-muon-loai-cong-ty-giu-bitcoin-khoi-chi-so-chung-khoan-toan-cau-5109609.html",
-      "diem": 40.6,
+      "diem": 28.2,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Thêm nhiều ngân hàng giảm lãi suất cho vay",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-16 17:22",
+      "link": "https://cafef.vn/them-nhieu-ngan-hang-giam-lai-suat-cho-vay-1882608161658257.chn",
+      "diem": 28.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Toàn văn: Nghị định 154/2025/NĐ-CP quy định về tinh giản biên chế",
+      "chu_de": "Chính sách",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-16 17:30",
+      "link": "https://cafef.vn/toan-van-nghi-dinh-154-2025-nd-cp-quy-dinh-ve-tinh-gian-bien-che-188260816163616992.chn",
+      "diem": 26.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Ngân hàng rao bán bất động sản từ vài tỷ đến hàng trăm tỷ đồng",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-16 18:40",
+      "link": "https://cafef.vn/ngan-hang-rao-ban-bat-dong-san-tu-vai-ty-den-hang-tram-ty-dong-188260816184042115.chn",
+      "diem": 25.0,
       "khan_cap": false
     },
     {
@@ -29,27 +79,27 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-16 09:00",
       "link": "https://cafef.vn/hai-phong-thuc-tien-do-tang-toc-giai-ngan-von-dau-tu-cong-188260816081349063.chn",
-      "diem": 35.2,
+      "diem": 23.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "Lãi suất ngân hàng 15/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
+      "tieu_de": "Phó Thủ tướng Thường trực Phạm Gia Túc: Quảng Ngãi cần phát huy tối đa tiềm năng, tạo động lực tăng trưởng mới",
+      "chu_de": "Chính sách",
+      "nguon": "CafeF Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-15 10:43",
-      "link": "https://cafef.vn/lai-suat-ngan-hang-15-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260815104543024.chn",
-      "diem": 34.6,
+      "thoi_gian": "2026-08-16 13:10",
+      "link": "https://cafef.vn/pho-thu-tuong-thuong-truc-pham-gia-tuc-quang-ngai-can-phat-huy-toi-da-tiem-nang-tao-dong-luc-tang-truong-moi-188260816090026844.chn",
+      "diem": 20.4,
       "khan_cap": false
     },
     {
-      "tieu_de": "Đồng USD chạm mức thấp nhất kể từ tháng 5/2026",
+      "tieu_de": "Nhiều trường đại học tư lập kỷ lục doanh thu",
       "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính, Vietstock Thế giới",
-      "so_nguon": 2,
-      "thoi_gian": "2026-08-16 08:11",
-      "link": "https://cafef.vn/dong-usd-cham-muc-thap-nhat-ke-tu-thang-5-2026-188260816081119902.chn",
-      "diem": 32.6,
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-16 11:47",
+      "link": "https://vnexpress.net/nhieu-truong-dai-hoc-tu-lap-ky-luc-doanh-thu-5109658.html",
+      "diem": 19.2,
       "khan_cap": false
     },
     {
@@ -59,17 +109,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-16 08:55",
       "link": "https://cafef.vn/ty-gia-trung-tam-giam-ap-luc-usd-chua-ha-nhiet-188260816080733763.chn",
-      "diem": 31.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Kết luận của Thủ tướng Lê Minh Hưng tại Buổi làm việc với Ngân hàng Nhà nước Việt Nam và hệ thống các tổ chức tín dụng",
-      "chu_de": "Chính sách",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-15 21:29",
-      "link": "https://cafef.vn/ket-luan-cua-thu-tuong-le-minh-hung-tai-buoi-lam-viec-voi-ngan-hang-nha-nuoc-viet-nam-va-he-thong-cac-to-chuc-tin-dung-188260815212937613.chn",
-      "diem": 29.6,
+      "diem": 18.8,
       "khan_cap": false
     },
     {
@@ -79,7 +119,27 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-16 08:00",
       "link": "https://cafef.vn/fpt-retail-va-techcombank-bat-tay-phat-trien-he-sinh-thai-tai-chinh-so-cho-khach-hang-mua-sam-san-pham-cong-nghe-188260815214959819.chn",
-      "diem": 28.4,
+      "diem": 16.2,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Công ty của Warren Buffett rót thêm hơn 10 tỷ USD vào Alphabet",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-16 10:05",
+      "link": "https://vnexpress.net/cong-ty-cua-warren-buffett-rot-them-hon-10-ty-usd-vao-alphabet-5109615.html",
+      "diem": 15.8,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Đồng USD chạm mức thấp nhất kể từ tháng 5/2026",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-16 08:11",
+      "link": "https://cafef.vn/dong-usd-cham-muc-thap-nhat-ke-tu-thang-5-2026-188260816081119902.chn",
+      "diem": 14.2,
       "khan_cap": false
     },
     {
@@ -89,217 +149,157 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-16 07:17",
       "link": "https://cafef.vn/hon-440-du-an-dau-tu-vao-cac-khu-kinh-te-va-khu-cong-nghiep-quang-ngai-von-dang-ky-gan-20-ty-usd-188260816011755828.chn",
-      "diem": 25.8,
+      "diem": 13.6,
       "khan_cap": false
     },
     {
-      "tieu_de": "TS. Võ Trí Thành: Tăng trưởng tín dụng phải đi đôi với ổn định kinh tế vĩ mô và sự lành mạnh, an toàn của hệ thống ngân hàng",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-15 17:01",
-      "link": "https://cafef.vn/ts-vo-tri-thanh-tang-truong-tin-dung-phai-di-doi-voi-on-dinh-kinh-te-vi-mo-va-su-lanh-manh-an-toan-cua-he-thong-ngan-hang-188260815170128302.chn",
-      "diem": 22.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Giảm lãi suất ngân hàng: Phải đến được người vay cuối cùng",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-15 15:21",
-      "link": "https://cafef.vn/giam-lai-suat-ngan-hang-phai-den-duoc-nguoi-vay-cuoi-cung-18826081515175403.chn",
-      "diem": 18.6,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Khơi thông nguồn lực cho tăng trưởng – ngân hàng không thể “đơn thương độc mã”",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-15 19:00",
-      "link": "https://cafef.vn/khoi-thong-nguon-luc-cho-tang-truong-ngan-hang-khong-the-don-thuong-doc-ma-188260815164926067.chn",
-      "diem": 17.6,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "HDBank quay số kỳ 4 chương trình 'Tiết kiệm tỷ phú'",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-15 19:00",
-      "link": "https://vnexpress.net/hdbank-quay-so-ky-4-chuong-trinh-tiet-kiem-ty-phu-5109528.html",
-      "diem": 17.6,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Nhà đầu tư có thể mở tài khoản chứng khoán 100% online",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-15 10:55",
-      "link": "https://vnexpress.net/nha-dau-tu-co-the-mo-tai-khoan-chung-khoan-100-online-5109410.html",
-      "diem": 16.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Phát hiện hàng nghìn vết nứt tại đập thuỷ điện 2,7 tỷ USD, một nước đòi nhà thầu Trung Quốc bồi thường gần 600 triệu USD, bắt chịu trách nhiệm bảo trì",
+      "tieu_de": "Trung Quốc phát triển dẫn đường bằng sao cho vũ khí siêu vượt âm",
       "chu_de": "Thế giới",
       "nguon": "CafeF Tài chính quốc tế",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-16 09:02",
-      "link": "https://cafef.vn/phat-hien-hang-nghin-vet-nut-tai-dap-thuy-dien-27-ty-usd-mot-nuoc-doi-nha-thau-trung-quoc-boi-thuong-gan-600-trieu-usd-bat-chiu-trach-nhiem-bao-tri-188260816090323827.chn",
-      "diem": 16.1,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Khu 'đất vàng' Hà Nội được đề xuất xây tháp đôi 99 tầng cao nhất thế giới",
-      "chu_de": "Thế giới",
-      "nguon": "CafeF Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-16 08:32",
-      "link": "https://cafef.vn/khu-dat-vang-ha-noi-duoc-de-xuat-xay-thap-doi-99-tang-cao-nhat-the-gioi-188260816072310848.chn",
-      "diem": 15.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Phát hiện 50 thỏi vàng, hàng trăm đồng xu trị giá 272 tỷ đồng khi đào đất lắp đặt ống thoát nước",
-      "chu_de": "Thế giới",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-16 08:24",
-      "link": "https://cafef.vn/phat-hien-50-thoi-vang-hang-tram-dong-xu-tri-gia-272-ty-dong-khi-dao-dat-lap-dat-ong-thoat-nuoc-188260816081830205.chn",
-      "diem": 15.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Nguồn vốn rẻ tiếp sức cho doanh nghiệp, tạo đà bứt phá cho tăng trưởng",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-15 16:38",
-      "link": "https://cafef.vn/nguon-von-re-tiep-suc-cho-doanh-nghiep-tao-da-but-pha-cho-tang-truong-188260815163838935.chn",
-      "diem": 15.6,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "MSB giảm lãi suất cho vay tối thiểu 1%/năm",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-15 11:30",
-      "link": "https://cafef.vn/msb-giam-lai-suat-cho-vay-toi-thieu-1-nam-188260815103704659.chn",
-      "diem": 15.4,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Thành phố Hồ Chí Minh: Tăng tốc cấp C/O, không để ách tắc xuất khẩu",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-15 16:25",
-      "link": "https://cafef.vn/thanh-pho-ho-chi-minh-tang-toc-cap-c-o-khong-de-ach-tac-xuat-khau-188260815093249538.chn",
-      "diem": 15.4,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Vietcap: VietinBank bán tòa tháp tại Ciputra cho một chủ đầu tư bất động sản hàng đầu Việt Nam",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-15 10:20",
-      "link": "https://cafef.vn/vietcap-vietinbank-ban-toa-thap-tai-ciputra-cho-mot-chu-dau-tu-bat-dong-san-hang-dau-viet-nam-188260815102040191.chn",
-      "diem": 14.4,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Ngân hàng nào hút được thêm nhiều tiền gửi nhất trong nửa đầu năm?",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-16 09:32",
-      "link": "https://cafef.vn/ngan-hang-nao-hut-duoc-them-nhieu-tien-gui-nhat-trong-nua-dau-nam-188260816093427852.chn",
-      "diem": 12.9,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Phát hiện túi bọc chứa hơn 5,3 tỷ đồng tiền mặt bị bỏ lại cạnh cây ATM",
-      "chu_de": "Thế giới",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-16 09:45",
-      "link": "https://cafef.vn/phat-hien-tui-boc-chua-hon-53-ty-dong-tien-mat-bi-bo-lai-canh-cay-atm-188260816090744089.chn",
-      "diem": 12.9,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Kinh tế Nga đi ngược với những dự báo bi quan: Chuyện gì đang xảy ra?",
-      "chu_de": "Địa chính trị",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-16 09:23",
-      "link": "https://cafef.vn/kinh-te-nga-di-nguoc-voi-nhung-du-bao-bi-quan-chuyen-gi-dang-xay-ra-188260816090543003.chn",
-      "diem": 12.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Chính phủ chốt bổ sung 5.000 tỷ đồng từ dự toán ngân sách Nhà nước năm 2026 để nâng vốn điều lệ cho Co-opBank",
-      "chu_de": "Chính sách",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-16 09:17",
-      "link": "https://cafef.vn/chinh-phu-chot-bo-sung-5000-ty-dong-tu-du-toan-ngan-sach-nha-nuoc-nam-2026-de-nang-von-dieu-le-cho-co-opbank-188260816091713334.chn",
-      "diem": 12.7,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Thủ tướng Thái Lan tự lái máy bay tới căn cứ quân sự",
-      "chu_de": "Địa chính trị",
-      "nguon": "VnExpress Thế giới",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-16 08:31",
-      "link": "https://vnexpress.net/thu-tuong-thai-lan-tu-lai-may-bay-toi-can-cu-quan-su-5109608.html",
-      "diem": 12.4,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Hình ảnh sân bay Liên Khương sau hơn 5 tháng đóng cửa",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-16 07:51",
-      "link": "https://cafef.vn/hinh-anh-san-bay-lien-khuong-sau-hon-5-thang-dong-cua-188260816071940192.chn",
-      "diem": 12.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Mỹ chuẩn bị giáng ‘đòn chưa từng có’, dù 47 năm trừng phạt không khuất phục được Iran",
-      "chu_de": "Địa chính trị",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-16 08:00",
-      "link": "https://cafef.vn/my-chuan-bi-giang-don-chua-tung-co-du-47-nam-trung-phat-khong-khuat-phuc-duoc-iran-188260816072209311.chn",
-      "diem": 12.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Gồng mình trước hỏa lực Nga, gã khổng lồ của Ukraine lại hứng đòn từ EU: Chật vật tìm đường sống đến cuối năm",
-      "chu_de": "Địa chính trị",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-16 07:39",
-      "link": "https://cafef.vn/gong-minh-truoc-hoa-luc-nga-ga-khong-lo-cua-ukraine-lai-hung-don-tu-eu-chat-vat-tim-duong-song-den-cuoi-nam-188260816072004412.chn",
+      "thoi_gian": "2026-08-16 17:30",
+      "link": "https://cafef.vn/trung-quoc-phat-trien-dan-duong-bang-sao-cho-vu-khi-sieu-vuot-am-188260816152139226.chn",
       "diem": 12.1,
       "khan_cap": false
     },
     {
-      "tieu_de": "Số người chết trong động đất ở Colombia tăng lên 294",
+      "tieu_de": "Mỹ chỉ còn dưới 300 tên lửa THAAD trong kho",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-16 22:00",
+      "link": "https://cafef.vn/my-chi-con-duoi-300-ten-lua-thaad-trong-kho-188260816213245912.chn",
+      "diem": 11.9,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Động đất Indonesia: 51 người chết, hàng nghìn người chưa thể về nhà",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-16 21:27",
+      "link": "https://cafef.vn/dong-dat-indonesia-51-nguoi-chet-hang-nghin-nguoi-chua-the-ve-nha-188260816212805434.chn",
+      "diem": 11.7,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Hàn Quốc nổ súng cảnh cáo binh sĩ Triều Tiên vượt giới tuyến",
       "chu_de": "Thế giới",
       "nguon": "VnExpress Thế giới",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-16 07:38",
-      "link": "https://vnexpress.net/so-nguoi-chet-trong-dong-dat-o-colombia-tang-len-294-5109602.html",
-      "diem": 12.1,
+      "thoi_gian": "2026-08-16 21:36",
+      "link": "https://vnexpress.net/han-quoc-no-sung-canh-cao-binh-si-trieu-tien-vuot-gioi-tuyen-5109753.html",
+      "diem": 11.7,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Iran cáo buộc Qatar giam giữ ba phi công chiến đấu nước này",
+      "chu_de": "Địa chính trị",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-16 20:47",
+      "link": "https://cafef.vn/iran-cao-buoc-qatar-giam-giu-ba-phi-cong-chien-dau-nuoc-nay-188260816204750182.chn",
+      "diem": 11.4,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Sàn thương mại điện tử Wildberries bị tấn công, thiệt hại có thể lên tới 1.000 tỷ ruble",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-16 20:00",
+      "link": "https://cafef.vn/san-thuong-mai-dien-tu-wildberries-bi-tan-cong-thiet-hai-co-the-len-toi-1000-ty-ruble-188260816182558155.chn",
+      "diem": 11.1,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Nga tập kích 'nhà máy tên lửa Flamingo, UAV' ở Kiev",
+      "chu_de": "Địa chính trị",
+      "nguon": "VnExpress Thế giới",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-16 20:08",
+      "link": "https://vnexpress.net/nga-tap-kich-nha-may-ten-lua-flamingo-uav-o-kiev-5109742.html",
+      "diem": 11.1,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Tin nóng thế giới hôm nay 16/8: Trung Quốc làm máy bay không người lái từ tre",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-16 14:59",
+      "link": "https://cafef.vn/tin-nong-the-gioi-hom-nay-16-8-trung-quoc-lam-may-bay-khong-nguoi-lai-tu-tre-188260816145941832.chn",
+      "diem": 11.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Thủ đô của Nga, Ukraine hứng hỏa lực cùng lúc",
+      "chu_de": "Địa chính trị",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-16 19:30",
+      "link": "https://cafef.vn/thu-do-cua-nga-ukraine-hung-hoa-luc-cung-luc-18826081618233841.chn",
+      "diem": 10.9,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Tàu sân bay Mỹ rút khỏi Đông Á, đồng minh đối mặt với khoảng trống an ninh",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-16 19:00",
+      "link": "https://cafef.vn/tau-san-bay-my-rut-khoi-dong-a-dong-minh-doi-mat-voi-khoang-trong-an-ninh-188260816153158463.chn",
+      "diem": 10.6,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Láng giềng Việt Nam từ chối nhà thầu Pháp làm tàu điện ngầm, Trung Quốc nhảy vào lập tức được khen là “hoàn hảo”",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-16 13:48",
+      "link": "https://cafef.vn/lang-gieng-viet-nam-tu-choi-nha-thau-phap-lam-tau-dien-ngam-trung-quoc-nhay-vao-lap-tuc-duoc-khen-la-hoan-hao-188260816134929942.chn",
+      "diem": 10.5,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Ukraine tập kích UAV lớn chưa từng thấy nhằm vào Moskva trong 2 năm",
+      "chu_de": "Địa chính trị",
+      "nguon": "VnExpress Thế giới",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-16 18:25",
+      "link": "https://vnexpress.net/ukraine-tap-kich-uav-lon-chua-tung-thay-nham-vao-moskva-trong-2-nam-5109717.html",
+      "diem": 10.4,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Tổng thống Brazil tung đòn đáp trả thuế Mỹ, yêu cầu được tôn trọng",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-16 18:00",
+      "link": "https://cafef.vn/tong-thong-brazil-tung-don-dap-tra-thue-my-yeu-cau-duoc-ton-trong-188260816153017654.chn",
+      "diem": 10.2,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "100 triệu USD giúp hàn gắn rạn nứt giữa tỷ phú Musk với ông Trump",
+      "chu_de": "Địa chính trị",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-16 10:31",
+      "link": "https://cafef.vn/100-trieu-usd-giup-han-gan-ran-nut-giua-ty-phu-musk-voi-ong-trump-188260816101634066.chn",
+      "diem": 10.1,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Tướng Mỹ thừa nhận phòng không bất lực trước bầy đàn drone trong nước",
+      "chu_de": "Thế giới",
+      "nguon": "VnExpress Thế giới",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-16 17:44",
+      "link": "https://vnexpress.net/tuong-my-thua-nhan-phong-khong-bat-luc-truoc-bay-dan-drone-trong-nuoc-5109249.html",
+      "diem": 10.1,
       "khan_cap": false
     }
   ]
