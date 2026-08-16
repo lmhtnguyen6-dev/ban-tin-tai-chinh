@@ -1,5 +1,5 @@
 {
-  "cap_nhat_luc": "2026-08-17 00:39:10",
+  "cap_nhat_luc": "2026-08-17 00:40:02",
   "so_tin": 30,
   "tin": [
     {
@@ -10,6 +10,16 @@
       "thoi_gian": "2026-08-16 20:00",
       "link": "https://cafef.vn/lai-suat-ngan-hang-16-8-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260816181543571.chn",
       "diem": 50.2,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "VN-Index có thể lùi về 1.700 điểm trước cú hích nâng hạng FTSE",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-17 00:10",
+      "link": "https://vnexpress.net/vn-index-co-the-lui-ve-1-700-diem-truoc-cu-hich-nang-hang-ftse-5109688.html",
+      "diem": 43.6,
       "khan_cap": false
     },
     {
@@ -133,6 +143,16 @@
       "khan_cap": false
     },
     {
+      "tieu_de": "Mỹ thiếu nhân lực để phá thế thống trị khoáng sản của Trung Quốc",
+      "chu_de": "Thế giới",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-17 00:08",
+      "link": "https://vnexpress.net/my-thieu-nhan-luc-de-pha-the-thong-tri-khoang-san-cua-trung-quoc-5109777.html",
+      "diem": 15.2,
+      "khan_cap": false
+    },
+    {
       "tieu_de": "Đồng USD chạm mức thấp nhất kể từ tháng 5/2026",
       "chu_de": "Kinh tế VN",
       "nguon": "CafeF Tài chính",
@@ -150,6 +170,26 @@
       "thoi_gian": "2026-08-16 07:17",
       "link": "https://cafef.vn/hon-440-du-an-dau-tu-vao-cac-khu-kinh-te-va-khu-cong-nghiep-quang-ngai-von-dang-ky-gan-20-ty-usd-188260816011755828.chn",
       "diem": 13.6,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Kinh tế Nga ngày càng xuất hiện nhiều vết nứt",
+      "chu_de": "Địa chính trị",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-17 00:05",
+      "link": "https://vnexpress.net/kinh-te-nga-ngay-cang-xuat-hien-nhieu-vet-nut-5109712.html",
+      "diem": 12.8,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Nước sông Rhine cạn gây thêm trở ngại cho kinh tế Đức",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-17 00:00",
+      "link": "https://vnexpress.net/nuoc-song-rhine-can-gay-them-tro-ngai-cho-kinh-te-duc-5109556.html",
+      "diem": 12.7,
       "khan_cap": false
     },
     {
@@ -239,7 +279,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-16 19:30",
       "link": "https://cafef.vn/thu-do-cua-nga-ukraine-hung-hoa-luc-cung-luc-18826081618233841.chn",
-      "diem": 10.9,
+      "diem": 10.8,
       "khan_cap": false
     },
     {
@@ -260,46 +300,6 @@
       "thoi_gian": "2026-08-16 13:48",
       "link": "https://cafef.vn/lang-gieng-viet-nam-tu-choi-nha-thau-phap-lam-tau-dien-ngam-trung-quoc-nhay-vao-lap-tuc-duoc-khen-la-hoan-hao-188260816134929942.chn",
       "diem": 10.5,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Ukraine tập kích UAV lớn chưa từng thấy nhằm vào Moskva trong 2 năm",
-      "chu_de": "Địa chính trị",
-      "nguon": "VnExpress Thế giới",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-16 18:25",
-      "link": "https://vnexpress.net/ukraine-tap-kich-uav-lon-chua-tung-thay-nham-vao-moskva-trong-2-nam-5109717.html",
-      "diem": 10.4,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Tổng thống Brazil tung đòn đáp trả thuế Mỹ, yêu cầu được tôn trọng",
-      "chu_de": "Thế giới",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-16 18:00",
-      "link": "https://cafef.vn/tong-thong-brazil-tung-don-dap-tra-thue-my-yeu-cau-duoc-ton-trong-188260816153017654.chn",
-      "diem": 10.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "100 triệu USD giúp hàn gắn rạn nứt giữa tỷ phú Musk với ông Trump",
-      "chu_de": "Địa chính trị",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-16 10:31",
-      "link": "https://cafef.vn/100-trieu-usd-giup-han-gan-ran-nut-giua-ty-phu-musk-voi-ong-trump-188260816101634066.chn",
-      "diem": 10.1,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Tướng Mỹ thừa nhận phòng không bất lực trước bầy đàn drone trong nước",
-      "chu_de": "Thế giới",
-      "nguon": "VnExpress Thế giới",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-16 17:44",
-      "link": "https://vnexpress.net/tuong-my-thua-nhan-phong-khong-bat-luc-truoc-bay-dan-drone-trong-nuoc-5109249.html",
-      "diem": 10.1,
       "khan_cap": false
     }
   ]
