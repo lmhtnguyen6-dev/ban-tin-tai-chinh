@@ -1,5 +1,5 @@
 {
-  "cap_nhat_luc": "2026-08-23 23:07:38",
+  "cap_nhat_luc": "2026-08-24 09:56:12",
   "so_tin": 30,
   "tin": [
     {
@@ -7,9 +7,19 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-23 23:07",
+      "thoi_gian": "2026-08-24 09:56",
       "link": "https://vietnambiz.vn/hdbank-thong-qua-phuong-an-tra-co-tuc-25-phat-hanh-rieng-le-700-trieu-co-phieu-tang-von-them-44-202682014279579.htm",
       "diem": 64.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "NHNN tiếp tục hút ròng hơn 7.800 tỷ, lãi suất liên ngân hàng giảm mạnh",
+      "chu_de": "Chính sách",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-24 09:56",
+      "link": "https://vietnambiz.vn/nhnn-tiep-tuc-hut-rong-hon-7800-ty-lai-suat-lien-ngan-hang-giam-manh-20268248256443.htm",
+      "diem": 52.0,
       "khan_cap": false
     },
     {
@@ -19,7 +29,7 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-23 19:22",
       "link": "https://cafef.vn/lai-suat-ngan-hang-23-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260823192541414.chn",
-      "diem": 50.8,
+      "diem": 41.8,
       "khan_cap": false
     },
     {
@@ -27,7 +37,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-23 23:07",
+      "thoi_gian": "2026-08-24 09:56",
       "link": "https://vietnambiz.vn/vi-sao-no-xau-tang-nhung-loi-nhuan-ngan-hang-van-tang-manh-2026823112419186.htm",
       "diem": 40.0,
       "khan_cap": false
@@ -37,7 +47,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-23 23:07",
+      "thoi_gian": "2026-08-24 09:56",
       "link": "https://vietnambiz.vn/vietbank-trien-khai-goi-tin-dung-uu-dai-2500-ty-dong-giam-lai-suat-ho-tro-doanh-nghiep-2026822114331855.htm",
       "diem": 40.0,
       "khan_cap": false
@@ -47,9 +57,19 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-23 23:07",
+      "thoi_gian": "2026-08-24 09:56",
       "link": "https://vietnambiz.vn/lanh-dao-dragon-capital-lai-suat-kho-tang-cao-nhung-cung-kho-co-cu-giam-lon-20268141310382.htm",
       "diem": 38.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Quốc hội chốt loạt ưu đãi nhằm tăng thu hút đầu tư dầu khí",
+      "chu_de": "Chính sách",
+      "nguon": "VietnamBiz Vĩ mô, VnExpress Kinh doanh",
+      "so_nguon": 2,
+      "thoi_gian": "2026-08-24 09:56",
+      "link": "https://vietnambiz.vn/quoc-hoi-chot-loat-uu-dai-nham-tang-thu-hut-dau-tu-dau-khi-2026823142651902.htm",
+      "diem": 36.0,
       "khan_cap": false
     },
     {
@@ -57,18 +77,8 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-23 23:07",
+      "thoi_gian": "2026-08-24 09:56",
       "link": "https://vietnambiz.vn/techcombank-ty-gia-usdvnd-co-kha-nang-xuong-duoi-26000-vao-cuoi-nam-20268208446685.htm",
-      "diem": 36.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Viet A Bank chốt thời điểm phát hành 85,7 triệu cổ phiếu thưởng, tăng vốn lên hơn 9.000 tỷ đồng",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-23 23:07",
-      "link": "https://vietnambiz.vn/viet-a-bank-chot-thoi-diem-phat-hanh-857-trieu-co-phieu-thuong-tang-von-len-hon-9000-ty-dong-2026819165649411.htm",
       "diem": 36.0,
       "khan_cap": false
     },
@@ -77,7 +87,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-23 23:07",
+      "thoi_gian": "2026-08-24 09:56",
       "link": "https://vietnambiz.vn/agribank-vietcombank-bidvva-loat-ngan-hang-cong-bo-lich-nghi-le-29-khach-hang-can-luu-y-gi-2026822123257760.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -87,7 +97,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-23 23:07",
+      "thoi_gian": "2026-08-24 09:56",
       "link": "https://vietnambiz.vn/scb-bat-ngo-day-lai-suat-tien-gui-tang-vot-len-87nam-sau-hai-nam-giu-nguyen-2026822111837282.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -97,7 +107,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-23 23:07",
+      "thoi_gian": "2026-08-24 09:56",
       "link": "https://vietnambiz.vn/cuoc-dua-moi-chao-khach-gui-tien-cua-nhan-vien-ngan-hang-lai-suat-tren-9-ap-dung-voi-ca-khoan-tien-nho-202682182232256.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -107,7 +117,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-23 23:07",
+      "thoi_gian": "2026-08-24 09:56",
       "link": "https://vietnambiz.vn/nhnn-se-tai-cap-von-50000-ty-dong-cho-nhtm-de-phat-trien-nha-o-cho-thue-2026820171847156.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -117,7 +127,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-23 23:07",
+      "thoi_gian": "2026-08-24 09:56",
       "link": "https://vietnambiz.vn/pho-thu-tuong-yeu-cau-ngan-hang-giam-lai-suat-cho-vay-thuc-chat-thao-go-van-de-tiep-can-von-20268117427459.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -127,7 +137,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-23 23:07",
+      "thoi_gian": "2026-08-24 09:56",
       "link": "https://vietnambiz.vn/ha-noi-sap-nhap-so-quy-hoach-kien-truc-voi-xay-dung-du-lich-voi-van-hoa-the-thao-2026810101013405.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -137,7 +147,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-23 23:07",
+      "thoi_gian": "2026-08-24 09:56",
       "link": "https://vietnambiz.vn/ha-noi-du-kien-sap-nhap-to-chuc-lai-5-so-nganh-202689145715441.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -147,7 +157,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-23 23:07",
+      "thoi_gian": "2026-08-24 09:56",
       "link": "https://vietnambiz.vn/toan-canh-ngan-hang-nua-dau-2026-cho-vay-mua-nha-chung-lai-ty-le-no-xau-quy-ii-tang-cao-nhat-ke-tu-2020-2026822171641576.htm",
       "diem": 32.0,
       "khan_cap": false
@@ -157,29 +167,19 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-23 23:07",
+      "thoi_gian": "2026-08-24 09:56",
       "link": "https://vietnambiz.vn/fdi-can-gi-de-tu-tin-rot-von-chat-luong-cao-vao-viet-nam-2026810201023146.htm",
       "diem": 32.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "Quảng Ngãi: Phấn đấu giải ngân 100% vốn đầu tư công",
-      "chu_de": "Chính sách",
-      "nguon": "CafeF Vĩ mô",
+      "tieu_de": "Chứng khoán tuần này có thể tăng lên vùng 1.800 điểm",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-23 17:21",
-      "link": "https://cafef.vn/quang-ngai-phan-dau-giai-ngan-100-von-dau-tu-cong-188260823161108639.chn",
-      "diem": 31.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "NHNN ghi nhận: Một khu vực có tất cả các ngân hàng giảm lãi suất cả huy động và cho vay",
-      "chu_de": "Chính sách",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-23 09:11",
-      "link": "https://cafef.vn/nhnn-ghi-nhan-mot-khu-vuc-co-tat-ca-cac-ngan-hang-giam-lai-suat-ca-huy-dong-va-cho-vay-188260823091153273.chn",
-      "diem": 30.4,
+      "thoi_gian": "2026-08-24 04:00",
+      "link": "https://vnexpress.net/chung-khoan-tuan-nay-co-the-tang-len-vung-1-800-diem-5112458.html",
+      "diem": 31.0,
       "khan_cap": false
     },
     {
@@ -187,7 +187,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-23 23:07",
+      "thoi_gian": "2026-08-24 09:56",
       "link": "https://vietnambiz.vn/du-no-kinh-doanh-bat-dong-san-tang-hon-518000-ty-dong-trong-nua-dau-nam-20268229580240.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -197,7 +197,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-23 23:07",
+      "thoi_gian": "2026-08-24 09:56",
       "link": "https://vietnambiz.vn/cong-ty-bao-hiem-phi-nhan-tho-cua-acb-chinh-thuc-duoc-cap-phep-von-ban-dau-500-ty-20268228129838.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -207,7 +207,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-23 23:07",
+      "thoi_gian": "2026-08-24 09:56",
       "link": "https://vietnambiz.vn/lo-don-hang-tu-my-sut-giam-doanh-nghiep-xuat-khau-bu-dap-bang-cach-nao-2026817133733933.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -217,7 +217,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-23 23:07",
+      "thoi_gian": "2026-08-24 09:56",
       "link": "https://vietnambiz.vn/de-xuat-phan-quyen-ban-hanh-chinh-sach-nhap-khau-cong-nghe-2026817194025787.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -227,7 +227,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-23 23:07",
+      "thoi_gian": "2026-08-24 09:56",
       "link": "https://vietnambiz.vn/viet-nam-dan-dau-tang-truong-asean-6-gap-hon-4-lan-vi-tri-cuoi-bang-2026817161128718.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -237,19 +237,19 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-23 23:07",
+      "thoi_gian": "2026-08-24 09:56",
       "link": "https://vietnambiz.vn/ssi-research-chi-ra-hai-yeu-to-quyet-dinh-dong-luc-tang-truong-nua-cuoi-nam-202689155728326.htm",
       "diem": 30.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "'Cần phân định rủi ro của hoạt động dầu khí với quyết định đầu tư sai'",
+      "tieu_de": "'Sân bay Gia Bình có thể trở thành động lực tăng trưởng mới của toàn vùng'",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
+      "nguon": "VnExpress Kinh doanh",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-23 23:07",
-      "link": "https://vietnambiz.vn/can-phan-dinh-rui-ro-cua-hoat-dong-dau-khi-voi-quyet-dinh-dau-tu-sai-2026881939531.htm",
-      "diem": 30.0,
+      "thoi_gian": "2026-08-24 08:00",
+      "link": "https://vnexpress.net/san-bay-gia-binh-co-the-tro-thanh-dong-luc-tang-truong-moi-cua-toan-vung-5112389.html",
+      "diem": 28.4,
       "khan_cap": false
     },
     {
@@ -257,7 +257,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-23 23:07",
+      "thoi_gian": "2026-08-24 09:56",
       "link": "https://vietnambiz.vn/nhap-sieu-tiep-tuc-gia-tang-dat-ky-luc-gan-22-ty-usd-trong-85-thang-2026819163129137.htm",
       "diem": 28.0,
       "khan_cap": false
@@ -267,39 +267,39 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-23 23:07",
+      "thoi_gian": "2026-08-24 09:56",
       "link": "https://vietnambiz.vn/hai-nhom-san-pham-dien-tu-chu-luc-nhap-sieu-13-ty-usd-vi-gia-chip-tang-den-20-doanh-nghiep-phai-tich-tru-tu-som-202681595152995.htm",
       "diem": 28.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "Lãi/lỗ bao nhiêu sau một tuần mua vàng tại SJC, DOJI, PNJ, Bảo Tín Minh Châu, Mi Hồng?",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-23 13:49",
-      "link": "https://cafef.vn/lai-lo-bao-nhieu-sau-mot-tuan-mua-vang-tai-sjc-doji-pnj-bao-tin-minh-chau-mi-hong-188260823134958457.chn",
-      "diem": 22.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Xuất khẩu vải thiều lao dốc",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-23 13:42",
-      "link": "https://vnexpress.net/xuat-khau-vai-thieu-lao-doc-5112349.html",
-      "diem": 22.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Quốc hội thông qua Luật Dầu khí sửa đổi, giao thêm quyền cho Petrovietnam",
+      "tieu_de": "Hôm nay, Quốc hội sẽ biểu quyết thông qua Nghị quyết thành lập thành phố Quảng Ninh và Bắc Ninh",
       "chu_de": "Chính sách",
       "nguon": "CafeF Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-23 13:38",
-      "link": "https://cafef.vn/quoc-hoi-thong-qua-luat-dau-khi-sua-doi-giao-them-quyen-cho-petrovietnam-188260823133119001.chn",
-      "diem": 22.0,
+      "thoi_gian": "2026-08-24 01:01",
+      "link": "https://cafef.vn/hom-nay-quoc-hoi-se-bieu-quyet-thong-qua-nghi-quyet-thanh-lap-thanh-pho-quang-ninh-va-bac-ninh-188260824000230293.chn",
+      "diem": 24.6,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Quảng Ngãi: Phấn đấu giải ngân 100% vốn đầu tư công",
+      "chu_de": "Chính sách",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-23 17:21",
+      "link": "https://cafef.vn/quang-ngai-phan-dau-giai-ngan-100-von-dau-tu-cong-188260823161108639.chn",
+      "diem": 22.2,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Những doanh nghiệp có tỷ USD tiền mặt",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-24 00:16",
+      "link": "https://vnexpress.net/nhung-doanh-nghiep-co-ty-usd-tien-mat-5111429.html",
+      "diem": 20.0,
       "khan_cap": false
     }
   ]
