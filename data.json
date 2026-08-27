@@ -1,5 +1,5 @@
 {
-  "cap_nhat_luc": "2026-08-26 09:57:33",
+  "cap_nhat_luc": "2026-08-27 19:10:27",
   "so_tin": 30,
   "tin": [
     {
@@ -7,7 +7,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-26 09:57",
+      "thoi_gian": "2026-08-27 19:10",
       "link": "https://vietnambiz.vn/techcombank-trinh-phuong-an-chia-co-tuc-50-bang-co-phieu-2026824165853410.htm",
       "diem": 56.0,
       "khan_cap": false
@@ -17,7 +17,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-26 09:57",
+      "thoi_gian": "2026-08-27 19:10",
       "link": "https://vietnambiz.vn/nhnn-tiep-tuc-hut-rong-hon-7800-ty-lai-suat-lien-ngan-hang-giam-manh-20268248256443.htm",
       "diem": 52.0,
       "khan_cap": false
@@ -27,29 +27,9 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-26 09:57",
+      "thoi_gian": "2026-08-27 19:10",
       "link": "https://vietnambiz.vn/bao-hiem-bidv-chot-ngay-chia-co-tuc-tien-mat-ty-le-12-202682595627454.htm",
       "diem": 46.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Tỷ giá USD 25/8 tại Vietcombank, VietinBank, BIDV, MB, Techcombank, ACB, Eximbank, Sacombank",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-25 20:42",
-      "link": "https://cafef.vn/ty-gia-usd-25-8-tai-vietcombank-vietinbank-bidv-mb-techcombank-acb-eximbank-sacombank-188260825204418638.chn",
-      "diem": 45.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Lãi suất ngân hàng 25/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-25 20:02",
-      "link": "https://cafef.vn/lai-suat-ngan-hang-25-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260825200449047.chn",
-      "diem": 42.4,
       "khan_cap": false
     },
     {
@@ -57,9 +37,29 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-26 09:57",
+      "thoi_gian": "2026-08-27 19:10",
       "link": "https://vietnambiz.vn/8-ngan-hang-duoc-ftse-mua-vao-tu-thang-9-duoc-cac-cong-ty-chung-khoan-danh-gia-ra-sao-20268241273137.htm",
       "diem": 42.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Nhu cầu vốn trung dài hạn lớn, ngân hàng huy động trái phiếu lãi suất hai con số nhưng kỳ hạn rút ngắn lại",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-27 19:10",
+      "link": "https://vietnambiz.vn/nhu-cau-von-trung-dai-han-lon-ngan-hang-huy-dong-trai-phieu-lai-suat-hai-con-so-nhung-ky-han-rut-ngan-lai-202682511504390.htm",
+      "diem": 40.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "BIDV phát hành thêm gần 500 triệu cổ phiếu, vốn điều lệ tăng lên gần 77.800 tỷ đồng",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-27 19:10",
+      "link": "https://vietnambiz.vn/bidv-phat-hanh-them-gan-500-trieu-co-phieu-von-dieu-le-tang-len-gan-77800-ty-dong-2026826143915688.htm",
+      "diem": 40.0,
       "khan_cap": false
     },
     {
@@ -67,28 +67,8 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-26 09:57",
+      "thoi_gian": "2026-08-27 19:10",
       "link": "https://vietnambiz.vn/ngan-hang-tiep-tuc-phat-hanh-gan-24000-ty-dong-trai-phieu-trong-thang-8-lai-suat-cham-moc-10-202682517232208.htm",
-      "diem": 40.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Vì sao nợ xấu tăng nhưng lợi nhuận ngân hàng vẫn tăng mạnh?",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-26 09:57",
-      "link": "https://vietnambiz.vn/vi-sao-no-xau-tang-nhung-loi-nhuan-ngan-hang-van-tang-manh-2026823112419186.htm",
-      "diem": 40.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Vietbank triển khai gói tín dụng ưu đãi 2.500 tỷ đồng, giảm lãi suất hỗ trợ doanh nghiệp",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-26 09:57",
-      "link": "https://vietnambiz.vn/vietbank-trien-khai-goi-tin-dung-uu-dai-2500-ty-dong-giam-lai-suat-ho-tro-doanh-nghiep-2026822114331855.htm",
       "diem": 40.0,
       "khan_cap": false
     },
@@ -97,7 +77,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-26 09:57",
+      "thoi_gian": "2026-08-27 19:10",
       "link": "https://vietnambiz.vn/vietcombank-bat-ngo-giam-1-lai-suat-cho-vay-mua-nha-quy-mo-len-toi-20000-ty-2026824145627470.htm",
       "diem": 38.0,
       "khan_cap": false
@@ -107,9 +87,19 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-26 09:57",
+      "thoi_gian": "2026-08-27 19:10",
       "link": "https://vietnambiz.vn/lanh-dao-dragon-capital-lai-suat-kho-tang-cao-nhung-cung-kho-co-cu-giam-lon-20268141310382.htm",
       "diem": 38.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Sacombank vừa tăng mạnh lãi suất tiết kiệm ở nhiều kỳ hạn",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-27 18:27",
+      "link": "https://cafef.vn/sacombank-vua-tang-manh-lai-suat-tiet-kiem-o-nhieu-ky-han-188260827182835722.chn",
+      "diem": 37.4,
       "khan_cap": false
     },
     {
@@ -117,58 +107,28 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-26 09:57",
+      "thoi_gian": "2026-08-27 19:10",
       "link": "https://vietnambiz.vn/xuat-hien-giao-dich-thoa-thuan-gan-137-trieu-co-phieu-msb-chi-sau-3-phien-2026825162535701.htm",
       "diem": 36.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "ABBank được thông qua phương án phát hành hơn 1 tỷ cổ phiếu, tăng vốn thêm gần 67%",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-26 09:57",
-      "link": "https://vietnambiz.vn/abbank-duoc-thong-qua-phuong-an-phat-hanh-hon-1-ty-co-phieu-tang-von-them-gan-67-20268221663113.htm",
-      "diem": 36.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Loạt lãnh đạo 'thượng tầng' MB cùng muốn xuống tiền mua lượng lớn cổ phiếu, hướng tới mốc vốn điều lệ vượt 100.000 tỷ",
+      "tieu_de": "Lãi suất ngân hàng 26/8 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank, ...",
       "chu_de": "Kinh tế VN",
       "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-26 09:50",
-      "link": "https://cafef.vn/loat-lanh-dao-thuong-tang-mb-cung-muon-xuong-tien-mua-luong-lon-co-phieu-huong-toi-moc-von-dieu-le-vuot-100000-ty-188260826095114035.chn",
-      "diem": 35.8,
+      "thoi_gian": "2026-08-26 20:30",
+      "link": "https://cafef.vn/lai-suat-ngan-hang-26-8-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260826200225357.chn",
+      "diem": 35.2,
       "khan_cap": false
     },
     {
-      "tieu_de": "Không phải VietinBank hay BIDV, đây mới là ngân hàng có nhiều tiền gửi giá rẻ nhất, bằng cả Techcombank, VPBank, ACB, Sacombank cộng lại",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-25 15:51",
-      "link": "https://cafef.vn/khong-phai-vietinbank-hay-bidv-day-moi-la-ngan-hang-co-nhieu-tien-gui-gia-re-nhat-bang-ca-techcombank-vpbank-acb-sacombank-cong-lai-188260825155512256.chn",
-      "diem": 35.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Agribank, Vietcombank, BIDV,...và loạt ngân hàng công bố lịch nghỉ lễ 2/9, khách hàng cần lưu ý gì?",
+      "tieu_de": "Người gửi tiền mặc cả lãi suất",
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-26 09:57",
-      "link": "https://vietnambiz.vn/agribank-vietcombank-bidvva-loat-ngan-hang-cong-bo-lich-nghi-le-29-khach-hang-can-luu-y-gi-2026822123257760.htm",
-      "diem": 34.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "SCB đẩy lãi suất tiền gửi tăng vọt lên 8,7%/năm sau hai năm giữ nguyên",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-26 09:57",
-      "link": "https://vietnambiz.vn/scb-day-lai-suat-tien-gui-tang-vot-len-87nam-sau-hai-nam-giu-nguyen-2026822111837282.htm",
+      "thoi_gian": "2026-08-27 19:10",
+      "link": "https://vietnambiz.vn/nguoi-gui-tien-mac-ca-lai-suat-2026826193933208.htm",
       "diem": 34.0,
       "khan_cap": false
     },
@@ -177,7 +137,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-26 09:57",
+      "thoi_gian": "2026-08-27 19:10",
       "link": "https://vietnambiz.vn/pho-thu-tuong-yeu-cau-ngan-hang-giam-lai-suat-cho-vay-thuc-chat-thao-go-van-de-tiep-can-von-20268117427459.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -187,39 +147,29 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-26 09:57",
+      "thoi_gian": "2026-08-27 19:10",
       "link": "https://vietnambiz.vn/ha-noi-sap-nhap-so-quy-hoach-kien-truc-voi-xay-dung-du-lich-voi-van-hoa-the-thao-2026810101013405.htm",
       "diem": 34.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "Vì sao nhiều cổ phiếu 'quen thuộc' vắng bóng trong rổ FTSE?",
+      "tieu_de": "Chứng khoán 'xanh vỏ, đỏ lòng'",
       "chu_de": "Kinh tế VN",
       "nguon": "VnExpress Kinh doanh",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-26 00:06",
-      "link": "https://vnexpress.net/vi-sao-nhieu-co-phieu-quen-thuoc-vang-bong-trong-ro-ftse-5112917.html",
-      "diem": 33.8,
+      "thoi_gian": "2026-08-27 15:34",
+      "link": "https://vnexpress.net/chung-khoan-xanh-vo-do-long-5114160.html",
+      "diem": 33.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "Người gửi tiền mặc cả lãi suất",
+      "tieu_de": "Các ngân hàng dùng gần 100.000 tỷ đồng để dự phòng rủi ro tín dụng: Không phải Agribank, VietinBank hay BIDV, đây mới là ngân hàng trích lập nhiều nhất",
       "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
+      "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-26 08:05",
-      "link": "https://vnexpress.net/nguoi-gui-tien-mac-ca-lai-suat-5113041.html",
-      "diem": 32.4,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Toàn cảnh ngân hàng nửa đầu 2026: Cho vay mua nhà chững lại, tỷ lệ nợ xấu quý II tăng cao nhất kể từ 2020",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-26 09:57",
-      "link": "https://vietnambiz.vn/toan-canh-ngan-hang-nua-dau-2026-cho-vay-mua-nha-chung-lai-ty-le-no-xau-quy-ii-tang-cao-nhat-ke-tu-2020-2026822171641576.htm",
-      "diem": 32.0,
+      "thoi_gian": "2026-08-27 10:36",
+      "link": "https://cafef.vn/cac-ngan-hang-dung-gan-100000-ty-dong-de-du-phong-rui-ro-tin-dung-khong-phai-agribank-vietinbank-hay-bidv-day-moi-la-ngan-hang-trich-lap-nhieu-nhat-188260827103824677.chn",
+      "diem": 32.8,
       "khan_cap": false
     },
     {
@@ -227,9 +177,59 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-26 09:57",
+      "thoi_gian": "2026-08-27 19:10",
       "link": "https://vietnambiz.vn/fdi-can-gi-de-tu-tin-rot-von-chat-luong-cao-vao-viet-nam-2026810201023146.htm",
       "diem": 32.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Fed có thêm lý do để nâng lãi suất",
+      "chu_de": "Fed",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-27 11:00",
+      "link": "https://vnexpress.net/fed-co-them-ly-do-de-nang-lai-suat-5113948.html",
+      "diem": 31.6,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Cơ quan Thuế yêu cầu Vietcombank, BIDV, Agribank... trích tiền từ tài khoản của loạt cá nhân, hộ kinh doanh trong danh sách sau",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-27 14:36",
+      "link": "https://cafef.vn/co-quan-thue-yeu-cau-vietcombank-bidv-agribank-trich-tien-tu-tai-khoan-cua-loat-ca-nhan-ho-kinh-doanh-trong-danh-sach-sau-188260827143213537.chn",
+      "diem": 30.2,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Cá nhân, tổ chức nào đang sở hữu Techcombank?",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-27 19:10",
+      "link": "https://vietnambiz.vn/17-co-dong-so-huu-tren-50-von-cua-techcombank-2026826155916473.htm",
+      "diem": 30.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "KB Kookmin: Techcombank là một trong nhiều ngân hàng đang xem xét, hiện chưa ở giai đoạn đàm phán hay thảo luận cụ thể về việc mua lại TCB",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-27 19:10",
+      "link": "https://vietnambiz.vn/kb-kookmin-techcombank-la-mot-trong-nhieu-ngan-hang-dang-xem-xet-hien-chua-o-giai-doan-dam-phan-hay-thao-luan-cu-the-ve-viec-mua-lai-tcb-2026826164546303.htm",
+      "diem": 30.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Hai nhà đầu tư ngoại muốn mua 15% vốn của Techcombank",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-27 19:10",
+      "link": "https://vietnambiz.vn/hai-nha-dau-tu-ngoai-muon-mua-15-von-cua-techcombank-202682614958859.htm",
+      "diem": 30.0,
       "khan_cap": false
     },
     {
@@ -237,28 +237,8 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-26 09:57",
+      "thoi_gian": "2026-08-27 19:10",
       "link": "https://vietnambiz.vn/vietcombank-canh-bao-gia-mao-bang-ai-de-du-dau-tu-tien-so-202682664656749.htm",
-      "diem": 30.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Dư nợ kinh doanh bất động sản tăng hơn 518.000 tỷ đồng trong nửa đầu năm",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-26 09:57",
-      "link": "https://vietnambiz.vn/du-no-kinh-doanh-bat-dong-san-tang-hon-518000-ty-dong-trong-nua-dau-nam-20268229580240.htm",
-      "diem": 30.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Công ty bảo hiểm phi nhân thọ của ACB chính thức được cấp phép, vốn ban đầu 500 tỷ",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-26 09:57",
-      "link": "https://vietnambiz.vn/cong-ty-bao-hiem-phi-nhan-tho-cua-acb-chinh-thuc-duoc-cap-phep-von-ban-dau-500-ty-20268228129838.htm",
       "diem": 30.0,
       "khan_cap": false
     },
@@ -267,7 +247,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-26 09:57",
+      "thoi_gian": "2026-08-27 19:10",
       "link": "https://vietnambiz.vn/quoc-hoi-chot-loat-uu-dai-nham-tang-thu-hut-dau-tu-dau-khi-2026823142651902.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -277,7 +257,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-26 09:57",
+      "thoi_gian": "2026-08-27 19:10",
       "link": "https://vietnambiz.vn/lo-don-hang-tu-my-sut-giam-doanh-nghiep-xuat-khau-bu-dap-bang-cach-nao-2026817133733933.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -287,7 +267,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-26 09:57",
+      "thoi_gian": "2026-08-27 19:10",
       "link": "https://vietnambiz.vn/de-xuat-phan-quyen-ban-hanh-chinh-sach-nhap-khau-cong-nghe-2026817194025787.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -297,9 +277,29 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-26 09:57",
+      "thoi_gian": "2026-08-27 19:10",
       "link": "https://vietnambiz.vn/viet-nam-dan-dau-tang-truong-asean-6-gap-hon-4-lan-vi-tri-cuoi-bang-2026817161128718.htm",
       "diem": 30.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "SSI Research chỉ ra hai yếu tố quyết định động lực tăng trưởng nửa cuối năm",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-27 19:10",
+      "link": "https://vietnambiz.vn/ssi-research-chi-ra-hai-yeu-to-quyet-dinh-dong-luc-tang-truong-nua-cuoi-nam-202689155728326.htm",
+      "diem": 30.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Thuế Hà Nội hướng dẫn thủ tục thuế đối với cá nhân chuyển nhượng bất động sản",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-27 18:54",
+      "link": "https://cafef.vn/thue-ha-noi-huong-dan-thu-tuc-thue-doi-voi-ca-nhan-chuyen-nhuong-bat-dong-san-188260827160046561.chn",
+      "diem": 29.8,
       "khan_cap": false
     }
   ]
