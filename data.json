@@ -1,7 +1,17 @@
 {
-  "cap_nhat_luc": "2026-08-28 20:34:48",
+  "cap_nhat_luc": "2026-08-29 15:26:54",
   "so_tin": 30,
   "tin": [
+    {
+      "tieu_de": "7 thành phố của Ukraine bị không kích, 8 quả bom đồng loạt rơi xuống Sloviansk",
+      "chu_de": "Địa chính trị",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-29 14:20",
+      "link": "https://cafef.vn/7-thanh-pho-cua-ukraine-bi-khong-kich-8-qua-bom-dong-loat-roi-xuong-sloviansk-188260829114306775.chn",
+      "diem": 62.5,
+      "khan_cap": true
+    },
     {
       "tieu_de": "Kiev báo động không kích nhiều chưa từng thấy từ đầu xung đột",
       "chu_de": "Địa chính trị",
@@ -9,77 +19,17 @@
       "so_nguon": 1,
       "thoi_gian": "2026-08-28 19:05",
       "link": "https://vnexpress.net/kiev-bao-dong-khong-kich-nhieu-chua-tung-thay-tu-dau-xung-dot-5114620.html",
-      "diem": 62.4,
+      "diem": 54.5,
       "khan_cap": true
     },
     {
-      "tieu_de": "Techcombank trình phương án chia cổ tức 50% bằng cổ phiếu",
+      "tieu_de": "Lãi suất ngân hàng 28/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
+      "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-28 20:34",
-      "link": "https://vietnambiz.vn/techcombank-trinh-phuong-an-chia-co-tuc-50-bang-co-phieu-2026824165853410.htm",
-      "diem": 56.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Bảo hiểm BIDV chốt ngày chia cổ tức tiền mặt tỷ lệ 12%",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-28 20:34",
-      "link": "https://vietnambiz.vn/bao-hiem-bidv-chot-ngay-chia-co-tuc-tien-mat-ty-le-12-202682595627454.htm",
-      "diem": 46.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "8 ngân hàng được FTSE mua vào từ tháng 9 được các công ty chứng khoán đánh giá ra sao?",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-28 20:34",
-      "link": "https://vietnambiz.vn/8-ngan-hang-duoc-ftse-mua-vao-tu-thang-9-duoc-cac-cong-ty-chung-khoan-danh-gia-ra-sao-20268241273137.htm",
-      "diem": 42.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Nhu cầu vốn trung dài hạn lớn, ngân hàng huy động trái phiếu lãi suất hai con số nhưng kỳ hạn rút ngắn lại",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-28 20:34",
-      "link": "https://vietnambiz.vn/nhu-cau-von-trung-dai-han-lon-ngan-hang-huy-dong-trai-phieu-lai-suat-hai-con-so-nhung-ky-han-rut-ngan-lai-202682511504390.htm",
-      "diem": 40.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "BIDV phát hành thêm gần 500 triệu cổ phiếu, vốn điều lệ tăng lên gần 77.800 tỷ đồng",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-28 20:34",
-      "link": "https://vietnambiz.vn/bidv-phat-hanh-them-gan-500-trieu-co-phieu-von-dieu-le-tang-len-gan-77800-ty-dong-2026826143915688.htm",
-      "diem": 40.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Ngân hàng tiếp tục phát hành gần 24.000 tỷ đồng trái phiếu trong tháng 8, lãi suất chạm mốc 10%",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-28 20:34",
-      "link": "https://vietnambiz.vn/ngan-hang-tiep-tuc-phat-hanh-gan-24000-ty-dong-trai-phieu-trong-thang-8-lai-suat-cham-moc-10-202682517232208.htm",
-      "diem": 40.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Vietcombank bất ngờ giảm 1% lãi suất cho vay mua nhà, quy mô lên tới 20.000 tỷ",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-28 20:34",
-      "link": "https://vietnambiz.vn/vietcombank-bat-ngo-giam-1-lai-suat-cho-vay-mua-nha-quy-mo-len-toi-20000-ty-2026824145627470.htm",
-      "diem": 38.0,
+      "thoi_gian": "2026-08-28 20:55",
+      "link": "https://cafef.vn/lai-suat-ngan-hang-28-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260828165800896.chn",
+      "diem": 38.6,
       "khan_cap": false
     },
     {
@@ -87,39 +37,9 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-28 20:34",
+      "thoi_gian": "2026-08-29 15:26",
       "link": "https://vietnambiz.vn/lanh-dao-dragon-capital-lai-suat-kho-tang-cao-nhung-cung-kho-co-cu-giam-lon-20268141310382.htm",
       "diem": 38.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Xuất hiện giao dịch thoả thuận gần 137 triệu cổ phiếu MSB chỉ sau 3 phiên",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-28 20:34",
-      "link": "https://vietnambiz.vn/xuat-hien-giao-dich-thoa-thuan-gan-137-trieu-co-phieu-msb-chi-sau-3-phien-2026825162535701.htm",
-      "diem": 36.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Lãi suất ngân hàng 27/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-27 20:56",
-      "link": "https://cafef.vn/lai-suat-ngan-hang-27-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260827183113611.chn",
-      "diem": 34.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Người gửi tiền mặc cả lãi suất",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-28 20:34",
-      "link": "https://vietnambiz.vn/nguoi-gui-tien-mac-ca-lai-suat-2026826193933208.htm",
-      "diem": 34.0,
       "khan_cap": false
     },
     {
@@ -127,19 +47,9 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-28 20:34",
+      "thoi_gian": "2026-08-29 15:26",
       "link": "https://vietnambiz.vn/pho-thu-tuong-yeu-cau-ngan-hang-giam-lai-suat-cho-vay-thuc-chat-thao-go-van-de-tiep-can-von-20268117427459.htm",
       "diem": 34.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Chứng khoán có chuỗi tăng dài nhất năm",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-28 15:53",
-      "link": "https://vnexpress.net/chung-khoan-co-chuoi-tang-dai-nhat-nam-5114608.html",
-      "diem": 32.0,
       "khan_cap": false
     },
     {
@@ -147,69 +57,9 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-28 20:34",
+      "thoi_gian": "2026-08-29 15:26",
       "link": "https://vietnambiz.vn/fdi-can-gi-de-tu-tin-rot-von-chat-luong-cao-vao-viet-nam-2026810201023146.htm",
       "diem": 32.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Quan chức Fed: Đã đến lúc tăng lãi suất",
-      "chu_de": "Fed",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-28 10:13",
-      "link": "https://cafef.vn/quan-chuc-fed-da-den-luc-tang-lai-suat-188260828101343166.chn",
-      "diem": 30.1,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "VietinBank muốn bán gần 7 triệu cp Cảng Hải Phòng và hơn 19 triệu cp tại Cảng Sài Gòn",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-28 20:34",
-      "link": "https://vietnambiz.vn/vietinbank-muon-ban-gan-7-trieu-cp-cang-hai-phong-va-hon-19-trieu-cp-tai-cang-sai-gon-202682891627623.htm",
-      "diem": 30.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Cá nhân, tổ chức nào đang sở hữu Techcombank?",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-28 20:34",
-      "link": "https://vietnambiz.vn/17-co-dong-so-huu-tren-50-von-cua-techcombank-2026826155916473.htm",
-      "diem": 30.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "KB Kookmin: Techcombank là một trong nhiều ngân hàng đang xem xét, hiện chưa ở giai đoạn đàm phán hay thảo luận cụ thể về việc mua lại TCB",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-28 20:34",
-      "link": "https://vietnambiz.vn/kb-kookmin-techcombank-la-mot-trong-nhieu-ngan-hang-dang-xem-xet-hien-chua-o-giai-doan-dam-phan-hay-thao-luan-cu-the-ve-viec-mua-lai-tcb-2026826164546303.htm",
-      "diem": 30.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Hai nhà đầu tư ngoại muốn mua 15% vốn của Techcombank",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-28 20:34",
-      "link": "https://vietnambiz.vn/hai-nha-dau-tu-ngoai-muon-mua-15-von-cua-techcombank-202682614958859.htm",
-      "diem": 30.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Vietcombank cảnh báo giả mạo bằng AI để dụ đầu tư tiền số",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-08-28 20:34",
-      "link": "https://vietnambiz.vn/vietcombank-canh-bao-gia-mao-bang-ai-de-du-dau-tu-tien-so-202682664656749.htm",
-      "diem": 30.0,
       "khan_cap": false
     },
     {
@@ -217,7 +67,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-28 20:34",
+      "thoi_gian": "2026-08-29 15:26",
       "link": "https://vietnambiz.vn/quoc-hoi-chot-loat-uu-dai-nham-tang-thu-hut-dau-tu-dau-khi-2026823142651902.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -227,7 +77,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-28 20:34",
+      "thoi_gian": "2026-08-29 15:26",
       "link": "https://vietnambiz.vn/lo-don-hang-tu-my-sut-giam-doanh-nghiep-xuat-khau-bu-dap-bang-cach-nao-2026817133733933.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -237,7 +87,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-28 20:34",
+      "thoi_gian": "2026-08-29 15:26",
       "link": "https://vietnambiz.vn/de-xuat-phan-quyen-ban-hanh-chinh-sach-nhap-khau-cong-nghe-2026817194025787.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -247,19 +97,49 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-28 20:34",
+      "thoi_gian": "2026-08-29 15:26",
       "link": "https://vietnambiz.vn/viet-nam-dan-dau-tang-truong-asean-6-gap-hon-4-lan-vi-tri-cuoi-bang-2026817161128718.htm",
       "diem": 30.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "SACOMBANK Visa biến mỗi lần chạm thẻ thành một trải nghiệm sống đẳng cấp",
+      "tieu_de": "Đề xuất cho nhà đầu tư thử dùng AI đặt lệnh chứng khoán",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-29 08:05",
+      "link": "https://vnexpress.net/de-xuat-cho-nha-dau-tu-thu-dung-ai-dat-lenh-chung-khoan-5114575.html",
+      "diem": 29.8,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Vàng thế giới giảm 3% sau bài phát biểu của Chủ tịch Fed",
+      "chu_de": "Fed",
+      "nguon": "Vietstock Thế giới",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-29 08:31",
+      "link": "http://vietstock.vn/2026/08/vang-the-gioi-giam-3-sau-bai-phat-bieu-cua-chu-tich-fed-759-1486891.htm",
+      "diem": 29.1,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Cận cảnh tháo dỡ nhà máy Giầy Thượng Đình trên khu đất vàng Hà Nội",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-29 14:00",
+      "link": "https://cafef.vn/can-canh-thao-do-nha-may-giay-thuong-dinh-tren-khu-dat-vang-ha-noi-188260829133558747.chn",
+      "diem": 28.8,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Lãi suất liên ngân hàng qua đêm giảm mạnh về 1,2%/năm",
       "chu_de": "Kinh tế VN",
       "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-28 19:30",
-      "link": "https://cafef.vn/sacombank-visa-bien-moi-lan-cham-the-thanh-mot-trai-nghiem-song-dang-cap-188260828185226986.chn",
-      "diem": 29.0,
+      "thoi_gian": "2026-08-28 20:48",
+      "link": "https://cafef.vn/lai-suat-lien-ngan-hang-qua-dem-giam-manh-ve-12-nam-188260828204830109.chn",
+      "diem": 28.4,
       "khan_cap": false
     },
     {
@@ -267,7 +147,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-28 20:34",
+      "thoi_gian": "2026-08-29 15:26",
       "link": "https://vietnambiz.vn/nhap-sieu-tiep-tuc-gia-tang-dat-ky-luc-gan-22-ty-usd-trong-85-thang-2026819163129137.htm",
       "diem": 28.0,
       "khan_cap": false
@@ -277,29 +157,149 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-28 20:34",
+      "thoi_gian": "2026-08-29 15:26",
       "link": "https://vietnambiz.vn/hai-nhom-san-pham-dien-tu-chu-luc-nhap-sieu-13-ty-usd-vi-gia-chip-tang-den-20-doanh-nghiep-phai-tich-tru-tu-som-202681595152995.htm",
       "diem": 28.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "Vốn hóa Nvidia tăng hơn 400 tỷ USD một phiên",
+      "tieu_de": "Lộ diện công ty tài chính tiêu dùng có lợi nhuận cao nhất Việt Nam hiện nay",
       "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
+      "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-28 10:30",
-      "link": "https://vnexpress.net/von-hoa-nvidia-tang-hon-400-ty-usd-mot-phien-5114401.html",
-      "diem": 25.6,
+      "thoi_gian": "2026-08-29 07:31",
+      "link": "https://cafef.vn/lo-dien-cong-ty-tai-chinh-tieu-dung-co-loi-nhuan-cao-nhat-viet-nam-hien-nay-188260828232200718.chn",
+      "diem": 27.4,
       "khan_cap": false
     },
     {
-      "tieu_de": "Vàng thế giới nhích tăng chờ bài phát biểu của Chủ tịch Fed tại Jackson Hole",
+      "tieu_de": "Chủ tịch Fed phát tín hiệu cứng rắn, cho biết sẽ tăng lãi suất nếu yếu tố này không thay đổi",
       "chu_de": "Fed",
-      "nguon": "Vietstock Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
       "so_nguon": 1,
-      "thoi_gian": "2026-08-28 08:40",
-      "link": "http://vietstock.vn/2026/08/vang-the-gioi-nhich-tang-cho-bai-phat-bieu-cua-chu-tich-fed-tai-jackson-hole-759-1486110.htm",
-      "diem": 25.5,
+      "thoi_gian": "2026-08-29 00:00",
+      "link": "https://cafef.vn/chu-tich-fed-phat-tin-hieu-cung-ran-cho-biet-se-tang-lai-suat-neu-yeu-to-nay-khong-thay-doi-188260828233244688.chn",
+      "diem": 26.5,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Thủ tướng đề nghị tăng kết nối tài chính, chứng khoán Việt Nam - Đức",
+      "chu_de": "Chính sách",
+      "nguon": "Vietstock Kinh tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-28 23:02",
+      "link": "http://vietstock.vn/2026/08/thu-tuong-de-nghi-tang-ket-noi-tai-chinh-chung-khoan-viet-nam-duc-761-1486876.htm",
+      "diem": 22.4,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Làm muối cua Cà Mau doanh thu 3 tỷ đồng mỗi năm",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-29 06:00",
+      "link": "https://vnexpress.net/lam-muoi-cua-ca-mau-doanh-thu-3-ty-dong-moi-nam-5112854.html",
+      "diem": 22.2,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Toyota đầu tư thêm 283 triệu USD, chuẩn bị sản xuất xe hybrid tại Việt Nam",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-29 07:30",
+      "link": "https://cafef.vn/toyota-dau-tu-them-283-trieu-usd-chuan-bi-san-xuat-xe-hybrid-tai-viet-nam-188260829072819824.chn",
+      "diem": 21.4,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Chứng khoán có chuỗi tăng dài nhất năm",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-28 15:53",
+      "link": "https://vnexpress.net/chung-khoan-co-chuoi-tang-dai-nhat-nam-5114608.html",
+      "diem": 16.4,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Tổng thống Mỹ Trump công bố bước đi chưa từng có nhằm vào 65 tỷ thùng dầu của Venezuela",
+      "chu_de": "Địa chính trị",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-29 12:38",
+      "link": "https://cafef.vn/tong-thong-my-trump-cong-bo-buoc-di-chua-tung-co-nham-vao-65-ty-thung-dau-cua-venezuela-188260829113925392.chn",
+      "diem": 15.8,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Bí mật gia tộc Madam Pang: Suốt 5 đời giàu có, sáng lập ngân hàng 144 tỷ USD, tên họ trở thành cách gọi 'người giàu'",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-29 15:11",
+      "link": "https://cafef.vn/bi-mat-gia-toc-madam-pang-suot-5-doi-giau-co-sang-lap-ngan-hang-144-ty-usd-ten-ho-tro-thanh-cach-goi-nguoi-giau-188260829133858958.chn",
+      "diem": 15.3,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Xuất hiện 'bom nước' thứ hai gần biên giới Nepal - Trung Quốc",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-29 13:40",
+      "link": "https://cafef.vn/xuat-hien-bom-nuoc-thu-hai-gan-bien-gioi-nepal-trung-quoc-188260829120609306.chn",
+      "diem": 14.6,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Lũ quét Nepal - Trung Quốc: Số người chết tăng lên 586, vẫn còn 2,478 người mất tích",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-29 11:26",
+      "link": "https://cafef.vn/lu-quet-nepal-trung-quoc-so-nguoi-chet-tang-len-586-van-con-2478-nguoi-mat-tich-188260829112639363.chn",
+      "diem": 13.5,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "SACOMBANK Visa biến mỗi lần chạm thẻ thành một trải nghiệm sống đẳng cấp",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-28 19:30",
+      "link": "https://cafef.vn/sacombank-visa-bien-moi-lan-cham-the-thanh-mot-trai-nghiem-song-dang-cap-188260828185226986.chn",
+      "diem": 13.4,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Mỹ đạt thỏa thuận kiểm soát hơn 65 tỷ thùng dầu của Venezuela",
+      "chu_de": "Thế giới",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-29 08:19",
+      "link": "https://vnexpress.net/my-dat-thoa-thuan-kiem-soat-hon-65-ty-thung-dau-cua-venezuela-5114801.html",
+      "diem": 13.2,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Doanh nghiệp bị xác định 'không hoạt động tại địa chỉ đăng ký' khi nào?",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-29 15:26",
+      "link": "https://vietnambiz.vn/doanh-nghiep-bi-xac-dinh-khong-hoat-dong-tai-dia-chi-dang-ky-khi-nao-202682819559248.htm",
+      "diem": 13.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Xe nhích từng mét ở cửa ngõ Hà Nội, TP HCM trước nghỉ lễ",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-08-29 15:26",
+      "link": "https://vietnambiz.vn/xe-nhich-tung-met-o-cua-ngo-ha-noi-tp-hcm-truoc-nghi-le-2026828194058548.htm",
+      "diem": 13.0,
       "khan_cap": false
     }
   ]
