@@ -1,15 +1,165 @@
 {
-  "cap_nhat_luc": "2026-09-08 13:45:24",
+  "cap_nhat_luc": "2026-09-09 13:54:24",
   "so_tin": 30,
   "tin": [
+    {
+      "tieu_de": "Lãi suất tiết kiệm hôm nay ngày 9/9 tại Agribank, BIDV, Vietcombank, Sacombank, ACB, VPBank, MB,....",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-09-09 10:42",
+      "link": "https://cafef.vn/lai-suat-tiet-kiem-hom-nay-ngay-9-9-tai-agribank-bidv-vietcombank-sacombank-acb-vpbank-mb-188260909104210759.chn",
+      "diem": 51.4,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Thủ tướng: NHNN tìm điểm cân bằng giữa lạm phát và tăng trưởng, tăng tiền gửi KBNN tại các ngân hàng",
+      "chu_de": "Chính sách",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-09-09 13:54",
+      "link": "https://vietnambiz.vn/thu-tuong-nhnn-tim-diem-can-bang-giua-lam-phat-va-tang-truong-tang-tien-gui-kbnn-tai-cac-ngan-hang-20269481439213.htm",
+      "diem": 46.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Không phải VietinBank, Techcombank, ACB,...: Một ngân hàng cũng có tỷ lệ bao phủ nợ xấu trên 200% như Vietcombank",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-09-09 11:16",
+      "link": "https://cafef.vn/khong-phai-vietinbank-techcombank-acbmot-ngan-hang-cung-co-ty-le-bao-phu-no-xau-tren-200-nhu-vietcombank-188260909111622534.chn",
+      "diem": 45.8,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "NHNN đã kích hoạt 3 công cụ hỗ trợ, lãi suất dài hạn khó giảm",
+      "chu_de": "Chính sách",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-09-09 13:54",
+      "link": "https://vietnambiz.vn/nhnn-da-kich-hoat-3-cong-cu-ho-tro-lai-suat-dai-han-kho-giam-202698111212965.htm",
+      "diem": 42.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "NHNN tiếp tục bơm ròng, lãi suất qua đêm vọt tăng từ hơn 1% lên trên 6%/năm",
+      "chu_de": "Chính sách",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-09-09 13:54",
+      "link": "https://vietnambiz.vn/nhnn-tiep-tuc-bom-rong-lai-suat-qua-dem-vot-tang-tu-hon-1-len-tren-6nam-20269783141912.htm",
+      "diem": 42.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Nhập siêu lớn và Fed tăng lãi suất trong tháng 9 có thể gây áp lực lên tỷ giá",
+      "chu_de": "Fed",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-09-09 13:54",
+      "link": "https://vietnambiz.vn/nhap-sieu-lon-va-fed-tang-lai-suat-trong-thang-9-co-the-gay-ap-luc-len-ty-gia-2026987434770.htm",
+      "diem": 40.8,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Trái phiếu chính phủ Việt Nam ra sao giữa làn sóng bán tháo ở nhiều nước?",
+      "chu_de": "Chính sách",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-09-09 13:54",
+      "link": "https://vietnambiz.vn/trai-phieu-chinh-phu-viet-nam-ra-sao-giua-lan-song-ban-thao-o-nhieu-nuoc-20269585526994.htm",
+      "diem": 36.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Thứ trưởng Bộ Tài chính: Tăng trưởng huy động vốn đến ngày 22/8 đạt 8,77% cao hơn mức tăng tín dụng",
+      "chu_de": "Chính sách",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-09-09 13:54",
+      "link": "https://vietnambiz.vn/thu-truong-bo-tai-chinh-tang-truong-huy-dong-von-den-ngay-228-dat-877-cao-hon-muc-tang-tin-dung-202693161058181.htm",
+      "diem": 36.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "SSI: Tăng trưởng GDP quý III có thể đạt 9,3%, vấn đề của Việt Nam không phải là thiếu thanh khoản",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-09-09 13:54",
+      "link": "https://vietnambiz.vn/ssi-tang-truong-gdp-quy-iii-co-the-dat-93-van-de-cua-viet-nam-khong-phai-la-thieu-thanh-khoan-2026998303957.htm",
+      "diem": 36.0,
+      "khan_cap": false
+    },
     {
       "tieu_de": "TS. Cấn Văn Lực: Tăng trưởng GDP quý III có thể đạt 9,5% - 10%, cả năm khoảng 9%",
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-09-08 13:45",
+      "thoi_gian": "2026-09-09 13:54",
       "link": "https://vietnambiz.vn/ts-can-van-luc-tang-truong-gdp-quy-iii-co-the-dat-95-10-ca-nam-khoang-9-202698114224780.htm",
       "diem": 36.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Ngân hàng tung loạt ưu đãi cho vay mua nhà: Kéo dài thời gian cố định lãi suất, tăng hạn mức cho vay",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-09-09 13:54",
+      "link": "https://vietnambiz.vn/ngan-hang-tung-loat-chuong-trinh-uu-dai-cho-vay-mua-nha-keo-dai-thoi-gian-co-dinh-lai-suat-tang-han-muc-cho-vay-202698122114168.htm",
+      "diem": 34.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Vốn trung dài hạn chỉ chiếm 16% tổng huy động, NHNN có thể sử dụng công cụ tái cấp vốn nhiều hơn trong thời gian tới",
+      "chu_de": "Chính sách",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-09-09 13:54",
+      "link": "https://vietnambiz.vn/von-trung-dai-han-chi-chiem-16-tong-huy-dong-nhnn-co-the-su-dung-cong-cu-tai-cap-von-nhieu-hon-trong-thoi-gian-toi-20269872039325.htm",
+      "diem": 34.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Lợi nhuận một ngân hàng ngoại giảm 7% trong nửa đầu năm",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-09-09 13:54",
+      "link": "https://vietnambiz.vn/loi-nhuan-mot-ngan-hang-ngoai-giam-7-trong-nua-dau-nam-20269714495587.htm",
+      "diem": 34.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Nhân viên 6 ngân hàng 'kiếm tiền' giỏi nhất hệ thống: Mang về hơn 1 tỷ lợi nhuận nửa đầu năm",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-09-09 13:54",
+      "link": "https://vietnambiz.vn/nhan-vien-6-ngan-hang-kiem-tien-gioi-nhat-he-thong-mang-ve-hon-1-ty-loi-nhuan-nua-dau-nam-20269623851297.htm",
+      "diem": 34.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "ECB dự kiến tăng lãi suất vào tuần tới",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-09-09 13:54",
+      "link": "https://vietnambiz.vn/ecb-du-kien-tang-lai-suat-vao-tuan-toi-202696143130764.htm",
+      "diem": 34.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "NHNN đề xuất cho vay vượt giới hạn tới 38% vốn tự có với dự án lớn ở Thủ đô",
+      "chu_de": "Chính sách",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-09-09 13:54",
+      "link": "https://vietnambiz.vn/nhnn-de-xuat-cho-vay-vuot-gioi-han-toi-38-von-tu-co-voi-du-an-lon-o-thu-do-202694115610522.htm",
+      "diem": 34.0,
       "khan_cap": false
     },
     {
@@ -17,7 +167,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-09-08 13:45",
+      "thoi_gian": "2026-09-09 13:54",
       "link": "https://vietnambiz.vn/cpi-8-thang-dau-nam-tang-445-ap-sat-muc-tieu-kiem-soat-lam-phat-duoi-45-2026931104111.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -27,9 +177,59 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-09-08 13:45",
+      "thoi_gian": "2026-09-09 13:54",
       "link": "https://vietnambiz.vn/fdi-vao-viet-nam-vuot-40-ty-usd-von-thuc-hien-cao-nhat-5-nam-2026939188347.htm",
       "diem": 34.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Hà Nội dẫn đầu cả nước về giải ngân vốn đầu tư công",
+      "chu_de": "Chính sách",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-09-09 09:18",
+      "link": "https://cafef.vn/ha-noi-dan-dau-ca-nuoc-ve-giai-ngan-von-dau-tu-cong-188260909091721322.chn",
+      "diem": 32.2,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Cổ phiếu Vingroup tiếp tục 'gánh' chứng khoán",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-09-08 16:11",
+      "link": "https://vnexpress.net/co-phieu-vingroup-tiep-tuc-ganh-chung-khoan-5117998.html",
+      "diem": 32.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "LPBank muốn huy động gần 12.000 tỷ từ phát hành trái phiếu, 2/3 là chào bán riêng lẻ",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-09-09 13:54",
+      "link": "https://vietnambiz.vn/lpbank-muon-huy-dong-gan-12000-ty-tu-phat-hanh-trai-phieu-23-la-chao-ban-rieng-le-2026998733305.htm",
+      "diem": 32.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Ngân hàng tăng ưu đãi hút tiền nhàn rỗi, thanh khoản cải thiện",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-09-09 13:54",
+      "link": "https://vietnambiz.vn/ngan-hang-tang-uu-dai-hut-tien-nhan-roi-thanh-khoan-cai-thien-20269620517549.htm",
+      "diem": 32.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Một ngân hàng muốn huy động 20.000 tỷ từ phát hành trái phiếu, một nửa để cho vay mảng thương mại dịch vụ",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-09-09 13:54",
+      "link": "https://vietnambiz.vn/mot-ngan-hang-muon-huy-dong-20000-ty-tu-phat-hanh-trai-phieu-mot-nua-de-cho-vay-mang-thuong-mai-dich-vu-202694111141282.htm",
+      "diem": 32.0,
       "khan_cap": false
     },
     {
@@ -37,7 +237,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-09-08 13:45",
+      "thoi_gian": "2026-09-09 13:54",
       "link": "https://vietnambiz.vn/thai-nguyen-bat-ngo-vuot-tp-hcm-dan-dau-ca-nuoc-ve-thu-hut-fdi-8-thang-dau-nam-202694104036807.htm",
       "diem": 32.0,
       "khan_cap": false
@@ -47,7 +247,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-09-08 13:45",
+      "thoi_gian": "2026-09-09 13:54",
       "link": "https://vietnambiz.vn/infographic-buc-tranh-kinh-te-vi-mo-8-thang-fdi-lap-ky-luc-nhap-sieu-da-co-dau-hieu-chung-lai-2026947584761.htm",
       "diem": 32.0,
       "khan_cap": false
@@ -57,249 +257,49 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-09-08 13:45",
+      "thoi_gian": "2026-09-09 13:54",
       "link": "https://vietnambiz.vn/xuat-nhap-khau-8-thang-dau-nam-lap-ky-luc-vuot-770-ty-usd-20269393835869.htm",
       "diem": 32.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "Tăng trưởng sản xuất công nghiệp gần 40%, Hà Tĩnh dẫn đầu cả nước",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-09-08 13:45",
-      "link": "https://vietnambiz.vn/tang-truong-san-xuat-cong-nghiep-gan-40-ha-tinh-dan-dau-ca-nuoc-20269595143586.htm",
-      "diem": 30.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Doanh thu bán lẻ, dịch vụ đạt hơn 5,2 triệu tỷ đồng, tăng 13,3% sau 8 tháng",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-09-08 13:45",
-      "link": "https://vietnambiz.vn/doanh-thu-ban-le-dich-vu-dat-hon-52-trieu-ty-dong-tang-133-sau-8-thang-20269395847266.htm",
-      "diem": 30.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Việt Nam muốn khai thác “mỏ vàng” 80 tỷ USD: Làm sao để có 15 \"ông lớn\" đủ sức dẫn dắt?",
+      "tieu_de": "Tăng trưởng hai con số: Động lực nào giúp GDP tăng thêm 2,8-3,7 điểm phần trăm?",
       "chu_de": "Kinh tế VN",
       "nguon": "CafeF Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-09-08 10:34",
-      "link": "https://cafef.vn/viet-nam-muon-khai-thac-mo-vang-80-ty-usd-lam-sao-de-co-15-ong-lon-du-suc-dan-dat-18826090808233171.chn",
-      "diem": 29.4,
+      "thoi_gian": "2026-09-09 08:45",
+      "link": "https://cafef.vn/tang-truong-hai-con-so-dong-luc-nao-giup-gdp-tang-them-28-37-diem-phan-tram-188260909083039343.chn",
+      "diem": 31.8,
       "khan_cap": false
     },
     {
-      "tieu_de": "NHTW châu Âu sẽ tăng lãi suất lần cuối vào ngày 10/9 tới?",
+      "tieu_de": "Ariston thâu tóm thương hiệu máy lọc nước Việt",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-09-09 10:39",
+      "link": "https://vnexpress.net/ariston-thau-tom-thuong-hieu-may-loc-nuoc-viet-5118217.html",
+      "diem": 31.2,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Lãi suất tiết kiệm có thể vẫn neo cao",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-09-09 10:00",
+      "link": "https://vnexpress.net/lai-suat-tiet-kiem-co-the-van-neo-cao-5118122.html",
+      "diem": 30.8,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "VPBank và chiến lược kiến tạo động lực tăng trưởng từ hệ sinh thái",
       "chu_de": "Kinh tế VN",
       "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-09-08 08:00",
-      "link": "https://cafef.vn/nhtw-chau-au-se-tang-lai-suat-lan-cuoi-vao-ngay-10-9-toi-188260908073748749.chn",
-      "diem": 29.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Giá USD ngân hàng thấp nhất nửa năm",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-09-08 11:33",
-      "link": "https://vnexpress.net/gia-usd-ngan-hang-thap-nhat-nua-nam-5117829.html",
-      "diem": 26.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Giá USD tự do và ngân hàng liên tục giảm mạnh",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-09-08 11:02",
-      "link": "https://cafef.vn/gia-usd-tu-do-va-ngan-hang-lien-tuc-giam-manh-188260908110227627.chn",
-      "diem": 25.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Thẻ ngân hàng ACB, MB sẽ bị khóa tự động trong các trường hợp sau, chủ tài khoản lưu ý",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-09-08 07:58",
-      "link": "https://cafef.vn/the-ngan-hang-acb-mb-se-bi-khoa-tu-dong-trong-cac-truong-hop-sau-chu-tai-khoan-luu-y-188260908074136851.chn",
-      "diem": 25.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Cơ quan thuế gửi thông báo đến hộ kinh doanh đang cho thuê bất động sản",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-09-08 07:54",
-      "link": "https://cafef.vn/co-quan-thue-gui-thong-bao-den-ho-kinh-doanh-dang-cho-thue-bat-dong-san-188260908073716737.chn",
-      "diem": 25.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Nợ vay của doanh nghiệp bất động sản phình to",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-09-08 05:06",
-      "link": "https://vnexpress.net/no-vay-cua-doanh-nghiep-bat-dong-san-phinh-to-5117582.html",
-      "diem": 22.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Người châu Phi mua bếp 40 USD với giá 5 USD nhờ tín chỉ carbon",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-09-08 06:00",
-      "link": "https://vnexpress.net/nguoi-chau-phi-mua-bep-40-usd-voi-gia-5-usd-nho-tin-chi-carbon-5117540.html",
-      "diem": 21.6,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "VN-Index giảm hơn 30 điểm",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-09-07 16:02",
-      "link": "https://vnexpress.net/vn-index-giam-hon-30-diem-5117513.html",
-      "diem": 20.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Nhiều ngân hàng hạ lãi suất cho vay mua nhà",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-09-07 16:17",
-      "link": "https://cafef.vn/nhieu-ngan-hang-ha-lai-suat-cho-vay-mua-nha-188260907161652034.chn",
-      "diem": 16.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Phó thủ tướng: Trung tâm tài chính quốc tế phải có thương vụ cụ thể từ tháng 11",
-      "chu_de": "Chính sách",
-      "nguon": "VietnamBiz Vĩ mô, VnExpress Kinh doanh",
-      "so_nguon": 2,
-      "thoi_gian": "2026-09-08 13:45",
-      "link": "https://vietnambiz.vn/pho-thu-tuong-trung-tam-tai-chinh-quoc-te-phai-co-thuong-vu-cu-the-tu-thang-11-202697205944358.htm",
-      "diem": 16.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Ngân hàng đa dạng hóa nguồn thu, tạo dư địa tăng trưởng bền vững",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-09-07 20:43",
-      "link": "https://cafef.vn/ngan-hang-da-dang-hoa-nguon-thu-tao-du-dia-tang-truong-ben-vung-188260907204401767.chn",
-      "diem": 15.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Nợ trái phiếu Hưng Thịnh Land giảm gần một nửa",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-09-07 17:46",
-      "link": "https://vnexpress.net/no-trai-phieu-hung-thinh-land-giam-gan-mot-nua-5117459.html",
-      "diem": 15.4,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Vàng thế giới giảm về sát mốc 4,450 USD",
-      "chu_de": "Thế giới",
-      "nguon": "Vietstock Thế giới",
-      "so_nguon": 1,
-      "thoi_gian": "2026-09-08 08:38",
-      "link": "http://vietstock.vn/2026/09/vang-the-gioi-giam-ve-sat-moc-4450-usd-759-1489757.htm",
-      "diem": 15.3,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Khoan 2.000 giếng tại cụm mỏ chứa 7 tỷ tấn dầu, Nga bắt đầu ‘hái quả ngọt'",
-      "chu_de": "Địa chính trị",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-09-08 13:42",
-      "link": "https://cafef.vn/khoan-2000-gieng-tai-cum-mo-chua-7-ty-tan-dau-nga-bat-dau-hai-qua-ngot-188260908111759501.chn",
-      "diem": 15.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Một 'cá mập' vừa mua vàng 22 tháng liên tiếp, có trong tay gần 2.400 tấn",
-      "chu_de": "Thế giới",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-09-08 10:15",
-      "link": "https://cafef.vn/mot-ca-map-vua-mua-vang-22-thang-lien-tiep-co-trong-tay-gan-2400-tan-188260908095422106.chn",
-      "diem": 14.9,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Iran sắp cạn tiền từ dầu?",
-      "chu_de": "Địa chính trị",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-09-08 13:23",
-      "link": "https://cafef.vn/iran-sap-can-tien-tu-dau-188260908102344896.chn",
-      "diem": 14.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Người mua không ăn, người ăn không mua: Bài toán kinh tế tinh vi sau mỗi hộp bánh trung thu xa xỉ ở Trung Quốc",
-      "chu_de": "Thế giới",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-09-08 11:50",
-      "link": "https://cafef.vn/nguoi-mua-khong-an-nguoi-an-khong-mua-bai-toan-kinh-te-tinh-vi-sau-moi-hop-banh-trung-thu-xa-xi-o-trung-quoc-188260908102840864.chn",
-      "diem": 14.5,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Giá dầu lên đỉnh 6 tuần",
-      "chu_de": "Thế giới",
-      "nguon": "Vietstock Thế giới",
-      "so_nguon": 1,
-      "thoi_gian": "2026-09-08 08:35",
-      "link": "http://vietstock.vn/2026/09/gia-dau-len-dinh-6-tuan-34-1489755.htm",
-      "diem": 14.1,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Phát hiện “kho báu” trong bãi thải 10 tỷ tấn tại Trung Quốc, công nghệ đầu tiên trên thế giới được tung ra",
-      "chu_de": "Thế giới",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-09-08 10:35",
-      "link": "https://cafef.vn/phat-hien-kho-bau-trong-bai-thai10-ty-tan-tai-trung-quoc-cong-nghe-dau-tien-tren-the-gioiduoc-tung-ra-188260908095558562.chn",
-      "diem": 14.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Vingroup dẫn đầu danh sách doanh nghiệp nộp ngân sách nhà nước",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-09-07 18:30",
-      "link": "https://vnexpress.net/vingroup-dan-dau-danh-sach-doanh-nghiep-nop-ngan-sach-nha-nuoc-5117578.html",
-      "diem": 14.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Ba quốc gia đứng đầu về đưa khách du lịch đến Việt Nam: Nga bất ngờ vượt 1 triệu khách cùng Trung Quốc, Hàn Quốc",
-      "chu_de": "Địa chính trị",
-      "nguon": "VietnamBiz Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-09-08 13:45",
-      "link": "https://vietnambiz.vn/ba-quoc-gia-dung-dau-ve-dua-khach-du-lich-den-viet-nam-nga-bat-ngo-vuot-1-trieu-khach-cung-trung-quoc-han-quoc-2026931430598.htm",
-      "diem": 14.0,
+      "thoi_gian": "2026-09-09 09:45",
+      "link": "https://cafef.vn/vpbank-va-chien-luoc-kien-tao-dong-luc-tang-truong-tu-he-sinh-thai-1882609090938062.chn",
+      "diem": 30.6,
       "khan_cap": false
     }
   ]
