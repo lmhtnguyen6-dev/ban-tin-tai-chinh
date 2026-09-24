@@ -1,35 +1,45 @@
 {
-  "cap_nhat_luc": "2026-09-23 14:00:35",
+  "cap_nhat_luc": "2026-09-24 13:57:41",
   "so_tin": 30,
   "tin": [
     {
-      "tieu_de": "Một ngân hàng sắp trả cổ tức 20%, gồm cả tiền mặt và cổ phiếu",
+      "tieu_de": "TPBank chốt ngày trả cổ tức tiền mặt và cổ phiếu tỷ lệ 20%",
       "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-09-23 13:51",
-      "link": "https://cafef.vn/mot-ngan-hang-sap-tra-co-tuc-20-gom-ca-tien-mat-va-co-phieu-188260923135252345.chn",
-      "diem": 51.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Tỷ giá và lãi suất liên ngân hàng trong nước sẽ không chịu ảnh hưởng lớn từ Fed",
-      "chu_de": "Fed",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-09-23 14:00",
-      "link": "https://vietnambiz.vn/ty-gia-va-lai-suat-lien-ngan-hang-trong-nuoc-se-khong-chiu-anh-huong-lon-tu-fed-20269239138782.htm",
-      "diem": 49.3,
+      "thoi_gian": "2026-09-24 13:57",
+      "link": "https://vietnambiz.vn/tpbank-chot-ngay-tra-co-tuc-tien-mat-va-co-phieu-ty-le-20-2026923142726858.htm",
+      "diem": 56.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "Lãi suất ngân hàng 22/9 tại MB, Techcombank, VPBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...",
+      "tieu_de": "Chứng khoán Mỹ chìm trong sắc đỏ, lợi suất trái phiếu tăng cao nhất 19 năm, dự báo Fed tăng lãi suất nhảy vọt 70%",
+      "chu_de": "Fed",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-09-24 08:41",
+      "link": "https://cafef.vn/chung-khoan-my-chim-trong-sac-do-loi-suat-trai-phieu-tang-cao-nhat-19-nam-du-bao-fed-tang-lai-suat-nhay-vot-70-188260924084111681.chn",
+      "diem": 50.7,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Lãi suất liên ngân hàng giảm mạnh sau động thái điều hành của Ngân hàng Nhà nước",
+      "chu_de": "Chính sách",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-09-24 11:10",
+      "link": "https://cafef.vn/lai-suat-lien-ngan-hang-giam-manh-sau-dong-thai-dieu-hanh-cua-ngan-hang-nha-nuoc-188260924110906249.chn",
+      "diem": 49.6,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Lãi suất ngân hàng 23/9 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Techcombank, VPBank, Sacombank, HDBank,...",
       "chu_de": "Kinh tế VN",
       "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-09-22 20:55",
-      "link": "https://cafef.vn/lai-suat-ngan-hang-22-9-tai-mb-techcombank-vpbank-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-18826092220573366.chn",
-      "diem": 47.8,
+      "thoi_gian": "2026-09-23 21:33",
+      "link": "https://cafef.vn/lai-suat-ngan-hang-23-9-tai-agribank-vietcombank-bidv-vietinbank-mb-techcombank-vpbank-sacombank-hdbank-188260923213533269.chn",
+      "diem": 48.4,
       "khan_cap": false
     },
     {
@@ -37,7 +47,7 @@
       "chu_de": "Fed",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-09-23 14:00",
+      "thoi_gian": "2026-09-24 13:57",
       "link": "https://vietnambiz.vn/ts-can-van-luc-fed-tang-lai-suat-lam-tang-nhap-khau-lam-phat-du-dia-giam-lai-suat-trong-nuoc-thu-hep-20269188014389.htm",
       "diem": 47.6,
       "khan_cap": false
@@ -47,19 +57,9 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-09-23 14:00",
+      "thoi_gian": "2026-09-24 13:57",
       "link": "https://vietnambiz.vn/ceo-dragon-capital-go-cac-nut-that-va-duy-tri-toc-do-tang-truong-cao-chung-khoan-co-the-buoc-vao-chu-ky-tang-lon-hon-2026918144125543.htm",
       "diem": 44.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Lãi suất cao khiến dòng tiền chứng khoán suy yếu",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-09-23 11:51",
-      "link": "https://vnexpress.net/lai-suat-cao-khien-dong-tien-chung-khoan-suy-yeu-5123651.html",
-      "diem": 42.2,
       "khan_cap": false
     },
     {
@@ -67,19 +67,9 @@
       "chu_de": "Fed",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-09-23 14:00",
+      "thoi_gian": "2026-09-24 13:57",
       "link": "https://vietnambiz.vn/ts-le-duy-binh-fed-tang-lai-suat-co-the-gay-ap-luc-len-ty-gia-dong-von-va-du-dia-dieu-hanh-lai-suat-cua-viet-nam-202691791450708.htm",
       "diem": 40.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Lãi suất vay mượn liên ngân hàng lên 7% một năm",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính, VnExpress Kinh doanh",
-      "so_nguon": 2,
-      "thoi_gian": "2026-09-23 14:00",
-      "link": "https://vietnambiz.vn/lai-suat-vay-muon-lien-ngan-hang-len-7-mot-nam-2026922195911547.htm",
-      "diem": 40.0,
       "khan_cap": false
     },
     {
@@ -87,7 +77,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-09-23 14:00",
+      "thoi_gian": "2026-09-24 13:57",
       "link": "https://vietnambiz.vn/nhnn-hut-rong-hon-62500-ty-dong-ap-luc-thanh-khoan-ngan-han-giam-ro-ret-202692172625862.htm",
       "diem": 40.0,
       "khan_cap": false
@@ -97,19 +87,19 @@
       "chu_de": "Fed",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-09-23 14:00",
+      "thoi_gian": "2026-09-24 13:57",
       "link": "https://vietnambiz.vn/uob-ly-giai-vi-sao-vnd-van-on-dinh-du-nhap-sieu-hon-20-ty-usd-va-fed-tang-lai-suat-2026919192624504.htm",
       "diem": 39.1,
       "khan_cap": false
     },
     {
-      "tieu_de": "Đợt tăng vốn hiếm thấy trong ngành ngân hàng: HDBank, MB, VPBank, Techcombank đồng loạt triển khai kế hoạch lớn",
+      "tieu_de": "VPBank nâng hạn mức tín dụng cho chủ dự án Cát Bà Amatina lên 6.000 tỷ",
       "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
+      "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-09-23 12:38",
-      "link": "https://cafef.vn/dot-tang-von-hiem-thay-trong-nganh-ngan-hang-hdbank-mb-vpbank-techcombank-dong-loat-trien-khai-ke-hoach-lon-188260923124041153.chn",
-      "diem": 36.8,
+      "thoi_gian": "2026-09-24 13:57",
+      "link": "https://vietnambiz.vn/vpbank-nang-han-muc-tin-dung-cho-chu-du-an-cat-ba-amatina-len-6000-ty-2026923143922147.htm",
+      "diem": 36.0,
       "khan_cap": false
     },
     {
@@ -117,7 +107,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-09-23 14:00",
+      "thoi_gian": "2026-09-24 13:57",
       "link": "https://vietnambiz.vn/nhnn-mo-kenh-hoan-doi-ngoai-te-toi-da-2-ty-usd-2026921152047520.htm",
       "diem": 36.0,
       "khan_cap": false
@@ -127,7 +117,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-09-23 14:00",
+      "thoi_gian": "2026-09-24 13:57",
       "link": "https://vietnambiz.vn/ssi-tang-truong-gdp-quy-iii-co-the-dat-93-van-de-cua-viet-nam-khong-phai-la-thieu-thanh-khoan-2026998303957.htm",
       "diem": 36.0,
       "khan_cap": false
@@ -137,9 +127,29 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-09-23 14:00",
+      "thoi_gian": "2026-09-24 13:57",
       "link": "https://vietnambiz.vn/ts-can-van-luc-tang-truong-gdp-quy-iii-co-the-dat-95-quy-iv-10-ca-nam-9-la-hoan-toan-kha-thi-202698114224780.htm",
       "diem": 36.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Một Big4 ngân hàng được dự báo lợi nhuận trước dự phòng vượt 70.000 tỷ trong năm 2026",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-09-24 13:57",
+      "link": "https://vietnambiz.vn/mot-big4-ngan-hang-duoc-du-bao-loi-nhuan-truoc-du-phong-vuot-70000-ty-trong-nam-2026-20269247570788.htm",
+      "diem": 34.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Lãi suất vay mượn liên ngân hàng lên 7% một năm",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-09-24 13:57",
+      "link": "https://vietnambiz.vn/lai-suat-vay-muon-lien-ngan-hang-len-7-mot-nam-2026922195911547.htm",
+      "diem": 34.0,
       "khan_cap": false
     },
     {
@@ -147,7 +157,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-09-23 14:00",
+      "thoi_gian": "2026-09-24 13:57",
       "link": "https://vietnambiz.vn/mo-kenh-hoan-doi-ngoai-te-nhnn-co-the-bom-them-toi-da-hon-48000-ty-trong-7-ngay-202692204429515.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -157,7 +167,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-09-23 14:00",
+      "thoi_gian": "2026-09-24 13:57",
       "link": "https://vietnambiz.vn/chenh-lech-ky-han-dang-tao-ra-rui-ro-lai-suat-toi-cac-ngan-hang-nhu-the-nao-202692022552874.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -167,7 +177,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-09-23 14:00",
+      "thoi_gian": "2026-09-24 13:57",
       "link": "https://vietnambiz.vn/lai-suat-cho-vay-binh-quan-tiep-tuc-tang-len-muc-107nam-202692173559372.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -177,7 +187,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-09-23 14:00",
+      "thoi_gian": "2026-09-24 13:57",
       "link": "https://vietnambiz.vn/uob-lai-suat-huy-dong-10-chua-phan-anh-mat-bang-chung-2026919195128322.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -187,7 +197,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-09-23 14:00",
+      "thoi_gian": "2026-09-24 13:57",
       "link": "https://vietnambiz.vn/nhap-khau-dat-gan-400-ty-usd-rieng-trung-quoc-chiem-hon-13-bo-xa-cac-thi-truong-khac-2026914164946964.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -197,7 +207,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-09-23 14:00",
+      "thoi_gian": "2026-09-24 13:57",
       "link": "https://vietnambiz.vn/xuat-khau-8-thang-nam-2026-my-dan-dau-voi-kim-ngach-dat-112-ty-usd-gap-hon-2-lan-trung-quoc-2026914155623100.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -207,9 +217,29 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-09-23 14:00",
+      "thoi_gian": "2026-09-24 13:57",
       "link": "https://vietnambiz.vn/chuyen-gia-canh-bao-lam-phat-co-the-vuot-nguong-5-neu-cac-yeu-to-bat-loi-dong-thoi-xay-ra-2026911163337428.htm",
       "diem": 34.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Thấy gì từ động thái mới của Highlands Coffee trước thềm IPO? Chuyên gia nói “thương hiệu nổi tiếng” hay “cửa hàng đông khách” không còn đủ để thuyết phục nhà đầu tư!",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-09-24 12:23",
+      "link": "https://cafef.vn/thay-gi-tu-dong-thai-moi-cua-highlands-coffee-truoc-them-ipo-chuyen-gia-noi-thuong-hieu-noi-tieng-hay-cua-hang-dong-khach-khong-con-du-de-thuyet-phuc-nha-dau-tu-188260924122223662.chn",
+      "diem": 32.6,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Ngoài lịch sử tín dụng, ngân hàng sẽ có thêm dữ liệu nộp thuế để đánh giá người vay",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-09-24 13:57",
+      "link": "https://vietnambiz.vn/ngoai-lich-su-tin-dung-ngan-hang-se-co-them-du-lieu-nop-thue-de-danh-gia-nguoi-vay-2026923152415639.htm",
+      "diem": 32.0,
       "khan_cap": false
     },
     {
@@ -217,18 +247,8 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-09-23 14:00",
+      "thoi_gian": "2026-09-24 13:57",
       "link": "https://vietnambiz.vn/bo-tai-chinh-chua-phat-hanh-trai-phieu-quoc-te-202691974522911.htm",
-      "diem": 32.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Tính đến 28/8, tín dụng nền kinh tế tăng 10,24%, riêng cho vay SME tăng 12,4%",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-09-23 14:00",
-      "link": "https://vietnambiz.vn/tinh-den-288-tin-dung-nen-kinh-te-tang-1024-rieng-cho-vay-sme-tang-124-2026918155421851.htm",
       "diem": 32.0,
       "khan_cap": false
     },
@@ -237,39 +257,19 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-09-23 14:00",
+      "thoi_gian": "2026-09-24 13:57",
       "link": "https://vietnambiz.vn/hiep-hoi-logistics-kim-ngach-xuat-nhap-khau-nam-nay-co-the-len-toi-1100-ty-usd-2026921174240457.htm",
       "diem": 32.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "Thái Nguyên bất ngờ vượt TP HCM, dẫn đầu cả nước về thu hút FDI 8 tháng đầu năm",
+      "tieu_de": "MBS: Cho vay các đại dự án hạ tầng của Techcombank có thể tăng lên 50.000 tỷ",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
+      "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-09-23 14:00",
-      "link": "https://vietnambiz.vn/thai-nguyen-bat-ngo-vuot-tp-hcm-dan-dau-ca-nuoc-ve-thu-hut-fdi-8-thang-dau-nam-202694104036807.htm",
-      "diem": 32.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Quảng Ngãi: Tháo gỡ vướng mắc, đẩy nhanh giải ngân đầu tư công tại Măng Đen",
-      "chu_de": "Chính sách",
-      "nguon": "CafeF Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-09-23 09:00",
-      "link": "https://cafef.vn/quang-ngai-thao-go-vuong-mac-day-nhanh-giai-ngan-dau-tu-cong-tai-mang-den-188260923074320535.chn",
-      "diem": 31.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Một ngân hàng được Vietcap dự báo lợi nhuận trước dự phòng năm nay vượt 70.000 tỷ đồng",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-09-23 10:08",
-      "link": "https://cafef.vn/mot-ngan-hang-duoc-vietcap-du-bao-loi-nhuan-truoc-du-phong-nam-nay-vuot-70000-ty-dong-188260923100918229.chn",
-      "diem": 30.8,
+      "thoi_gian": "2026-09-24 13:57",
+      "link": "https://vietnambiz.vn/mbs-cho-vay-cac-dai-du-an-ha-tang-cua-techcombank-co-the-tang-len-50000-ty-2026923172737390.htm",
+      "diem": 30.0,
       "khan_cap": false
     },
     {
@@ -277,7 +277,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-09-23 14:00",
+      "thoi_gian": "2026-09-24 13:57",
       "link": "https://vietnambiz.vn/hdbank-duoc-chap-thuan-tang-von-dieu-le-len-tren-72000-ty-2026923940891.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -287,7 +287,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-09-23 14:00",
+      "thoi_gian": "2026-09-24 13:57",
       "link": "https://vietnambiz.vn/vietinbank-va-finviet-thuc-day-tai-chinh-so-cho-ho-kinh-doanh-20269239145489.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -297,7 +297,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-09-23 14:00",
+      "thoi_gian": "2026-09-24 13:57",
       "link": "https://vietnambiz.vn/chuyen-gia-khuyen-nghi-tap-trung-huy-dong-von-ngoai-khi-phat-trien-bat-dong-san-2026922152432494.htm",
       "diem": 30.0,
       "khan_cap": false
