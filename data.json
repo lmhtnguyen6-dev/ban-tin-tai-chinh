@@ -1,15 +1,25 @@
 {
-  "cap_nhat_luc": "2026-10-23 13:45:48",
+  "cap_nhat_luc": "2026-10-24 13:41:11",
   "so_tin": 30,
   "tin": [
     {
-      "tieu_de": "Dừng xây dựng khẩn cấp sân vận động lớn gấp 2,5 lần Mỹ Đình, tổng vốn hơn 44.000 tỷ đồng, chủ đầu tư vỡ nợ",
+      "tieu_de": "Cảnh báo không kích vang lên, cả 4 sân bay tại Mátxcơva đồng loạt dừng hoạt động",
       "chu_de": "Thế giới",
       "nguon": "CafeF Tài chính quốc tế",
       "so_nguon": 1,
-      "thoi_gian": "2026-10-23 13:08",
-      "link": "https://cafef.vn/dung-xay-dung-khan-cap-san-van-dong-lon-gap-25-lan-my-dinh-tong-von-hon-44000-ty-dong-chu-dau-tu-vo-no-188261023114139231.chn",
-      "diem": 62.7,
+      "thoi_gian": "2026-10-23 22:03",
+      "link": "https://cafef.vn/canh-bao-khong-kich-vang-len-ca-4-san-bay-tai-matxcova-dong-loat-dung-hoat-dong-188261023220357752.chn",
+      "diem": 56.5,
+      "khan_cap": true
+    },
+    {
+      "tieu_de": "Nga - Ukraine tiếp tục không kích giữa lúc phát tín hiệu đàm phán hòa bình",
+      "chu_de": "Địa chính trị",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-10-23 14:26",
+      "link": "https://cafef.vn/nga-ukraine-tiep-tuc-khong-kich-giua-luc-phat-tin-hieu-dam-phan-hoa-binh-188261023142604277.chn",
+      "diem": 53.3,
       "khan_cap": true
     },
     {
@@ -17,7 +27,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-10-23 13:45",
+      "thoi_gian": "2026-10-24 13:41",
       "link": "https://vietnambiz.vn/techcombank-chot-quyen-tra-co-tuc-50-vao-ngay-3010-2026102021853179.htm",
       "diem": 46.0,
       "khan_cap": false
@@ -27,7 +37,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-10-23 13:45",
+      "thoi_gian": "2026-10-24 13:41",
       "link": "https://vietnambiz.vn/ngan-hang-nha-nuoc-tiep-tuc-chi-dao-giam-thuc-chat-lai-suat-tren-tat-ca-cac-kenh-ban-hang-2026102120825951.htm",
       "diem": 42.0,
       "khan_cap": false
@@ -37,29 +47,39 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-10-23 13:45",
+      "thoi_gian": "2026-10-24 13:41",
       "link": "https://vietnambiz.vn/nhnn-yeu-cau-ha-lai-suat-cac-ngan-hang-se-chiu-tac-dong-ra-sao-202610218405392.htm",
       "diem": 42.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "VietinBank triển khai các giải pháp giảm lãi suất cho vay tới 2%/năm, tiếp sức tăng trưởng kinh tế",
+      "tieu_de": "Ngày 24/10, gửi 50 triệu đồng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận bao nhiêu tiền lãi sau 12 tháng?",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
+      "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-10-23 13:45",
-      "link": "https://vietnambiz.vn/vietinbank-trien-khai-cac-giai-phap-giam-lai-suat-cho-vay-toi-2nam-tiep-suc-tang-truong-kinh-te-2026101917145855.htm",
-      "diem": 42.0,
+      "thoi_gian": "2026-10-24 08:11",
+      "link": "https://cafef.vn/ngay-24-10-gui-50-trieu-dong-tai-mb-vpbank-techcombank-sacombank-shb-hdbank-va-acb-nhan-bao-nhieu-tien-lai-sau-12-thang-188261024081430114.chn",
+      "diem": 41.4,
       "khan_cap": false
     },
     {
-      "tieu_de": "Loạt ngân hàng giảm lãi suất cho vay từ 1,5 - 2%/năm sau chỉ đạo của NHNN",
-      "chu_de": "Chính sách",
+      "tieu_de": "Tuần tới, một ngân hàng lăn chốt trả cổ tức 50% - mức cao nhất ngành trong năm 2026",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-10-24 10:21",
+      "link": "https://cafef.vn/tuan-toi-mot-ngan-hang-lan-chot-tra-co-tuc-50-muc-cao-nhat-nganh-trong-nam-2026-188261024092318197.chn",
+      "diem": 39.2,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Phó TGĐ Techcombank: Mặt bằng lãi suất cao khiến khách hàng mua nhà chậm ra quyết định hơn",
+      "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-10-23 13:45",
-      "link": "https://vietnambiz.vn/loat-ngan-hang-giam-lai-suat-cho-vay-tu-15-2nam-sau-chi-dao-cua-nhnn-2026101915512355.htm",
-      "diem": 42.0,
+      "thoi_gian": "2026-10-24 13:41",
+      "link": "https://vietnambiz.vn/pho-tgd-techcombank-mat-bang-lai-suat-cao-khien-khach-hang-mua-nha-cham-ra-quyet-dinh-hon-20261023154634141.htm",
+      "diem": 38.0,
       "khan_cap": false
     },
     {
@@ -67,7 +87,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-10-23 13:45",
+      "thoi_gian": "2026-10-24 13:41",
       "link": "https://vietnambiz.vn/sau-khach-hang-doanh-nghiep-sacombank-tiep-tuc-ha-lai-suat-cho-vay-khach-hang-ca-nhan-thap-nhat-tu-15-den-2-20261021201037494.htm",
       "diem": 38.0,
       "khan_cap": false
@@ -77,7 +97,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-10-23 13:45",
+      "thoi_gian": "2026-10-24 13:41",
       "link": "https://vietnambiz.vn/cap-nhat-2110-kqkd-ngan-hang-9-thang-da-co-9-ngan-hang-cong-bo-tang-truong-loi-nhuan-cao-nhat-85-202610219129387.htm",
       "diem": 38.0,
       "khan_cap": false
@@ -87,7 +107,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-10-23 13:45",
+      "thoi_gian": "2026-10-24 13:41",
       "link": "https://vietnambiz.vn/techcombank-lntt-quy-iii2026-dat-10400-ty-dong-muc-loi-nhuan-theo-quy-cao-ky-luc-tung-ghi-nhan-20261020185954729.htm",
       "diem": 38.0,
       "khan_cap": false
@@ -97,7 +117,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-10-23 13:45",
+      "thoi_gian": "2026-10-24 13:41",
       "link": "https://vietnambiz.vn/cap-nhat-ngay-2010-kqkd-ngan-hang-9-thang-techcombank-bao-lai-ky-luc-co-noi-loi-nhuan-tang-85-20261019161321834.htm",
       "diem": 38.0,
       "khan_cap": false
@@ -107,9 +127,29 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-10-23 13:45",
+      "thoi_gian": "2026-10-24 13:41",
       "link": "https://vietnambiz.vn/day-manh-cho-vay-cac-du-an-ha-tang-ceo-techcombank-xu-ly-bai-toan-chenh-lech-ky-han-huy-dong-tin-dung-ra-sao-202610228953690.htm",
       "diem": 36.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Phó Thủ tướng: Năm 2027 phấn đấu tăng trưởng GDP từ 10% trở lên",
+      "chu_de": "Chính sách",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-10-24 13:41",
+      "link": "https://vietnambiz.vn/pho-thu-tuong-nam-2027-phan-dau-tang-truong-gdp-tu-10-tro-len-2026101614556486.htm",
+      "diem": 36.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Vì sao lợi nhuận một ngân hàng tăng gấp đôi trong quý III?",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-10-24 13:41",
+      "link": "https://vietnambiz.vn/vi-sao-loi-nhuan-mot-ngan-hang-tang-gap-doi-trong-quy-iii-2026102312615775.htm",
+      "diem": 34.0,
       "khan_cap": false
     },
     {
@@ -117,7 +157,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-10-23 13:45",
+      "thoi_gian": "2026-10-24 13:41",
       "link": "https://vietnambiz.vn/cap-nhat-2210-kqkd-ngan-hang-9-thang-da-co-9-ngan-hang-cong-bo-tang-truong-loi-nhuan-cao-nhat-85-2026102285957681.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -127,7 +167,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-10-23 13:45",
+      "thoi_gian": "2026-10-24 13:41",
       "link": "https://vietnambiz.vn/lai-suat-cho-vay-binh-quan-tiep-tuc-tang-trong-thang-9-len-muc-109nam-2026102371747275.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -137,7 +177,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-10-23 13:45",
+      "thoi_gian": "2026-10-24 13:41",
       "link": "https://vietnambiz.vn/nhieu-ngan-hang-cho-vay-binh-quan-tren-11-truoc-dot-ha-lai-suat-2026102265657251.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -147,7 +187,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-10-23 13:45",
+      "thoi_gian": "2026-10-24 13:41",
       "link": "https://vietnambiz.vn/msb-trien-khai-dong-bo-giai-phap-lai-suat-doi-voi-khach-hang-ca-nhan-va-doanh-nghiep-2026102015292414.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -157,149 +197,109 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-10-23 13:45",
+      "thoi_gian": "2026-10-24 13:41",
       "link": "https://vietnambiz.vn/lai-suat-tha-noi-len-cao-chu-nha-cat-lo-can-ho-vi-khong-gong-noi-chi-phi-2026102081635115.htm",
       "diem": 34.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "Lãnh đạo các ngân hàng nói gì về yêu cầu giảm lãi suất?",
+      "tieu_de": "Yêu cầu các ngân hàng giảm lãi suất cho vay 1,5 - 2% với sản xuất, kinh doanh, lĩnh vực ưu tiên",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
+      "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-10-23 13:45",
-      "link": "https://vietnambiz.vn/lanh-dao-cac-ngan-hang-noi-gi-ve-yeu-cau-giam-lai-suat-2026102083035917.htm",
+      "thoi_gian": "2026-10-24 13:41",
+      "link": "https://vietnambiz.vn/yeu-cau-cac-ngan-hang-giam-lai-suat-cho-vay-15-2-voi-san-xuat-kinh-doanh-linh-vuc-uu-tien-202610179586466.htm",
       "diem": 34.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "Lãi suất tiết kiệm giảm đồng loạt",
+      "tieu_de": "Bộ Công Thương đề xuất sớm áp biểu giá điện sinh hoạt 5 bậc",
       "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-10-24 13:41",
+      "link": "https://vietnambiz.vn/bo-cong-thuong-de-xuat-som-ap-bieu-gia-dien-sinh-hoat-5-bac-20261021195531595.htm",
+      "diem": 32.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Bộ trưởng Tài chính đề nghị Mỹ thúc đẩy đàm phán về Nghị định thư sửa đổi Hiệp định thuế song phương",
+      "chu_de": "Chính sách",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-10-24 13:41",
+      "link": "https://vietnambiz.vn/bo-truong-tai-chinh-de-nghi-my-thuc-day-dam-phan-ve-nghi-dinh-thu-sua-doi-hiep-dinh-thue-song-phuong-20261021834760.htm",
+      "diem": 32.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Đằng sau lợi nhuận quý III/2026 của ACBS: Dư địa tăng trưởng từ margin và nền tảng tài chính vững chắc",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-10-23 16:52",
+      "link": "https://cafef.vn/dang-sau-loi-nhuan-quy-iii-2026-cua-acbs-du-dia-tang-truong-tu-margin-va-nen-tang-tai-chinh-vung-chac-188261023165239843.chn",
+      "diem": 30.6,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Thủ tướng Lê Minh Hưng yêu cầu tiếp tục giảm tối thiểu 30% số dự án đầu tư công, dồn vốn cho công trình trọng điểm, có tác động lan toả",
+      "chu_de": "Chính sách",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-10-24 11:38",
+      "link": "https://cafef.vn/thu-tuong-le-minh-hung-yeu-cau-tiep-tuc-giam-toi-thieu-30-so-du-an-dau-tu-cong-don-von-cho-cong-trinh-trong-diem-co-tac-dong-lan-toa-188261024113952991.chn",
+      "diem": 30.2,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Lãnh đạo Techcombank: Thông tư 50 sẽ tái định hình cục diện cạnh tranh trên thị trường ngân hàng",
+      "chu_de": "Chính sách",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-10-23 13:45",
-      "link": "https://vietnambiz.vn/lai-suat-tiet-kiem-giam-dong-loat-2026102064528435.htm",
-      "diem": 34.0,
+      "thoi_gian": "2026-10-24 13:41",
+      "link": "https://vietnambiz.vn/lanh-dao-techcombank-thong-tu-50-se-tai-dinh-hinh-cuc-dien-canh-tranh-tren-thi-truong-ngan-hang-2026102295137832.htm",
+      "diem": 30.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "Lãi suất tiết kiệm đã tăng 11 tháng liên tiếp",
+      "tieu_de": "Đại biểu Quốc hội: Nên để chủ đầu tư nhận tiền đặt cọc bất động sản sớm hơn",
+      "chu_de": "Chính sách",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-10-24 13:41",
+      "link": "https://vietnambiz.vn/dai-bieu-quoc-hoi-nen-de-chu-dau-tu-nhan-tien-dat-coc-bat-dong-san-som-hon-20261022201434393.htm",
+      "diem": 30.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Bí thư Trần Lưu Quang: TP HCM chắt chiu nguồn lực để tăng trưởng hai chữ số",
       "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
+      "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-10-23 12:54",
-      "link": "https://vnexpress.net/lai-suat-tiet-kiem-da-tang-11-thang-lien-tiep-5135955.html",
-      "diem": 33.2,
+      "thoi_gian": "2026-10-24 13:41",
+      "link": "https://vietnambiz.vn/bi-thu-tran-luu-quang-tp-hcm-chat-chiu-nguon-luc-de-tang-truong-hai-chu-so-20261018141343897.htm",
+      "diem": 30.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "Lợi nhuận ngân hàng tăng mạnh",
+      "tieu_de": "Thủ tướng: Phấn đấu tăng trưởng 2027 đạt trên 10%, hoàn thành 176.000 căn nhà ở xã hội, cho thuê",
+      "chu_de": "Chính sách",
+      "nguon": "VietnamBiz Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-10-24 13:41",
+      "link": "https://vietnambiz.vn/thu-tuong-phan-dau-tang-truong-2027-dat-tren-10-hoan-thanh-176000-can-nha-o-xa-hoi-cho-thue-20261017101153198.htm",
+      "diem": 30.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "TP HCM theo sát tiến độ tăng trưởng mỗi hai tuần",
       "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
+      "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-10-23 10:57",
-      "link": "https://cafef.vn/loi-nhuan-ngan-hang-tang-manh-188261023105720587.chn",
-      "diem": 31.6,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "GDP quý III tăng gần 10%, kỳ vọng ba động lực tăng trưởng trong quý IV",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-10-23 08:30",
-      "link": "https://cafef.vn/gdp-quy-iii-tang-gan-10-ky-vong-ba-dong-luc-tang-truong-trong-quy-iv-188261023070050928.chn",
-      "diem": 31.6,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Ngày 23/10, gửi 100 triệu đồng tại MB, VPBank, Techcombank, Sacombank, SHB, ACB nhận bao nhiêu tiền lãi sau 6 tháng?",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-10-23 01:00",
-      "link": "https://cafef.vn/ngay-23-10-gui-100-trieu-dong-tai-mb-vpbank-techcombank-sacombank-shb-acb-nhan-bao-nhieu-tien-lai-sau-6-thang-188261022233924875.chn",
-      "diem": 31.4,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "PVOIL gia hạn chương trình giảm giá xăng dầu đến ngày 29/10",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-10-23 12:15",
-      "link": "https://vnexpress.net/pvoil-gia-han-chuong-trinh-giam-gia-xang-dau-den-ngay-29-10-5135582.html",
-      "diem": 28.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Chứng khoán tăng 22 điểm theo đà mua ròng của khối ngoại",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-10-22 15:48",
-      "link": "https://vnexpress.net/chung-khoan-tang-22-diem-theo-da-mua-rong-cua-khoi-ngoai-5135635.html",
-      "diem": 27.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Chỉ còn 1 tuần để toàn bộ cá nhân, hộ kinh doanh có doanh thu trên 1 tỷ đồng hoàn thành việc này, tránh bị phạt tiền lên đến 25 triệu đồng",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-10-23 09:52",
-      "link": "https://cafef.vn/chi-con-1-tuan-de-toan-bo-ca-nhan-ho-kinh-doanh-co-doanh-thu-tren-1-ty-dong-hoan-thanh-viec-nay-tranh-bi-phat-tien-len-den-25-trieu-dong-1882610230952554.chn",
-      "diem": 26.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Chứng khoán HD báo lãi 9 tháng gấp 3,7 lần cùng kỳ, vượt xa lợi nhuận cả năm 2025",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-10-22 14:58",
-      "link": "https://cafef.vn/chung-khoan-hd-bao-lai-9-thang-gap-37-lan-cung-ky-vuot-xa-loi-nhuan-ca-nam-2025-18826102214590234.chn",
-      "diem": 25.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Bật mí kế hoạch khai thác siêu dự án 16 tỷ USD lớn nhất Việt Nam",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Vĩ mô",
-      "so_nguon": 1,
-      "thoi_gian": "2026-10-23 10:15",
-      "link": "https://cafef.vn/bat-mi-ke-hoach-khai-thac-sieu-du-an-16-ty-usd-lon-nhat-viet-nam-188261023101604525.chn",
-      "diem": 25.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Nhà sản xuất các show 'Say Hi' được lên sàn HoSE",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-10-22 22:25",
-      "link": "https://vnexpress.net/nha-san-xuat-cac-show-say-hi-duoc-len-san-hose-5135777.html",
-      "diem": 21.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Techcombank giảm lãi suất cho vay đến 2%, tập trung vào hoạt động sản xuất kinh doanh",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-10-22 14:39",
-      "link": "https://cafef.vn/techcombank-giam-lai-suat-cho-vay-den-2-tap-trung-vao-hoat-dong-san-xuat-kinh-doanh-188261022143951193.chn",
-      "diem": 18.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Lợi suất trái phiếu Mỹ kỳ hạn 10 năm rớt mốc 5%, thấp nhất gần một tháng",
-      "chu_de": "Thế giới",
-      "nguon": "Vietstock Thế giới",
-      "so_nguon": 1,
-      "thoi_gian": "2026-10-23 10:44",
-      "link": "http://vietstock.vn/2026/10/loi-suat-trai-phieu-my-ky-han-10-nam-rot-moc-5-thap-nhat-gan-mot-thang-773-1506007.htm",
-      "diem": 18.4,
+      "thoi_gian": "2026-10-24 13:41",
+      "link": "https://vietnambiz.vn/tp-hcm-theo-sat-tien-do-tang-truong-moi-hai-tuan-2026101663712538.htm",
+      "diem": 30.0,
       "khan_cap": false
     }
   ]
