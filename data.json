@@ -1,5 +1,5 @@
 {
-  "cap_nhat_luc": "2026-11-03 15:50:21",
+  "cap_nhat_luc": "2026-11-04 15:19:35",
   "so_tin": 30,
   "tin": [
     {
@@ -9,15 +9,25 @@
       "so_nguon": 1,
       "thoi_gian": "2026-11-03 15:39",
       "link": "https://cafef.vn/don-qeshm-va-kha-nang-leo-thang-khong-kich-ong-trump-dang-tinh-toan-gi-voi-iran-va-bau-cu-giua-nhiem-ky-188261103143618541.chn",
-      "diem": 64.9,
+      "diem": 55.1,
       "khan_cap": true
+    },
+    {
+      "tieu_de": "Lãi suất tiết kiệm ngày 4/11 tại Agribank, Vietcombank, BIDV, VietinBank, MB, VPBank, Techcombank, Sacombank, HDBank,...",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-04 07:00",
+      "link": "https://cafef.vn/lai-suat-tiet-kiem-ngay-4-11-tai-agribank-vietcombank-bidv-vietinbank-mb-vpbank-techcombank-sacombank-hdbank-188261103232126222.chn",
+      "diem": 55.0,
+      "khan_cap": false
     },
     {
       "tieu_de": "Sacombank tiếp tục tung gói lãi suất cho vay 7,9%/năm, góp sức cùng mục tiêu tăng trưởng GDP hai chữ số",
       "chu_de": "Kinh tế VN",
       "nguon": "CafeF Tài chính, VietnamBiz Tài chính",
       "so_nguon": 2,
-      "thoi_gian": "2026-11-03 15:50",
+      "thoi_gian": "2026-11-04 15:19",
       "link": "https://vietnambiz.vn/sacombank-tiep-tuc-tung-goi-lai-suat-cho-vay-79nam-gop-suc-cung-muc-tieu-tang-truong-gdp-hai-chu-so-2026112163043140.htm",
       "diem": 54.0,
       "khan_cap": false
@@ -27,19 +37,9 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-03 15:50",
+      "thoi_gian": "2026-11-04 15:19",
       "link": "https://vietnambiz.vn/nhieu-bat-ngo-voi-loi-nhuan-ngan-hang-quy-iii-vietinbank-soan-ngoi-cua-vietcombank-vpbank-vuot-qua-mb-bidv-202611382338169.htm",
       "diem": 50.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Lãi suất tiết kiệm ngày 2/11 tại Agribank, Vietcombank, BIDV, VietinBank, MB, VPBank, Techcombank, Sacombank, HDBank,...",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-02 21:02",
-      "link": "https://cafef.vn/lai-suat-tiet-kiem-ngay-2-11-tai-agribank-vietcombank-bidv-vietinbank-mb-vpbank-techcombank-sacombank-hdbank-188261102195210514.chn",
-      "diem": 46.4,
       "khan_cap": false
     },
     {
@@ -47,7 +47,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-03 15:50",
+      "thoi_gian": "2026-11-04 15:19",
       "link": "https://vietnambiz.vn/ngan-hang-nha-nuoc-tiep-tuc-kiem-soat-tin-dung-bat-dong-san-2026111201327890.htm",
       "diem": 44.0,
       "khan_cap": false
@@ -57,19 +57,29 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-03 15:50",
+      "thoi_gian": "2026-11-04 15:19",
       "link": "https://vietnambiz.vn/vietinbank-vuot-vietcombank-vuon-len-dan-dau-loi-nhuan-quy-iii2026-20261031102916834.htm",
       "diem": 42.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "[Cập nhật 31/10] KQKD ngân hàng 9 tháng: Vietcombank giữ vị trí quán quân lợi nhuận, VietinBank tiến sát nút",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
+      "tieu_de": "Phó Thống đốc Phạm Thanh Hà: NHNN quyết liệt triển khai các biện pháp giảm mặt bằng lãi suất",
+      "chu_de": "Chính sách",
+      "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-03 15:50",
-      "link": "https://vietnambiz.vn/cap-nhat-3110-kqkd-ngan-hang-9-thang-vietcombank-giu-vi-tri-quan-quan-loi-nhuan-vietinbank-tien-sat-nut-202610319935671.htm",
-      "diem": 42.0,
+      "thoi_gian": "2026-11-04 14:58",
+      "link": "https://cafef.vn/pho-thong-doc-pham-thanh-ha-nhnn-quyet-liet-trien-khai-cac-bien-phap-giam-mat-bang-lai-suat-188261104145659813.chn",
+      "diem": 41.8,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Nóng: Ngân hàng Nhà nước muốn bơm thanh khoản dài hạn cho hệ thống ngân hàng",
+      "chu_de": "Chính sách",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-04 13:17",
+      "link": "https://cafef.vn/nong-ngan-hang-nha-nuoc-muon-bom-thanh-khoan-dai-han-cho-he-thong-ngan-hang-188261104132128425.chn",
+      "diem": 38.2,
       "khan_cap": false
     },
     {
@@ -77,29 +87,49 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-03 15:50",
+      "thoi_gian": "2026-11-04 15:19",
       "link": "https://vietnambiz.vn/he-lo-loi-nhuan-ngan-hang-9-thang-4-ngan-hang-tang-truong-am-co-don-vi-bao-lai-tang-bang-lan-202611215195750.htm",
       "diem": 38.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "Vietcombank được Ngân hàng Nhà nước chấp thuận tăng vốn điều lệ thêm 5.431 tỷ đồng",
-      "chu_de": "Chính sách",
-      "nguon": "CafeF Tài chính",
+      "tieu_de": "Giá điện giảm 2%, EVN dự kiến giảm thu gần 1.600 tỷ đồng mỗi tháng",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-03 13:54",
-      "link": "https://cafef.vn/vietcombank-duoc-ngan-hang-nha-nuoc-chap-thuan-tang-von-dieu-le-them-5431-ty-dong-188261103135413186.chn",
-      "diem": 36.4,
+      "thoi_gian": "2026-11-04 14:43",
+      "link": "https://cafef.vn/gia-dien-giam-2-evn-du-kien-giam-thu-gan-1600-ty-dong-moi-thang-188261104142129802.chn",
+      "diem": 37.4,
       "khan_cap": false
     },
     {
-      "tieu_de": "Công ty liên quan bà Lê Hồng Thủy Tiên muốn bán cổ phiếu Sasco",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
+      "tieu_de": "Thủ tướng: \"Sau rất nhiều năm, giá điện mới giảm, trên cơ sở đánh giá rất kỹ tình hình tài chính của EVN\"",
+      "chu_de": "Chính sách",
+      "nguon": "CafeF Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-03 14:44",
-      "link": "https://vnexpress.net/cong-ty-lien-quan-ba-le-hong-thuy-tien-muon-ban-co-phieu-sasco-5140213.html",
-      "diem": 35.0,
+      "thoi_gian": "2026-11-04 14:35",
+      "link": "https://cafef.vn/thu-tuong-sau-rat-nhieu-nam-gia-dien-moi-giam-tren-co-so-danh-gia-rat-ky-tinh-hinh-tai-chinh-cua-evn-18826110414325539.chn",
+      "diem": 37.4,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Hoán đổi ngoại tệ kỳ hạn 182 ngày: Điều gì đáng chú ý trong động thái mới của NHNN?",
+      "chu_de": "Chính sách",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-04 15:19",
+      "link": "https://vietnambiz.vn/hoan-doi-ngoai-te-ky-han-182-ngay-dieu-gi-dang-chu-y-trong-dong-thai-moi-cua-nhnn-2026114111116542.htm",
+      "diem": 34.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Quy định mới về sàn crypto: Báo cáo sự cố công nghệ trong 24h, công bố trước 7 ngày khi niêm yết",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-04 15:19",
+      "link": "https://vietnambiz.vn/quy-dinh-moi-ve-san-crypto-bao-cao-su-co-cong-nghe-trong-24h-cong-bo-truoc-7-ngay-khi-niem-yet-202611482458878.htm",
+      "diem": 34.0,
       "khan_cap": false
     },
     {
@@ -107,7 +137,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-03 15:50",
+      "thoi_gian": "2026-11-04 15:19",
       "link": "https://vietnambiz.vn/cuoc-dua-loi-nhuan-ngan-hang-sau-9-thang-ai-ve-dich-truoc-202611311350365.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -117,89 +147,39 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-03 15:50",
+      "thoi_gian": "2026-11-04 15:19",
       "link": "https://vietnambiz.vn/loi-nhuan-mot-ngan-hang-giam-58-trong-9-thang-quy-mo-cho-vay-giam-manh-20261031175637309.htm",
       "diem": 34.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "[Cập nhật 31/10] KQKD bảo hiểm quý III/2026: Lợi nhuận phân hoá, tăng cao nhất 56%, hai công ty giảm trên 30%",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-03 15:50",
-      "link": "https://vietnambiz.vn/cap-nhat-kqkd-bao-hiem-quy-iii2026-phan-hoa-manh-me-loi-nhuan-abi-lai-56-pti-va-mic-giam-tren-30-20261030153445488.htm",
-      "diem": 34.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Cổ phiếu ngân hàng nào giảm mạnh nhất từ đầu năm?",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-03 11:30",
-      "link": "https://cafef.vn/co-phieu-ngan-hang-nao-giam-manh-nhat-tu-dau-nam-188261103112130363.chn",
-      "diem": 32.4,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Chân dung Quyền Tổng Giám đốc Sacombank Nguyễn Thị Kiều Anh: Từ chuyên viên tín dụng VPBank đến ghế điều hành ngân hàng tư nhân hàng đầu Việt Nam",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-03 06:37",
-      "link": "https://cafef.vn/chan-dung-quyen-tong-giam-doc-sacombank-nguyen-thi-kieu-anh-tu-chuyen-vien-tin-dung-vpbank-den-ghe-dieu-hanh-ngan-hang-tu-nhan-hang-dau-viet-nam-188261102223859348.chn",
-      "diem": 32.4,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Vụ Mr Pips: Phó Đức Nam khai tiền khách hàng thua lỗ là lợi nhuận của sàn",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-03 13:22",
-      "link": "https://cafef.vn/vu-mr-pips-pho-duc-nam-khai-tien-khach-hang-thua-lo-la-loi-nhuan-cua-san-188261103132248677.chn",
-      "diem": 32.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "VietCredit lãi gần gấp đôi trong 9 tháng, nợ xấu tăng 68%",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-03 15:50",
-      "link": "https://vietnambiz.vn/vietcredit-lai-gan-gap-doi-trong-9-thang-no-xau-tang-68-20261030134355160.htm",
-      "diem": 32.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Vốn FDI đăng ký vào Việt Nam cao nhất từ năm 2009",
-      "chu_de": "Kinh tế VN",
+      "tieu_de": "Kết quả chấm điểm giải ngân vốn đầu tư công 10 tháng năm 2026",
+      "chu_de": "Chính sách",
       "nguon": "CafeF Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-03 14:50",
-      "link": "https://cafef.vn/von-fdi-dang-ky-vao-viet-nam-cao-nhat-tu-nam-2009-188261103135738172.chn",
-      "diem": 31.2,
+      "thoi_gian": "2026-11-04 10:02",
+      "link": "https://cafef.vn/ket-qua-cham-diem-giai-ngan-von-dau-tu-cong-10-thang-nam-2026-188261104085319607.chn",
+      "diem": 31.6,
       "khan_cap": false
     },
     {
-      "tieu_de": "Kim ngạch xuất nhập khẩu lần đầu vượt 1.000 tỷ USD, cao nhất từ trước đến nay",
+      "tieu_de": "FDI chiếm hơn 80% xuất khẩu, nhưng nền kinh tế giữ lại bao nhiêu giá trị?",
       "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Vĩ mô",
+      "nguon": "Vietstock Kinh tế",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-03 14:35",
-      "link": "https://cafef.vn/kim-ngach-xuat-nhap-khau-lan-dau-vuot-1000-ty-usd-cao-nhat-tu-truoc-den-nay-188261103134414408.chn",
-      "diem": 31.0,
+      "thoi_gian": "2026-11-04 09:02",
+      "link": "http://vietstock.vn/2026/11/fdi-chiem-hon-80-xuat-khau-nhung-nen-kinh-te-giu-lai-bao-nhieu-gia-tri-761-1508996.htm",
+      "diem": 30.8,
       "khan_cap": false
     },
     {
-      "tieu_de": "Australia tăng lãi suất lên cao nhất 18 năm",
+      "tieu_de": "Một ngân hàng có lãi hoạt động dịch vụ gấp 4 lần Vietcombank, gần gấp đôi BIDV và MB",
       "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
+      "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-03 11:41",
-      "link": "https://vnexpress.net/australia-tang-lai-suat-len-cao-nhat-18-nam-5140080.html",
-      "diem": 30.6,
+      "thoi_gian": "2026-11-04 10:30",
+      "link": "https://cafef.vn/mot-ngan-hang-co-lai-hoat-dong-dich-vu-gap-4-lan-vietcombank-gan-gap-doi-bidv-va-mb-188261104102831155.chn",
+      "diem": 30.0,
       "khan_cap": false
     },
     {
@@ -207,7 +187,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-03 15:50",
+      "thoi_gian": "2026-11-04 15:19",
       "link": "https://vietnambiz.vn/vpbank-mo-rong-quy-mo-nang-cao-hieu-qua-va-chat-luong-202611215591959.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -217,7 +197,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-03 15:50",
+      "thoi_gian": "2026-11-04 15:19",
       "link": "https://vietnambiz.vn/sacombank-co-quyen-tong-giam-doc-moi-2026112104253590.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -227,49 +207,29 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-03 15:50",
+      "thoi_gian": "2026-11-04 15:19",
       "link": "https://vietnambiz.vn/cho-vay-khach-hang-tang-32-hdbank-bao-lai-hop-nhat-hon-14700-ty-dong-trong-9-thang-2026103115559113.htm",
       "diem": 30.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "Vietcombank lãi hơn 40.400 tỷ trong 9 tháng, chi phí dự phòng gấp 4 lần cùng kỳ",
+      "tieu_de": "Ngày 3/11, gửi 200 triệu đồng kỳ hạn 12 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi?",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
+      "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-03 15:50",
-      "link": "https://vietnambiz.vn/vietcombank-lai-hon-40400-ty-trong-9-thang-chi-phi-du-phong-gap-4-lan-cung-ky-2026103193224484.htm",
-      "diem": 30.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "CPI mười tháng đầu năm 2026 tăng 4.57%, lạm phát cơ bản tăng 4.24% so với cùng kỳ năm trước",
-      "chu_de": "Kinh tế VN",
-      "nguon": "Vietstock Kinh tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-03 10:12",
-      "link": "http://vietstock.vn/2026/11/cpi-muoi-thang-dau-nam-2026-tang-457-lam-phat-co-ban-tang-424-so-voi-cung-ky-nam-truoc-761-1510770.htm",
+      "thoi_gian": "2026-11-03 19:26",
+      "link": "https://cafef.vn/ngay-3-11-gui-200-trieu-dong-ky-han-12-thang-tai-mb-vpbank-techcombank-sacombank-shb-hdbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-188261103170626883.chn",
       "diem": 29.4,
       "khan_cap": false
     },
     {
-      "tieu_de": "Vì sao nhiều cổ phiếu ngân hàng rẻ ngang bó rau dù lãi nghìn tỷ mỗi quý?",
+      "tieu_de": "Giá điện sinh hoạt theo 5 bậc, cao nhất 3.844 đồng một kWh",
       "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
+      "nguon": "VnExpress Kinh doanh",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-03 07:22",
-      "link": "https://cafef.vn/vi-sao-nhieu-co-phieu-ngan-hang-re-ngang-bo-rau-du-lai-nghin-ty-moi-quy-188261103013715388.chn",
-      "diem": 29.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Thẻ VPBank rút ngắn khoảng cách giữa khán giả Việt và các huyền thoại quốc tế",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-03 13:30",
-      "link": "https://cafef.vn/the-vpbank-rut-ngan-khoang-cach-giua-khan-gia-viet-va-cac-huyen-thoai-quoc-te-188261103124636181.chn",
-      "diem": 28.0,
+      "thoi_gian": "2026-11-04 11:22",
+      "link": "https://vnexpress.net/gia-dien-sinh-hoat-theo-5-bac-cao-nhat-3-844-dong-mot-kwh-5139227.html",
+      "diem": 28.8,
       "khan_cap": false
     },
     {
@@ -277,7 +237,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-03 15:50",
+      "thoi_gian": "2026-11-04 15:19",
       "link": "https://vietnambiz.vn/46-ty-usd-tien-so-bi-rut-khoi-binance-sau-khi-san-mo-lai-giao-dich-20261128483877.htm",
       "diem": 28.0,
       "khan_cap": false
@@ -287,19 +247,59 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-03 15:50",
+      "thoi_gian": "2026-11-04 15:19",
       "link": "https://vietnambiz.vn/san-giao-dich-tien-dien-tu-binance-bi-tan-cong-mang-thiet-hai-hon-6-ty-usd-20261031195043918.htm",
       "diem": 28.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "Giá USD ngân hàng xuống dưới 26.000 đồng",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
+      "tieu_de": "Chiến lược cải cách thuế 2026-2030",
+      "chu_de": "Chính sách",
+      "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-03 15:50",
-      "link": "https://vietnambiz.vn/gia-usd-ngan-hang-xuong-duoi-26000-dong-2026103193253890.htm",
-      "diem": 28.0,
+      "thoi_gian": "2026-11-04 07:55",
+      "link": "https://cafef.vn/chien-luoc-cai-cach-thue-2026-2030-188261104075538347.chn",
+      "diem": 27.8,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Giải Marathon Quốc tế Thành phố Hồ Chí Minh Techcombank mùa thứ 9 khởi động",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-04 12:00",
+      "link": "https://cafef.vn/giai-marathon-quoc-te-thanh-pho-ho-chi-minh-techcombank-mua-thu-9-khoi-dong-188261104114515615.chn",
+      "diem": 27.2,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Kinh tế Việt Nam qua góc nhìn quốc tế: Thêm lực đẩy cho tăng trưởng hai con số",
+      "chu_de": "Kinh tế VN",
+      "nguon": "Vietstock Kinh tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-04 09:23",
+      "link": "http://vietstock.vn/2026/11/kinh-te-viet-nam-qua-goc-nhin-quoc-te-them-luc-day-cho-tang-truong-hai-con-so-761-1511382.htm",
+      "diem": 25.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Giá USD xuống sát 25.900 đồng",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-04 10:36",
+      "link": "https://vnexpress.net/gia-usd-xuong-sat-25-900-dong-5140562.html",
+      "diem": 24.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Sacombank cho vay 7,9% một năm với nhóm xuất nhập khẩu, FDI",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-03 16:00",
+      "link": "https://vnexpress.net/sacombank-cho-vay-7-9-mot-nam-voi-nhom-xuat-nhap-khau-fdi-5140282.html",
+      "diem": 20.6,
       "khan_cap": false
     }
   ]
