@@ -1,23 +1,33 @@
 {
-  "cap_nhat_luc": "2026-11-05 15:45:12",
+  "cap_nhat_luc": "2026-11-06 15:46:54",
   "so_tin": 30,
   "tin": [
     {
-      "tieu_de": "Lãi suất tiết kiệm ngày 5/11 tại Agribank, Vietcombank, BIDV, VietinBank, MB, VPBank, Techcombank, Sacombank, HDBank,...",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
+      "tieu_de": "Bill Gates cảnh báo AI có thể gây ra đại dịch tệ hơn COVID-19",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-05 07:51",
-      "link": "https://cafef.vn/lai-suat-tiet-kiem-ngay-5-11-tai-agribank-vietcombank-bidv-vietinbank-mb-vpbank-techcombank-sacombank-hdbank-188261105075324654.chn",
-      "diem": 55.4,
-      "khan_cap": false
+      "thoi_gian": "2026-11-06 14:25",
+      "link": "https://cafef.vn/bill-gates-canh-bao-ai-co-the-gay-ra-dai-dich-te-hon-covid-19-18826110614022257.chn",
+      "diem": 62.4,
+      "khan_cap": true
+    },
+    {
+      "tieu_de": "Tổng thống Paraguay từ chức sau vụ sụp đổ ngân hàng số",
+      "chu_de": "Thế giới",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-06 10:57",
+      "link": "https://cafef.vn/tong-thong-paraguay-tu-chuc-sau-vu-sup-do-ngan-hang-so-188261106105722991.chn",
+      "diem": 61.0,
+      "khan_cap": true
     },
     {
       "tieu_de": "Nhiều bất ngờ với lợi nhuận ngân hàng quý III: VietinBank 'soán ngôi' của Vietcombank, VPBank vượt qua MB, BIDV",
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-05 15:45",
+      "thoi_gian": "2026-11-06 15:46",
       "link": "https://vietnambiz.vn/nhieu-bat-ngo-voi-loi-nhuan-ngan-hang-quy-iii-vietinbank-soan-ngoi-cua-vietcombank-vpbank-vuot-qua-mb-bidv-202611382338169.htm",
       "diem": 50.0,
       "khan_cap": false
@@ -27,19 +37,9 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-05 15:45",
+      "thoi_gian": "2026-11-06 15:46",
       "link": "https://vietnambiz.vn/sacombank-tiep-tuc-tung-goi-lai-suat-cho-vay-79nam-gop-suc-cung-muc-tieu-tang-truong-gdp-hai-chu-so-2026112163043140.htm",
       "diem": 48.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Ngân hàng Nhà nước tiếp tục kiểm soát tín dụng bất động sản",
-      "chu_de": "Chính sách",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-05 15:45",
-      "link": "https://vietnambiz.vn/ngan-hang-nha-nuoc-tiep-tuc-kiem-soat-tin-dung-bat-dong-san-2026111201327890.htm",
-      "diem": 44.0,
       "khan_cap": false
     },
     {
@@ -47,29 +47,9 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-05 15:45",
+      "thoi_gian": "2026-11-06 15:46",
       "link": "https://vietnambiz.vn/pho-thong-doc-nhnn-se-tiep-tuc-quyet-liet-trien-khai-giam-mat-bang-lai-suat-ca-huy-dong-va-cho-vay-2026114152128314.htm",
       "diem": 42.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "NHNN Khu vực 2 tăng cường theo dõi lãi suất với các giao dịch phát sinh",
-      "chu_de": "Chính sách",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-05 13:17",
-      "link": "https://cafef.vn/nhnn-khu-vuc-2-tang-cuong-theo-doi-lai-suat-voi-cac-giao-dich-phat-sinh-188261105121734128.chn",
-      "diem": 40.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Chứng khoán HD chốt giá IPO 38.900 đồng/cổ phiếu, định giá sau phát hành khoảng 1,8 tỷ USD",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-04 19:08",
-      "link": "https://cafef.vn/chung-khoan-hd-chot-gia-ipo-38900-dong-co-phieu-dinh-gia-sau-phat-hanh-khoang-18-ty-usd-188261104190854587.chn",
-      "diem": 38.8,
       "khan_cap": false
     },
     {
@@ -77,7 +57,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-05 15:45",
+      "thoi_gian": "2026-11-06 15:46",
       "link": "https://vietnambiz.vn/buc-tranh-loi-nhuan-ngan-hang-quy-iii-6-ngan-hang-dong-gop-hon-80-muc-tang-truong-thu-tu-lai-va-dich-vu-la-dong-luc-chinh-202611412921120.htm",
       "diem": 38.0,
       "khan_cap": false
@@ -87,9 +67,29 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-05 15:45",
+      "thoi_gian": "2026-11-06 15:46",
       "link": "https://vietnambiz.vn/he-lo-loi-nhuan-ngan-hang-9-thang-4-ngan-hang-tang-truong-am-co-don-vi-bao-lai-tang-bang-lan-202611215195750.htm",
       "diem": 38.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Tiền gửi tại NHNN của 28 ngân hàng giảm gần 113.000 tỷ đồng sau 9 tháng, MB và LPBank giảm mạnh nhất",
+      "chu_de": "Chính sách",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-06 15:46",
+      "link": "https://vietnambiz.vn/tien-gui-tai-nhnn-cua-28-ngan-hang-giam-gan-113000-ty-dong-sau-9-thang-mb-va-lpbank-giam-manh-nhat-2026115195916430.htm",
+      "diem": 34.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Ngân hàng trung ương Anh tăng lãi suất lần đầu tiên sau 3 năm",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-06 15:46",
+      "link": "https://vietnambiz.vn/ngan-hang-trung-uong-anh-tang-lai-suat-lan-dau-tien-sau-3-nam-2026115205942906.htm",
+      "diem": 34.0,
       "khan_cap": false
     },
     {
@@ -97,7 +97,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-05 15:45",
+      "thoi_gian": "2026-11-06 15:46",
       "link": "https://vietnambiz.vn/nhung-ngan-hang-chiu-chi-nhat-cho-nhan-vien-9-thang-dau-nam-2026-vietcombank-dan-dau-tpbank-lui-ve-a-quan-2026115111748306.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -107,7 +107,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-05 15:45",
+      "thoi_gian": "2026-11-06 15:46",
       "link": "https://vietnambiz.vn/hoan-doi-ngoai-te-ky-han-182-ngay-dieu-gi-dang-chu-y-trong-dong-thai-moi-cua-nhnn-2026114111116542.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -117,7 +117,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-05 15:45",
+      "thoi_gian": "2026-11-06 15:46",
       "link": "https://vietnambiz.vn/quy-dinh-moi-ve-san-crypto-bao-cao-su-co-cong-nghe-trong-24h-cong-bo-truoc-7-ngay-khi-niem-yet-202611482458878.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -127,28 +127,58 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-05 15:45",
+      "thoi_gian": "2026-11-06 15:46",
       "link": "https://vietnambiz.vn/cuoc-dua-loi-nhuan-ngan-hang-sau-9-thang-ai-ve-dich-truoc-202611311350365.htm",
       "diem": 34.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "Hoán đổi ngoại tệ kỳ hạn 6 tháng: Hỗ trợ thanh khoản, giảm áp lực lãi suất",
+      "tieu_de": "Ngày 6/11, gửi dưới 1 tỷ đồng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi sau 6 tháng?",
       "chu_de": "Kinh tế VN",
       "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-05 08:19",
-      "link": "https://cafef.vn/hoan-doi-ngoai-te-ky-han-6-thang-ho-tro-thanh-khoan-giam-ap-luc-lai-suat-188261105080626478.chn",
-      "diem": 33.8,
+      "thoi_gian": "2026-11-06 01:00",
+      "link": "https://cafef.vn/ngay-6-11-gui-duoi-1-ty-dong-tai-mb-vpbank-techcombank-sacombank-shb-hdbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-sau-6-thang-188261105233246163.chn",
+      "diem": 33.6,
       "khan_cap": false
     },
     {
-      "tieu_de": "Vượt mốc 50 tỷ USD, địa phương này chỉ đứng sau TP.HCM về lượng vốn FDI đăng ký luỹ kế, thành công thu hút loạt 'đại bàng' Foxconn, Amkor, Canon... đến 'làm tổ'",
+      "tieu_de": "Ngày 6/11, một ngân hàng cộng thêm lãi suất tiền gửi, cao nhất lên tới 9,1%/năm",
       "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Vĩ mô",
+      "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-05 11:00",
-      "link": "https://cafef.vn/vuot-moc-50-ty-usd-dia-phuong-nay-chi-dung-sau-tphcm-ve-luong-von-fdi-dang-ky-luy-ke-thanh-cong-thu-hut-loat-dai-bang-foxconn-amkor-canon-den-lam-to-18826110510000341.chn",
+      "thoi_gian": "2026-11-06 14:42",
+      "link": "https://cafef.vn/ngay-6-11-mot-ngan-hang-cong-them-lai-suat-cao-nhat-len-toi-91-nam-18826110614422182.chn",
+      "diem": 33.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Quan chức Fed bất ngờ phát tín hiệu mới về lãi suất",
+      "chu_de": "Fed",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-06 08:01",
+      "link": "https://cafef.vn/quan-chuc-fed-bat-ngo-phat-tin-hieu-moi-ve-lai-suat-188261105223128889.chn",
+      "diem": 32.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Lợi nhuận tăng vọt, một ngân hàng tăng gần 20% quỹ lương cho nhân viên, thu nhập bình quân vượt 40 triệu đồng/tháng",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-06 10:59",
+      "link": "https://cafef.vn/loi-nhuan-tang-vot-mot-ngan-hang-tang-gan-20-quy-luong-cho-nhan-vien-thu-nhap-binh-quan-vuot-40-trieu-dong-thang-188261106110048894.chn",
+      "diem": 30.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Nhân viên ngân hàng 'kiếm tiền' giỏi nhất 9 tháng gọi tên SHB, Techcombank",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-06 15:46",
+      "link": "https://vietnambiz.vn/nhan-vien-ngan-hang-kiem-tien-gioi-nhat-9-thang-goi-ten-shb-techcombank-2026115161833629.htm",
       "diem": 30.0,
       "khan_cap": false
     },
@@ -157,7 +187,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-05 15:45",
+      "thoi_gian": "2026-11-06 15:46",
       "link": "https://vietnambiz.vn/the-horizon-of-vienna-2026-vpbank-private-tiep-noi-hanh-trinh-ton-vinh-di-san-am-nhac-va-nhung-gia-tri-thinh-vuong-vuot-thoi-gian-20261141281158.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -167,59 +197,39 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-05 15:45",
+      "thoi_gian": "2026-11-06 15:46",
       "link": "https://vietnambiz.vn/vpbank-mo-rong-quy-mo-nang-cao-hieu-qua-va-chat-luong-202611215591959.htm",
       "diem": 30.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "Sacombank có Quyền Tổng Giám đốc mới",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-05 15:45",
-      "link": "https://vietnambiz.vn/sacombank-co-quyen-tong-giam-doc-moi-2026112104253590.htm",
-      "diem": 30.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Vốn FDI vào TP HCM tăng hơn 4 lần",
+      "tieu_de": "TP HCM không đánh đổi môi trường Cần Giờ để tăng trưởng kinh tế",
       "chu_de": "Kinh tế VN",
       "nguon": "VnExpress Kinh doanh",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-05 12:29",
-      "link": "https://vnexpress.net/von-fdi-vao-tp-hcm-tang-hon-4-lan-5141078.html",
-      "diem": 29.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Công ty bà Nguyễn Thị Như Loan lần đầu chia cổ tức sau 8 năm",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-05 00:05",
-      "link": "https://vnexpress.net/cong-ty-ba-nguyen-thi-nhu-loan-lan-dau-chia-co-tuc-sau-8-nam-5140862.html",
+      "thoi_gian": "2026-11-06 14:35",
+      "link": "https://vnexpress.net/tp-hcm-khong-danh-doi-moi-truong-can-gio-de-tang-truong-kinh-te-5141549.html",
       "diem": 29.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "Văn hóa đổi mới tạo động lực tăng trưởng cho DNSE",
+      "tieu_de": "ACB mang hơn 1,7 triệu phần thưởng lên ACB ONE, trúng iPhone 18 Pro Max mỗi tuần",
       "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
+      "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-05 14:00",
-      "link": "https://vnexpress.net/van-hoa-doi-moi-tao-dong-luc-tang-truong-cho-dnse-5141135.html",
-      "diem": 28.6,
+      "thoi_gian": "2026-11-06 13:30",
+      "link": "https://cafef.vn/acb-mang-hon-17-trieu-phan-thuong-len-acb-one-trung-iphone-18-pro-max-moi-tuan-188261106133025656.chn",
+      "diem": 28.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "Thủ tướng Lê Minh Hưng yêu cầu ưu tiên cao nhất cho mục tiêu kiểm soát lạm phát trong 2 tháng cuối năm",
-      "chu_de": "Chính sách",
-      "nguon": "Vietstock Kinh tế",
+      "tieu_de": "Ngân hàng lớn của Pháp bị tin tặc tấn công, thiệt hại hơn 100 triệu USD",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-05 09:22",
-      "link": "http://vietstock.vn/2026/11/thu-tuong-le-minh-hung-yeu-cau-uu-tien-cao-nhat-cho-muc-tieu-kiem-soat-lam-phat-trong-2-thang-cuoi-nam-761-1511720.htm",
-      "diem": 28.6,
+      "thoi_gian": "2026-11-06 15:46",
+      "link": "https://vietnambiz.vn/ngan-hang-lon-cua-phap-bi-tin-tac-tan-cong-thiet-hai-hon-100-trieu-usd-2026115201957388.htm",
+      "diem": 28.0,
       "khan_cap": false
     },
     {
@@ -227,79 +237,69 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-05 15:45",
+      "thoi_gian": "2026-11-06 15:46",
       "link": "https://vietnambiz.vn/truoc-phien-hoan-doi-2-ty-usd-loat-ngan-hang-viet-huy-dong-von-quoc-te-ra-sao-2026114164239460.htm",
       "diem": 28.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "4,6 tỷ USD tiền số bị rút khỏi Binance sau khi sàn mở lại giao dịch",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-05 15:45",
-      "link": "https://vietnambiz.vn/46-ty-usd-tien-so-bi-rut-khoi-binance-sau-khi-san-mo-lai-giao-dich-20261128483877.htm",
-      "diem": 28.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Kinh tế Mỹ thế nào khi đảng của ông Trump không kiểm soát lưỡng viện quốc hội",
-      "chu_de": "Chính sách",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-05 13:10",
-      "link": "https://vnexpress.net/kinh-te-my-the-nao-khi-dang-cua-ong-trump-khong-kiem-soat-luong-vien-quoc-hoi-5140982.html",
-      "diem": 27.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Hàng loạt nhà băng Vietcombank, MB, Techcombank, HDBank, MSB,... muốn thành lập thêm ngân hàng",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-05 00:54",
-      "link": "https://cafef.vn/hang-loat-nha-bang-vietcombank-mb-techcombank-hdbank-msb-muon-thanh-lap-them-ngan-hang-188261104234805071.chn",
-      "diem": 25.6,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Ngân hàng Pháp bị tin tặc đánh cắp hơn 110 triệu USD",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-05 12:35",
-      "link": "https://vnexpress.net/ngan-hang-phap-bi-tin-tac-danh-cap-hon-110-trieu-usd-5141067.html",
-      "diem": 25.4,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Từ những đại concert đến động lực tăng trưởng mới của công nghiệp văn hóa Việt Nam",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-05 10:00",
-      "link": "https://cafef.vn/tu-nhung-dai-concert-den-dong-luc-tang-truong-moi-cua-cong-nghiep-van-hoa-viet-nam-188261105095149735.chn",
-      "diem": 25.2,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Công ty TNHH Một Thành viên Quản lý Quỹ ACB (\"ACBC\") thông báo chào bán chứng chỉ Quỹ ACBC-BOND ra công chúng",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-05 09:30",
-      "link": "https://cafef.vn/cong-ty-tnhh-mot-thanh-vien-quan-ly-quy-acb-acbc-thong-bao-chao-ban-chung-chi-quy-acbc-bond-ra-cong-chung-188261105083038836.chn",
-      "diem": 24.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Hà Nội khống chế mức trần 120 triệu USD/km cho 5 tuyến metro",
+      "tieu_de": "'Đại gia' bán lẻ Thái Lan muốn đầu tư 15-20 triệu USD xây TTTM tại một tỉnh miền Trung, cam kết đi vào hoạt động trong 12 tháng từ khi giao đất",
       "chu_de": "Kinh tế VN",
       "nguon": "CafeF Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-05 11:30",
-      "link": "https://cafef.vn/ha-noi-khong-che-muc-tran-120-trieu-usd-km-cho-5-tuyen-metro-188261105103446499.chn",
-      "diem": 24.4,
+      "thoi_gian": "2026-11-06 15:25",
+      "link": "https://cafef.vn/dai-gia-ban-le-thai-lan-muon-dau-tu-15-20-trieu-usd-xay-tttm-tai-mot-tinh-mien-trung-cam-ket-di-vao-hoat-dong-trong-12-thang-tu-khi-giao-dat-188261106142922659.chn",
+      "diem": 27.6,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Chính phủ phê duyệt định hướng phát triển đô thị thông minh quốc gia giai đoạn 2026 - 2030, tầm nhìn đến năm 2035",
+      "chu_de": "Chính sách",
+      "nguon": "Vietstock Kinh tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-06 10:32",
+      "link": "http://vietstock.vn/2026/11/chinh-phu-phe-duyet-dinh-huong-phat-trien-do-thi-thong-minh-quoc-gia-giai-doan-2026-2030-tam-nhin-den-nam-2035-761-1512204.htm",
+      "diem": 27.6,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Cổ phiếu trụ tiếp tục đỡ chứng khoán",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-05 15:58",
+      "link": "https://vnexpress.net/co-phieu-tru-tiep-tuc-do-chung-khoan-5141208.html",
+      "diem": 26.2,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Chứng khoán châu Á chìm trong sắc đỏ: TTCK Đài Loan giảm sâu nhất từ trước đến nay, Hàn Quốc phải ngắt giao dịch khẩn cấp sau cú sốc từ Mỹ",
+      "chu_de": "Địa chính trị",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-06 15:24",
+      "link": "https://cafef.vn/chung-khoan-chau-a-chim-trong-sac-do-ttck-dai-loan-giam-sau-nhat-tu-truoc-den-nay-han-quoc-phai-ngat-giao-dich-khan-cap-sau-cu-soc-tu-my-18826110615232721.chn",
+      "diem": 17.8,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Chỉ đạo mới nhất của Bộ Chính trị về siêu quy hoạch đầu tiên sau sáp nhập, tầm nhìn 100 năm của TP.HCM",
+      "chu_de": "Chính sách",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-05 20:00",
+      "link": "https://cafef.vn/chi-dao-moi-nhat-cua-bo-chinh-tri-ve-quy-hoach-tong-the-dau-tien-sau-sap-nhap-tam-nhin-100-nam-cua-thanh-pho-giau-nhat-ca-nuoc-188261105191311809.chn",
+      "diem": 17.6,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Ông Nguyễn Đức Tài nói bỏ 1 tỷ đồng vào MWG từ 20 năm trước nay sẽ thành 400 tỷ đồng: Nếu mua vàng và bất động sản thì sao?",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-05 19:59",
+      "link": "https://cafef.vn/ong-nguyen-duc-tai-noi-bo-1-ty-dong-vao-mwg-tu-20-nam-truoc-nay-se-thanh-400-ty-dong-neu-mua-vang-va-bat-dong-san-thi-sao-188261105184328241.chn",
+      "diem": 17.6,
       "khan_cap": false
     }
   ]
