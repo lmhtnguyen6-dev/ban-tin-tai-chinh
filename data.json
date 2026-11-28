@@ -1,25 +1,45 @@
 {
-  "cap_nhat_luc": "2026-11-27 17:19:21",
+  "cap_nhat_luc": "2026-11-28 16:37:34",
   "so_tin": 30,
   "tin": [
     {
-      "tieu_de": "VCB rơi xuống đáy hơn 3 năm, Phó Tổng Giám đốc Vietcombank đăng ký mua vào lượng lớn cổ phiếu",
+      "tieu_de": "Ngày 28/11, gửi dưới 100 triệu đồng kỳ hạn 1 tháng tại Sacombank, SHB, HDBank, MB, VPBank, Techcombank và ACB nhận được bao nhiêu tiền lãi?",
       "chu_de": "Kinh tế VN",
       "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-27 12:39",
-      "link": "https://cafef.vn/vcb-roi-xuong-day-hon-3-nam-pho-tong-giam-doc-vietcombank-dang-ky-mua-vao-luong-lon-co-phieu-188261127123957838.chn",
-      "diem": 46.2,
+      "thoi_gian": "2026-11-28 13:33",
+      "link": "https://cafef.vn/ngay-28-11-gui-duoi-100-trieu-dong-ky-han-1-thang-tai-sacombank-shb-hdbank-mb-vpbank-techcombank-va-acb-nhan-duoc-bao-nhieu-tien-lai-188261128133430161.chn",
+      "diem": 43.4,
       "khan_cap": false
     },
     {
-      "tieu_de": "Ngày 27/11, gửi dưới 100 triệu đồng 6 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi?",
+      "tieu_de": "Dragon Capital đề xuất Việt Nam thử nghiệm phát hành trái phiếu Panda, Dim Sum",
       "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
+      "nguon": "VietnamBiz Vĩ mô, VnExpress Kinh doanh",
+      "so_nguon": 2,
+      "thoi_gian": "2026-11-28 16:37",
+      "link": "https://vietnambiz.vn/dragon-capital-de-xuat-viet-nam-thu-nghiem-phat-hanh-trai-phieu-panda-dim-sum-202611288739987.htm",
+      "diem": 42.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Ngân hàng Nhà nước bơm ròng thanh khoản kỷ lục gần một thập kỷ",
+      "chu_de": "Chính sách",
+      "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-27 16:26",
-      "link": "https://cafef.vn/ngay-27-11-gui-duoi-100-trieu-dong-6-thang-tai-mb-vpbank-techcombank-sacombank-shb-hdbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-188261127162711939.chn",
-      "diem": 45.2,
+      "thoi_gian": "2026-11-28 16:37",
+      "link": "https://vietnambiz.vn/ngan-hang-nha-nuoc-bom-rong-thanh-khoan-ky-luc-gan-mot-thap-ky-2026112810285923.htm",
+      "diem": 40.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Giải mã nghịch lý ngân hàng tất toán trái phiếu lãi suất thấp giữa làn sóng phát hành mới",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-28 16:37",
+      "link": "https://vietnambiz.vn/giai-ma-nghich-ly-ngan-hang-tat-toan-trai-phieu-lai-suat-thap-giua-lan-song-phat-hanh-moi-20261127171226207.htm",
+      "diem": 40.0,
       "khan_cap": false
     },
     {
@@ -27,7 +47,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-27 17:19",
+      "thoi_gian": "2026-11-28 16:37",
       "link": "https://vietnambiz.vn/vis-rating-lai-suat-cho-vay-cao-lam-gia-tang-no-xau-va-rui-ro-tai-san-cua-nganh-ngan-hang-202611261442831.htm",
       "diem": 40.0,
       "khan_cap": false
@@ -37,29 +57,9 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-27 17:19",
+      "thoi_gian": "2026-11-28 16:37",
       "link": "https://vietnambiz.vn/van-co-ngan-hang-chao-lai-suat-len-toi-96nam-ap-luc-thanh-khoan-dai-han-kho-ha-nhiet-20261126122536965.htm",
       "diem": 40.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Cổ phiếu dầu khí bùng nổ",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-27 15:35",
-      "link": "https://vnexpress.net/co-phieu-dau-khi-bung-no-5149677.html",
-      "diem": 38.6,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Techcombank thay đổi nhân sự cấp cao",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính, VietnamBiz Tài chính",
-      "so_nguon": 2,
-      "thoi_gian": "2026-11-27 17:19",
-      "link": "https://vietnambiz.vn/techcombank-thay-doi-nhan-su-cap-cao-20261126151011745.htm",
-      "diem": 36.0,
       "khan_cap": false
     },
     {
@@ -67,7 +67,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-27 17:19",
+      "thoi_gian": "2026-11-28 16:37",
       "link": "https://vietnambiz.vn/scic-chi-hon-480-ty-dong-mua-vao-32-trieu-co-phieu-mbb-20261127162515689.htm",
       "diem": 36.0,
       "khan_cap": false
@@ -77,9 +77,29 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-27 17:19",
+      "thoi_gian": "2026-11-28 16:37",
       "link": "https://vietnambiz.vn/tin-dung-9-thang-dau-nam-cho-vay-doanh-nghiep-la-dong-luc-tang-truong-chinh-big4-mat-thi-phan-cho-nhom-tu-nhan-20261125171419344.htm",
       "diem": 36.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Cơ quan Thuế yêu cầu Vietcombank, Agribank, BIDV, ACB... thực hiện phong toả, trích tiền các tài khoản ngân hàng sau đây",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-28 14:01",
+      "link": "https://cafef.vn/co-quan-thue-yeu-cau-vietcombank-agribank-bidv-acb-thuc-hien-phong-toa-trich-tien-cac-tai-khoan-ngan-hang-sau-day-188261128113617767.chn",
+      "diem": 35.8,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Nghị quyết của Quốc hội về KTXH năm 2027: GDP tăng từ 10% trở lên; thu nhập bình quân đầu người 6,100 USD",
+      "chu_de": "Chính sách",
+      "nguon": "Vietstock Kinh tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-28 10:20",
+      "link": "http://vietstock.vn/2026/11/nghi-quyet-cua-quoc-hoi-ve-ktxh-nam-2027-gdp-tang-tu-10-tro-len-thu-nhap-binh-quan-dau-nguoi-6100-usd-761-1518854.htm",
+      "diem": 34.8,
       "khan_cap": false
     },
     {
@@ -87,7 +107,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-27 17:19",
+      "thoi_gian": "2026-11-28 16:37",
       "link": "https://vietnambiz.vn/chuyen-gia-luong-von-tu-viec-giam-co-phan-nha-nuoc-tai-vietcombank-bidv-la-con-so-khong-lo-2026112712402732.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -97,7 +117,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-27 17:19",
+      "thoi_gian": "2026-11-28 16:37",
       "link": "https://vietnambiz.vn/ts-can-van-luc-han-muc-vay-noi-len-10-ty-usd-du-no-nuoc-ngoai-cua-viet-nam-co-the-dat-34-35-gdp-vao-cuoi-2026-20261125204157438.htm",
       "diem": 34.0,
       "khan_cap": false
@@ -107,19 +127,19 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-27 17:19",
+      "thoi_gian": "2026-11-28 16:37",
       "link": "https://vietnambiz.vn/lanh-dao-uob-du-bao-lam-phat-viet-nam-co-the-duy-tri-quanh-35-4-20261118182924165.htm",
       "diem": 34.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "Chùm ảnh: Thủ tướng Lê Minh Hưng cùng các Lãnh đạo, Nguyên lãnh đạo Chính phủ, Bộ Tài chính tham quan Không gian triển lãm quảng bá nhân kỷ niệm 30 năm Ngày truyền thống ngành Chứng khoán Việt Nam",
-      "chu_de": "Chính sách",
+      "tieu_de": "Làn sóng tăng lãi suất của các ngân hàng trung ương nóng trở lại",
+      "chu_de": "Kinh tế VN",
       "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-27 13:23",
-      "link": "https://cafef.vn/chum-anh-thu-tuong-le-minh-hung-cung-cac-lanh-dao-nguyen-lanh-dao-chinh-phu-bo-tai-chinh-tham-quan-khong-gian-trien-lam-quang-ba-nhan-ky-niem-30-nam-ngay-truyen-thong-nganh-chung-khoan-viet-nam-188261127132408222.chn",
-      "diem": 32.8,
+      "thoi_gian": "2026-11-28 14:48",
+      "link": "https://cafef.vn/quoc-hoi-yeu-cau-giam-lai-suat-cho-vay-xu-ly-no-xau-va-ngan-hang-yeu-kem-188261128124832329.chn",
+      "diem": 32.4,
       "khan_cap": false
     },
     {
@@ -127,7 +147,7 @@
       "chu_de": "Chính sách",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-27 17:19",
+      "thoi_gian": "2026-11-28 16:37",
       "link": "https://vietnambiz.vn/chinh-phu-nang-tran-vay-nuoc-ngoai-cua-doanh-nghiep-len-10-ty-usd-ty-gia-se-chiu-ap-luc-ra-sao-2026112713492571.htm",
       "diem": 32.0,
       "khan_cap": false
@@ -137,7 +157,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-27 17:19",
+      "thoi_gian": "2026-11-28 16:37",
       "link": "https://vietnambiz.vn/dang-sau-hang-nghin-ty-dong-trai-phieu-vamc-tai-cac-ngan-hang-20261122205421984.htm",
       "diem": 32.0,
       "khan_cap": false
@@ -147,49 +167,19 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-27 17:19",
+      "thoi_gian": "2026-11-28 16:37",
       "link": "https://vietnambiz.vn/chu-tich-cong-doan-pou-sung-viet-nam-mot-so-cong-ty-tai-chinh-duoc-cap-phep-nhung-cach-thuc-doi-no-nhu-tin-dung-den-20261119154855794.htm",
       "diem": 32.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "EVNHCMC cấp điện ổn định cho sản xuất cuối năm",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
+      "tieu_de": "Quốc hội yêu cầu giảm lãi suất cho vay",
+      "chu_de": "Chính sách",
+      "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-27 17:00",
-      "link": "https://vnexpress.net/evnhcmc-cap-dien-on-dinh-cho-san-xuat-cuoi-nam-5149715.html",
+      "thoi_gian": "2026-11-28 14:04",
+      "link": "https://cafef.vn/quoc-hoi-yeu-cau-giam-lai-suat-cho-vay-188261128140438808.chn",
       "diem": 31.8,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "'Chứng khoán phải là kênh huy động vốn trung, dài hạn'",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-27 12:01",
-      "link": "https://vnexpress.net/chung-khoan-phai-la-kenh-huy-dong-von-trung-dai-han-5149538.html",
-      "diem": 31.6,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Mua cổ phiếu ngân hàng nào bị lỗ nặng nhất từ đầu năm đến nay?",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-27 11:43",
-      "link": "https://cafef.vn/mua-co-phieu-ngan-hang-nao-bi-lo-nang-nhat-tu-dau-nam-den-nay-188261127114318105.chn",
-      "diem": 31.4,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Một cổ phiếu ngân hàng tăng trần đầu phiên sáng 27/11",
-      "chu_de": "Kinh tế VN",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-27 10:18",
-      "link": "https://cafef.vn/mot-co-phieu-ngan-hang-tang-tran-dau-phien-sang-27-11-188261127101811543.chn",
-      "diem": 30.2,
       "khan_cap": false
     },
     {
@@ -197,8 +187,18 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-27 17:19",
+      "thoi_gian": "2026-11-28 16:37",
       "link": "https://vietnambiz.vn/vietinbank-ipay-mobile-ung-dung-ngan-hang-so-sang-tao-nhat-viet-nam-2026-2026112716355435.htm",
+      "diem": 30.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Techcombank thay đổi nhân sự cấp cao",
+      "chu_de": "Kinh tế VN",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-28 16:37",
+      "link": "https://vietnambiz.vn/techcombank-thay-doi-nhan-su-cap-cao-20261126151011745.htm",
       "diem": 30.0,
       "khan_cap": false
     },
@@ -207,7 +207,7 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-27 17:19",
+      "thoi_gian": "2026-11-28 16:37",
       "link": "https://vietnambiz.vn/hon-1-trieu-ty-dong-du-no-kinh-doanh-bat-dong-san-tai-7-ngan-hang-20261125172336888.htm",
       "diem": 30.0,
       "khan_cap": false
@@ -217,18 +217,8 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-27 17:19",
+      "thoi_gian": "2026-11-28 16:37",
       "link": "https://vietnambiz.vn/taxi-mai-linh-no-qua-han-ngan-hang-thu-giu-bat-dong-san-20261124195149109.htm",
-      "diem": 30.0,
-      "khan_cap": false
-    },
-    {
-      "tieu_de": "Tỷ giá trung tâm lập kỷ lục mới",
-      "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-27 17:19",
-      "link": "https://vietnambiz.vn/ty-gia-trung-tam-lap-ky-luc-moi-20261123193617243.htm",
       "diem": 30.0,
       "khan_cap": false
     },
@@ -237,29 +227,29 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-27 17:19",
+      "thoi_gian": "2026-11-28 16:37",
       "link": "https://vietnambiz.vn/viet-nam-nen-phat-trien-bat-dong-san-duong-lao-va-quan-ly-gia-san-tuoi-gia-2026111964948430.htm",
       "diem": 30.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "Mỗi lượng vàng tăng 1,5 triệu đồng, lên cao nhất một tuần",
+      "tieu_de": "Cách nào kiến tạo động lực tăng trưởng mới cho nền kinh tế?",
       "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
+      "nguon": "CafeF Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-27 15:48",
-      "link": "https://vnexpress.net/moi-luong-vang-tang-1-5-trieu-dong-len-cao-nhat-mot-tuan-5149683.html",
-      "diem": 28.8,
+      "thoi_gian": "2026-11-28 16:19",
+      "link": "https://cafef.vn/cach-nao-kien-tao-dong-luc-tang-truong-moi-cho-nen-kinh-te-188261128161335194.chn",
+      "diem": 29.8,
       "khan_cap": false
     },
     {
-      "tieu_de": "Thêm 7 thành viên mới tham gia VIFC-HCMC, dự kiến huy động 5 tỷ USD giai đoạn 2027–2030",
+      "tieu_de": "Tỉnh duy nhất Việt Nam chưa từng sáp nhập, đổi tên hàng trăm năm qua vừa công bố kỷ lục chưa từng có",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Tài chính",
+      "nguon": "CafeF Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-27 17:19",
-      "link": "https://vietnambiz.vn/them-7-thanh-vien-moi-tham-gia-vifc-hcmc-du-kien-huy-dong-5-ty-usd-giai-doan-2027-2030-20261123155714291.htm",
-      "diem": 28.0,
+      "thoi_gian": "2026-11-28 09:35",
+      "link": "https://cafef.vn/tinh-duy-nhat-viet-nam-chua-tung-sap-nhap-doi-ten-hang-tram-nam-qua-vua-cong-bo-ky-luc-chua-tung-co-188261128093554439.chn",
+      "diem": 28.2,
       "khan_cap": false
     },
     {
@@ -267,39 +257,49 @@
       "chu_de": "Kinh tế VN",
       "nguon": "VietnamBiz Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-27 17:19",
+      "thoi_gian": "2026-11-28 16:37",
       "link": "https://vietnambiz.vn/nua-dau-thang-11-tiep-tuc-xuat-sieu-tham-hut-ca-nam-du-bao-giam-ve-7-10-ty-usd-20261122102555887.htm",
       "diem": 28.0,
       "khan_cap": false
     },
     {
-      "tieu_de": "Triển vọng thương mại thế nào sau mốc kim ngạch 1.000 tỷ USD?",
+      "tieu_de": "Việt Nam lọt top 10 nhà xuất khẩu chip lớn nhất thế giới",
       "chu_de": "Kinh tế VN",
-      "nguon": "VietnamBiz Vĩ mô",
+      "nguon": "CafeF Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-27 17:19",
-      "link": "https://vietnambiz.vn/trien-vong-thuong-mai-the-nao-sau-moc-kim-ngach-1000-ty-usd-20261117195350983.htm",
-      "diem": 28.0,
+      "thoi_gian": "2026-11-28 13:46",
+      "link": "https://cafef.vn/viet-nam-lot-top-10-nha-xuat-khau-chip-lon-nhat-the-gioi-188261128134610864.chn",
+      "diem": 27.6,
       "khan_cap": false
     },
     {
-      "tieu_de": "Nhà đầu tư chứng khoán 'kiệt sức'",
+      "tieu_de": "Sau 30 năm, VSIP có 31 dự án trên cả nước, thu hút hơn 32 tỷ USD",
       "chu_de": "Kinh tế VN",
-      "nguon": "VnExpress Kinh doanh",
+      "nguon": "CafeF Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-27 05:00",
-      "link": "https://vnexpress.net/nha-dau-tu-chung-khoan-kiet-suc-5149348.html",
+      "thoi_gian": "2026-11-28 14:20",
+      "link": "https://cafef.vn/sau-30-nam-vsip-co-31-du-an-tren-ca-nuoc-thu-hut-hon-32-ty-usd-188261128142049684.chn",
+      "diem": 26.0,
+      "khan_cap": false
+    },
+    {
+      "tieu_de": "Quy định mới về thuế giá trị gia tăng đối với một số sản phẩm xuất khẩu là tài nguyên, khoáng sản khai thác đã chế biến",
+      "chu_de": "Kinh tế VN",
+      "nguon": "CafeF Vĩ mô",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-28 11:42",
+      "link": "https://cafef.vn/quy-dinh-moi-ve-thue-gia-tri-gia-tang-doi-voi-mot-so-san-pham-xuat-khau-la-tai-nguyen-khoang-san-khai-thac-da-che-bien-188261128092017955.chn",
       "diem": 25.8,
       "khan_cap": false
     },
     {
-      "tieu_de": "Bài toán khơi thông 10 triệu tỷ đồng cho mục tiêu tăng trưởng 2 chữ số",
+      "tieu_de": "Dấu ấn BIDV trên hành trình 30 năm của ngành chứng khoán Việt Nam",
       "chu_de": "Kinh tế VN",
-      "nguon": "Vietstock Kinh tế",
+      "nguon": "CafeF Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-27 11:25",
-      "link": "http://vietstock.vn/2026/11/bai-toan-khoi-thong-10-trieu-ty-dong-cho-muc-tieu-tang-truong-2-chu-so-145-1518386.htm",
-      "diem": 25.0,
+      "thoi_gian": "2026-11-27 20:51",
+      "link": "https://cafef.vn/dau-an-bidv-tren-hanh-trinh-30-nam-cua-nganh-chung-khoan-viet-nam-188261127205210343.chn",
+      "diem": 23.6,
       "khan_cap": false
     }
   ]
